@@ -1,3 +1,3 @@
 # Material Modules Benchmark
 
-**[Charts](https://shader-slang.com/slang-material-modules-benchmark/dev/bench/)**
+Generated charts are displayed **[here](https://shader-slang.com/slang-material-modules-benchmark/dev/bench/)**.
