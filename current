@@ -1,2 +1,2 @@
-Open existential on arguments after overload resolution. (#4982)
-599dae52e85d2a86bf3cae1ebd0883fedf44a76e
+Fix resource specialization with `-embed-dxil` (#4990)
+dc3f2d65848837afaf528beefc305534a29540c8
