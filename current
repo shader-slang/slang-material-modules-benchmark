@@ -1,2 +1,2 @@
-Fix resource specialization with `-embed-dxil` (#4990)
-dc3f2d65848837afaf528beefc305534a29540c8
+Preserve name in DeclRefExpr for correct highlighitng of `This`. (#4980)
+a7e911985327be427d6ff96bd7548ab1b06d3103
