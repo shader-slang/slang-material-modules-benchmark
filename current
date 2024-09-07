@@ -1,2 +1,2 @@
-Remove incorrect UTF decode assert (#5028)
-dcd6c246a14d2321e75c657f381b08b7ab08016e
+Correct control flow in getParentBreakBlockSet (#5024)
+69ee8f63cdb0dad573f65b0b5fc45aad01ec8321
