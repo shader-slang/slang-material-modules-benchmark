@@ -1,2 +1,2 @@
-Fix generic IInteger `mod` implementation. (#5037)
-110d82fb75f19ac83e3a297e4783304481f66ce7
+Initial WGSL support (#5006)
+170558c9618252933286955c6d010c8e3735652a
