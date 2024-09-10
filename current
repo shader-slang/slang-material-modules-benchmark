@@ -1,2 +1,2 @@
-Initial WGSL support (#5006)
-170558c9618252933286955c6d010c8e3735652a
+Add load paths to return value check (#5042)
+d9fc7bc9b9b12e0d7c24d9159e501271161aedeb
