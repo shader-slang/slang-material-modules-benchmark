@@ -1,2 +1,2 @@
-Remove includes of glslang private headers (#5059)
-c46ca4cfeff2c78078aa3c4014cd6b0341ee01fc
+Implement math intrinsics for WGSL (#5078)
+07166468c6fa706b7f35d3422e4966f62e7b86d2
