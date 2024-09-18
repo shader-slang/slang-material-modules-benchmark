@@ -1,2 +1,2 @@
-Add `IRWArray` interface, and make StructuredBuffer conform to them. (#5097)
-2d83875f4b376f047c4541a6f6c13d36e5aa228b
+Lower the priority of looking up the rank of scope (#5065)
+3240799c00488858afc7eeac9d1dc479609a1040
