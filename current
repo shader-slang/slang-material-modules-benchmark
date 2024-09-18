@@ -1,2 +1,2 @@
-Fix WGSL frexp and modf that returns a struct (#5096)
-2f455d3cc825ce8bcf000b2e462159fec81882ab
+Add WGSL pack/unpack, constructor, derivatives & misc intrinsics (#5102)
+85b996a75683b5364456d731a9cb4aee5c3fada2
