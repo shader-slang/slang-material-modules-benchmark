@@ -1,2 +1,2 @@
-Add WGSL pack/unpack, constructor, derivatives & misc intrinsics (#5102)
-85b996a75683b5364456d731a9cb4aee5c3fada2
+Add `IRWArray` interface, and make StructuredBuffer conform to them. (#5097)
+2d83875f4b376f047c4541a6f6c13d36e5aa228b
