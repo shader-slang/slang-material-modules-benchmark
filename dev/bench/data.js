@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1726674372962,
+  "lastUpdate": 1726694870533,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -797,6 +797,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 572.3125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "57b016af6d89a03faa439ab905aef56b5a21a93d",
+          "message": "Add `IRWArray` interface, and make StructuredBuffer conform to them. (#5097)\n\nhttps://github.com/shader-slang/slang/commit/2d83875f4b376f047c4541a6f6c13d36e5aa228b",
+          "timestamp": "2024-09-18T14:27:37-07:00",
+          "tree_id": "c5d6cad396dee7046770238862d940fc0ef63ae7",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/57b016af6d89a03faa439ab905aef56b5a21a93d"
+        },
+        "date": 1726694869618,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1807.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 490.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 489.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1791.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 486,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 486.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 590.25,
             "unit": "milliseconds"
           }
         ]
