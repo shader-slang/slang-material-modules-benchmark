@@ -1,2 +1,2 @@
-Add WGSL intrinsics for synchronization (#5114)
-fe71eafcb6e11a420ab537f257e6b8971d31d9de
+refactor render test to use latest slang-rhi (#5119)
+3861be7ce5bd3ffc1bc60f2c3f7f41647145d575
