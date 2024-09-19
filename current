@@ -1,2 +1,2 @@
-Allow lookups of overloaded methods. (#5110)
-dd3d80e61b316390a468a142de2be2fb85b73d0d
+Synthesize conformance for generic requirements. (#5111)
+26ca9c5b0657489f82a221c62903cbc802aaa6a0
