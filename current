@@ -1,2 +1,2 @@
-Add diagnostic to verify the left hand side of a generic constraint. (#5112)
-b4c851fb1419f869bddaa08487f58376bc0a7144
+Initial `Atomic<T>` type implementation. (#5125)
+490834924cc390cb812713c225b9a8227c66cf1f
