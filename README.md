@@ -2,7 +2,7 @@
 
 [**See the charts here**](https://shader-slang.com/slang-material-modules-benchmark/dev/bench)
 
-**How it works:**
+## How it works
 1. Commits to the master branch of [Slang](https://github.com/shader-slang/slang) will trigger a CI workflow that [runs the benchmark](https://github.com/shader-slang/slang/actions/workflows/push-benchmark-results.yml) and uploads the JSON file to **this** repository (specifically to `benchmarks.json`).
 2. Changes to `benchmark.json` will trigger a CI workflow in this repository.
 3. This workflow updates the `gh-pages` repository using [`github-action-benchmark`](fffffhttps://github.com/benchmark-action/github-action-benchmark). It reads the new results from `benchmarks.json` and updates a database in `gh-pages`.
@@ -18,8 +18,32 @@ The diagram below summarizes these steps.
 - Each time `benchmarks.json` is updated (2), the `github-action-benchmark` workflow reads its contents and appends a database that is embedded in a [Javascript file](https://github.com/shader-slang/slang-material-modules-benchmark/blob/gh-pages/dev/bench/data.js).
 - There is currently no behaviour to limit the number of entries in the database, so it can grow to a couple megabytes. Manually trimming the data is possible by directly editing the Javascript file and removing entries.
 
-**How to read the charts:**
-- Each chart is title with the format `<SHADER STAGE> : <COMPILATION MODE> : <TARGET>`
+## Running the benchmark locally
+
+It is possible to run the benchmark locally to see immediate results or to customize the results. This requires the having cloning both the [Slang repository](https://github.com/shader-slang/slang) and the [MDL-SDK fork](https://github.com/shader-slang/MDL-SDK). Then, starting from the root of the Slang repository:
+1. Build the `Release` version of slangc; it should be located in `build/Release/bin/slangc`.
+2. Change directories to `tool/benchmark` within the Slang repository.
+3. Copy the Slang shaders:
+   - From `<MDL-SDK REPO ROOT>/examples/mdl_sdk/dxr/content/slangified` (`*.slang` files specifically)
+   - To `tool/benchmark`
+4. Run the `compile.py` script using Python (3.12+ recommended):
+   - Requires some light packages, which can be installed with `pip` using: `pip install prettytable argparse`.
+   - Linux users may have to tweak the script to set the `slangc` variable to end with `slangc` instead of `slangc.exe`.
+   - Script options:
+     - `--target` to select target mode:
+       - `spirv` generates SPIRV directly.
+       - `spirv-glsl` generates SPIRV via glsl.
+       - `dxil` generates DXIL through DXC.
+       - `dxil-embedded` generates DXIL through DXC, but precomiles slang modules to DXIL
+     - `--samples` to set the number of times to repeat and average the measurements over.
+     - `--output` path to the JSON file where results will be stored.
+
+The script will output timings in a Markdown friendly way, as shown below:
+
+![script](media/script.png)
+
+## How to read the charts
+- Each chart is titled with the format `<SHADER STAGE> : <COMPILATION MODE> : <TARGET>`
   - `<SHADER-STAGE>` is one of `closesthit`, `anyhit`, and `shadow`
   - `<COMPILATION-MODE>` is either `mono` for monolithic compilation or `module` for modular compilation.
   - `<TARGET>` is currently fixed to DXIL.
@@ -27,7 +51,7 @@ The diagram below summarizes these steps.
 - The $x$-axis tracks the commit hash. Unfortunately there is currently no way to display concrete dates.
 - The $y$-axis shows the time, in milliseconds, taken to compile the specific shader stage under the particular compilation mode and target.
 
-**Interacting with the charts:**
+## Interacting with the charts
 
 In case there is a commit which results in alarming measurements, there is a convenient way to reach the original commit/PR. Each data point of each graph can be highlighted as so:
 
