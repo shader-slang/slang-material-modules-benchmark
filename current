@@ -1,2 +1,2 @@
-Synthesize conformance for generic requirements. (#5111)
-26ca9c5b0657489f82a221c62903cbc802aaa6a0
+Add diagnostic to verify the left hand side of a generic constraint. (#5112)
+b4c851fb1419f869bddaa08487f58376bc0a7144
