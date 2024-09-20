@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1726795921764,
+  "lastUpdate": 1726865878386,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -1275,6 +1275,65 @@ window.BENCHMARK_DATA = {
           "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/38a54b5ae401c0deeb5f83610499a1bacbe52202"
         },
         "date": 1726795920959,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1867.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 488.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 489.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1792.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 487,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 488.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 590.0625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "vedavamadath@nvidia.com",
+            "name": "Venkataram Sivaram",
+            "username": "venkataram-nv"
+          },
+          "committer": {
+            "email": "vedavamadath@nvidia.com",
+            "name": "Venkataram Sivaram",
+            "username": "venkataram-nv"
+          },
+          "distinct": true,
+          "id": "c4444cfe801b2c0bb88ffe5c9f6ffd106258af38",
+          "message": "Add documentation for this repository",
+          "timestamp": "2024-09-20T13:57:33-07:00",
+          "tree_id": "afa40e3add21e14c1b61ea57ffe3c09a4d221a61",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/c4444cfe801b2c0bb88ffe5c9f6ffd106258af38"
+        },
+        "date": 1726865877521,
         "tool": "customSmallerIsBetter",
         "benches": [
           {
