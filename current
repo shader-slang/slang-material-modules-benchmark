@@ -1,2 +1,2 @@
-WGSL implement texture intrinsics except gather and sampler-less (#5123)
-c42b5e24b5b9d6b03352d809e0a49485d361154f
+Fix handling of pointer logic in wgsl backend. (#5129)
+53684ed919ff2f5f3656aed2e95a111207452392
