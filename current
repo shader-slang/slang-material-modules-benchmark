@@ -1,2 +1,2 @@
-Initial `Atomic<T>` type implementation. (#5125)
-490834924cc390cb812713c225b9a8227c66cf1f
+WGSL implement texture intrinsics except gather and sampler-less (#5123)
+c42b5e24b5b9d6b03352d809e0a49485d361154f
