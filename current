@@ -1,2 +1,2 @@
-Fix handling of pointer logic in wgsl backend. (#5129)
-53684ed919ff2f5f3656aed2e95a111207452392
+Feature/wgsl intrinsic texture gather (#5141)
+ef3552d9cbde0c06ddc77150b8ab68674d8422d3
