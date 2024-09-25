@@ -1,2 +1,2 @@
-WGSL texture support for depth and multisampled (#5152)
-03765a691531d69a30734beb0433d8d4cac45024
+update slang-rhi (wgpu graphics support) (#5151)
+a1f6a0a4d729e3e25c224a62c9cc8a686ee304a3
