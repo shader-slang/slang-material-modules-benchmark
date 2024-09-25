@@ -1,2 +1,2 @@
-Feature/wgsl intrinsic texture gather (#5141)
-ef3552d9cbde0c06ddc77150b8ab68674d8422d3
+Fix the incorrect use of GLSL textureGather (#5150)
+cb1fc34c7dae3cb8642e150fcc189683c27859d4
