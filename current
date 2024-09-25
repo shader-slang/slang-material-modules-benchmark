@@ -1,2 +1,2 @@
-Fix the incorrect use of GLSL textureGather (#5150)
-cb1fc34c7dae3cb8642e150fcc189683c27859d4
+Enable emscripten builds to compile slang.dll to WebAssembly. (#5131)
+f5bf5ba5170058f9a9634438f7ff06f1a02e1da6
