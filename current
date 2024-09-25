@@ -1,2 +1,2 @@
-Enable emscripten builds to compile slang.dll to WebAssembly. (#5131)
-f5bf5ba5170058f9a9634438f7ff06f1a02e1da6
+Fixing bug when writing primitives in metal mesh shaders (#5069)
+84fef05184e8ba08c26e4a87482390eb834ca97a
