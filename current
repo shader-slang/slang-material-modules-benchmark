@@ -1,2 +1,2 @@
-Fixing bug when writing primitives in metal mesh shaders (#5069)
-84fef05184e8ba08c26e4a87482390eb834ca97a
+WGSL texture support for depth and multisampled (#5152)
+03765a691531d69a30734beb0433d8d4cac45024
