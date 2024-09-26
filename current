@@ -1,2 +1,2 @@
-update slang-rhi (wgpu graphics support) (#5151)
-a1f6a0a4d729e3e25c224a62c9cc8a686ee304a3
+Always run AD cleanup pass. (#5157)
+7398e1e09312ed4e19195e060de9a2c9a073fcc1
