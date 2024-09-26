@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1727370711224,
+  "lastUpdate": 1727391327978,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -2055,6 +2055,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 599.3125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "cba028b76f6333e85aa4d312337c8a0464d43034",
+          "message": "Implement texture_storage_Xd in WGSL (#5158)\n\nhttps://github.com/shader-slang/slang/commit/4730d54b478ab4aa4496e7a3c2972081f9aae356",
+          "timestamp": "2024-09-26T15:55:17-07:00",
+          "tree_id": "47a0bcbbd2538c4ffa21934721d80e3934589e64",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/cba028b76f6333e85aa4d312337c8a0464d43034"
+        },
+        "date": 1727391327758,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1799.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 488.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 489.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1800.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 488.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 489.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 596.0625,
             "unit": "milliseconds"
           }
         ]
