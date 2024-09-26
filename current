@@ -1,2 +1,2 @@
-Update slang-rhi (#5160)
-958dacf388cdd965b6d4858535f91a37f1ec1652
+Implement texture_storage_Xd in WGSL (#5158)
+4730d54b478ab4aa4496e7a3c2972081f9aae356
