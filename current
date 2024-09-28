@@ -1,2 +1,2 @@
-Update slang-rhi (#5176)
-09cbd42a97f58fe255fa85706a9a0bfbfcc60c0e
+Fix l-value computation for subscript call. (#5177)
+afb1405bf7974d714cee10fcce0c61fe28cd075d
