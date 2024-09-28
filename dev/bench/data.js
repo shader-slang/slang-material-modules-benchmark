@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1727489380226,
+  "lastUpdate": 1727495103960,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -2340,6 +2340,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 591.3125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "43fb5e532f1db25e7cdc6ad67ff40d08eb33deca",
+          "message": "Fix target switch lowering bug. (#5182)\n\nhttps://github.com/shader-slang/slang/commit/24f56d0d0e00853709f9a51da593928eb3460f60",
+          "timestamp": "2024-09-27T20:44:47-07:00",
+          "tree_id": "47d9dcadfc7352d9615efd9a1ba3029f9b97f163",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/43fb5e532f1db25e7cdc6ad67ff40d08eb33deca"
+        },
+        "date": 1727495101887,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1805.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 489.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 488.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1791.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 488.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 488.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 588.375,
             "unit": "milliseconds"
           }
         ]
