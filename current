@@ -1,2 +1,2 @@
-Fix l-value computation for subscript call. (#5177)
-afb1405bf7974d714cee10fcce0c61fe28cd075d
+Fix target switch lowering bug. (#5182)
+24f56d0d0e00853709f9a51da593928eb3460f60
