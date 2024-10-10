@@ -1,2 +1,2 @@
-Fix target switch lowering bug. (#5182)
-24f56d0d0e00853709f9a51da593928eb3460f60
+Support constant folding for static array access. (#5248)
+75481ea3b0654eeb727cabc718258984e7753e02
