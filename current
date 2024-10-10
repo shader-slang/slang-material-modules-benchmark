@@ -1,2 +1,2 @@
-Support constant folding for static array access. (#5248)
-75481ea3b0654eeb727cabc718258984e7753e02
+Fix links in stdlib reference category landing page. (#5250)
+80c18515df8376efe97e4c93492e0f6c4cc44af7
