@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1728632372035,
+  "lastUpdate": 1728642862861,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -2625,6 +2625,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 595.3125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "b3c455712a482290e610e81f7e037628f02e399d",
+          "message": "Add slang-wasm target (#5237)\n\nhttps://github.com/shader-slang/slang/commit/dfab34e4bf508fc517d4d645ebb3b6b1179a5003",
+          "timestamp": "2024-10-11T03:34:10-07:00",
+          "tree_id": "751c82672fcefb8a38c1102dda49b4be691173e5",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/b3c455712a482290e610e81f7e037628f02e399d"
+        },
+        "date": 1728642862396,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1802.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 490.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 492.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1796.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 490.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 488.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 595.125,
             "unit": "milliseconds"
           }
         ]
