@@ -1,2 +1,2 @@
-slang-test: retry failed test at the end. (#5255)
-466fb5bd79c46863dc50817372cb852838a9a807
+WGSL: Enable load & store from byte-addressible buffers (#5252)
+5fa35fcce532267a2ae5779dee9ff4d07fab6bf4
