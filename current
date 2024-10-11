@@ -1,2 +1,2 @@
-Add slang-wasm target (#5237)
-dfab34e4bf508fc517d4d645ebb3b6b1179a5003
+Restrict stdlib embed macros to single source file (#5251)
+e91e1d4d54a14d985626318e5cf46635bfa4006d
