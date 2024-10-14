@@ -1,2 +1,2 @@
-Restrict stdlib embed macros to single source file (#5251)
-e91e1d4d54a14d985626318e5cf46635bfa4006d
+Fix race condition for building stdlib headers (#5272)
+3b12b66a45fa48131eee181731682a02a72d54e6
