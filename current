@@ -1,2 +1,2 @@
- Move C interface from slang.h to slang-deprecated.h (#5301)
-66b103180e168c597f3c246c68a9886b69707493
+Add stdlib documentation for attributes and interfaces. (#5297)
+ba26c2d7020b41e0d348c7235f86a4232982ab9e
