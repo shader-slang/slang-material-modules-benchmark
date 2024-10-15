@@ -1,2 +1,2 @@
-Enable WebGPU tests in CI (#5239)
-9e3b0367cfd63f21a0519b61b6fd13e94dac1c51
+ Move C interface from slang.h to slang-deprecated.h (#5301)
+66b103180e168c597f3c246c68a9886b69707493
