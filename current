@@ -1,2 +1,2 @@
-Lower minimum CMake version to 3.22 (#5295)
-be42eeed7d9e510fea93922c615f1801bc54f336
+Enable WebGPU tests in CI (#5239)
+9e3b0367cfd63f21a0519b61b6fd13e94dac1c51
