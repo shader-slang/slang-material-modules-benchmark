@@ -1,2 +1,2 @@
-Misc build fixes. (#5271)
-f857815a8c0a4e8d4f35c9a49c655545fb692195
+Fix unexported spReflectionEntryPoint_GetFunction (#5260)
+456df23cff531566dfe3a6ca7be998f1251b1774
