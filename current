@@ -1,2 +1,2 @@
-Add stdlib documentation for attributes and interfaces. (#5297)
-ba26c2d7020b41e0d348c7235f86a4232982ab9e
+Fix type checking on generic extensions. (#5316)
+c97166aed29e0a224d49cec0b12503d1a10b52e0
