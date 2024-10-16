@@ -1,2 +1,2 @@
-Fix type checking on generic extensions. (#5316)
-c97166aed29e0a224d49cec0b12503d1a10b52e0
+Fix spirv debug info for pointer types. (#5319)
+2ee898109006986250d5356a59003eb741a89ca4
