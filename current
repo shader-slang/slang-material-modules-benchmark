@@ -1,2 +1,2 @@
-Fix entrypoint naming in glsl backend. (#5320)
-2f7f48a00752b906d6a2d42cd1bb6fbf0cfeaad6
+Fix D3D12Core.dll loading problem (#5315)
+ee11a45ab672c57ad98092e29a10d3aba4efb6c6
