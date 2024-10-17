@@ -1,2 +1,2 @@
-Fix spirv debug info for pointer types. (#5319)
-2ee898109006986250d5356a59003eb741a89ca4
+Fix entrypoint naming in glsl backend. (#5320)
+2f7f48a00752b906d6a2d42cd1bb6fbf0cfeaad6
