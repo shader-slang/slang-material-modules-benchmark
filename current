@@ -1,2 +1,2 @@
-Fix D3D12Core.dll loading problem (#5315)
-ee11a45ab672c57ad98092e29a10d3aba4efb6c6
+Add 'findAndCheckEntryPoint' to wasm binding (#5337)
+11e1ecafa09396a3559fe245d729b40ce4f25d52
