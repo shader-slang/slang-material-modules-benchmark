@@ -1,2 +1,2 @@
-Cleanup atomic intrinsics. (#5324)
-a618b8c5e249b0f20e6c0c95f9da1b5cbfdbf08b
+Cleanup definition of `printf`. (#5330)
+12e891ed9ac934adbcc4160da6a05938cc38b529
