@@ -1,2 +1,2 @@
-Update slang-rhi (#5345)
-f2b2db57cb7b1e8da8abc74bcf1068b52d756d00
+Make slang-llvm fetching and failure more robust (#5346)
+b2386f36ee3ac253457e9e532b0373a5ce1ee687
