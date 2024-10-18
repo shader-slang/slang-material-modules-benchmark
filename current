@@ -1,2 +1,2 @@
-Add 'findAndCheckEntryPoint' to wasm binding (#5337)
-11e1ecafa09396a3559fe245d729b40ce4f25d52
+Cleanup atomic intrinsics. (#5324)
+a618b8c5e249b0f20e6c0c95f9da1b5cbfdbf08b
