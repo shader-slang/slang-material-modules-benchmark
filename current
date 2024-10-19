@@ -1,2 +1,2 @@
-Make slang-llvm fetching and failure more robust (#5346)
-b2386f36ee3ac253457e9e532b0373a5ce1ee687
+Remove use of Variable Pointer capability. (#5352)
+9936178dd3efb026bfa142512a2bf061d7a75ab5
