@@ -1,2 +1,2 @@
-Properly check switch case. (#5341)
-307315a7305e76529837fd1cdb677f534d5f539b
+Mark SPIRV artifact as non-executable. (#5356)
+6f9c6087ed905bcdf6f923887017559b26eff2e8
