@@ -1,2 +1,2 @@
-Remove use of Variable Pointer capability. (#5352)
-9936178dd3efb026bfa142512a2bf061d7a75ab5
+Properly check switch case. (#5341)
+307315a7305e76529837fd1cdb677f534d5f539b
