@@ -1,2 +1,2 @@
-Mark SPIRV artifact as non-executable. (#5356)
-6f9c6087ed905bcdf6f923887017559b26eff2e8
+Fix incorrect setting of array information for 1d texture arrays in D3D12 (#5361)
+3b8efefb184691acf2a1786810bb67cf0ff9d764
