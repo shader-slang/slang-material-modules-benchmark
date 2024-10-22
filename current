@@ -1,2 +1,2 @@
-Fix  spirv codegen for pointer to empty structs. (#5355)
-3e84726f45c66b477569be9e62da71956ab78e94
+Recognize a new spirv header json grammar keyword "aliases" (#5367)
+ba775784bbe45a72ead8aab7b34df2804e599e23
