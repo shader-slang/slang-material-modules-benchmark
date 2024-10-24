@@ -1,2 +1,2 @@
-Fix several bugs with `specializeWithArgTypes()` (#5365)
-a0bea07503c68160ad2e88986ba98cfc2161bdff
+Fix language server crash. (#5395)
+ee709cffe520df3cf082dc7923609c42dd14cabc
