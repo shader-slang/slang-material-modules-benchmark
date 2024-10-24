@@ -1,2 +1,2 @@
-Document the interfaces in the core module (#5374)
-5a161dd799cfc62dcfee281bfaff9819a8be43ad
+Fix several bugs with `specializeWithArgTypes()` (#5365)
+a0bea07503c68160ad2e88986ba98cfc2161bdff
