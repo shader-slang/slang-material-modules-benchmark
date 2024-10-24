@@ -1,2 +1,2 @@
-Fix language server crash. (#5395)
-ee709cffe520df3cf082dc7923609c42dd14cabc
+wasm: Add compile target option when creating slang session (#5403)
+46b8ab8353966f2590ed2667028b220b57f963ae
