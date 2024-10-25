@@ -1,2 +1,2 @@
-Replace stdlib on Slang API with CoreModule (#5405)
-4bad669bbc5ec3ff77321f083c59cde87eb10229
+Replace stdlib with core-module on files and projects (#5411)
+d8969d87dcc9eea3f186a0c93c5e48d3d1659e05
