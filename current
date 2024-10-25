@@ -1,2 +1,2 @@
-Fix incorrect debug assert in `getLanguagePrelude`. (#5402)
-2055560e8144a270cfc0cf941e1f7c05e20b0933
+Switch back to fetching upstream llvm project (#5408)
+ef40d3044cf75ec3d7b24a43257fa744b45274f9
