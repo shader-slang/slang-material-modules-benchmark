@@ -1,2 +1,2 @@
-Switch back to fetching upstream llvm project (#5408)
-ef40d3044cf75ec3d7b24a43257fa744b45274f9
+Replace stdlib on Slang API with CoreModule (#5405)
+4bad669bbc5ec3ff77321f083c59cde87eb10229
