@@ -1,2 +1,2 @@
-Actions workflow to format code on command (#5400)
-311413d382625613ef09036336fb89dbd4d3c7e7
+Use github token for formatting command dispatch (#5418)
+49c691e86862d092cd389a02beb4003ee59a4417
