@@ -1,2 +1,2 @@
-Use github token for formatting command dispatch (#5418)
-49c691e86862d092cd389a02beb4003ee59a4417
+Add implicit cast for generic vector types. (#5413)
+faa7d6ba4d73d8e3d89f083deea103afda456a21
