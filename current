@@ -1,2 +1,2 @@
-Rename a directory `source/slang-stdlib` to slang-core-module (#5417)
-80471601720e107f0914479f6097281d0840cf18
+Replace the word stdlib or standard-library with core-module for source code (#5415)
+b7a619b45b0745f166d2dcc5985b994fb1d85d13
