@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1730066887535,
+  "lastUpdate": 1730132197096,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -4957,6 +4957,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "shadow : module : dxil",
             "value": 511.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 625.4375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "d90b05eaee2600a4e44570363b79a0a9ca420f64",
+          "message": "More wasm binding for playground. (#5420)\n\nhttps://github.com/shader-slang/slang/commit/04329077988a2b1f7a87b1d116457599039e5e12",
+          "timestamp": "2024-10-28T09:16:22-07:00",
+          "tree_id": "09dea0d8f7384a93a070ba994a34f31981ba507a",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/d90b05eaee2600a4e44570363b79a0a9ca420f64"
+        },
+        "date": 1730132196154,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1819.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 503.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 502.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1805.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 501.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 499.8125,
             "unit": "milliseconds"
           },
           {
