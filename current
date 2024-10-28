@@ -1,2 +1,2 @@
-Assorted auto-diff enhancements for increased performance & more streamlined auto-diff results (#5394)
-b61be5e6fb7fe1c4ec8228cdf73f49f11e5a0ac9
+Rename a directory `source/slang-stdlib` to slang-core-module (#5417)
+80471601720e107f0914479f6097281d0840cf18
