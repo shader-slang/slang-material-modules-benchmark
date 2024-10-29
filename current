@@ -1,2 +1,2 @@
-format
-f65d756bff8d4c5cbc15bd0322a2ae8e6b896a21
+Use Offset instead of ConstOffset for GLSL function textureGatherOffset (#5426)
+8b3f9048cb94164a036be4ae144b2108968b65b5
