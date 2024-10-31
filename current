@@ -1,2 +1,2 @@
-Constant-fold for the type-casting in switch-case labels (#5436)
-1487a1f98d8916985b243f4a0113d216c42e4ba3
+Add function of getting hash string to wasm binding (#5468)
+582d10d5e160afeac11b2ba5a5ba1698e4935cef
