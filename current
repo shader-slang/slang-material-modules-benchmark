@@ -1,2 +1,2 @@
-Enhancements to diff script (#5460)
-a98fb6cbb4a846fc63266466a143690037e29c44
+Constant-fold for the type-casting in switch-case labels (#5436)
+1487a1f98d8916985b243f4a0113d216c42e4ba3
