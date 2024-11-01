@@ -1,2 +1,2 @@
-Enable a few more WGPU tests (#5476)
-b8d50b589da8e765ff5b0411e544b8aad562fe64
+Improve on spirv generation compile option (#5479)
+61cddbee405935fa8391a757a08bcbe4ea7ac98f
