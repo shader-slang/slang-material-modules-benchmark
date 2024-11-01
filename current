@@ -1,2 +1,2 @@
-Add function of getting hash string to wasm binding (#5468)
-582d10d5e160afeac11b2ba5a5ba1698e4935cef
+Add `lerp` for wgsl. (#5472)
+07e45addf4151844f3f43b989024c69f8082b492
