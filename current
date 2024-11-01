@@ -1,2 +1,2 @@
-Update Slang-RHI again to get more WGPU fixes (#5475)
-e1c3c4ae39b27cf378e7217d111b9a92e298b7ce
+Enable a few more WGPU tests (#5476)
+b8d50b589da8e765ff5b0411e544b8aad562fe64
