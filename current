@@ -1,2 +1,2 @@
-Various WGSL fixes. (#5490)
-7c2ff54758d26b73074fd14143ecd843ba685e0d
+Fixing the wrong implementation of some math intrinsic (#5491)
+53dd5928c35d5a5cb1f7d2a563348fd1fa87d672
