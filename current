@@ -1,2 +1,2 @@
-Fix issue of infinity float literal (#5489)
-0336a3a8db7f50dcbb21b11a94fb1e4f31d946eb
+Fix system semantics of SV_GroupIndex (#5496)
+e22c0b72b8bedb330d8b20e488f6898f6c484187
