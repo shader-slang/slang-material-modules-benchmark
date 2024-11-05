@@ -1,2 +1,2 @@
-Fixing the wrong implementation of some math intrinsic (#5491)
-53dd5928c35d5a5cb1f7d2a563348fd1fa87d672
+Fix issue of infinity float literal (#5489)
+0336a3a8db7f50dcbb21b11a94fb1e4f31d946eb
