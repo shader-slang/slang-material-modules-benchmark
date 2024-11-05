@@ -1,2 +1,2 @@
-Fix system semantics of SV_GroupIndex (#5496)
-e22c0b72b8bedb330d8b20e488f6898f6c484187
+Catch all exceptions in render-test (#5495)
+4fa76f374c0c35c9c7d186e8addf6861e98baaec
