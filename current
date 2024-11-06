@@ -1,2 +1,2 @@
-Make various parameters and return types require specialization when targeting WGSL (#5483)
-f8294202ce8d5658f6308eeaed634058db9bbb4b
+Document raytracing functions (#5494)
+d9cb281f5fd456d6a1df2e8e156810a86f56fc6e
