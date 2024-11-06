@@ -1,2 +1,2 @@
-Legalize the Entry-point for WGSL (#5498)
-79056cd7e0ba261a007e21a98a6f49cb0b032e25
+Make various parameters and return types require specialization when targeting WGSL (#5483)
+f8294202ce8d5658f6308eeaed634058db9bbb4b
