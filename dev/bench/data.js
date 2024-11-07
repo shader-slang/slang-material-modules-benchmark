@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1730941857945,
+  "lastUpdate": 1730949480405,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -7071,6 +7071,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 665.25,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "b0d969d3fb55b8f32660820e956019cb3e25c66a",
+          "message": "Fix CUDA prelude for makeMatrix (#5509)\n\nhttps://github.com/shader-slang/slang/commit/7c195d3b31c85d8b53ad5848b7730bb2be6c6a89",
+          "timestamp": "2024-11-06T19:17:49-08:00",
+          "tree_id": "eb9d8a28c8aa45f301df685f5ac1b51f24713c09",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/b0d969d3fb55b8f32660820e956019cb3e25c66a"
+        },
+        "date": 1730949480080,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1832.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 504.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 505.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1812.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 504.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 504.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 625.3125,
             "unit": "milliseconds"
           }
         ]
