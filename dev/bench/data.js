@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1730923530555,
+  "lastUpdate": 1730941857945,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -7014,6 +7014,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 624,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "cd09b7d2ae389fec3288e379878b1c8f5be8bcad",
+          "message": "Fix the WGSL error about semantic when a nested struct is inlined (#5506)\n\nhttps://github.com/shader-slang/slang/commit/65de5452b71a311d66169ea16334e84d7e6465c1",
+          "timestamp": "2024-11-06T17:10:46-08:00",
+          "tree_id": "5bff8a571faf23a045b8ca9d7e189a248d0c4c75",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/cd09b7d2ae389fec3288e379878b1c8f5be8bcad"
+        },
+        "date": 1730941857586,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1837.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 507.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 510.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1818,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 508.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 504.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 665.25,
             "unit": "milliseconds"
           }
         ]
