@@ -1,2 +1,2 @@
-Fix CUDA prelude for makeMatrix (#5509)
-7c195d3b31c85d8b53ad5848b7730bb2be6c6a89
+Fix the logic bug in spirv-emit compile option (#5512)
+d53a3ab92d94b133a6c1992e91e7a08fe99b3337
