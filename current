@@ -1,2 +1,2 @@
-Enable a bunch of WGPU tests (#5513)
-43df1da01463beb53d1483d152f55c6c48feb9c4
+Fix user-attribute-lookup wgpu crash (#5510)
+64c6cb19b706bc8e7ee629225a5bd78c4959fe63
