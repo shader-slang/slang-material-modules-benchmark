@@ -1,2 +1,2 @@
-Correct category label positioning in hlsl.meta.slang (#5515)
-9ff6dd4eb786898d439cfd87f63bc2795f772f44
+Mark -embed-downstream-ir as experimental (#5517)
+462584dcf377936314bf76b22f5c6e3e13fc3995
