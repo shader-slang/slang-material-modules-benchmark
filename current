@@ -1,2 +1,2 @@
-Fix the WGSL error about semantic when a nested struct is inlined (#5506)
-65de5452b71a311d66169ea16334e84d7e6465c1
+Fix CUDA prelude for makeMatrix (#5509)
+7c195d3b31c85d8b53ad5848b7730bb2be6c6a89
