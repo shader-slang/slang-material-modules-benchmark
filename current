@@ -1,2 +1,2 @@
-Fix EHa flag compiler filtering (#5524)
-0f46ce82998b2b1cb68f04bef3a097ea850ad453
+[WGSL] [WASM] Add reflection endpoints + Fix bit manipulation operations (#5499)
+f66b046e2767cd7a38acec8c0f988e5937f062e7
