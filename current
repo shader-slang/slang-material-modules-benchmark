@@ -1,2 +1,2 @@
-[WGSL] [WASM] Add reflection endpoints + Fix bit manipulation operations (#5499)
-f66b046e2767cd7a38acec8c0f988e5937f062e7
+Require GL_EXT_samplerless_texture_functions only if needed (#5527)
+7c414463063b979afb0b5184a48a13fcaf5b8af7
