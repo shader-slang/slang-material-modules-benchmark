@@ -1,2 +1,2 @@
-lower permission level for format dispatch (#5523)
-ad72ee6ff2f0077467ceeb1fa905a8ab4ef01ff5
+Fix EHa flag compiler filtering (#5524)
+0f46ce82998b2b1cb68f04bef3a097ea850ad453
