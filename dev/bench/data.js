@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1731094124656,
+  "lastUpdate": 1731113088438,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -7641,6 +7641,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 624.5625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "79f87ca6d69c69ed74a9d8604fa2ebeec93f5d3a",
+          "message": "Use automatic coarse grained memory management in wasm binding. (#5528)\n\nhttps://github.com/shader-slang/slang/commit/5ca37c316a9ea1833907bae497734054dfa3c3cb",
+          "timestamp": "2024-11-08T16:44:36-08:00",
+          "tree_id": "6ff43e278f2c437afe7cc1fb3926fee75b657d6d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/79f87ca6d69c69ed74a9d8604fa2ebeec93f5d3a"
+        },
+        "date": 1731113088149,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1823.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 503.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 502.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1820.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 504.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 501.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 622.375,
             "unit": "milliseconds"
           }
         ]
