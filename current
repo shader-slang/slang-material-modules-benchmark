@@ -1,2 +1,2 @@
-Reflection compiler option (#5507)
-7e51180ed80ce1c5718b65c6625dc12fe64c8bfa
+Use correct slang source dir for slang-rhi (#5534)
+3b7d0e01cce61a809757a3fd4c1b9f922a883c8b
