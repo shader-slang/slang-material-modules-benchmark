@@ -1,2 +1,2 @@
-Add wasm binding to get reflection json. (#5536)
-ea04ad12110df6b958c117f5d92f45813316cd70
+Fix two specialization bugs (#5540)
+567c7e09b6df36b535c4ffbccd6a3658d18e04c2
