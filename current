@@ -1,2 +1,2 @@
-Use correct slang source dir for slang-rhi (#5534)
-3b7d0e01cce61a809757a3fd4c1b9f922a883c8b
+Add wasm binding to get reflection json. (#5536)
+ea04ad12110df6b958c117f5d92f45813316cd70
