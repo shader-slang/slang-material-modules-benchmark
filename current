@@ -1,2 +1,2 @@
-Fix two specialization bugs (#5540)
-567c7e09b6df36b535c4ffbccd6a3658d18e04c2
+Push buffer load to end of access chain. (#5544)
+0754abee603c1afa7803a444124acc9d268d2f0a
