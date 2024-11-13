@@ -1,2 +1,2 @@
-Push buffer load to end of access chain. (#5544)
-0754abee603c1afa7803a444124acc9d268d2f0a
+Various fixes to enable some WGSL graphics tests (#5548)
+91f19bedb902fb8b97c9b9da9fcb9c82e6f1c785
