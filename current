@@ -1,2 +1,2 @@
-[slang-rhi] pass encoders (#5559)
-e58ba6b23cb3ee04d69452bfe7e1f8274956ce7d
+Fix issue with raw default constructors in SPIRV emit (#5556)
+147ceb1991454b7a5ba6f3ec0c149dd40360a31d
