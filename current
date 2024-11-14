@@ -1,2 +1,2 @@
-Fix issue with raw default constructors in SPIRV emit (#5556)
-147ceb1991454b7a5ba6f3ec0c149dd40360a31d
+Insert some casts for WGSL texture attribute queries (#5560)
+f0bc4642a563e2318634b38a5a7ac2c3ddd68917
