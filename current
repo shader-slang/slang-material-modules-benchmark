@@ -1,2 +1,2 @@
-Correct include dir for libslang (#5539)
-7b570feed42976a6e787d79a70aaf8e667745e58
+[slang-rhi] pass encoders (#5559)
+e58ba6b23cb3ee04d69452bfe7e1f8274956ce7d
