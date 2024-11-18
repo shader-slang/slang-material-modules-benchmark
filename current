@@ -1,2 +1,2 @@
-Embed core module in wasm build. (#5569)
-05903f708856a70d68bf41bbfb2b06620508dee0
+Add `IDifferentiablePtrType` support for arrays (#5576)
+ec5e019fa9732b99b75b2a3ca4f2ff5a7a3d2f33
