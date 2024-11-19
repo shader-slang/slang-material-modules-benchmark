@@ -1,2 +1,2 @@
-Add `IDifferentiablePtrType` support for arrays (#5576)
-ec5e019fa9732b99b75b2a3ca4f2ff5a7a3d2f33
+Remove "GL_EXT_samplerless_texture_functions" from combined sampler functions. (#5585)
+75d65d36608cf4653490f0a04a17d1ee057b47a6
