@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1731965901749,
+  "lastUpdate": 1731974937402,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -8553,6 +8553,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 620.6875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "a8e19d99fdef9b16346908d5b8ca60cd2c32dc90",
+          "message": "Remove \"GL_EXT_samplerless_texture_functions\" from combined sampler functions. (#5585)\n\nhttps://github.com/shader-slang/slang/commit/75d65d36608cf4653490f0a04a17d1ee057b47a6",
+          "timestamp": "2024-11-18T16:08:45-08:00",
+          "tree_id": "c85afab6e1c7d8db93ea3fe248668efb077ffa28",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/a8e19d99fdef9b16346908d5b8ca60cd2c32dc90"
+        },
+        "date": 1731974936960,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1821.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 501.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 501.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1809.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 500.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 502.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 643.75,
             "unit": "milliseconds"
           }
         ]
