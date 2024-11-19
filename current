@@ -1,2 +1,2 @@
-Markdown emphasis corrections (#5588)
-0bf6a668208c65c980648fbe74a8c0a7bf4ded77
+Fix wgsl legalization around __ref parameter. (#5597)
+1e7f5418c293d3a9ca91ae4648ca2d522ec2ebe7
