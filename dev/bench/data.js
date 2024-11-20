@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1732057496692,
+  "lastUpdate": 1732093402069,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -8724,6 +8724,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 626.8125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "fb40c0ade6275b89712e190aa000c6edc7f95ac0",
+          "message": "WGSL: Support isnan, isinf, etc.. (#5609)\n\nhttps://github.com/shader-slang/slang/commit/ed123a9ca901cdffdeeb61b761eeb8c199a70d04",
+          "timestamp": "2024-11-20T01:03:07-08:00",
+          "tree_id": "120b9fd9cdba4c9c16c75737ed529e349cab7bd6",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/fb40c0ade6275b89712e190aa000c6edc7f95ac0"
+        },
+        "date": 1732093401516,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1822,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 509.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 502.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1814.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 504.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 502.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 622.0625,
             "unit": "milliseconds"
           }
         ]
