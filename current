@@ -1,2 +1,2 @@
-WGSL: Support isnan, isinf, etc.. (#5609)
-ed123a9ca901cdffdeeb61b761eeb8c199a70d04
+Fix WGPU test by provding TEST_INPUT for outputBuffer (#5611)
+a43b3c4d0ad03172dd45c2a785cade76dacb1e30
