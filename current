@@ -1,2 +1,2 @@
-Fix wgsl legalization around __ref parameter. (#5597)
-1e7f5418c293d3a9ca91ae4648ca2d522ec2ebe7
+WGSL: Support isnan, isinf, etc.. (#5609)
+ed123a9ca901cdffdeeb61b761eeb8c199a70d04
