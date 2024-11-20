@@ -1,2 +1,2 @@
-Minor core lib doc fixes (#5599)
-00765c3d5fd81267ad22255ff5d1f103b0959e10
+Enable WGPU texture sampling test (#5617)
+eb4ee724763ae5b9386d0f32e32eef4fc81a49a9
