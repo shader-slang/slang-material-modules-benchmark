@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1732175057585,
+  "lastUpdate": 1732175832985,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -9088,6 +9088,65 @@ window.BENCHMARK_DATA = {
           "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/69eec188156cf64f31bcce40e474317a637af334"
         },
         "date": 1732175057152,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1827.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 509.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 508.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1824.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 507.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 505.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 629.0625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "ellieh@nvidia.com",
+            "name": "Ellie Hermaszewska",
+            "username": "expipiplus1"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "51079a09b1fc6595639eb4cef927f539862705c1",
+          "message": "Merge pull request #1 from MilesHarding/implement-reuse\n\nAdd reuse and related files",
+          "timestamp": "2024-11-21T15:56:59+08:00",
+          "tree_id": "66410d6b27299495f477905799bc3ad889245a64",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/51079a09b1fc6595639eb4cef927f539862705c1"
+        },
+        "date": 1732175832053,
         "tool": "customSmallerIsBetter",
         "benches": [
           {
