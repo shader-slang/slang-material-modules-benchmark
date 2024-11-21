@@ -1,2 +1,2 @@
-Add Matrix overload for exp10() core lib function (#5620)
-4f6b928f54d2cc7f1fb6f40c16be7754b2ddcdc6
+Change how DeclRef::toText works (#5592)
+e9caf5de9c0ae137c31c32ea27bc17d7735689a3
