@@ -1,2 +1,2 @@
-Add explanation for disabled WGPU tests (#5628)
-e25683661bbd20d92a46f5032825f3c6ce8b0edf
+Enable core module embedding by default in CMake. (#5644)
+8e28e51f826931857828dc43d138c5169fcc40e4
