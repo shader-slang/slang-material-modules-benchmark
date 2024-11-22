@@ -1,2 +1,2 @@
-Enable core module embedding by default in CMake. (#5644)
-8e28e51f826931857828dc43d138c5169fcc40e4
+ci: Use v1.11 of the release-downloader action (#5643)
+95125f280a3ee6cad08866baedc41fee8585b91e
