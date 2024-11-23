@@ -1,2 +1,2 @@
-ci: Use v1.11 of the release-downloader action (#5643)
-95125f280a3ee6cad08866baedc41fee8585b91e
+[AD] Add support for resolving custom derivatives where generic parameters can't be automatically inferred (#5630)
+9913cfbf68dab8c3c8c418dd28b71c2a65a55ae0
