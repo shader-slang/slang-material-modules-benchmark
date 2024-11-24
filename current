@@ -1,2 +1,2 @@
-[AD] Add support for resolving custom derivatives where generic parameters can't be automatically inferred (#5630)
-9913cfbf68dab8c3c8c418dd28b71c2a65a55ae0
+Fix unused struct in  sample shader (#5650)
+65a761ac6bebf4f8c5eb12644095171aceed6a22
