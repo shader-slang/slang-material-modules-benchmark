@@ -1,2 +1,2 @@
-wgsl: Fix field semantics even if input struct doesn't need flattening (#5642)
-aaca2d2b615ce113ae9eff11a6fc01f579471b12
+Support interpolation modifiers for WGSL (#5641)
+d282701ba76e9883d2b7be39ee614fe3bb4f5165
