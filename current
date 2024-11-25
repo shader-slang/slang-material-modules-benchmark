@@ -1,2 +1,2 @@
-Fix unused struct in  sample shader (#5650)
-65a761ac6bebf4f8c5eb12644095171aceed6a22
+wgsl: Fix field semantics even if input struct doesn't need flattening (#5642)
+aaca2d2b615ce113ae9eff11a6fc01f579471b12
