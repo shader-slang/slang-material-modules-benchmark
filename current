@@ -1,2 +1,2 @@
-Enable Link-Time-Code-Generation for Release builds (#5678)
-cf0e3a636d500267bce212c61549db1367aff8c1
+wgpu: Enable Metal-like legalization for byte addressible buffers (#5681)
+9e21cd4a7552390aff9a1421f2c7f6666876d0bc
