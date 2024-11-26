@@ -1,2 +1,2 @@
-Fix issue with slang-embed & include ordering (#5680)
-e6cf93e3e638cb981a9be392a2f48ea06acd4e3f
+Enable Link-Time-Code-Generation for Release builds (#5678)
+cf0e3a636d500267bce212c61549db1367aff8c1
