@@ -1,2 +1,2 @@
-Support interpolation modifiers for WGSL (#5641)
-d282701ba76e9883d2b7be39ee614fe3bb4f5165
+Fix issue with slang-embed & include ordering (#5680)
+e6cf93e3e638cb981a9be392a2f48ea06acd4e3f
