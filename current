@@ -1,2 +1,2 @@
-wgpu: Enable Metal-like legalization for byte addressible buffers (#5681)
-9e21cd4a7552390aff9a1421f2c7f6666876d0bc
+WGSL: Fix issue where swizzle L-values are generated (#5682)
+915e05dcc4c03492087c2d3126ba01dff9ebe1be
