@@ -1,2 +1,2 @@
-WGSL: Fix issue where swizzle L-values are generated (#5682)
-915e05dcc4c03492087c2d3126ba01dff9ebe1be
+Update workflow YML files for renamed files (#5688)
+410ad9c1887c20a694a9d4a4808b3f21f9968702
