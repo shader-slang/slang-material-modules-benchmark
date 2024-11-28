@@ -1,2 +1,2 @@
-Update workflow YML files for renamed files (#5688)
-410ad9c1887c20a694a9d4a4808b3f21f9968702
+wgsl: Conditionally enable some tests based on 'half' support (#5694)
+0f3ff5f388da00188782a29a7c6706401e0e92f5
