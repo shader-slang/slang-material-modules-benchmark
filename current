@@ -1,2 +1,2 @@
-wgsl: Conditionally enable some tests based on 'half' support (#5694)
-0f3ff5f388da00188782a29a7c6706401e0e92f5
+Add Table of Contents check to CI, and bot script to regenerate (#5618)
+947b99e8ebaa81e9c8ee9b0f3e247d8d329041ad
