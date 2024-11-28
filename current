@@ -1,2 +1,2 @@
-Add Table of Contents check to CI, and bot script to regenerate (#5618)
-947b99e8ebaa81e9c8ee9b0f3e247d8d329041ad
+wgsl: signedness mismatch fixes (#5692)
+6e52cc811835b82bf9140189ef1f3a8561baf327
