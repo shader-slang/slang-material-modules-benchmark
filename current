@@ -1,2 +1,2 @@
-Update Slang-RHI/slang (#5701)
-6bc63681e0b874e66fd9b8881c533eafdc6b9b78
+Add missing WGSL intrinsics to test (#5663)
+71f97268789164bd77614636536172ba657c6a57
