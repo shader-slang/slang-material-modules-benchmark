@@ -1,2 +1,2 @@
-Add missing WGSL intrinsics to test (#5663)
-71f97268789164bd77614636536172ba657c6a57
+Emit OpExecutionMode SpacingEqual for Domain stage (#5696)
+c005fe9978ec7d432f0a72c0b38f545f215e1244
