@@ -1,2 +1,2 @@
-Install PDB files when available (#5665)
-6c655ca927a440d1f03339295235fce2a764c26b
+Add SlangConfig.cmake with slang build targets (#5674)
+5d8cf475b352ab517c565ccee59461640da63a2a
