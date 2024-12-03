@@ -1,2 +1,2 @@
-Add SlangConfig.cmake with slang build targets (#5674)
-5d8cf475b352ab517c565ccee59461640da63a2a
+Core lib Metal math function fixes (#5738)
+600cce28606ba36b31756bf0422d892d0e242b63
