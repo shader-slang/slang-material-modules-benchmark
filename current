@@ -1,2 +1,2 @@
-Fix typo in capdef file (#5711)
-2f42388e31baef169911d6a4ce9737392ecd610c
+Install PDB files when available (#5665)
+6c655ca927a440d1f03339295235fce2a764c26b
