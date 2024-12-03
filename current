@@ -1,2 +1,2 @@
-Core lib Metal math function fixes (#5738)
-600cce28606ba36b31756bf0422d892d0e242b63
+Remove dump-intermediates flag (#5729)
+a49461b2dc57d007619ec157eb0f63e77ab9c0ed
