@@ -1,2 +1,2 @@
-WGPU: Add new test and explanation for disabled test (#5731)
-697045f1b4f7d0977c69fd5b67089d735fff428d
+Fix a regression that GL_EXT_samplerless_texture_functions is missing (#5758)
+1ce5e781633f0c470f334b75e962b450a069982e
