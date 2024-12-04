@@ -1,2 +1,2 @@
-Fix `SpvExecutionModeOutputLinesEXT`. (#5740)
-59ba2594dedac02ad2ef7bc049bd78f5412e1a92
+WGPU: Add new test and explanation for disabled test (#5731)
+697045f1b4f7d0977c69fd5b67089d735fff428d
