@@ -1,2 +1,2 @@
-Make fvk-invert-y work on mesh shader ouptuts. (#5760)
-bd50f9947905feb5199c7cfe29c640084f882199
+Don't install .clang-format alongside headers (#5762)
+3f4b3112871bb978ee5104fd36321345da35a8d1
