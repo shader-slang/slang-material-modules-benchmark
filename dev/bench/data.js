@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1733359669955,
+  "lastUpdate": 1733377670131,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -11120,6 +11120,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 560.875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "fdf9dc249c3c7ab6dacf18e54ccf9a498fd1de80",
+          "message": "Make fvk-invert-y work on mesh shader ouptuts. (#5760)\n\nhttps://github.com/shader-slang/slang/commit/bd50f9947905feb5199c7cfe29c640084f882199",
+          "timestamp": "2024-12-04T21:47:36-08:00",
+          "tree_id": "291903d574bce2b1d8f647697a989bee4ad6888c",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/fdf9dc249c3c7ab6dacf18e54ccf9a498fd1de80"
+        },
+        "date": 1733377669145,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1782.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 467.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 470.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1766.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 466.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 469,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 565.5,
             "unit": "milliseconds"
           }
         ]
