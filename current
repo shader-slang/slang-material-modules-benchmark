@@ -1,2 +1,2 @@
-Remove duplicate call to install() for libslang (#5767)
-072cb60bb63e9f3d1c42fa18adcebb77bb4aa6ae
+Set prerelease and draft correctly for releases with draft in the tag (#5763)
+d6787e548cbed57a12ec35e0310a5e50966207b5
