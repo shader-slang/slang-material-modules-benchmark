@@ -1,2 +1,2 @@
-Fix a regression that GL_EXT_samplerless_texture_functions is missing (#5758)
-1ce5e781633f0c470f334b75e962b450a069982e
+Relocate the step of 'Add bash to PATH' (#5759)
+46aee66664732b85f50e377687182715b3ec89e7
