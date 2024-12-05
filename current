@@ -1,2 +1,2 @@
-Don't install .clang-format alongside headers (#5762)
-3f4b3112871bb978ee5104fd36321345da35a8d1
+Remove duplicate call to install() for libslang (#5767)
+072cb60bb63e9f3d1c42fa18adcebb77bb4aa6ae
