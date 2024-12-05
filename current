@@ -1,2 +1,2 @@
-Set prerelease and draft correctly for releases with draft in the tag (#5763)
-d6787e548cbed57a12ec35e0310a5e50966207b5
+Set prerelease and draft correctly for centos releases (#5769)
+c075b3cf5ecdb9a4cb4427ffb964d3939e010796
