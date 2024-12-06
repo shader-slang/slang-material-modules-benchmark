@@ -1,2 +1,2 @@
-Do recursive function checks early during IR linking (#5777)
-ecc5a39feecbf73feedf352214406c8752af798a
+Implement explciit binding for metal and wgsl. (#5778)
+7dabfa76ccfb396e9d2019e2b6e01259d1661dc5
