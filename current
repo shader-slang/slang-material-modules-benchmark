@@ -1,2 +1,2 @@
-Split debug info for all targets (#5732)
-22b64a446c8c37cc0b3670eb117b64575fc54d2f
+Support specialization constant on WGSL and Metal. (#5780)
+8ce7c6f6958f9f5ed750ef1a823b9e9ed8c042d8
