@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1733444081152,
+  "lastUpdate": 1733450970885,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -11519,6 +11519,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 563.5625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "cf6e0429bd7c8a2e67317317a2439ff60ff0e81f",
+          "message": "Do recursive function checks early during IR linking (#5777)\n\nhttps://github.com/shader-slang/slang/commit/ecc5a39feecbf73feedf352214406c8752af798a",
+          "timestamp": "2024-12-05T18:09:18-08:00",
+          "tree_id": "7d1cab0b17516cf719fb26bd4f8eda29cfc89708",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/cf6e0429bd7c8a2e67317317a2439ff60ff0e81f"
+        },
+        "date": 1733450970314,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1781.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 468.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 467.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1790.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 465.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 465.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 562.875,
             "unit": "milliseconds"
           }
         ]
