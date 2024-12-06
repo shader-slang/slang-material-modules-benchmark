@@ -1,2 +1,2 @@
-Implement explciit binding for metal and wgsl. (#5778)
-7dabfa76ccfb396e9d2019e2b6e01259d1661dc5
+Split debug info for all targets (#5732)
+22b64a446c8c37cc0b3670eb117b64575fc54d2f
