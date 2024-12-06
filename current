@@ -1,2 +1,2 @@
-Support specialization constant on WGSL and Metal. (#5780)
-8ce7c6f6958f9f5ed750ef1a823b9e9ed8c042d8
+Emit debug info for Release builds (#5783)
+27b7ac0e8ae02a41f748cccd76d617bb3b9d9734
