@@ -1,2 +1,2 @@
-Add wgsl missing float image format inference (#5716)
-ce23f078781ae977d827a559e775250dc429709c
+Add API for getting last internal error message (#5772)
+d4136c93448bfdd8561af331ea6eebcec14719e3
