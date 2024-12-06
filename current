@@ -1,2 +1,2 @@
-Add API for getting last internal error message (#5772)
-d4136c93448bfdd8561af331ea6eebcec14719e3
+Do recursive function checks early during IR linking (#5777)
+ecc5a39feecbf73feedf352214406c8752af798a
