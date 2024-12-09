@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1733520773938,
+  "lastUpdate": 1733758789857,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -11861,6 +11861,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 569.375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "d7bc04dc4d36dc871710354a8ee9add8e52336c4",
+          "message": "Add SV_DrawIndex. (#5787)\n\nhttps://github.com/shader-slang/slang/commit/ebfbe5886f273e0492321c5ff0c9c2671583a648",
+          "timestamp": "2024-12-09T07:39:33-08:00",
+          "tree_id": "f3e6b5ff2f1051abb0c4c6072044553bc046992d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/d7bc04dc4d36dc871710354a8ee9add8e52336c4"
+        },
+        "date": 1733758788735,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1784.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 472.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 472.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1772.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 471.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 469.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 569.0625,
             "unit": "milliseconds"
           }
         ]
