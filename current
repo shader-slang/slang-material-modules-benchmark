@@ -1,2 +1,2 @@
-Create scope for synthesized property decl. (#5817)
-8bf4743f5665ca3d9d04e4c93f7678c48e71aae0
+Enable WGSL tests that works for Metal related to Semantics (#5816)
+f0b99141595d47619b63bb5574d34d70f99a5bdf
