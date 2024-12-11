@@ -1,2 +1,2 @@
-A small mistake. (#5819)
-3f818cba29788c2759e137529e8ab843b9cd6d4a
+Fix wgsl float texture format inference silent failure (#5831)
+f68768887b02df5080d35f0f32b035ef67764cd0
