@@ -1,2 +1,2 @@
-Fix attribute reflection. (#5823)
-941f07040a505f1f673c96da959bde839c629aba
+Fix the logic to determine whether lower generic pass should run. (#5837)
+c17369a507c9b2e3a2db409896dbdc7e250122c1
