@@ -1,2 +1,2 @@
-WGSL: Fix issue where global calls are generated (#5768)
-9c82ed36946941eb1df3186f00903593aab556c3
+Add an example for using the reflection API (#5839)
+1fb79ac4f922c3f9c3ecf8f4533c12ec7bdeb37d
