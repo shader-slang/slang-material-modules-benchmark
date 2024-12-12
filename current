@@ -1,2 +1,2 @@
-Fix the logic to determine whether lower generic pass should run. (#5837)
-c17369a507c9b2e3a2db409896dbdc7e250122c1
+LSP: fix "documentSymbol failed" error. (#5842)
+2999cb72a297152699a099b0f7762143dcc9a055
