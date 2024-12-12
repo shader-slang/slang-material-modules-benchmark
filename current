@@ -1,2 +1,2 @@
-Add SLANG_ENABLE_DXIL (#5853)
-79dc7ef6992c761ad3bbb4d8a19f4d515d7b3d78
+WGSL: Fix issue where global calls are generated (#5768)
+9c82ed36946941eb1df3186f00903593aab556c3
