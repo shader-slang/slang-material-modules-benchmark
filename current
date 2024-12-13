@@ -1,2 +1,2 @@
-Bit extract (#5847)
-78c9bd1c2fbd55889e62a2032e9bc96684ced3b5
+Make slang-rhi's NVAPI support conditional on SLANG_ENABLE_NVAPI (#5855)
+9d89a2533514db230e7bfaf096c4d7e3fff4e0c4
