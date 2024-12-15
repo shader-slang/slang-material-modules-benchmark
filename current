@@ -1,2 +1,2 @@
-Make slang-rhi's NVAPI support conditional on SLANG_ENABLE_NVAPI (#5855)
-9d89a2533514db230e7bfaf096c4d7e3fff4e0c4
+Enable exprs for all supported GLSL layout qualifiers (#5857)
+83f4bd5dcd7480fd4339b2b08dc23ab0763b2ffe
