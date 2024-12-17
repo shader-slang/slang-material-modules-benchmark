@@ -1,2 +1,2 @@
-Fix `getArgumentValueFloat` when arg is int. (#5888)
-d61bba8cac1aad3c559cea73fa56d593777ad2d7
+Fix entrypoint auto discovery logic. (#5885)
+49e912a9d0d6ca5f762ec11cd8cb918f182eb76e
