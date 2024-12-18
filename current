@@ -1,2 +1,2 @@
-Fix entrypoint auto discovery logic. (#5885)
-49e912a9d0d6ca5f762ec11cd8cb918f182eb76e
+Implement bitcast for 64-bit date type (#5895)
+6f57e47a9e1675b011f023277b47cfc768d30da8
