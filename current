@@ -1,2 +1,2 @@
-Support specializing generic entrypoints in `findAndCheckEntryPoint`. (#5890)
-6e24244832d9032f0993cb088af625238096b723
+Add verification logic on push and specialization constants. (#5887)
+45af2467289bd39baff0269bb7de8a538f617dec
