@@ -1,2 +1,2 @@
-Add slang example tests to CI (#5879)
-41c627fd420a644f0ae86e36f4752e820e2d683c
+Allow `Optional`, `Tuple` and `bool` to be used in varying input/output. (#5889)
+ae04e604d43d169bcba7f24c8c23a0fdf4cbb483
