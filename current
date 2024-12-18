@@ -1,2 +1,2 @@
-Implement bitcast for 64-bit date type (#5895)
-6f57e47a9e1675b011f023277b47cfc768d30da8
+Support specializing generic entrypoints in `findAndCheckEntryPoint`. (#5890)
+6e24244832d9032f0993cb088af625238096b723
