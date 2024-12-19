@@ -1,2 +1,2 @@
-Add HLSL texture sample with status intrinsics (#5901)
-237af82f7e9ed1dd5d97a981939fc23aec2008b3
+Enable more examples in CI (#5915)
+2e9605e79c64315ecad7ae8297d996ae2ed4687b
