@@ -1,2 +1,2 @@
-Support explicit `[vk::location(n)]` binding on metal/wgsl. (#5907)
-abeb3758f35a48c2012dd3c39d704409c679a652
+Fix the parser issue for not recognize Generic<T>[N] (#5912)
+f675c39340ac751fcabc1f30604c8ea737fbe57f
