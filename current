@@ -1,2 +1,2 @@
-Fix the parser issue for not recognize Generic<T>[N] (#5912)
-f675c39340ac751fcabc1f30604c8ea737fbe57f
+Refresh list of failing examples (#5904)
+58654d05ff08672cbdbe3ebaff8ccf78bc66af2b
