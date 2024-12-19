@@ -1,2 +1,2 @@
-Report error when generated spirv is empty. (#5899)
-16f617f944655edf3631dc78bb13c504b53d2771
+Add HLSL texture sample with status intrinsics (#5901)
+237af82f7e9ed1dd5d97a981939fc23aec2008b3
