@@ -1,2 +1,2 @@
-Add base vertex and base instance system values (#5918)
-a00db74d1afa717dd90dfcf3170c63d0d1c0d3d7
+Check subscript/property accessor for differentiability. (#5922)
+e93cb8a4d1bb7d835bc3762ce25ced422e75e97a
