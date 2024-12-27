@@ -1,2 +1,2 @@
-Add packed 8bit builtin types (#5939)
-7cecc518e753a90d9b638e8dd1140730ab010ca7
+Fix parsing GLSL SSBO arrays / bindless descriptors (#5932)
+478be540a6f93ffcb552e496c41fe1c278ae054e
