@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1735239873034,
+  "lastUpdate": 1735287419868,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -14198,6 +14198,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 566.875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "851db594c20d524b2d89c6bbaa8edda450a5b19c",
+          "message": "Add packed 8bit builtin types (#5939)\n\nhttps://github.com/shader-slang/slang/commit/7cecc518e753a90d9b638e8dd1140730ab010ca7",
+          "timestamp": "2024-12-27T00:16:46-08:00",
+          "tree_id": "796b0e4ebcd37dc24d0a8bc0b8ee554ac78c1743",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/851db594c20d524b2d89c6bbaa8edda450a5b19c"
+        },
+        "date": 1735287418807,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1871.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 492.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 491.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1865.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 488.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 490.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 585.75,
             "unit": "milliseconds"
           }
         ]
