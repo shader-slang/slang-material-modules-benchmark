@@ -1,2 +1,2 @@
-Fix parsing GLSL SSBO arrays / bindless descriptors (#5932)
-478be540a6f93ffcb552e496c41fe1c278ae054e
+Implement HLSL pack/unpack math intrinsics (#5934)
+7a6de4aea1973b379d9f3b7db248ad260d3ee024
