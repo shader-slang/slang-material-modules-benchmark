@@ -1,2 +1,2 @@
-Implement HLSL pack/unpack math intrinsics (#5934)
-7a6de4aea1973b379d9f3b7db248ad260d3ee024
+Prevent constant folding for specialization constants (#5953)
+71cd967f7ec6e5b50daecfa628cc34f6d7016a6a
