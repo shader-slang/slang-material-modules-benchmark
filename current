@@ -1,2 +1,2 @@
-Prevent constant folding for specialization constants (#5953)
-71cd967f7ec6e5b50daecfa628cc34f6d7016a6a
+Skip uninitialized-use warning on hitAttributeEXT-decorated globals (#5952)
+b2d51adc4b433c44298d35bb19637496c99ce44b
