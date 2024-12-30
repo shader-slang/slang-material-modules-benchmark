@@ -1,2 +1,2 @@
-Skip uninitialized-use warning on hitAttributeEXT-decorated globals (#5952)
-b2d51adc4b433c44298d35bb19637496c99ce44b
+Add a basic WebGPU example (#5923)
+89dd2b1278f9e457d9d343742a51de27502ebca1
