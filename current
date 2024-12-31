@@ -1,2 +1,2 @@
-Add a basic WebGPU example (#5923)
-89dd2b1278f9e457d9d343742a51de27502ebca1
+Check for undefined %id in spirv_asm block. (#5966)
+b7eb585241b3f3519ff494004efedae680cb44b9
