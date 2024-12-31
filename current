@@ -1,2 +1,2 @@
-Fix `getInheritanceInfo` for `ExtractExistentialType`. (#5971)
-a8471a1d9a5591202bf4a552aa7d1bf11088fdce
+Add terminateRayEXT & ignoreIntersectionEXT (#5974)
+823b6a84a0252c2977699d64334dadbcb47683bd
