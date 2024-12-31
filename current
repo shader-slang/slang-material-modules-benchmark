@@ -1,2 +1,2 @@
-Check for undefined %id in spirv_asm block. (#5966)
-b7eb585241b3f3519ff494004efedae680cb44b9
+Fix `getInheritanceInfo` for `ExtractExistentialType`. (#5971)
+a8471a1d9a5591202bf4a552aa7d1bf11088fdce
