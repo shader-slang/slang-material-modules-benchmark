@@ -1,2 +1,2 @@
-Add terminateRayEXT & ignoreIntersectionEXT (#5974)
-823b6a84a0252c2977699d64334dadbcb47683bd
+Fix reflection for metal vector [[id]] location. (#5943)
+075e6c25826cd0a1df26bd36af4afe865673a790
