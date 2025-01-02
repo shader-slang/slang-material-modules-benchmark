@@ -1,2 +1,2 @@
-Fixed incorrect condition in Session::queryInterface. (#5978)
-a13ef050996c2792ff3c16b6424d3a6336e56a58
+Allow explicit test root (#5980)
+e3b71cf0356692bda5f0b3a06aed9d49ad3314a4
