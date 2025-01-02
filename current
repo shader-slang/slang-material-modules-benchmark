@@ -1,2 +1,2 @@
-Allow explicit test root (#5980)
-e3b71cf0356692bda5f0b3a06aed9d49ad3314a4
+Correct IR generation for no-diff pointer type (#5976)
+d48cd130aacbab34bb98d51bb237ad38ff37348c
