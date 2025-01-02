@@ -1,2 +1,2 @@
-add missing IR_LEAF_ISA for MetalMeshType (#5975)
-f3b916ebe529abbc35a351b20b2c70129a193208
+Fixed incorrect condition in Session::queryInterface. (#5978)
+a13ef050996c2792ff3c16b6424d3a6336e56a58
