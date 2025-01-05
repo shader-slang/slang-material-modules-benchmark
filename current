@@ -1,2 +1,2 @@
-CI: Build the full slang-wasm.[js|wasm] targets instead of just the slang library. (#5998)
-f0431b8c223c39fb627381f09d1664131690c9fc
+Fix GLSL mix(T,T,bool) SPIR-V output (#6006)
+22dab440ff7ed6af2ce3b0cb847566e621943efb
