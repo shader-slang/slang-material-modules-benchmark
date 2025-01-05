@@ -1,2 +1,2 @@
-Correct IR generation for no-diff pointer type (#5976)
-d48cd130aacbab34bb98d51bb237ad38ff37348c
+CI: Build the full slang-wasm.[js|wasm] targets instead of just the slang library. (#5998)
+f0431b8c223c39fb627381f09d1664131690c9fc
