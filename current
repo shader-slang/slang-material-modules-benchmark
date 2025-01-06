@@ -1,2 +1,2 @@
-Fix GLSL mix(T,T,bool) SPIR-V output (#6006)
-22dab440ff7ed6af2ce3b0cb847566e621943efb
+Add support for textureLod with sampler2DArrayShadow (#6009)
+bc76c6eec3bb90d1e42069ab03cf8ad889b5aee5
