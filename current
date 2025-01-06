@@ -1,2 +1,2 @@
-Add support for textureLod with sampler2DArrayShadow (#6009)
-bc76c6eec3bb90d1e42069ab03cf8ad889b5aee5
+Properly set D3D12SDKPath (#5993)
+a448b7ecd880c4cbe1c0504af3df4ec708f42d48
