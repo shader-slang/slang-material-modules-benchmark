@@ -1,2 +1,2 @@
-Fix some robustness issues in the examples (#5984)
-7d4142e6aca5257602a7d82db5625adbb6fbc832
+Add example showing how to use Slang/WASM (#5996)
+7e278c3ad6eaedbce1d6b6babecbe32f1764b269
