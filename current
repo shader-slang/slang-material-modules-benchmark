@@ -1,2 +1,2 @@
-Properly set D3D12SDKPath (#5993)
-a448b7ecd880c4cbe1c0504af3df4ec708f42d48
+Use disassemble API from SPIRV-Tools (#6001)
+5621ace93b7665051f7e7c8a2fa68ceaf285ff8d
