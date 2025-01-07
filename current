@@ -1,2 +1,2 @@
-Use disassemble API from SPIRV-Tools (#6001)
-5621ace93b7665051f7e7c8a2fa68ceaf285ff8d
+Fix some robustness issues in the examples (#5984)
+7d4142e6aca5257602a7d82db5625adbb6fbc832
