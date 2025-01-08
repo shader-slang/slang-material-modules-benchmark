@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1736323451923,
+  "lastUpdate": 1736364614517,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -15417,6 +15417,65 @@ window.BENCHMARK_DATA = {
           "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/4ced63069161064455df035aa1b4d9b573f2964b"
         },
         "date": 1736323451274,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1860.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 484.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 485.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1842,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 482.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 482.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 572.1875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "149626564+kaizhangNV@users.noreply.github.com",
+            "name": "kaizhangNV",
+            "username": "kaizhangNV"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "39fa9f8dbe0f25bd08d587b87e3903ef160336c7",
+          "message": "Create sync-issues-to-project.yml",
+          "timestamp": "2025-01-08T11:30:01-08:00",
+          "tree_id": "19ae34d2f75e1a479bd0a656c73c233ac4066b5d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/39fa9f8dbe0f25bd08d587b87e3903ef160336c7"
+        },
+        "date": 1736364613840,
         "tool": "customSmallerIsBetter",
         "benches": [
           {
