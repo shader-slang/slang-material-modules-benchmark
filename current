@@ -1,2 +1,2 @@
-slang-test: Ensure runtime is consistent (#6021)
-63b8d9e1d0b0bba66f13013aa6b80bd9fab4036b
+Add SampleCmpLevel intrinsics (#6004)
+2249d6ffb19e4db8580c76ccb04ab4ca3ddc8394
