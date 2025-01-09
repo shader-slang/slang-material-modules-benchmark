@@ -1,2 +1,2 @@
-update slang-rhi (#6045)
-6706c1a7764ae03d810e35ce766ba153ebf7ee03
+[Auto-diff] Overhaul auto-diff type tracking + Overhaul dynamic dispatch for differentiable functions (#5866)
+87f00a36a123e36b415eeea82e02a8366cc5b881
