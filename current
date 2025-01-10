@@ -1,2 +1,2 @@
-Fix implicit string conversion breaking NativeStrings (#6035)
-e8217c70072080e9d1f499cb670cc08f146818f2
+Add CalculateLevelOfDetail* overloads for comparison samplers (#6018)
+2b76466c4bc8a47bd4ac69994bafdbb2924272c2
