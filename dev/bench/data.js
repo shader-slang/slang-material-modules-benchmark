@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1736488457150,
+  "lastUpdate": 1736553639918,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -15967,6 +15967,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 579.3125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "43e3a1ec8093dea2ea1c04ccd3d600849c796412",
+          "message": "Fix CUDA reflection for acceleration structure handle size. (#6055)\n\nhttps://github.com/shader-slang/slang/commit/a985e240a6d9edb1545e357d20805bf81fba975a",
+          "timestamp": "2025-01-10T16:00:23-08:00",
+          "tree_id": "8324725a1dbe70dbbd28cf1f03749266e2eba6bd",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/43e3a1ec8093dea2ea1c04ccd3d600849c796412"
+        },
+        "date": 1736553638749,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1872.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 487.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 489.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1859.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 491.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 495.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 578.5,
             "unit": "milliseconds"
           }
         ]
