@@ -1,2 +1,2 @@
-Fix CUDA reflection for acceleration structure handle size. (#6055)
-a985e240a6d9edb1545e357d20805bf81fba975a
+Find OptiX headers (#6071)
+7bcc1a817ece5e708bd0fe2fd846cfe54c55ba64
