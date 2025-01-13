@@ -1,2 +1,2 @@
-Find OptiX headers (#6071)
-7bcc1a817ece5e708bd0fe2fd846cfe54c55ba64
+Don't initialize temp var for out parameters. (#6076)
+9a926058f45c7adfa569946b4f6b15a8772ac035
