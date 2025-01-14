@@ -1,2 +1,2 @@
-Don't initialize temp var for out parameters. (#6076)
-9a926058f45c7adfa569946b4f6b15a8772ac035
+Fix simplify if-else (#6077)
+4da52b65ac04251ab52d713fa28146f76a84446c
