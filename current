@@ -1,2 +1,2 @@
-Fix documentation on DescriptorHandle. (#6062)
-4e62f98f3abfa1b1e125c371160ed309ca5b6c04
+Fix issue with specialization using arithmetic expressions (#6084)
+cb835b9596f78771dfd584aaa72aee7bc360b3d4
