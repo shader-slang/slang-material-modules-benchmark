@@ -1,2 +1,2 @@
-Fix #5354, change diagnostic definition error message and expect output in test (#6067)
-971996b397711016d47fe961890d7001338c6f23
+Fix documentation on DescriptorHandle. (#6062)
+4e62f98f3abfa1b1e125c371160ed309ca5b6c04
