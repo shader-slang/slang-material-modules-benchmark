@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1737013659094,
+  "lastUpdate": 1737053384650,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -16537,6 +16537,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 581.9375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "f13003381dd05a2edbbef6f1a7e6f8710c48acb1",
+          "message": "C-like emitter: Add parenthesis when combining relational and bitwise… (#6070)\n\nhttps://github.com/shader-slang/slang/commit/e771f1945ed692168a2634d66a0907acc9c68858",
+          "timestamp": "2025-01-16T10:49:32-08:00",
+          "tree_id": "92e4bd49cd9f163a3134248bfe4fc054ce8fcdd6",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/f13003381dd05a2edbbef6f1a7e6f8710c48acb1"
+        },
+        "date": 1737053383909,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1880.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 491.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 494.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1873.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 492,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 494.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 586.375,
             "unit": "milliseconds"
           }
         ]
