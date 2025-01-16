@@ -1,2 +1,2 @@
-Fix issue with specialization using arithmetic expressions (#6084)
-cb835b9596f78771dfd584aaa72aee7bc360b3d4
+Reuse code for Metal and WGSL entry point legalization (#6063)
+9b977e59cf786bbb000b3b868b126c2b9a17d3f3
