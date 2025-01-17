@@ -1,2 +1,2 @@
-Move global variable initialization into entry points for WGSL (#6106)
-dfb369e87dd7638e84efe8feb9e7069e5238b44c
+Avoid using the backend validation when using test server (#6094)
+f68d493d55eddd03d5eb5faad05c4628a2af2d91
