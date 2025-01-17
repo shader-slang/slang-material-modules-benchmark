@@ -1,2 +1,2 @@
-Fix resource specialization issue where store insts from inlined calls are not considered properly. (#6099)
-1b7c242bc9ebf649708836f5ed03363f5f0e3969
+Move global variable initialization into entry points for WGSL (#6106)
+dfb369e87dd7638e84efe8feb9e7069e5238b44c
