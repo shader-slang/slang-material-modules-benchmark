@@ -1,2 +1,2 @@
-Fix cyclic lookups with UnscopedEnums (#6110)
-d3ad6bb4997d3b7ba2dc9653a2d5f7dc965b150f
+Fix resource specialization issue where store insts from inlined calls are not considered properly. (#6099)
+1b7c242bc9ebf649708836f5ed03363f5f0e3969
