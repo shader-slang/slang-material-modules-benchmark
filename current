@@ -1,2 +1,2 @@
-C-like emitter: Add parenthesis when combining relational and bitwise… (#6070)
-e771f1945ed692168a2634d66a0907acc9c68858
+Fix cyclic lookups with UnscopedEnums (#6110)
+d3ad6bb4997d3b7ba2dc9653a2d5f7dc965b150f
