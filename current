@@ -1,2 +1,2 @@
-Avoid using the backend validation when using test server (#6094)
-f68d493d55eddd03d5eb5faad05c4628a2af2d91
+Make -depfile work for binary modules output too (#6126)
+d09b6bccd5f06c1dd66dc28603a3defdd8615a12
