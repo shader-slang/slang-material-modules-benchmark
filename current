@@ -1,2 +1,2 @@
-Make -depfile work for binary modules output too (#6126)
-d09b6bccd5f06c1dd66dc28603a3defdd8615a12
+Fix upper 32 bits of 64-bit AnyValue packing (#6127)
+f3d7aa6ce964e3f8e2550886dae24ee6cba7ae9c
