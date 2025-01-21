@@ -1,2 +1,2 @@
-Fix gcc downstream compiler optimization level corresponding to OptimizationLevel::Maximal (#6137)
-4c2c0856c21cbcc20a9c88cd2f403e2197229dbb
+Fix bug: IgnoreInheritance in lookup (#6146)
+151bdb837f514caf5cde873aa39571525ba2e80f
