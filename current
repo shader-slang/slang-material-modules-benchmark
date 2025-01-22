@@ -1,2 +1,2 @@
-Fix bug: IgnoreInheritance in lookup (#6146)
-151bdb837f514caf5cde873aa39571525ba2e80f
+Catch all exceptions from loadModule* and link API calls. (#6143)
+a4d67a0b05d82a1795f77cf1d16c99a8a6143b6e
