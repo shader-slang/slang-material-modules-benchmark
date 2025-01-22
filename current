@@ -1,2 +1,2 @@
-Bump spirv-tools to 9295a8b94ed0751565fa9cda6d949f5e388b32d9 (#6145)
-ea98e24d304f99f9d49daa8d870a953bdf3d49e7
+Cache and reuse glsl module. (#6152)
+8000e0ede34e920cc7f37d69a335d74a472eff42
