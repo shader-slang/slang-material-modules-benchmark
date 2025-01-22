@@ -1,2 +1,2 @@
-Catch all exceptions from loadModule* and link API calls. (#6143)
-a4d67a0b05d82a1795f77cf1d16c99a8a6143b6e
+Bump spirv-tools to 9295a8b94ed0751565fa9cda6d949f5e388b32d9 (#6145)
+ea98e24d304f99f9d49daa8d870a953bdf3d49e7
