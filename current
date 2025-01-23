@@ -1,2 +1,2 @@
-Cache and reuse glsl module. (#6152)
-8000e0ede34e920cc7f37d69a335d74a472eff42
+Fix incorrect resolve of specialization instance (#6162)
+a9ce7520e5f1b97b09e5de69455258bef55e10d2
