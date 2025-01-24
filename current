@@ -1,2 +1,2 @@
-Fix static build and install (#6158)
-ac174d260d90b66ebbc8264001a75b9527611cbc
+Add bgra8 format (#6163)
+0dd9076db2154d787f6e06b713721e877b746b83
