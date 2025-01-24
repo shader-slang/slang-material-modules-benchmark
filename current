@@ -1,2 +1,2 @@
-Fix incorrect resolve of specialization instance (#6162)
-a9ce7520e5f1b97b09e5de69455258bef55e10d2
+Fix static build and install (#6158)
+ac174d260d90b66ebbc8264001a75b9527611cbc
