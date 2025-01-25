@@ -1,2 +1,2 @@
-Add bgra8 format (#6163)
-0dd9076db2154d787f6e06b713721e877b746b83
+Add intptr_t abs/min/max operations for CPU & CUDA targets (#6160)
+1abba25401c59a5634955ca44806834186e6b082
