@@ -1,2 +1,2 @@
-Some usability improvements to formatting script (#6153)
-a7958afa5ace2c92e10e1765a5bc33c891d09079
+Fix depth texture sampling on Metal. (#6168)
+3ecbeacd3b02e2a8c1b9796df1caced0aa34224f
