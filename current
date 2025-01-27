@@ -1,2 +1,2 @@
-Fix depth texture sampling on Metal. (#6168)
-3ecbeacd3b02e2a8c1b9796df1caced0aa34224f
+DNI: try using sparse checkout for MDL-SDK (#6190)
+1f1892d033ce2938518dc7065cf5c36631919270
