@@ -1,2 +1,2 @@
-Add an example for reflection of parameter blocks (#6161)
-31bb5eaa094821145fe235f9a13817b0b3b2bdee
+Add a unit test to cover type-conformance compilation API. (#6178)
+cd27fbd1d3822f6da4d539ad467b9af2ad159526
