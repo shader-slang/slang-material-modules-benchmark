@@ -1,2 +1,2 @@
-Fix an incorrect iteration with a workList (#6177)
-da3dc98f96cc7be2accb5c6f86aa6f6e5502bada
+Properly plumbing layout for global varyings. (#6198)
+f030a5ab62235152055fe8a616dd6d0d7ba1c275
