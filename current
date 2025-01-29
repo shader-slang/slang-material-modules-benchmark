@@ -1,2 +1,2 @@
-Added const version for the operator[] in Matrix (#6186)
-a5b1aa08e05eb4b24b28b60a1cd10875353a9a92
+Allow requiring glsl language extensions on structs (#6173)
+c356d3ac2956671b6cb7af667d8b35c7ba8b75a7
