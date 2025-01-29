@@ -1,2 +1,2 @@
-Fix loophole in hoisting where an `OpVar`'s uses might not be properly registered for replacement (#6212)
-c18c4365af77fde279abed33876388961a180b3d
+Fix the type coerce issue (#6215)
+605204374658fc6d7f647f9a57e9e322b8c83100
