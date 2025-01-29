@@ -1,2 +1,2 @@
-Implement WaveMultiPrefix* for SPIRV and GLSL (#6182)
-1c282b80b9fbcfea9dc3dab7f5f546b069143e01
+Fix loophole in hoisting where an `OpVar`'s uses might not be properly registered for replacement (#6212)
+c18c4365af77fde279abed33876388961a180b3d
