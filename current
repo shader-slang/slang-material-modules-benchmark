@@ -1,2 +1,2 @@
-Fix exact-match witness synthesis for static functions (#6204)
-cf66563cfdcff9b7d76017e5b73319705ccdb735
+Implement WaveMultiPrefix* for SPIRV and GLSL (#6182)
+1c282b80b9fbcfea9dc3dab7f5f546b069143e01
