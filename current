@@ -1,2 +1,2 @@
-Support cooperative vector (#6223)
-ba9b2785c69c1b8c6d2b4103267b5281815f9f23
+Add coop-vec insts to non-differentiable insts list (#6227)
+7a8131d312d84f71b1c8776ad83713dea52301f4
