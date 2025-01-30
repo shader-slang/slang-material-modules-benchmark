@@ -1,2 +1,2 @@
-Update SPIRV submodules and fix tests (#6222)
-cbcb97a64c0b7b908fc7be565b0d6141d2f1a1f7
+Fix ConstantIntVal::toText when the val is a enum. (#6224)
+2ae194d51e15c064c3d905e628f7335de7504e32
