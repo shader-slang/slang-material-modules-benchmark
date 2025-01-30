@@ -1,2 +1,2 @@
-Add coop-vec insts to non-differentiable insts list (#6227)
-7a8131d312d84f71b1c8776ad83713dea52301f4
+Support cooperative vector including Vulkan-Header (#6228)
+fb052bf4674b55933e6dd9f991c99000c049d216
