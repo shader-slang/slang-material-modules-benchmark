@@ -1,2 +1,2 @@
-Respect per-target debug options (#6193)
-a026df756096ca580ca9d19019abd08fa5d2c015
+Include slang-glsl-module.dll in releases, for precompiled glsl module. (#6239)
+5173c874892ab54bf1abd7ea21477e2d2aaa4365
