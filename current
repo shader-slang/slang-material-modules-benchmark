@@ -1,2 +1,2 @@
-Distribute slang-glsl-module.bin in release packages. (#6233)
-eebe849075c21d163739cbc5e976e7b5b6837e7f
+Respect per-target debug options (#6193)
+a026df756096ca580ca9d19019abd08fa5d2c015
