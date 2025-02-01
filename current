@@ -1,2 +1,2 @@
-Include slang-glsl-module.dll in releases, for precompiled glsl module. (#6239)
-5173c874892ab54bf1abd7ea21477e2d2aaa4365
+Update Slang-RHI and enable any debug layers up-front (#6226)
+2949b786a7f04ad31c113b622039fb5b72bc8622
