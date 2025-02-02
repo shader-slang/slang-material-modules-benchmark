@@ -1,2 +1,2 @@
-Update Slang-RHI and enable any debug layers up-front (#6226)
-2949b786a7f04ad31c113b622039fb5b72bc8622
+Add support for WGSL subgroup operations (#6213)
+0a6828572aa4cc1f0f99993e77c321799eb88cca
