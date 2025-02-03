@@ -1,2 +1,2 @@
-Add support for WGSL subgroup operations (#6213)
-0a6828572aa4cc1f0f99993e77c321799eb88cca
+Fix native Windows ARM64 build. (#6244)
+bc2f20aab2303f059d767729e64b54d33ce9a12a
