@@ -1,2 +1,2 @@
-Fix native Windows ARM64 build. (#6244)
-bc2f20aab2303f059d767729e64b54d33ce9a12a
+Fix parsing of nested generic app. (#6259)
+b832338c1066807461446f19cc1dc16f645267cb
