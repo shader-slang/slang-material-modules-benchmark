@@ -1,2 +1,2 @@
-Correct NVAPI include (#6263)
-77c59d4a159cc9f1d992ef096ba7fa0d9e7e548a
+Fix warning about push constants, shaderRecordEXT (#6269)
+78a6389aa4b01cfe4f8b4ec34d48b2cbfc092865
