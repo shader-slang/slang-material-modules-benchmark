@@ -1,2 +1,2 @@
-Feature/initialize list side branch (#6058)
-9ec6b91686b651d959fd9ffbec283845bd725dd6
+Fix DCE for calls to functions that have associations (#6272)
+f6cbb81e1c0080518185294ee94705f5e93aa849
