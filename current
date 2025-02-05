@@ -1,2 +1,2 @@
-Fix non-square matrix derivatives (#6282)
-fe77f076b46f45d6c89ab8592d0ff548bda223de
+Use 0.0.7 version of VK-GL-CTS-for-Slang on nightly CTS CI (#6278)
+d3e5f39cafbf1d65cf93cdd42c20c472c68197a2
