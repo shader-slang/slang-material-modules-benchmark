@@ -1,2 +1,2 @@
-Fix warning about push constants, shaderRecordEXT (#6269)
-78a6389aa4b01cfe4f8b4ec34d48b2cbfc092865
+Fix non-square matrix derivatives (#6282)
+fe77f076b46f45d6c89ab8592d0ff548bda223de
