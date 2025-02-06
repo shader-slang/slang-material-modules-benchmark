@@ -1,2 +1,2 @@
-Fix matrix comparison operators on CPU (#6296)
-bbaaab48af8a48daca23ed97f006855b03798b0f
+Allow tuples to work with initializer list. (#6301)
+6b63ff0265ee9bdb8229bb12c71c223c00de0ffa
