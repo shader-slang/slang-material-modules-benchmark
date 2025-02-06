@@ -1,2 +1,2 @@
-Allow tuples to work with initializer list. (#6301)
-6b63ff0265ee9bdb8229bb12c71c223c00de0ffa
+Don't overwrite existing module decl scopes when parsing new source files (#6292)
+075b10e69055acc6536d74c1cb3399e0fe75338d
