@@ -1,2 +1,2 @@
-maxtessfactor attribute should take a floating point value (#6289)
-d8a8559a5baebb81361b15cf86d28c9e8019b177
+Fix matrix comparison operators on CPU (#6296)
+bbaaab48af8a48daca23ed97f006855b03798b0f
