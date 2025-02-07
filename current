@@ -1,2 +1,2 @@
-Don't overwrite existing module decl scopes when parsing new source files (#6292)
-075b10e69055acc6536d74c1cb3399e0fe75338d
+Uncomment a previously failing test case (#6303)
+f5551eb946b779eaa8472d8137235e72e05803b0
