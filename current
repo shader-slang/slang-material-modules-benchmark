@@ -1,2 +1,2 @@
-Uncomment a previously failing test case (#6303)
-f5551eb946b779eaa8472d8137235e72e05803b0
+Add test for visibility in translation unit with multiple source files (#6306)
+654b96933c31b077885f91a68310398c6dbbb3d6
