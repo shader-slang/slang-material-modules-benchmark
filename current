@@ -1,2 +1,2 @@
-slang-rhi cmake integration (#6261)
-8d47910e9a49267829ba01c23f5a784fdae431ba
+disable nanothread dependency (#6312)
+79aebc18d54db3f0be8bd6529c0d79f4d8d4fc58
