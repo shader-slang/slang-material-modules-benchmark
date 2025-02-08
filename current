@@ -1,2 +1,2 @@
-disable nanothread dependency (#6312)
-79aebc18d54db3f0be8bd6529c0d79f4d8d4fc58
+Use and() and or() functions for logical-AND and OR (#6310)
+57b09a8986668626c37055e431fa0ac6449d7214
