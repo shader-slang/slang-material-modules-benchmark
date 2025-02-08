@@ -1,2 +1,2 @@
-Use and() and or() functions for logical-AND and OR (#6310)
-57b09a8986668626c37055e431fa0ac6449d7214
+Propagate the MemoryQualifierSetDecoration (#6315)
+67dfc9b3e62d859f62d2aa5c600fea7e8d6ae240
