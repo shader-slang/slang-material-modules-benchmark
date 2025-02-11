@@ -1,2 +1,2 @@
-Emit missing atomic64 capability, fix int-typed builtin used in both vs and fs. (#6314)
-0bc18d233966fc80cf2c482922d0b773d58394ca
+Add checking for differentiability of the primal substitute function. (#6277)
+551bbb5fbd61b53253de8f6ba3303bb4d29f8c86
