@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1739262025836,
+  "lastUpdate": 1739273937976,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -20185,6 +20185,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 684.1875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e028931dfd475091519728901085f2a62483fd66",
+          "message": "Add checking for differentiability of the primal substitute function. (#6277)\n\nhttps://github.com/shader-slang/slang/commit/551bbb5fbd61b53253de8f6ba3303bb4d29f8c86",
+          "timestamp": "2025-02-11T03:38:46-08:00",
+          "tree_id": "fbd2765ee2d19ebf75dd8eda872cac9a55fe1cdb",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e028931dfd475091519728901085f2a62483fd66"
+        },
+        "date": 1739273937143,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1924.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 535.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 534.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1917.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 536.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 535.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 689.8125,
             "unit": "milliseconds"
           }
         ]
