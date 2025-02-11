@@ -1,2 +1,2 @@
-Remove the docs/proposals directory (#6313)
-3c2d46aa1c8575dc046d7457793e77c7a4789093
+Emit missing atomic64 capability, fix int-typed builtin used in both vs and fs. (#6314)
+0bc18d233966fc80cf2c482922d0b773d58394ca
