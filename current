@@ -1,2 +1,2 @@
-build core and glsl modules in the same slang-bootstrap invocation (#6341)
-0fee8c16e25521d13b50427ac6bf87d7f3419b9c
+Fix crash when handling uninitialized resource type (#6338)
+3f102afe1038882f336dc052a9954811150fa700
