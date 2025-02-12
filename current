@@ -1,2 +1,2 @@
-Correct dependencies on core module source  (#6340)
-ee99becbf02b91635338203e44b79c3814bddc2c
+build core and glsl modules in the same slang-bootstrap invocation (#6341)
+0fee8c16e25521d13b50427ac6bf87d7f3419b9c
