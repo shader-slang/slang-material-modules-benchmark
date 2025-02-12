@@ -1,2 +1,2 @@
-Correct location of copy-headers target (#6327)
-6f4267671d7a5c4fa9441c83cf34853f63119f6b
+Correct dependencies on core module source  (#6340)
+ee99becbf02b91635338203e44b79c3814bddc2c
