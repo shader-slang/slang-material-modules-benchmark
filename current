@@ -1,2 +1,2 @@
-Fix crash when handling uninitialized resource type (#6338)
-3f102afe1038882f336dc052a9954811150fa700
+Allow LHS of `where` to be any type. (#6333)
+74852ceb6b3bcc018042aba3e30933b7b6fc09ef
