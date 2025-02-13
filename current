@@ -1,2 +1,2 @@
-Disallow only resources in constant buffers in parameterblocks on metal (#6342)
-1ea2ab1b638b0e6d2c385b2b06157e6109417e6b
+Add CMake build target vs2019-dev that enables IR break (#6354)
+4c8edd7fbe63100294301a2e210dad21e5263b8a
