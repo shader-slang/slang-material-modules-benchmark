@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1739473568535,
+  "lastUpdate": 1739484679002,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -20755,6 +20755,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 688.8125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "f2816a11211252eefc863209121a878d23283694",
+          "message": "Add CMake build target vs2019-dev that enables IR break (#6354)\n\nhttps://github.com/shader-slang/slang/commit/4c8edd7fbe63100294301a2e210dad21e5263b8a",
+          "timestamp": "2025-02-13T14:11:07-08:00",
+          "tree_id": "7325a926b82910d737f69d38eb7c45f23aaf40bf",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/f2816a11211252eefc863209121a878d23283694"
+        },
+        "date": 1739484678326,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1916.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 531.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 531.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1894.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 530.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 530.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 689.0625,
             "unit": "milliseconds"
           }
         ]
