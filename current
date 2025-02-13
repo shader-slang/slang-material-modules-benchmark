@@ -1,2 +1,2 @@
-Allow LHS of `where` to be any type. (#6333)
-74852ceb6b3bcc018042aba3e30933b7b6fc09ef
+Migrate slang-test away from deprecated Slang API (#6343)
+8406b5647a61fb70be4e041a76c1b64b05a70452
