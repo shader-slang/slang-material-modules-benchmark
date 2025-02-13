@@ -1,2 +1,2 @@
-Reflection Fixes. (#6346)
-ccc75cdd9508a4e19efa22e7c911cc2013f514fa
+Disallow only resources in constant buffers in parameterblocks on metal (#6342)
+1ea2ab1b638b0e6d2c385b2b06157e6109417e6b
