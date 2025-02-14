@@ -1,2 +1,2 @@
-Fix metal issue (#6361)
-a70113c425cbd5bba2e83e04e521fb594143cb9e
+Enable Hull shader test for SPIRV (#6348)
+e043428c5ac263fdb61072bd769fef769e8b08e4
