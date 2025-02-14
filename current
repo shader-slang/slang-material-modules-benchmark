@@ -1,2 +1,2 @@
-Add CMake build target vs2019-dev that enables IR break (#6354)
-4c8edd7fbe63100294301a2e210dad21e5263b8a
+Add support for GLSL interface blocks (#6351)
+944c19b408f20e6c5495678028f62e4e7040aa3b
