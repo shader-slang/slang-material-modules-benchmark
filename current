@@ -1,2 +1,2 @@
-Add support for GLSL interface blocks (#6351)
-944c19b408f20e6c5495678028f62e4e7040aa3b
+Fix metal issue (#6361)
+a70113c425cbd5bba2e83e04e521fb594143cb9e
