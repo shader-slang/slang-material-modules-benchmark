@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1739565229469,
+  "lastUpdate": 1739822441069,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -20983,6 +20983,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 686.875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "6bf6d727e44a0f0dd37193f2cf00d84203b08adf",
+          "message": "slang: Fix empty VARARGS issue(#6332) (#6372)\n\nhttps://github.com/shader-slang/slang/commit/7abc69e9d3d7bf2e15f9796ff1813f87aeb4745d",
+          "timestamp": "2025-02-17T12:00:30-08:00",
+          "tree_id": "4174bcc8a6a931730c3bf21b4d7cf806efa94808",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/6bf6d727e44a0f0dd37193f2cf00d84203b08adf"
+        },
+        "date": 1739822440438,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1911.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 532.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 531.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1895.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 531.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 531,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 686.5625,
             "unit": "milliseconds"
           }
         ]
