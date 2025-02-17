@@ -1,2 +1,2 @@
-Enable Hull shader test for SPIRV (#6348)
-e043428c5ac263fdb61072bd769fef769e8b08e4
+slang: Fix empty VARARGS issue(#6332) (#6372)
+7abc69e9d3d7bf2e15f9796ff1813f87aeb4745d
