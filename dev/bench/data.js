@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1739875438536,
+  "lastUpdate": 1739884298791,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -21097,6 +21097,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 688.375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "3e62dc0e2c8e465580a77cd4fa6ab4e358d61feb",
+          "message": "Add warning for ignored binding attributes on uniforms (#6373)\n\nhttps://github.com/shader-slang/slang/commit/64dfdbda7185cdc54523e038d2f52a6530bacd1e",
+          "timestamp": "2025-02-18T05:11:25-08:00",
+          "tree_id": "b39c95e0888cb4b04eb280ad4a21f8dcb9b2959d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/3e62dc0e2c8e465580a77cd4fa6ab4e358d61feb"
+        },
+        "date": 1739884298171,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1914.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 531.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 534.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1897.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 530.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 531.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 687.3125,
             "unit": "milliseconds"
           }
         ]
