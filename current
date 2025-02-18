@@ -1,2 +1,2 @@
-Add new zero size array test. (#6379)
-7f395a76817501c6261b81acc46781bfe2cd389c
+Add warning for ignored binding attributes on uniforms (#6373)
+64dfdbda7185cdc54523e038d2f52a6530bacd1e
