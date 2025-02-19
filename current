@@ -1,2 +1,2 @@
-Fix zero size array handling in slangc (#6399)
-12d09b5a6cb9e921aace1bec484c76244e9afa94
+Show adapter info in slang-test (#6388)
+0959d7ebeb6932b1949a4be10e5c472327006352
