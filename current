@@ -1,2 +1,2 @@
-Add userAttribs to entryPoints in reflection JSON (#6366)
-7315b33cf8dbf7759b05ff47612478b71238fa19
+Fix zero size array handling in slangc (#6399)
+12d09b5a6cb9e921aace1bec484c76244e9afa94
