@@ -1,2 +1,2 @@
-Add warning for ignored binding attributes on uniforms (#6373)
-64dfdbda7185cdc54523e038d2f52a6530bacd1e
+Add userAttribs to entryPoints in reflection JSON (#6366)
+7315b33cf8dbf7759b05ff47612478b71238fa19
