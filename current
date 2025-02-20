@@ -1,2 +1,2 @@
-Fix issue with `clamp`'s derivatives at the boundary. (#6403)
-a02379208f8906272d3fd773d4b5cfe8eec3be3b
+Force inline functions that takes InputPatch and OutputPatch (#6407)
+0460eb6a0b9e62c3145ab9c43d03751e19a49d8e
