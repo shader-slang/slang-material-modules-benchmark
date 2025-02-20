@@ -1,2 +1,2 @@
-Force inline functions that takes InputPatch and OutputPatch (#6407)
-0460eb6a0b9e62c3145ab9c43d03751e19a49d8e
+Support for dynamic array of textures access for Texture footprint. (#6392)
+187ec444486ecf24d1baf897d179de4ee1b6b864
