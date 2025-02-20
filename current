@@ -1,2 +1,2 @@
-Support for dynamic array of textures access for Texture footprint. (#6392)
-187ec444486ecf24d1baf897d179de4ee1b6b864
+HLSL: Add 'f' suffix to float literals in code generation (#6381)
+9580e311e0cefb0f8e11afc316783a67201654eb
