@@ -1,2 +1,2 @@
-Metal fix (#6413)
-4d286aab2ec23c081f23846f5dfdb30b1c05728b
+Fix gradient behavior for min() and max() functions at boundaries. When input values are equal, the gradient is split evenly between both inputs. (#6411)
+ca592d2791047be4df3cac44c18af99f003bd085
