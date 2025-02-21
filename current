@@ -1,2 +1,2 @@
-HLSL: Add 'f' suffix to float literals in code generation (#6381)
-9580e311e0cefb0f8e11afc316783a67201654eb
+Simplify implicit cast ctors for vector & matrix. (#6408)
+19867ffca6dca7995c799354081219c9e76f13d1
