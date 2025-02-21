@@ -1,2 +1,2 @@
-Fix gradient behavior for min() and max() functions at boundaries. When input values are equal, the gradient is split evenly between both inputs. (#6411)
-ca592d2791047be4df3cac44c18af99f003bd085
+Fix slang raytracing test (#6404)
+0101e5ab59a1678ed7212913c3880edfaf039537
