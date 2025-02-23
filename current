@@ -1,2 +1,2 @@
-Fix slang raytracing test (#6404)
-0101e5ab59a1678ed7212913c3880edfaf039537
+Improve performance when compiling small shaders. (#6396)
+51ad07d1fbffd41c758eba172aa77ebba3204924
