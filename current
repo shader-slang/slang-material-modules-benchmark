@@ -1,2 +1,2 @@
-Add implementation for 'uploadTextureData' in metal (#6443)
-edcb2f0b8216f964f10ba60d96b8070fdc1ae257
+Fix TypeCheckingCache concurrency and candidate lifetime. (#6444)
+9e465c776af22ff7a19818b1b135b9e5287aa603
