@@ -1,2 +1,2 @@
-Remove noise() from core library (#6421)
-4e897189e301e44cba71906e6c5e561b7cd07a62
+Add implementation for 'uploadTextureData' in metal (#6443)
+edcb2f0b8216f964f10ba60d96b8070fdc1ae257
