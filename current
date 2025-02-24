@@ -1,2 +1,2 @@
-Do not perform deep checkout of submodules (#6410)
-8d0244422f6fee293e288faf9c43b65591fd3a9e
+set depth 2 for CI submodules (#6436)
+5bf0c95294fbe88f7cfa0cdbfba2e96643d232a4
