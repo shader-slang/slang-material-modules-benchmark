@@ -1,2 +1,2 @@
-set depth 2 for CI submodules (#6436)
-5bf0c95294fbe88f7cfa0cdbfba2e96643d232a4
+Remove noise() from core library (#6421)
+4e897189e301e44cba71906e6c5e561b7cd07a62
