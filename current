@@ -1,2 +1,2 @@
-Fix loading empty structs from structured buffers (#6439)
-19083925690f6180cb081ce2be4fbbdb64010b37
+Fix `UseGraph::replace` (#6395)
+a9f2f8a592c4514cd116c947486055788092ea56
