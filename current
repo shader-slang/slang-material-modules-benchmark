@@ -1,2 +1,2 @@
-Fix TypeCheckingCache concurrency and candidate lifetime. (#6444)
-9e465c776af22ff7a19818b1b135b9e5287aa603
+Clone name hint decoration when emiting Undefined (#6415)
+f90a7631a10d7dcc1427bfda85f66c539c50af5d
