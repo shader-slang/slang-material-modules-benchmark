@@ -1,2 +1,2 @@
-Fix `UseGraph::replace` (#6395)
-a9f2f8a592c4514cd116c947486055788092ea56
+Fix a bug with hoisting 'IRVar' insts that are used outside the loop (#6446)
+f7b9745e46db6a7e55f6e0265493350d65ea4615
