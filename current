@@ -1,2 +1,2 @@
-Clone name hint decoration when emiting Undefined (#6415)
-f90a7631a10d7dcc1427bfda85f66c539c50af5d
+Fix loading empty structs from structured buffers (#6439)
+19083925690f6180cb081ce2be4fbbdb64010b37
