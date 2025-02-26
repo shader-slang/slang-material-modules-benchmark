@@ -1,2 +1,2 @@
-Enable friendly-name option for SPIRV dump and validation (#6465)
-519e866ff44ec728f95c191fff8a200b66a5377e
+expose value of constant integers in module reflection (#6367)
+86669cbb781840f8de180b1f793275f4511d3b65
