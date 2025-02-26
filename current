@@ -1,2 +1,2 @@
-Fix a bug with hoisting 'IRVar' insts that are used outside the loop (#6446)
-f7b9745e46db6a7e55f6e0265493350d65ea4615
+Enable friendly-name option for SPIRV dump and validation (#6465)
+519e866ff44ec728f95c191fff8a200b66a5377e
