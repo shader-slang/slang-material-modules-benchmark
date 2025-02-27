@@ -1,2 +1,2 @@
-Allow `.member` syntax on vector and scalars. (#6424)
-6cf15f4ea1fe044d8227440dcc30ac712334568e
+Make capability diagnostic message more friendly. (#6474)
+90b3817498d9cf664346f04dcea71f48ce81993e
