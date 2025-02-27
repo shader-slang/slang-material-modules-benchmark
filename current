@@ -1,2 +1,2 @@
-bump glslang spirv-header spirv-tools (#6478)
-3c096a7d3e796850ab6a54e50bb33595483ec7bd
+Allow `.member` syntax on vector and scalars. (#6424)
+6cf15f4ea1fe044d8227440dcc30ac712334568e
