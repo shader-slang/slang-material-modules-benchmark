@@ -1,2 +1,2 @@
-expose value of constant integers in module reflection (#6367)
-86669cbb781840f8de180b1f793275f4511d3b65
+Fix precompiledTargetModule tests (#6455)
+02706dfc5f0526f4f8ca337be16d7b00640ba168
