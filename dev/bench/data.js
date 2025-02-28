@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1740753429070,
+  "lastUpdate": 1740766852035,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -23092,6 +23092,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 567,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "09b92eca9da75563b70a3af620f47f13cd6c443b",
+          "message": "Add WaveGetLane* support for Metal and WGSL (#6371)\n\nhttps://github.com/shader-slang/slang/commit/66984eb856454d0a372e3b30643823af18612067",
+          "timestamp": "2025-02-28T10:20:41-08:00",
+          "tree_id": "7aa80872329eb63a8c01927454eb863eb2088e98",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/09b92eca9da75563b70a3af620f47f13cd6c443b"
+        },
+        "date": 1740766851281,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1842.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 460.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 461.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1822.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 458.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 458.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 566.3125,
             "unit": "milliseconds"
           }
         ]
