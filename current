@@ -1,2 +1,2 @@
-Add WaveGetLane* support for Metal and WGSL (#6371)
-66984eb856454d0a372e3b30643823af18612067
+Add Slang-specific intrinsics for integer pack/unpack (#6459)
+efbfa7832afff7e6285713086259abda2456ed55
