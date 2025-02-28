@@ -1,2 +1,2 @@
-Fix a bug where Session::parseCommandLineArguments returns invalid data (#6461)
-4d415f6af2266cc38798d72f6816c60b91a5003c
+Fix release CI. (#6492)
+42a8c4b1bcb50fda45b199236b27aaa28dd1d758
