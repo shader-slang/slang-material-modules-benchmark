@@ -1,2 +1,2 @@
-Make capability diagnostic message more friendly. (#6474)
-90b3817498d9cf664346f04dcea71f48ce81993e
+Map `SV_InstanceID` to `gl_InstanceIndex-gl_BaseInstance` (#6468)
+6f2ce72b038b34e84819ddfc5d658166ed879eaa
