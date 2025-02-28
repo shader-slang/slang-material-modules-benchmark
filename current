@@ -1,2 +1,2 @@
-Prepare for render test api migration (#6498)
-e4b960024972420dfc96a758bfc35e8fcbf28273
+Add WaveGetLane* support for Metal and WGSL (#6371)
+66984eb856454d0a372e3b30643823af18612067
