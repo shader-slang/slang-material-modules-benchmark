@@ -1,2 +1,2 @@
-Add Slang-specific intrinsics for integer pack/unpack (#6459)
-efbfa7832afff7e6285713086259abda2456ed55
+Fix build error when SLANG_ENABLE_TESTS is set to OFF (#6420)
+bca772ca02bbe9c0f1201c7ae177a10ccff84958
