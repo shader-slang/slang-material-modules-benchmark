@@ -1,2 +1,2 @@
-Fix release CI. (#6492)
-42a8c4b1bcb50fda45b199236b27aaa28dd1d758
+Fix regression in float to bool conversion. (#6497)
+a09d554721ecf0c6d967d5f55b3416e3284e71f2
