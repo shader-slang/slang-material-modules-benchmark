@@ -1,2 +1,2 @@
-Fix build error when SLANG_ENABLE_TESTS is set to OFF (#6420)
-bca772ca02bbe9c0f1201c7ae177a10ccff84958
+Consolidate multiple inouts/outs into struct (#6435)
+b86925c1929186c122536b9a7ed75131faceddb7
