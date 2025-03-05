@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1741107406616,
+  "lastUpdate": 1741158100564,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -23429,6 +23429,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "shadow : module : dxil",
             "value": 455.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 565.625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "6e1e831f7e294a890415634a1c013af59a8a6f3a",
+          "message": "Fix codegen bug when targeting PTX with new API (#6506)\n\nhttps://github.com/shader-slang/slang/commit/5248a0254a48382d06ecb190c9f87c0ab62ff534",
+          "timestamp": "2025-03-04T23:01:31-08:00",
+          "tree_id": "230f72daade002c3eaa3ef69724d8b8d59fc6850",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/6e1e831f7e294a890415634a1c013af59a8a6f3a"
+        },
+        "date": 1741158099857,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1847,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 459.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 458.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1817.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 457.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 455.8125,
             "unit": "milliseconds"
           },
           {
