@@ -1,2 +1,2 @@
-Fix option set serialization bug (#6515)
-6f56b473f4ab49dd6ec111b56cfc1701196f9c8c
+Fix codegen bug when targeting PTX with new API (#6506)
+5248a0254a48382d06ecb190c9f87c0ab62ff534
