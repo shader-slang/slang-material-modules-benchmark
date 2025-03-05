@@ -1,2 +1,2 @@
-Fix codegen bug when targeting PTX with new API (#6506)
-5248a0254a48382d06ecb190c9f87c0ab62ff534
+Support SPIR-V deferred linking option (#6500)
+0634684495f709fe3594fdcd483cfce7933e54eb
