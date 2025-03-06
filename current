@@ -1,2 +1,2 @@
-Support SPIR-V deferred linking option (#6500)
-0634684495f709fe3594fdcd483cfce7933e54eb
+Get options also from the default target (#6530)
+55dd2deaff82bbdb72e125ba4b350030b7e5f427
