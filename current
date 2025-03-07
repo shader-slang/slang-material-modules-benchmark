@@ -1,2 +1,2 @@
-Add option to exclude webgpu-dawn and slang-tint (#6537)
-5012c313479798394e89e9f58997a5968c1c8f79
+Fix SPIRV generator ID. (#6536)
+a3a9ffefdd54fdddeb2efde240d2599645280663
