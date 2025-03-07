@@ -1,2 +1,2 @@
-Fix lowering of `extern` types with defaults. (#6512)
-2aaa91007a9f91674033dcb9d88eb9ad7bacae96
+Update build to allow setting external paths (#6528)
+9d7d943db47dd7805a710431cf7eedc0bec8ecc7
