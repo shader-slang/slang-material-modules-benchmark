@@ -1,2 +1,2 @@
-Update build to allow setting external paths (#6528)
-9d7d943db47dd7805a710431cf7eedc0bec8ecc7
+Fix a bug in default ctor synthesizing (#6527)
+e1952dc8cf8f5b62d00ce114e353c5390cc6c37a
