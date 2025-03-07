@@ -1,2 +1,2 @@
-Fix a bug in default ctor synthesizing (#6527)
-e1952dc8cf8f5b62d00ce114e353c5390cc6c37a
+Add option to exclude webgpu-dawn and slang-tint (#6537)
+5012c313479798394e89e9f58997a5968c1c8f79
