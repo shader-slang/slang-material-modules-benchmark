@@ -1,2 +1,2 @@
-Sharpen condition on warning about used capabilities relative to selected profile (#6538)
-b59d15539d65472c0e5a89e390ad02b98da61e95
+Add module reference options to options list when parsing them (#6539)
+5673edfe3602a6585a925dfc555b90f0b68e328d
