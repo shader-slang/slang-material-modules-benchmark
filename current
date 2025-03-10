@@ -1,2 +1,2 @@
-Fix SPIRV generator ID. (#6536)
-a3a9ffefdd54fdddeb2efde240d2599645280663
+Sharpen condition on warning about used capabilities relative to selected profile (#6538)
+b59d15539d65472c0e5a89e390ad02b98da61e95
