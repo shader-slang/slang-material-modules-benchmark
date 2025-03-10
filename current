@@ -1,2 +1,2 @@
-Add module reference options to options list when parsing them (#6539)
-5673edfe3602a6585a925dfc555b90f0b68e328d
+UseHighestVersion when calling spirv-link (#6559)
+3058a5881aa9393573847229f77442d244655292
