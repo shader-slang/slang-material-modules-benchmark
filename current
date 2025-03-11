@@ -1,2 +1,2 @@
-IR: Add SPIR-V disassembly for embedded downstream IR dumps (#6529)
-f59e0ef409844f2514435a8df8ceeff3663e5db3
+Don't crash when precompiling twice (#6576)
+5d6578b9d58d7ad46503d9124cccf8a68ecd5902
