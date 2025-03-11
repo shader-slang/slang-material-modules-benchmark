@@ -1,2 +1,2 @@
-UseHighestVersion when calling spirv-link (#6559)
-3058a5881aa9393573847229f77442d244655292
+Add missing error check (#6570)
+ff55a569a0bff44a6f8abb105c07cbc2484bc007
