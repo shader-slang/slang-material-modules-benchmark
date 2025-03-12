@@ -1,2 +1,2 @@
-Don't crash when precompiling twice (#6576)
-5d6578b9d58d7ad46503d9124cccf8a68ecd5902
+Set the HLSL supported compiler version to 2018 (#6502)
+133d705dcaa69f10f7a713605d5080405e49875c
