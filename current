@@ -1,2 +1,2 @@
-Migrate render-test away from deprecated compile request API (#6514)
-f4d5372d3354e62770b076b47892b5172223e98a
+add SLANG_USER_CONFIG (#6584)
+fb48856c176cae3eff426f628e9906698241af58
