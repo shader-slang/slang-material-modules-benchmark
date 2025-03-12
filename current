@@ -1,2 +1,2 @@
-Set the HLSL supported compiler version to 2018 (#6502)
-133d705dcaa69f10f7a713605d5080405e49875c
+Add referenced modules as libraries when creating a session (#6569)
+7a942cfdc338d199b8e775d16b0b9b49699363d7
