@@ -1,2 +1,2 @@
-Correct buffer length calculation in dumpSourceBytes (#6593)
-1e20eed6e8749ed09639ef9d788900edbab0ff83
+Use an explicit dependency for generated headers instead of source file dependency (#6594)
+3431640427e8fa6f81a0b267a6c6cdd9bec38516
