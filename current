@@ -1,2 +1,2 @@
-Use an explicit dependency for generated headers instead of source file dependency (#6594)
-3431640427e8fa6f81a0b267a6c6cdd9bec38516
+Fix: Respect user-defined output directory settings for libraries (#6604)
+c2e8f9c1ebe316d7f3b2932fa1c24065fdf83d37
