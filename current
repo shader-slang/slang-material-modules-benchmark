@@ -1,2 +1,2 @@
-Fix: Respect user-defined output directory settings for libraries (#6604)
-c2e8f9c1ebe316d7f3b2932fa1c24065fdf83d37
+Implement GetDimensions for structured buffers on WGSL (#6609)
+c8c9e424e91e72e718529ed76df14f7586624cd6
