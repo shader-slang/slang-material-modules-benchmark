@@ -1,2 +1,2 @@
-Fix lowering of associated types in generic interfaces (#6600)
-78517dc392f0d2ebba25f0ac3f4d4e004b0f0ab0
+fix trimming of "v" from version string (#6605)
+18e6611ba8ed54b095e06e950bc357e4dd3b6d6f
