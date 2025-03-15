@@ -1,2 +1,2 @@
-Implement GetDimensions for structured buffers on WGSL (#6609)
-c8c9e424e91e72e718529ed76df14f7586624cd6
+Fix lowering of associated types in generic interfaces (#6600)
+78517dc392f0d2ebba25f0ac3f4d4e004b0f0ab0
