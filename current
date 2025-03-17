@@ -1,2 +1,2 @@
-Add help screen to slang-test (#6611)
-3357b5549cebbcbd95c8762b2638efd9ea607013
+Add error diagnostic vectors and matrices with disallowed element types (#6596)
+98ff41989b04ce883e9dc9f4464c45290d30c560
