@@ -1,2 +1,2 @@
-Add auto-diff support for `GetOffsetPtr` (#6625)
-0c7104e609d93a46d247f75d4ea8a16dc5ee5855
+Delete accidental `lock` file (#6620)
+613cca56f6da1e659e4ca8c48efc59802412fd4e
