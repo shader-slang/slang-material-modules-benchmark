@@ -1,2 +1,2 @@
-Add error diagnostic vectors and matrices with disallowed element types (#6596)
-98ff41989b04ce883e9dc9f4464c45290d30c560
+Fix crash when swizzling non-differentiable types (#6613)
+714ee76af46b96c32724f0d6edb159fddeffc6bf
