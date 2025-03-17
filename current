@@ -1,2 +1,2 @@
-Fix crash when swizzling non-differentiable types (#6613)
-714ee76af46b96c32724f0d6edb159fddeffc6bf
+Add auto-diff support for `GetOffsetPtr` (#6625)
+0c7104e609d93a46d247f75d4ea8a16dc5ee5855
