@@ -1,2 +1,2 @@
-Delete accidental `lock` file (#6620)
-613cca56f6da1e659e4ca8c48efc59802412fd4e
+Fix `IRVar` hoisting when its already in the right block. (#6626)
+24c9611a8296395dfad23c6ae136fab585dff735
