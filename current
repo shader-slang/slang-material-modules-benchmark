@@ -1,2 +1,2 @@
-Fix MSVC warning D9025 when building external dependencies. (#6630)
-336b5d56d197fc64be75611c9dcaac71c56996d8
+Implement floating-point pack/unpack intrinsics for all targets (#6503)
+eee974d74617944ca2b6f6ac424e98a12a51b82c
