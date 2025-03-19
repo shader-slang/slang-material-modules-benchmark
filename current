@@ -1,2 +1,2 @@
-Add SPIRV atomic debug type (#6616)
-155e0804edbc9e7175cb0a6ed60d3daff0ba5e01
+Output SPV_KHR_compute_shader_derivatives extension string instead of the NV extension (#6641)
+404e95cdd02830ba0fb215081e826025609c4d14
