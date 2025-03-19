@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1742328149938,
+  "lastUpdate": 1742412475933,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -25367,6 +25367,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "shadow : module : dxil",
             "value": 458.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 574.125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "58d1e99e93e32147cb2d75a54e243d1236568614",
+          "message": "Fix reinterpret and bitcast and generic arg parsing. (#6627)\n\nhttps://github.com/shader-slang/slang/commit/4eb7a27ac4532a49b9d383d2b0d80bc0ec317b4c",
+          "timestamp": "2025-03-19T12:27:44-07:00",
+          "tree_id": "2e81c1d9de8fe23a829eadfc84329a3e88e1216d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/58d1e99e93e32147cb2d75a54e243d1236568614"
+        },
+        "date": 1742412474737,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1826.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 459.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 463.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1812.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 458.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 459.4375,
             "unit": "milliseconds"
           },
           {
