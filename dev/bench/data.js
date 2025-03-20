@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1742481502093,
+  "lastUpdate": 1742488831017,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -25657,6 +25657,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 573.4375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "5aec22cd8ac82d6c1bea2f5e23df495b8705e705",
+          "message": "Add Nix flake for direnv (#6635)\n\nhttps://github.com/shader-slang/slang/commit/9b1e10ea2602c76a97ca25c27a0b3842a5bb69de",
+          "timestamp": "2025-03-20T09:40:16-07:00",
+          "tree_id": "99da57bd096a61e005ac984e801abd7186d35996",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/5aec22cd8ac82d6c1bea2f5e23df495b8705e705"
+        },
+        "date": 1742488830142,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1827.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 461.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 462,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1811.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 458.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 457.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 570.3125,
             "unit": "milliseconds"
           }
         ]
