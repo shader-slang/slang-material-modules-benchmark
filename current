@@ -1,2 +1,2 @@
-Delete unused Dockerfile (#6629)
-96de7f6a9dccabd1801dcbf1eb76e0967d7f5fe8
+Add Nix flake for direnv (#6635)
+9b1e10ea2602c76a97ca25c27a0b3842a5bb69de
