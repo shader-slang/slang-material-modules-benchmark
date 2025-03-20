@@ -1,2 +1,2 @@
-Add Nix flake for direnv (#6635)
-9b1e10ea2602c76a97ca25c27a0b3842a5bb69de
+Correct modifier isConst initialization (#6645)
+2631811e33ed231d785a06c1fd6d4a7e303d22f2
