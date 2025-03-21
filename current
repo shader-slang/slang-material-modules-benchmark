@@ -1,2 +1,2 @@
-Emit errors for missing returns on unsupported targets (#6633)
-844d8d2212d11f3d28a55c81f234c99db2c26250
+Support spirv ops added by multiple extensions (#6615)
+969d101aff074675de32bdbe6b97baf744634f78
