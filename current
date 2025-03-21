@@ -1,2 +1,2 @@
-Apply pixel interlock execution mode to entry-point functions only (#6661)
-16ac0efa3e1e834e3b12af8ac34cf47a6418bb34
+Emit errors for missing returns on unsupported targets (#6633)
+844d8d2212d11f3d28a55c81f234c99db2c26250
