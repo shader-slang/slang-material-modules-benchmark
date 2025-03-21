@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1742500982373,
+  "lastUpdate": 1742541263705,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -25771,6 +25771,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 575.8125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "8b87c4c0306e3fe20e8fdd5d7e57c502e7a94de8",
+          "message": "Add MinSizeRel to CMake preset (#6644)\n\nhttps://github.com/shader-slang/slang/commit/32a5bd2f43d55453bb5ea15c888c7a90730bbcff",
+          "timestamp": "2025-03-21T00:14:13-07:00",
+          "tree_id": "ee94a0944ff1aa850dc1f5bc9b51b0dc04c9a57f",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/8b87c4c0306e3fe20e8fdd5d7e57c502e7a94de8"
+        },
+        "date": 1742541262714,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1826,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 462.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 461.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1823.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 460.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 458.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 571.1875,
             "unit": "milliseconds"
           }
         ]
