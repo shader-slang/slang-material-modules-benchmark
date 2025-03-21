@@ -1,2 +1,2 @@
-Correct modifier isConst initialization (#6645)
-2631811e33ed231d785a06c1fd6d4a7e303d22f2
+Add MinSizeRel to CMake preset (#6644)
+32a5bd2f43d55453bb5ea15c888c7a90730bbcff
