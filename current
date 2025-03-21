@@ -1,2 +1,2 @@
-Add MinSizeRel to CMake preset (#6644)
-32a5bd2f43d55453bb5ea15c888c7a90730bbcff
+Apply pixel interlock execution mode to entry-point functions only (#6661)
+16ac0efa3e1e834e3b12af8ac34cf47a6418bb34
