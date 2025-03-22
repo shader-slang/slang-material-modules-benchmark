@@ -1,2 +1,2 @@
-Support spirv ops added by multiple extensions (#6615)
-969d101aff074675de32bdbe6b97baf744634f78
+Add GLSL array length syntax support (#6665)
+7f72256bcf3e9a33feec641ce8bc98bc750b6297
