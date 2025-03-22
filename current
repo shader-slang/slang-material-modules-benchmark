@@ -1,2 +1,2 @@
-Add GLSL array length syntax support (#6665)
-7f72256bcf3e9a33feec641ce8bc98bc750b6297
+Add debugPrintfEXT support (#6659)
+0d7d6468dfcabb759ec40921e5da3a8598f1c770
