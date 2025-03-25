@@ -1,2 +1,2 @@
-Don't load cached builtin module in slang-bootstrap. (#6667)
-c54bc9ebff0691c397885363e0da7a122e3e407d
+Improve embed tool to search all include directories as determined by CMake (#6675)
+b9300bae08a77df6ef2efe2b62de14a13b10b9a4
