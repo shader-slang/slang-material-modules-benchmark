@@ -1,2 +1,2 @@
-Add debugPrintfEXT support (#6659)
-0d7d6468dfcabb759ec40921e5da3a8598f1c770
+Don't load cached builtin module in slang-bootstrap. (#6667)
+c54bc9ebff0691c397885363e0da7a122e3e407d
