@@ -1,2 +1,2 @@
-Fix SPV_KHR_maximal_reconvergence extension name spelling (#6687)
-05f24d294917a2599d635fe2e53b75cdca26cfdd
+findAndValidateEntryPoint should return null on failing (#6695)
+1bde5bab3894e139c96c0dc2f9f2c63cabb30270
