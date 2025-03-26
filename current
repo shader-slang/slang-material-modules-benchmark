@@ -1,2 +1,2 @@
-Fix issue in peepholeOptimize (#6543)
-5339e46020c19653df6119b127e90e759bdda6b9
+Fix mul operator followed by global scope (#6686)
+ff5e04f7f2e50466ed626193941c24b38494a785
