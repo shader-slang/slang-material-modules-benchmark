@@ -1,2 +1,2 @@
-findAndValidateEntryPoint should return null on failing (#6695)
-1bde5bab3894e139c96c0dc2f9f2c63cabb30270
+Ignore failure to fetch webgpu_dawn and slang-tint (#6689)
+c1b743777ff05a9480467cc287b0e6478fc02d0a
