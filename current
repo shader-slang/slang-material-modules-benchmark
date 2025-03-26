@@ -1,2 +1,2 @@
-Improve embed tool to search all include directories as determined by CMake (#6675)
-b9300bae08a77df6ef2efe2b62de14a13b10b9a4
+Fix issue in peepholeOptimize (#6543)
+5339e46020c19653df6119b127e90e759bdda6b9
