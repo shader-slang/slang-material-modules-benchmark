@@ -1,2 +1,2 @@
-Fix mul operator followed by global scope (#6686)
-ff5e04f7f2e50466ed626193941c24b38494a785
+Fix SPV_KHR_maximal_reconvergence extension name spelling (#6687)
+05f24d294917a2599d635fe2e53b75cdca26cfdd
