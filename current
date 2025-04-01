@@ -1,2 +1,2 @@
-Fix compilation of global builtin variables inside generics (#6701)
-1fa4e486f598c5a7eed0db65f187ab95f890133c
+Make IRWitnessTable HOISTABLE (#6417)
+0c5eee31c71372f1886c287d386a9618d845f316
