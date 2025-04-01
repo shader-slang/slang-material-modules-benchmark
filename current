@@ -1,2 +1,2 @@
-Make IRWitnessTable HOISTABLE (#6417)
-0c5eee31c71372f1886c287d386a9618d845f316
+Add GetDimensions support for CUDA (#6718)
+549aa897bcfedc28fb2ef8009396f846ea182b72
