@@ -1,2 +1,2 @@
-Ignore failure to fetch webgpu_dawn and slang-tint (#6689)
-c1b743777ff05a9480467cc287b0e6478fc02d0a
+Fix compilation of global builtin variables inside generics (#6701)
+1fa4e486f598c5a7eed0db65f187ab95f890133c
