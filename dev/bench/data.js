@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1743474004172,
+  "lastUpdate": 1743497763729,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -26569,6 +26569,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 572.5625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "7a3d96049244e0b6a72637691eaa8bae770cfe7a",
+          "message": "Make IRWitnessTable HOISTABLE (#6417)\n\nhttps://github.com/shader-slang/slang/commit/0c5eee31c71372f1886c287d386a9618d845f316",
+          "timestamp": "2025-04-01T01:55:52-07:00",
+          "tree_id": "f1e26c2d1315f9456e612914acfe4b7364b737fa",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/7a3d96049244e0b6a72637691eaa8bae770cfe7a"
+        },
+        "date": 1743497762409,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1825.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 457.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 463,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1810.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 457.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 458.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 571.875,
             "unit": "milliseconds"
           }
         ]
