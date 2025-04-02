@@ -1,2 +1,2 @@
-fix: Export slangTargets.cmake (#6679)
-3ebfe7f7c91a9ca356a6940b8878f1fc926be6aa
+Use correct syntax for WGSL array transpiling (#6693)
+5c111ebef679c994047df95bbdf90181ccb2d067
