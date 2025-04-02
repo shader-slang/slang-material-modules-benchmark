@@ -1,2 +1,2 @@
-Fix the broken workflow for linux/release/gcc/wasm (#6730)
-7905ff7d777a1d573f89540e99026729d32fdc40
+re-enable macos test (#6731)
+2494588c487d708fcd4fed54a9446613bdb3b675
