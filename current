@@ -1,2 +1,2 @@
-re-enable macos test (#6731)
-2494588c487d708fcd4fed54a9446613bdb3b675
+fix: Export slangTargets.cmake (#6679)
+3ebfe7f7c91a9ca356a6940b8878f1fc926be6aa
