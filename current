@@ -1,2 +1,2 @@
-Use coopvec supporting dxcompiler.dll and dxil.dll (#6719)
-6f3b8351c9cb50d16573fbb204b98b6810e97d48
+Fix the broken workflow for linux/release/gcc/wasm (#6730)
+7905ff7d777a1d573f89540e99026729d32fdc40
