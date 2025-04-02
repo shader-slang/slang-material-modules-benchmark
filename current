@@ -1,2 +1,2 @@
-Metal remove void field (#6725)
-c1f69ca1e29811919dbd2f08a6e2dd498b80aab2
+Enable coopvec tests with dxc backend (#6726)
+b4a1d618b8d850a579af2840db2df6bee312172c
