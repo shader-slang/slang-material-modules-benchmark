@@ -1,2 +1,2 @@
-Enable "-HV 2021" option for DXC (#6445)
-e44479c88806a711f6d5f821a4acff030f9a558b
+Metal remove void field (#6725)
+c1f69ca1e29811919dbd2f08a6e2dd498b80aab2
