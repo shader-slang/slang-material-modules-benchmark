@@ -1,2 +1,2 @@
-Fixed generic interface specialization crashes (#6601): (#6688)
-6b44630afe4ff180ba608142e9515abcd369775e
+Implement parameter block to slang-gfx for Metal backend (#6577)
+ac0dc491e1d39dc469b8879dc839b1ac2e76e33d
