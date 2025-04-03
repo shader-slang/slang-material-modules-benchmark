@@ -1,2 +1,2 @@
-Enable coopvec tests with dxc backend (#6726)
-b4a1d618b8d850a579af2840db2df6bee312172c
+Fixed generic interface specialization crashes (#6601): (#6688)
+6b44630afe4ff180ba608142e9515abcd369775e
