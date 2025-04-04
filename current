@@ -1,2 +1,2 @@
-Do no fail on missing no_diff annotation on non-differentiable (inputs and output) function outputs (#6737)
-83a42cb76feb1f702ff730040f359cabc01c571a
+Add a loop analysis step to infer the exit values of loop phi parameters. (#6696)
+41e7e565eb3dfa13562cbfa3e8641874c2c6d66c
