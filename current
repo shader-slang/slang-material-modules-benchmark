@@ -1,2 +1,2 @@
-Add sparse texture Load intrinsic for SPIRV (#6702)
-df7c66be49822d650f8956662b16db49bae31d09
+Do no fail on missing no_diff annotation on non-differentiable (inputs and output) function outputs (#6737)
+83a42cb76feb1f702ff730040f359cabc01c571a
