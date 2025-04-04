@@ -1,2 +1,2 @@
-Add a loop analysis step to infer the exit values of loop phi parameters. (#6696)
-41e7e565eb3dfa13562cbfa3e8641874c2c6d66c
+Implement subgroup quad operations for Metal (#6745)
+e3e84a1682c9e2d371f3f50f6425374c8b04828d
