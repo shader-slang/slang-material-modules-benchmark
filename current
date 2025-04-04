@@ -1,2 +1,2 @@
-Implement parameter block to slang-gfx for Metal backend (#6577)
-ac0dc491e1d39dc469b8879dc839b1ac2e76e33d
+Add sparse texture Load intrinsic for SPIRV (#6702)
+df7c66be49822d650f8956662b16db49bae31d09
