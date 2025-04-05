@@ -1,2 +1,2 @@
-Implement subgroup quad operations for Metal (#6745)
-e3e84a1682c9e2d371f3f50f6425374c8b04828d
+Fix crash when using GLSL global uniforms and varying inputs/ouputs together (#6651)
+680fb0b4e9cbb65d46677183a3f68630be1f6179
