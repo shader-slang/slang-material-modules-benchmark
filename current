@@ -1,2 +1,2 @@
-Fix crash when using GLSL global uniforms and varying inputs/ouputs together (#6651)
-680fb0b4e9cbb65d46677183a3f68630be1f6179
+Add defer statement (#6619)
+1b82501dd0c74347cda4a2c7fe5a84fd610bb485
