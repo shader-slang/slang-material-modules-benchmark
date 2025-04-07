@@ -1,2 +1,2 @@
-Use GITHUB_TOKEN for fetching prebuilt (#6712)
-edb7289383538c3356ca2d5f7c37f41821bbf252
+Return non-escaped strings from user-defined attributes (#6735)
+9972a5269f87618e237cd927b859636322596a76
