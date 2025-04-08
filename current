@@ -1,2 +1,2 @@
-Return non-escaped strings from user-defined attributes (#6735)
-9972a5269f87618e237cd927b859636322596a76
+warn when the user puts a file extension in an implementing directive (#6757)
+87c96bcfa89905d237dc0452f255ebf61307c441
