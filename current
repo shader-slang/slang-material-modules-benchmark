@@ -1,2 +1,2 @@
-Add a more specific diagnostic message when passing concrete value to interface-typed output parameter (#6788)
-88a180ba0aa57b2d0fb4956005db2ea73dc73420
+Add flag to hoist instructions (#6740)
+61a6c211b1587a7b9ed6a24ae1ba6fe0600c80d8
