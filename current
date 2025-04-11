@@ -1,2 +1,2 @@
-Add a workflow for auto labeling issues (#6776)
-1c719a998cf251c27a92975832ec4c1f37d63597
+Add a more specific diagnostic message when passing concrete value to interface-typed output parameter (#6788)
+88a180ba0aa57b2d0fb4956005db2ea73dc73420
