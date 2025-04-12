@@ -1,2 +1,2 @@
-Fix benchmark/compile.py nested f-string and deprecated constant issues (#6773)
-6dd5bd52e3a5fb721776224e5e9a390d626faf26
+Add slang-test check for D3D11 double support (#6761)
+28006e36d92f7709f7c5ad84d50d1c5584c42508
