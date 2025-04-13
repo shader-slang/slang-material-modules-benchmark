@@ -1,2 +1,2 @@
-Add slang-test check for D3D11 double support (#6761)
-28006e36d92f7709f7c5ad84d50d1c5584c42508
+Fix pointer field/member access for GLSL (#6798)
+b9af45ff3f2288e2aa325c1d910544e368eb9538
