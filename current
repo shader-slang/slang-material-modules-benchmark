@@ -1,2 +1,2 @@
-Add SV_PointCoord to match gl_PointCoord (#6795)
-0f0818722268464775981520c2d6e975a9cf14fa
+try to find cuda headers in /usr/include (#6800)
+d6f4780e8a608fa37597116d5b0ac5c80034c2aa
