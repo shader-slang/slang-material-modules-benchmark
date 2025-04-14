@@ -1,2 +1,2 @@
-Fix pointer field/member access for GLSL (#6798)
-b9af45ff3f2288e2aa325c1d910544e368eb9538
+Add SV_PointCoord to match gl_PointCoord (#6795)
+0f0818722268464775981520c2d6e975a9cf14fa
