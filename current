@@ -1,2 +1,2 @@
-try to find cuda headers in /usr/include (#6800)
-d6f4780e8a608fa37597116d5b0ac5c80034c2aa
+Fix matrix division by scalar for Metal and WGSL targets (#6752)
+705d00ab8528e0d7c14f68b7d0e15fb57280c16e
