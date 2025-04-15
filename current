@@ -1,2 +1,2 @@
-Update the access tokens used for auto labeling CI (#6811)
-c1d1e37c975f1800325bf28619db71fa762e1f1d
+Consume `;` after parsing typedef decl. (#6759)
+5902ee7f3822178c601edcb128a846c502bca3de
