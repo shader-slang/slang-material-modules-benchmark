@@ -1,2 +1,2 @@
-Use the latest Ubuntu version not specific old version (#6825)
-786f456c2558f07c5a396e25ecb635a3c5480313
+Remove support for ad hoc Slang IR compression (#6834)
+2b20e9e150225f8cb75f7be2061f5ec99cbb2f66
