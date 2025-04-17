@@ -1,2 +1,2 @@
-Fix SV_InstanceID for emit-spirv-via-glsl path (#6848)
-297417c754961d2c1c3f8a2e94126c668e4574bc
+Fix compiler warning with clang 18.1.8 on windows (#6843)
+04db5a95657a8c1ad1db36570eadaeedbea01cbb
