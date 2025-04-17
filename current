@@ -1,2 +1,2 @@
-Skip cooperative vector tests when the graphics driver doesn't support it (#6841)
-8b2327b77110b6e5955ffc7fa181091cacc5674a
+Fix SV_InstanceID for emit-spirv-via-glsl path (#6848)
+297417c754961d2c1c3f8a2e94126c668e4574bc
