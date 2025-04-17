@@ -1,2 +1,2 @@
-Remove support for ad hoc Slang IR compression (#6834)
-2b20e9e150225f8cb75f7be2061f5ec99cbb2f66
+Skip cooperative vector tests when the graphics driver doesn't support it (#6841)
+8b2327b77110b6e5955ffc7fa181091cacc5674a
