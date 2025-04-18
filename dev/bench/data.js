@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1744928528950,
+  "lastUpdate": 1744941273753,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -29077,6 +29077,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 578.375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "223818423fe7e934fc115701a7a9e95733f8848e",
+          "message": "Fix regression in partial specialization of existential arguments (#6818)\n\nhttps://github.com/shader-slang/slang/commit/ee8a91e22813cf962be25e2c9f9263c20b70e228",
+          "timestamp": "2025-04-17T18:54:23-07:00",
+          "tree_id": "7efbd26a4963d722eb3b224e6b74c0273a830229",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/223818423fe7e934fc115701a7a9e95733f8848e"
+        },
+        "date": 1744941272702,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2092.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 471.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 474.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2139.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 473.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 472.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 577.0625,
             "unit": "milliseconds"
           }
         ]
