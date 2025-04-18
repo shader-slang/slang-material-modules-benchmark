@@ -1,2 +1,2 @@
-Fixed crash in slang-ir-autodiff-loop-analysis.cpp (#6831)
-a597a0358f2c2b8ec1b71b7959861658a2c06ecc
+Check the available VK extensions before using CoopVec APIs in GFX (#6849)
+591affaf733ec82d7b38a7bf9c4d2f49a69a2c66
