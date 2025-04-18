@@ -1,2 +1,2 @@
-Add Yet Another Source Code Generator (#6844)
-1e86f5657d38ae5bab0ced7dc17aeda48198fdd5
+Fix regression in partial specialization of existential arguments (#6818)
+ee8a91e22813cf962be25e2c9f9263c20b70e228
