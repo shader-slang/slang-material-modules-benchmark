@@ -1,2 +1,2 @@
-Check the available VK extensions before using CoopVec APIs in GFX (#6849)
-591affaf733ec82d7b38a7bf9c4d2f49a69a2c66
+Fix compiler warning on Windows about -build-id (#6857)
+136c989a261e036e98b45e69cf9288d750780062
