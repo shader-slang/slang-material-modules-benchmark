@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1745062953994,
+  "lastUpdate": 1745255628267,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -29419,6 +29419,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 566.6875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e4b8305d15f9da0b77dfd2be170726e30bada1b5",
+          "message": "Fix quad control required SPIRV version for emit-spirv-via-glsl (#6869)\n\nhttps://github.com/shader-slang/slang/commit/5d41a4dbd319c3266b21eee06bb6459adb59c2e7",
+          "timestamp": "2025-04-21T10:13:33-07:00",
+          "tree_id": "837bcef932ee8e3c1e47e6de1901171022143f9f",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e4b8305d15f9da0b77dfd2be170726e30bada1b5"
+        },
+        "date": 1745255627031,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2052.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 470.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 466.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2030.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 465.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 465.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 569,
             "unit": "milliseconds"
           }
         ]
