@@ -1,2 +1,2 @@
-Implement 64bit countbits intrinsic (#6433) (#6845)
-043278a527ab5744674417a08d924c67a60a486b
+Fix quad control required SPIRV version for emit-spirv-via-glsl (#6869)
+5d41a4dbd319c3266b21eee06bb6459adb59c2e7
