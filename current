@@ -1,2 +1,2 @@
-Fix quad control required SPIRV version for emit-spirv-via-glsl (#6869)
-5d41a4dbd319c3266b21eee06bb6459adb59c2e7
+Add `vk::offset` to specify member offsets for push constants (#6797)
+62baf92a524a5b57eb465100a5e47c489c049f15
