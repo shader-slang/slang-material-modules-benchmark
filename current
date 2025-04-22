@@ -1,2 +1,2 @@
-Add `vk::offset` to specify member offsets for push constants (#6797)
-62baf92a524a5b57eb465100a5e47c489c049f15
+Add a new SM profile 6.9 (#6879)
+cb361223b88a21446cea60d316e3c01b7f8c2546
