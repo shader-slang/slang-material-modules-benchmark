@@ -1,2 +1,2 @@
-Add a new SM profile 6.9 (#6879)
-cb361223b88a21446cea60d316e3c01b7f8c2546
+Add SLANG_OVERRIDE to SLANG_IUNKNOWN_ macros (#6864)
+d5220b327632a8aeeb9a89494bb37bd82fec30cb
