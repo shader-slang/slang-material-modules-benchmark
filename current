@@ -1,2 +1,2 @@
-Fix attempt to construct an abstract AST node (#6905)
-a4dc6247ade19eac03e0643d56f0877d39aaec6e
+Add MinSizeRel to cmake default preset explicitly (#6872)
+ba75ae14e714c8bd7558f625ff45fb9cfc2292b3
