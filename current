@@ -1,2 +1,2 @@
-disable slang-rhi cmake install (#6900)
-212d2f5978c514332783e3dd0355f207e9f1ba77
+Fix attempt to construct an abstract AST node (#6905)
+a4dc6247ade19eac03e0643d56f0877d39aaec6e
