@@ -1,2 +1,2 @@
-update slang-rhi (#6587)
-ae1a5e40880808252c68eb51e44051b32a34d399
+disable slang-rhi cmake install (#6900)
+212d2f5978c514332783e3dd0355f207e9f1ba77
