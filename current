@@ -1,2 +1,2 @@
-Fixed various queryInterface implementations (#6863)
-785669c8771c01d57914ec0075315e8ae61b6a31
+Fix #6544: Properly format nested type names in extensions (#6769)
+b78a8ba006fc9253cd1fd88fb7dd1eacfa749dfa
