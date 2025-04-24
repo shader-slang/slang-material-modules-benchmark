@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1745392670934,
+  "lastUpdate": 1745471772495,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -29761,6 +29761,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 664,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "fd0708ded59d440be97c902c1a8e8e68b5bb1326",
+          "message": "Fix #6544: Properly format nested type names in extensions (#6769)\n\nhttps://github.com/shader-slang/slang/commit/b78a8ba006fc9253cd1fd88fb7dd1eacfa749dfa",
+          "timestamp": "2025-04-23T22:16:02-07:00",
+          "tree_id": "915af0da67a94cc81912bf5f29a69a4d52fd5b6d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/fd0708ded59d440be97c902c1a8e8e68b5bb1326"
+        },
+        "date": 1745471771477,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2078.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 495.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 494.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2061.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 492.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 493,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 669.8125,
             "unit": "milliseconds"
           }
         ]
