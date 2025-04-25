@@ -1,2 +1,2 @@
-Add MinSizeRel to cmake default preset explicitly (#6872)
-ba75ae14e714c8bd7558f625ff45fb9cfc2292b3
+Update spirv-tools to for SDK v2025.2 (#6893)
+d84aeeffdba388aec7a781c35973bf404d37fe80
