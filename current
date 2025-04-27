@@ -1,2 +1,2 @@
-Added getCanonicalGenericConstraints2 (sorts constraints and allows more generic expressions) (#6787)
-a5efbb1b775afb2f6b29b37d39947c41744bb005
+Emit SPIRV NonReadable decoration for WTexture* (#6922)
+8f6c6e333c06ae1c3b9f00396563c14a2ae09b4d
