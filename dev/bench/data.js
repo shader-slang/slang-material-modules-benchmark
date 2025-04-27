@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1745696482582,
+  "lastUpdate": 1745786677652,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -30160,6 +30160,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 677.3125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "57fc5c10024236492a616b2180ceb37ebb0f80d3",
+          "message": "Emit SPIRV NonReadable decoration for WTexture* (#6922)\n\nhttps://github.com/shader-slang/slang/commit/8f6c6e333c06ae1c3b9f00396563c14a2ae09b4d",
+          "timestamp": "2025-04-27T13:44:24-07:00",
+          "tree_id": "f6eef60de3b14feab484d6c6d17f5c9798c561e9",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/57fc5c10024236492a616b2180ceb37ebb0f80d3"
+        },
+        "date": 1745786675991,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3653.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 815,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 824.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3635.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 819.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 845.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1067.875,
             "unit": "milliseconds"
           }
         ]
