@@ -1,2 +1,2 @@
-Emit SPIRV NonReadable decoration for WTexture* (#6922)
-8f6c6e333c06ae1c3b9f00396563c14a2ae09b4d
+Add Slang Byte Code generation and interpreter. (#6896)
+c39c29bf4c52a85d7c83cc8b66ae45e265f9e078
