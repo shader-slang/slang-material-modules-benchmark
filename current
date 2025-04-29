@@ -1,2 +1,2 @@
-Add Slang Byte Code generation and interpreter. (#6896)
-c39c29bf4c52a85d7c83cc8b66ae45e265f9e078
+Support use of `this` with Mesh Shader Outputs (`IRMeshOutputRef`) (#6920)
+b02771f235909fb9399bd3969dbea0d4115ae016
