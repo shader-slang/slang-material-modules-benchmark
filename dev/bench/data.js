@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1745975644010,
+  "lastUpdate": 1746010340542,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -30388,6 +30388,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1074.5,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "6d9bec859680d4891873a75846215917a85e38d4",
+          "message": "Add subscript operator support in cuda (#6830)\n\nhttps://github.com/shader-slang/slang/commit/b0e150511a6a536c8ad9e74910b30ae179a10ec9",
+          "timestamp": "2025-04-30T03:52:10-07:00",
+          "tree_id": "80610830b621ba0ed173f9756b3e997c2ae494ff",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/6d9bec859680d4891873a75846215917a85e38d4"
+        },
+        "date": 1746010339465,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2107.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 495.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 496.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2055.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 494.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 493.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 668.9375,
             "unit": "milliseconds"
           }
         ]
