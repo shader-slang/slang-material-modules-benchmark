@@ -1,2 +1,2 @@
-Support use of `this` with Mesh Shader Outputs (`IRMeshOutputRef`) (#6920)
-b02771f235909fb9399bd3969dbea0d4115ae016
+Fixes related to AST serialization change (#6953)
+41ac7a0d8b4e9c08eccc2153020900e0262cae84
