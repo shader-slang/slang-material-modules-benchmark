@@ -1,2 +1,2 @@
-cuda: Improve entry handling for SV_DispatchThreadID (#6925)
-54acb11b1c8b6af2504ff3a3e0f56ca8baba4753
+Initial support for immutable lambda expressions. (#6914)
+7f1df9d0b31413e59846cc955d2a955d3f361e2a
