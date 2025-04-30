@@ -1,2 +1,2 @@
-Fixes related to AST serialization change (#6953)
-41ac7a0d8b4e9c08eccc2153020900e0262cae84
+Add subscript operator support in cuda (#6830)
+b0e150511a6a536c8ad9e74910b30ae179a10ec9
