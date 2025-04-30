@@ -1,2 +1,2 @@
-Add subscript operator support in cuda (#6830)
-b0e150511a6a536c8ad9e74910b30ae179a10ec9
+cuda: Improve entry handling for SV_DispatchThreadID (#6925)
+54acb11b1c8b6af2504ff3a3e0f56ca8baba4753
