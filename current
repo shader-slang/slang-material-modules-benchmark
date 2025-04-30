@@ -1,2 +1,2 @@
-Initial support for immutable lambda expressions. (#6914)
-7f1df9d0b31413e59846cc955d2a955d3f361e2a
+Add `IOpaqueDescriptor::descriptorAccess`. (#6967)
+a8d7bb9f781fd77080f07bfaab54fbbcf3a3686d
