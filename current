@@ -1,2 +1,2 @@
-Add `IOpaqueDescriptor::descriptorAccess`. (#6967)
-a8d7bb9f781fd77080f07bfaab54fbbcf3a3686d
+Smoke test WASM as a part of CI (#6969)
+15fce7c8f11985be5ac1fdb1f180a30150e9db89
