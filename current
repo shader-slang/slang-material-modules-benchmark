@@ -1,2 +1,2 @@
-Update falcor perf test path (#6975)
-dde654c8605ea65f959fcadaa6618337ab1f20c0
+Add fwidth_coarse and fwidth_fine functions (#6941)
+7d7027853a94c83e9b90b8a11877e91cdaa3e81b
