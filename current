@@ -1,2 +1,2 @@
-Fix intermittent failure of slang-unit-test-tool/ReplayRecord (#6981)
-1b539d8907af3cc77e52e8cf4edf029964e0423a
+Fix build on GCC 15 (#6971)
+6104a55548133f936b189fad011f90f067fe725b
