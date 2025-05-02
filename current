@@ -1,2 +1,2 @@
-Disable an always failing test, partial resident test with dx12 (#6983)
-d61296044f760e9f502825ec253a61ce8675257a
+Fix intermittent failure of slang-unit-test-tool/ReplayRecord (#6981)
+1b539d8907af3cc77e52e8cf4edf029964e0423a
