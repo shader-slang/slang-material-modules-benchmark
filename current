@@ -1,2 +1,2 @@
-Fix comment typos in the triangle's main.cpp example (#6976)
-92fb841a2b738fd5e353b3ad4ea48a1037c69f80
+Disable an always failing test, partial resident test with dx12 (#6983)
+d61296044f760e9f502825ec253a61ce8675257a
