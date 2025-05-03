@@ -1,2 +1,2 @@
-Fix seg-fault in cudaCodeGenBug test (#6985)
-7f9283a34b4aaf3401cdb652a2f9208b2b4ff4f4
+Add IREnumType to distinguish enums from ints and each other (#6973)
+6f6103c4dbc77d5bceae7c8e766ec3cabc293364
