@@ -1,2 +1,2 @@
-Fix build on GCC 15 (#6971)
-6104a55548133f936b189fad011f90f067fe725b
+Fix seg-fault in cudaCodeGenBug test (#6985)
+7f9283a34b4aaf3401cdb652a2f9208b2b4ff4f4
