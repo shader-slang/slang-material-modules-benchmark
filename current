@@ -1,2 +1,2 @@
-Add IREnumType to distinguish enums from ints and each other (#6973)
-6f6103c4dbc77d5bceae7c8e766ec3cabc293364
+Correct incorrect enum usage on metal (#6994)
+698e43372cefe0fff13150925aeb7f389c21a938
