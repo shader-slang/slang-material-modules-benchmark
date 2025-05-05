@@ -1,2 +1,2 @@
-Correct incorrect enum usage on metal (#6994)
-698e43372cefe0fff13150925aeb7f389c21a938
+Add countbits 16-bit and 8-bit support (#6433) (#6897)
+50d9781b7387b0f7f56d19c72afcf390cca72b72
