@@ -1,2 +1,2 @@
-Add countbits 16-bit and 8-bit support (#6433) (#6897)
-50d9781b7387b0f7f56d19c72afcf390cca72b72
+Fix the intermittent failures of tests/autodiff/auto-differential-type (#7006)
+0f4a32fccce9106eb00876678fd58a95df62fb5b
