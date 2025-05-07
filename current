@@ -1,2 +1,2 @@
-Output default parameter values on language server hover (#6902)
-90ecf185a742efffc7e1fcf399961289b3e00d08
+bitcast require the input has same width with result type (#7018)
+ccdb2e39da37753961f3694d0f90e676bf859006
