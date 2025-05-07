@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1746642648919,
+  "lastUpdate": 1746650188934,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -31756,6 +31756,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 687.5,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "57ca2b37146aa243ca5e83b64b8ac693ef7e5798",
+          "message": "Add new Valve vfx sections for mesh shaders. (#7030)\n\nhttps://github.com/shader-slang/slang/commit/09c13a3f5829a77408b825a179168323a410e08a",
+          "timestamp": "2025-05-07T13:36:05-07:00",
+          "tree_id": "b96b0bb1247670fe7314874137b2c23a24ccca83",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/57ca2b37146aa243ca5e83b64b8ac693ef7e5798"
+        },
+        "date": 1746650185733,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2123.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 499.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 507.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2106.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 499.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 500.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 686.6875,
             "unit": "milliseconds"
           }
         ]
