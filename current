@@ -1,2 +1,2 @@
-bitcast require the input has same width with result type (#7018)
-ccdb2e39da37753961f3694d0f90e676bf859006
+[CUDA] Fix surface write intrinsics (#7004)
+eb1198fcc7f0dacb1167d119aad7ddfc47f84c78
