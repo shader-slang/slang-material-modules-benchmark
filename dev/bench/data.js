@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1746597261643,
+  "lastUpdate": 1746642648919,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -31699,6 +31699,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 676.75,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ff26b2386e674581ef6a6aaf5ae75950a8616046",
+          "message": "[CUDA] Fix surface write intrinsics (#7004)\n\nhttps://github.com/shader-slang/slang/commit/eb1198fcc7f0dacb1167d119aad7ddfc47f84c78",
+          "timestamp": "2025-05-07T11:21:06-07:00",
+          "tree_id": "ceb4cd1563ae8e8943c13430cf92537060e86781",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ff26b2386e674581ef6a6aaf5ae75950a8616046"
+        },
+        "date": 1746642647070,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2152.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 516.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 509.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2127.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 504,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 510.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 687.5,
             "unit": "milliseconds"
           }
         ]
