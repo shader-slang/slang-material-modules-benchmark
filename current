@@ -1,2 +1,2 @@
-[CUDA] Fix surface write intrinsics (#7004)
-eb1198fcc7f0dacb1167d119aad7ddfc47f84c78
+Add new Valve vfx sections for mesh shaders. (#7030)
+09c13a3f5829a77408b825a179168323a410e08a
