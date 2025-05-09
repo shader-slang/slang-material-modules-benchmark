@@ -1,2 +1,2 @@
-Destroy unused witness table after hoisting (#7009)
-5e5c08dc5ddf7989faf2f9f8ad76e260ba6385d7
+Fixed name mangling of generic extensions (#6671)
+dbf05f8dca79d7bb166038652d968554d486c9fd
