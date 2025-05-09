@@ -1,2 +1,2 @@
-Fixed name mangling of generic extensions (#6671)
-dbf05f8dca79d7bb166038652d968554d486c9fd
+Fix various intptr_t issues by defining its width in `getIntTypeInfo` (#6786)
+029672ee08f5ecb710e84cf1ccc625e826ff9a29
