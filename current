@@ -1,2 +1,2 @@
-Restore Properties section name in stdlib reference (#7042)
-8a542dfffca7633707cb4b5e6ac007c4523778f8
+Destroy unused witness table after hoisting (#7009)
+5e5c08dc5ddf7989faf2f9f8ad76e260ba6385d7
