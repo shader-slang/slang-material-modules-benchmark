@@ -1,2 +1,2 @@
-Fix SPIRV unsigned to signed widening casts (#7051)
-48203ea02250ba517f749a222092f091d9bef15e
+Add debug information for slang inling (#6621)
+083eecee3f56b90c7011895f53aaafa9db15856e
