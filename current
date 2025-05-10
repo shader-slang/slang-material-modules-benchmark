@@ -1,2 +1,2 @@
-Fix various intptr_t issues by defining its width in `getIntTypeInfo` (#6786)
-029672ee08f5ecb710e84cf1ccc625e826ff9a29
+Update build to allow setting more external paths (#7044)
+5a6c2baadbc16fc2099a6951e389b9bd3cad08f6
