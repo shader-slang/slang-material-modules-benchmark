@@ -1,2 +1,2 @@
-Add debug information for slang inling (#6621)
-083eecee3f56b90c7011895f53aaafa9db15856e
+Fix local constants in switch cases (#7053)
+7cd502256dde2fc32a1dd77462a69b6f8e84c288
