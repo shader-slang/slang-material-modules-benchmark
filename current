@@ -1,2 +1,2 @@
-Fix local constants in switch cases (#7053)
-7cd502256dde2fc32a1dd77462a69b6f8e84c288
+Add a new option "-capability" to slang-test and render-test (#7054)
+b46c342f47b61119a0dc517ce6eb75eab3398504
