@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1747083550998,
+  "lastUpdate": 1747091239428,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -32668,6 +32668,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 659.4375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "7d559545683554e0c06bf86760fd991c864920dd",
+          "message": "Make CUDA version capabilities reach NVRTC (#7074)\n\nhttps://github.com/shader-slang/slang/commit/b423ea55b4b00004bde1f91d95d9e5161d0ae629",
+          "timestamp": "2025-05-12T16:07:05-07:00",
+          "tree_id": "ed28ae17bd959964cc7d26b2c10af226b27597c0",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/7d559545683554e0c06bf86760fd991c864920dd"
+        },
+        "date": 1747091237636,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3734.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 855.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 846.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3810.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 832.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 834.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1089.9375,
             "unit": "milliseconds"
           }
         ]
