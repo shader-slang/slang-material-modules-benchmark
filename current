@@ -1,2 +1,2 @@
-Ensure to emit 32-bit type for bitfield operations for SPIRV (#7046)
-54ff7fd879e71f51ed3c0fda16224cbbcf0831eb
+Make CUDA version capabilities reach NVRTC (#7074)
+b423ea55b4b00004bde1f91d95d9e5161d0ae629
