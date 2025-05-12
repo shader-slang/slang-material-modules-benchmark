@@ -1,2 +1,2 @@
-Add a new option "-capability" to slang-test and render-test (#7054)
-b46c342f47b61119a0dc517ce6eb75eab3398504
+cuda: Add more formats for texture read/write (#7012)
+03f9242489d5598c9c7594ac12e269f57a018cda
