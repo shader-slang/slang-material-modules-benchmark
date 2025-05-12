@@ -1,2 +1,2 @@
-Cleanups related to RIFF support (#7041)
-4c76b275907cf2d764f3fc51468d1c58635a10c1
+Ensure to emit 32-bit type for bitfield operations for SPIRV (#7046)
+54ff7fd879e71f51ed3c0fda16224cbbcf0831eb
