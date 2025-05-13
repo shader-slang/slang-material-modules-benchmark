@@ -1,2 +1,2 @@
-Support Array Sizes using Generic arguments to be initialized via {} (#6720)
-6c262bc5c9a364cd8c6a4026dbb9f8034c500f11
+Fix invalid memory dereference in lower-to-ir (#7080)
+0db786ce42c28002a34c257aa208a2be61ab9957
