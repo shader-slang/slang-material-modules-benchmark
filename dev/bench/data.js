@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1747115530887,
+  "lastUpdate": 1747159327031,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -32839,6 +32839,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 666.125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "bed20064eaff431fdfe9c26fdbbca67e9fd14add",
+          "message": "Fix invalid memory dereference in lower-to-ir (#7080)\n\nhttps://github.com/shader-slang/slang/commit/0db786ce42c28002a34c257aa208a2be61ab9957",
+          "timestamp": "2025-05-13T11:00:33-07:00",
+          "tree_id": "2c61a1cce8d6d2a7002eb15e178bf4f888677a17",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/bed20064eaff431fdfe9c26fdbbca67e9fd14add"
+        },
+        "date": 1747159325723,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2083.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 498.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 496,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2065.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 491.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 494.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 662.5625,
             "unit": "milliseconds"
           }
         ]
