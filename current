@@ -1,2 +1,2 @@
-Make CUDA version capabilities reach NVRTC (#7074)
-b423ea55b4b00004bde1f91d95d9e5161d0ae629
+Add half-precision matrix type aliases in GLSL (#7066)
+2fb95f99c3efbe54f92f6338ab8c6970f1ec35ee
