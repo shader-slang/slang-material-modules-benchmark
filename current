@@ -1,2 +1,2 @@
-Add half-precision matrix type aliases in GLSL (#7066)
-2fb95f99c3efbe54f92f6338ab8c6970f1ec35ee
+Support Array Sizes using Generic arguments to be initialized via {} (#6720)
+6c262bc5c9a364cd8c6a4026dbb9f8034c500f11
