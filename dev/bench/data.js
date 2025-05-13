@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1747091239428,
+  "lastUpdate": 1747098985087,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -32725,6 +32725,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1089.9375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "dada52bb2e23afc82e969522fb4da2ce991a829b",
+          "message": "Add half-precision matrix type aliases in GLSL (#7066)\n\nhttps://github.com/shader-slang/slang/commit/2fb95f99c3efbe54f92f6338ab8c6970f1ec35ee",
+          "timestamp": "2025-05-12T18:16:12-07:00",
+          "tree_id": "b69d4cbf5191ab48e6f96f706ef10fab2c021875",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/dada52bb2e23afc82e969522fb4da2ce991a829b"
+        },
+        "date": 1747098983186,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2135.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 500.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 503,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2125.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 498.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 502.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 671.5,
             "unit": "milliseconds"
           }
         ]
