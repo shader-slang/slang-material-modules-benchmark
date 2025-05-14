@@ -1,2 +1,2 @@
-Add Payload Access Qualifiers to the raytracing examples (#7092)
-04ba87e23435e76583c05d4530d63686f9af712f
+Error out on invalid vector sizes (#7076)
+eb5648b41d0718648477cbcf941fb3c6edf6dfc7
