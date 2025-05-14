@@ -1,2 +1,2 @@
-Infer type while constant folding causes failure (#7090)
-d179f0eec263d6ba2d7c1594564d4161750b2369
+Remove readonly keyword from buffer pointer definitions (#7068)
+8c98714df2198db1aff4ce6c6f7922850e400f80
