@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1747159327031,
+  "lastUpdate": 1747190167864,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -32896,6 +32896,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 662.5625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "1c8895162b203a5c5db01b47a39ada36c51c0dc1",
+          "message": "Add Payload Access Qualifiers to the raytracing examples (#7092)\n\nhttps://github.com/shader-slang/slang/commit/04ba87e23435e76583c05d4530d63686f9af712f",
+          "timestamp": "2025-05-13T19:35:57-07:00",
+          "tree_id": "c7e0b5c4774660c2197aa52ca227dbd4650d4251",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/1c8895162b203a5c5db01b47a39ada36c51c0dc1"
+        },
+        "date": 1747190166656,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2127.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 500.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 501.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2110.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 501.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 502.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 668.6875,
             "unit": "milliseconds"
           }
         ]
