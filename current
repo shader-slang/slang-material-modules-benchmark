@@ -1,2 +1,2 @@
-Error out on invalid vector sizes (#7076)
-eb5648b41d0718648477cbcf941fb3c6edf6dfc7
+support specialization constant sized array (#6871)
+375ecfe2903b09f07abeba2eafb88d9a564c1458
