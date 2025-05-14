@@ -1,2 +1,2 @@
-Do not escape markdown between backticks (#7086)
-4a3872cd3bbc44036e8acec0ba57233e1eab51e8
+Infer type while constant folding causes failure (#7090)
+d179f0eec263d6ba2d7c1594564d4161750b2369
