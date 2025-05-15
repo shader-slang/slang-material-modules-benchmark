@@ -1,2 +1,2 @@
-Re-enable spirv-validation, because the issue is no longer repro (#7082)
-dd275dd952afc1b0d1a156d786c28620a48863e1
+Support tensor addressing (#7060)
+49de1e8f60c698e9d524befacc988fb06574b234
