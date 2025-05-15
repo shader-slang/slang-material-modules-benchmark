@@ -1,2 +1,2 @@
-Support the new CoopVec builtins (#7108)
-b4d3d3017640581c21b52a12413d3f074ab1c5c1
+Add new coopmat2 functions: Reduce and Transpose (#7027)
+2580bb02f7a079ab1c0106b5960a21ed1627bca0
