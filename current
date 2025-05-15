@@ -1,2 +1,2 @@
-Add new coopmat2 functions: Reduce and Transpose (#7027)
-2580bb02f7a079ab1c0106b5960a21ed1627bca0
+Remove compiler option no longer needed from the example (#7084)
+7fa8c35383ed4437cb9acb1670ca6db749173d86
