@@ -1,2 +1,2 @@
-Add checking for hlsl register semantic. (#7118)
-0d6312f3be66f4bff9eec9606228db3edc309e2c
+Fix slangc path used by cmdline reference doc regeneration action (#7128)
+fba75a6f3f3c26b05cf4c826bff4a102972d348c
