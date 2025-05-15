@@ -1,2 +1,2 @@
-Remove compiler option no longer needed from the example (#7084)
-7fa8c35383ed4437cb9acb1670ca6db749173d86
+Re-enable spirv-validation, because the issue is no longer repro (#7082)
+dd275dd952afc1b0d1a156d786c28620a48863e1
