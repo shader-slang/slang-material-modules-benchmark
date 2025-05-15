@@ -1,2 +1,2 @@
-Implement C++ style default member initializer (#7087)
-d961f4438ef865028d289148d22e0fb5c0d8319a
+Add checking for hlsl register semantic. (#7118)
+0d6312f3be66f4bff9eec9606228db3edc309e2c
