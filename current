@@ -1,2 +1,2 @@
-Fix slangc path used by cmdline reference doc regeneration action (#7128)
-fba75a6f3f3c26b05cf4c826bff4a102972d348c
+Fix broken -emit-spirv-via-glsl test option (#7091)
+b39ec87cccaadebbb9325dd2adb8c0b13b364805
