@@ -1,2 +1,2 @@
-Address structured buffer `GetDimensions` issues for WGSL, GLSL and SPIRV (#7010)
-da951e06e7eb8ad1b9c91d6176be8165ea4f2b45
+Enable Windows full debug testsuite in CI (#7085)
+8f20632a0ba45c3bfada293842e55129949a2ae9
