@@ -1,2 +1,2 @@
-Enforce rule that `export`/`extern` (non cpp) must be `const` (#7113)
-0651ffb6489282f0f902ec5f630821a7b9d848bb
+Address structured buffer `GetDimensions` issues for WGSL, GLSL and SPIRV (#7010)
+da951e06e7eb8ad1b9c91d6176be8165ea4f2b45
