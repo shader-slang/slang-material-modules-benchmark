@@ -1,2 +1,2 @@
-Fix broken -emit-spirv-via-glsl test option (#7091)
-b39ec87cccaadebbb9325dd2adb8c0b13b364805
+Fix RWStructuredBuffer emission (#7139)
+1fd7b2296d8360c245a0c732e7f842876533f92a
