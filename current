@@ -1,2 +1,2 @@
-Fix RWStructuredBuffer emission (#7139)
-1fd7b2296d8360c245a0c732e7f842876533f92a
+Enforce rule that `export`/`extern` (non cpp) must be `const` (#7113)
+0651ffb6489282f0f902ec5f630821a7b9d848bb
