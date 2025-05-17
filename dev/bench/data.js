@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1747433071237,
+  "lastUpdate": 1747448557047,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -34093,6 +34093,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1087.375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "89445a13176915a19e22c926ba3a85a3ae73a17b",
+          "message": "Fix: Preserve inout param modifications with OptiX IgnoreHit() (#6956)\n\nhttps://github.com/shader-slang/slang/commit/0be6970c01d212aac7ea7db9b6c1556c530d6889",
+          "timestamp": "2025-05-16T19:22:25-07:00",
+          "tree_id": "e04856879a387daef75f2453cb2f29940a12360c",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/89445a13176915a19e22c926ba3a85a3ae73a17b"
+        },
+        "date": 1747448555808,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3723.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 833.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 830.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3685.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 833.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 831.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1090.8125,
             "unit": "milliseconds"
           }
         ]
