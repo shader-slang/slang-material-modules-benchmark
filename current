@@ -1,2 +1,2 @@
-Fix: Preserve inout param modifications with OptiX IgnoreHit() (#6956)
-0be6970c01d212aac7ea7db9b6c1556c530d6889
+Support Vulkan memory model (#7057)
+d58243d9041947c99f18b82385e62c082507decb
