@@ -1,2 +1,2 @@
-Support Vulkan memory model (#7057)
-d58243d9041947c99f18b82385e62c082507decb
+fix the break to make sure only valid data will be accessed (#7148)
+49667272add1963c6937a63898de6881b2e455aa
