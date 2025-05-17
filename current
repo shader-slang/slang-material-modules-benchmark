@@ -1,2 +1,2 @@
-Enable Windows full debug testsuite in CI (#7085)
-8f20632a0ba45c3bfada293842e55129949a2ae9
+Fix: Preserve inout param modifications with OptiX IgnoreHit() (#6956)
+0be6970c01d212aac7ea7db9b6c1556c530d6889
