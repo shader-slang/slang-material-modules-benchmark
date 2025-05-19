@@ -1,2 +1,2 @@
-fix the break to make sure only valid data will be accessed (#7148)
-49667272add1963c6937a63898de6881b2e455aa
+Map `SV_VertexID` to `gl_VertexIndex-gl_BaseVertex`, add `SV_Vulkan*ID` semantics (#7150)
+634e3960c2bc322bbd51fccc7ff395d9f24e35dc
