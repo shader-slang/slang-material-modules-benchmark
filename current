@@ -1,2 +1,2 @@
-Update build to allow setting external lua path (#7167)
-1750db9a7d4a3988c182a78f7cc62397792dc06a
+[CUDA] Add template specializations for signed integer texture fetches (#7161)
+ccb1dd5ffb8edb0086230fdcf5e16936c2bfd37f
