@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1747720069064,
+  "lastUpdate": 1747724577770,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -34378,6 +34378,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 648.8125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "c84e8dbc1c50a9a5ea5724233ef00f036277d48f",
+          "message": "[CUDA] Add template specializations for signed integer texture fetches (#7161)\n\nhttps://github.com/shader-slang/slang/commit/ccb1dd5ffb8edb0086230fdcf5e16936c2bfd37f",
+          "timestamp": "2025-05-20T00:02:42-07:00",
+          "tree_id": "e9eb0fcf583df65f30ff646a93ac8fc567858fd6",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/c84e8dbc1c50a9a5ea5724233ef00f036277d48f"
+        },
+        "date": 1747724575833,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3708.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 828.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 821.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3820.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 860,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 874.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1110.5625,
             "unit": "milliseconds"
           }
         ]
