@@ -1,2 +1,2 @@
-[CUDA] Add template specializations for signed integer texture fetches (#7161)
-ccb1dd5ffb8edb0086230fdcf5e16936c2bfd37f
+Fix retry logic and skip high intermittent test failure (#7175)
+52d70f37f66d8fc34bc142386490bdcde0fc7db0
