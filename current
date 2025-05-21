@@ -1,2 +1,2 @@
-Add inverse hyperbolic derivatives (#7173)
-c4b6ef0bd6a7b7de131786c661c7e3423e318d7e
+Fix incorrect way of type checking inside of CoopVec Multiply (#7198)
+21346ded32be9091389ca53815c1ba56feff8a01
