@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1747803800943,
+  "lastUpdate": 1747807203924,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -34549,6 +34549,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 670.5625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "040d6d7aa6fb485807c9858c4ffd6e15f9d05718",
+          "message": "Add inverse hyperbolic derivatives (#7173)\n\nhttps://github.com/shader-slang/slang/commit/c4b6ef0bd6a7b7de131786c661c7e3423e318d7e",
+          "timestamp": "2025-05-20T22:59:52-07:00",
+          "tree_id": "74eac2b71f8a17eea189b903ec11860961a1bf7a",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/040d6d7aa6fb485807c9858c4ffd6e15f9d05718"
+        },
+        "date": 1747807202427,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2069.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 487.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 487.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2045.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 484.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 484.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 663.5625,
             "unit": "milliseconds"
           }
         ]
