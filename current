@@ -1,2 +1,2 @@
-Fix incorrect way of type checking inside of CoopVec Multiply (#7198)
-21346ded32be9091389ca53815c1ba56feff8a01
+Initial `dyn` keyword support & `-lang 2026` compiler option (#7172)
+27c6e9b01f7386263bde90e16812be46327015c2
