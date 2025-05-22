@@ -1,2 +1,2 @@
-Initial `dyn` keyword support & `-lang 2026` compiler option (#7172)
-27c6e9b01f7386263bde90e16812be46327015c2
+Make sizeof(T) & alignof(T) of generic types work as compile-time constants (#7213)
+ce238dd878038bf857968931773cc9b10f3b225d
