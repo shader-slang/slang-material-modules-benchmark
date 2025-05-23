@@ -1,2 +1,2 @@
-Add default constructor for Ptr type (#7214)
-6209f69f335a604604a5032b0f5c38b4b8bc861a
+Add CoopVec load/store pointer overloads (#6822)
+d108bfa677c70808b32bd77e93637ed34c19c75d
