@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1747969432271,
+  "lastUpdate": 1747976807520,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -34891,6 +34891,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1128.6875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "66048c40d509a9d711edc0beb82f4e5ad73d2d47",
+          "message": "Add default constructor for Ptr type (#7214)\n\nhttps://github.com/shader-slang/slang/commit/6209f69f335a604604a5032b0f5c38b4b8bc861a",
+          "timestamp": "2025-05-22T22:06:36-07:00",
+          "tree_id": "f124c72adbdd8ab7d8947fbe4f0f63853a1a7cd1",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/66048c40d509a9d711edc0beb82f4e5ad73d2d47"
+        },
+        "date": 1747976806169,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2064.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 487.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 488.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2031.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 484.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 484.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 672.75,
             "unit": "milliseconds"
           }
         ]
