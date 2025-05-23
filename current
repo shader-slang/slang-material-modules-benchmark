@@ -1,2 +1,2 @@
-Add slangpy testing in slang CI (#7083)
-2d34409f2e72673ac9fd766eaeaa75f60882e7ca
+Implement default initializer list for C-Style type member (#7079)
+3072cfea95aad2a9ddab0f517c8f18f634442a27
