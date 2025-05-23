@@ -1,2 +1,2 @@
-Make sizeof(T) & alignof(T) of generic types work as compile-time constants (#7213)
-ce238dd878038bf857968931773cc9b10f3b225d
+Add slangpy testing in slang CI (#7083)
+2d34409f2e72673ac9fd766eaeaa75f60882e7ca
