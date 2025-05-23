@@ -1,2 +1,2 @@
-Implement default initializer list for C-Style type member (#7079)
-3072cfea95aad2a9ddab0f517c8f18f634442a27
+Add default constructor for Ptr type (#7214)
+6209f69f335a604604a5032b0f5c38b4b8bc861a
