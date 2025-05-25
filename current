@@ -1,2 +1,2 @@
-List all source files in debug source file list (#7203)
-554be7a5f990df19a21db10b4e5dc0285cbe8168
+Add full support for SPV_NV_shader_subgroup_partitioned (#7103)
+0476b57faad96bee61f59f27ddd48c6cb067cfa2
