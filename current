@@ -1,2 +1,2 @@
-Fix operator precedence in OptiX ray payload pointer casting which broke due to (#6326) (#7194)
-5280ca81025d42239fec492eb72d38606308751a
+Fix nullptr_t compiling failure (#7240)
+55dcd29ed3fb2b59582d578245d612ffb450cb9e
