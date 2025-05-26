@@ -1,2 +1,2 @@
-Implement shader execution reordering support for OptiX (#7211)
-83538e0b4b97425ecdae6f72f9c8fd44cb255aac
+Fix operator precedence in OptiX ray payload pointer casting which broke due to (#6326) (#7194)
+5280ca81025d42239fec492eb72d38606308751a
