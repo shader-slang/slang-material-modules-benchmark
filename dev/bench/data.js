@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1748274101693,
+  "lastUpdate": 1748284718708,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -35290,6 +35290,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 678.75,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "7c6f367035ac4b3a65d96136b8a90509b29fbafd",
+          "message": "Fix operator precedence in OptiX ray payload pointer casting which broke due to (#6326) (#7194)\n\nhttps://github.com/shader-slang/slang/commit/5280ca81025d42239fec492eb72d38606308751a",
+          "timestamp": "2025-05-26T11:38:26-07:00",
+          "tree_id": "da89e3c31b5e528a856db2e5d7f4f45817a01ec7",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/7c6f367035ac4b3a65d96136b8a90509b29fbafd"
+        },
+        "date": 1748284717367,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3736.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 844.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 841.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3934.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 880.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 887.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1147.375,
             "unit": "milliseconds"
           }
         ]
