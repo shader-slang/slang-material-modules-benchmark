@@ -1,2 +1,2 @@
-Add LSS intrinsics (#7200)
-f570e109c4039e15526af38e17f350c115327489
+Add check for subscript operator return type (#7244)
+9ef7072397457e8cdb8a63a1a6953d01f46b2904
