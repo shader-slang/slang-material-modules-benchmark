@@ -1,2 +1,2 @@
-Add check for subscript operator return type (#7244)
-9ef7072397457e8cdb8a63a1a6953d01f46b2904
+Enable slang-rhi integration testing (#7218)
+3a9f189c6a087cb3a58bed2f81543ceb26e62b0e
