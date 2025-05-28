@@ -1,2 +1,2 @@
-Enable slang-rhi integration testing (#7218)
-3a9f189c6a087cb3a58bed2f81543ceb26e62b0e
+Change default descriptor binding to be VkMutable (#7224)
+c9e9efaaf064dc0a3d3a538506f5f0f47de9b674
