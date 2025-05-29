@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1748534325389,
+  "lastUpdate": 1748555894570,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -35746,6 +35746,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1143,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "2921ec205eccf6fe0c47b1e5b5757d069dbe9a8a",
+          "message": "Update ubuntu runners to use 22.04 (#7142)\n\nhttps://github.com/shader-slang/slang/commit/f4d7954e088966c2ae8618b1cc17aac4d64ef013",
+          "timestamp": "2025-05-29T14:58:01-07:00",
+          "tree_id": "67ac57f1b59e52e85b8173bb1be7471612992457",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/2921ec205eccf6fe0c47b1e5b5757d069dbe9a8a"
+        },
+        "date": 1748555893146,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3776.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 847,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 844.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3723.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 837.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 841.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1142.125,
             "unit": "milliseconds"
           }
         ]
