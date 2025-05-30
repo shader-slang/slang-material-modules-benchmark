@@ -1,2 +1,2 @@
-Fix SPIRV `OpSpecConstantOp` emit (#7158)
-aa3e6bdbe024355b07f6a61806024b248528fe4b
+Enable LSS hit object test (#7273)
+14409bf1015af47691f09d2be6afb18cfb999aea
