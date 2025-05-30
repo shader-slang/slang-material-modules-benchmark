@@ -1,2 +1,2 @@
-Implement MapElement for CoopMat (#7159)
-984d7f22f8a0909dc870c65bb927094c54f55402
+Remove a workaround disabling dxc-fetch (#7276)
+61f66c116ab10fdfd37492056aab7dfa4276a0b7
