@@ -1,2 +1,2 @@
-Change SLANG_OVERRIDE_xxx_PATH and fix header file path (#7207)
-b16eb592cc31b7cc9ba3d2f9525486c282996a9e
+Ensure we do not have an `initExpr` on a `VarDecl` inside an `InterfaceDecl` (#7283)
+3ca27faa23a92124f26875a6f00bcfc3a1c6431e
