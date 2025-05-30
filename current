@@ -1,2 +1,2 @@
-Add a memory-mappable binary serialization format (#7222)
-ec7ab914f79978b8980c7797e20d3399604b1f86
+Change SLANG_OVERRIDE_xxx_PATH and fix header file path (#7207)
+b16eb592cc31b7cc9ba3d2f9525486c282996a9e
