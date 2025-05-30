@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1748568832833,
+  "lastUpdate": 1748582346005,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -35917,6 +35917,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1171,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "d8edc149071f2d950930441b430625ebe2638ab6",
+          "message": "Fix SPIRV `OpSpecConstantOp` emit (#7158)\n\nhttps://github.com/shader-slang/slang/commit/aa3e6bdbe024355b07f6a61806024b248528fe4b",
+          "timestamp": "2025-05-29T22:18:54-07:00",
+          "tree_id": "a5af11857040296650afb77f54ed2c16719c3d85",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/d8edc149071f2d950930441b430625ebe2638ab6"
+        },
+        "date": 1748582344633,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1988.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 489.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 488.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1976.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 488.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 486.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 689.75,
             "unit": "milliseconds"
           }
         ]
