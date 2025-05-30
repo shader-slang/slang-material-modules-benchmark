@@ -1,2 +1,2 @@
-Remove a workaround disabling dxc-fetch (#7276)
-61f66c116ab10fdfd37492056aab7dfa4276a0b7
+Fix SPIRV `OpSpecConstantOp` emit (#7158)
+aa3e6bdbe024355b07f6a61806024b248528fe4b
