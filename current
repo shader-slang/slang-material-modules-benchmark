@@ -1,2 +1,2 @@
-Enable LSS hit object test (#7273)
-14409bf1015af47691f09d2be6afb18cfb999aea
+Add a memory-mappable binary serialization format (#7222)
+ec7ab914f79978b8980c7797e20d3399604b1f86
