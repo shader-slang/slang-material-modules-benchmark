@@ -1,2 +1,2 @@
-Ensure we do not have an `initExpr` on a `VarDecl` inside an `InterfaceDecl` (#7283)
-3ca27faa23a92124f26875a6f00bcfc3a1c6431e
+Add check for the variable requirement (#6677)
+da5cf478c6be06c9e6c20917a7d472cbdcb624e3
