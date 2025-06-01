@@ -1,2 +1,2 @@
-Add check for the variable requirement (#6677)
-da5cf478c6be06c9e6c20917a7d472cbdcb624e3
+Fix test-server debug issues with gfx-unit-test-tool (#7119) (#7279)
+43f057f2ff68e11a028da6eb1827a51e2566f636
