@@ -1,2 +1,2 @@
-move fix to CheckUsableType (#7264)
-359066147c0abc4ca6ad2902cc3a817383d4bd28
+Fix coopvec::fill to use a simpler expression (#7253)
+24d0c25f7de7b30ef436c90b2f02bb41165d99b7
