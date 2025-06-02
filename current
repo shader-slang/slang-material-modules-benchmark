@@ -1,2 +1,2 @@
-Fix coopvec::fill to use a simpler expression (#7253)
-24d0c25f7de7b30ef436c90b2f02bb41165d99b7
+Fix compile error in debug build (#7291)
+4aaca27e9f0c67e26871cefd06c2e8fdf58defc5
