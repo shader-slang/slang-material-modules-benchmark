@@ -1,2 +1,2 @@
-Fix compile error in debug build (#7291)
-4aaca27e9f0c67e26871cefd06c2e8fdf58defc5
+Add a new slang-test option `-enable-debug-layers` (#7300)
+d80f4139bc4baa119a5dfcf74cdcf3a75b977efc
