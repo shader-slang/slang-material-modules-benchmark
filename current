@@ -1,2 +1,2 @@
-Add a new slang-test option `-enable-debug-layers` (#7300)
-d80f4139bc4baa119a5dfcf74cdcf3a75b977efc
+Add CUDA the compile target for slang-playground
+289f3dd22629bd65dcf1e9be12a52e88deca925c
