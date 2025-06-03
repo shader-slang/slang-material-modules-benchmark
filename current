@@ -1,2 +1,2 @@
-Add CUDA the compile target for slang-playground
-289f3dd22629bd65dcf1e9be12a52e88deca925c
+Fix specialization constants getting incorrectly folded (#7299)
+b06e94b87a115c5979c728ce13ddf34b80285a9f
