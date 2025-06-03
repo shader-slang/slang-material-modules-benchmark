@@ -1,2 +1,2 @@
-Fix specialization constants getting incorrectly folded (#7299)
-b06e94b87a115c5979c728ce13ddf34b80285a9f
+Fix the memory leak (#7290)
+446cf08b06eee9907e2eaf9df9dc01bc895904c8
