@@ -1,2 +1,2 @@
-Disable 23 tests failing assertions (#7317)
-7f6b683a623ee434e6c720b5bf6c298f389d4b82
+Fix rpc errors on slang-unit-tests (#7339)
+454792a55496dfb00c20c724f6a491bb3110f957
