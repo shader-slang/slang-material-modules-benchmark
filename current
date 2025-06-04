@@ -1,2 +1,2 @@
-Break down record replay to individual tests to avoid timeout (#7340)
-b9dc21d362f65f22bc707bede733a9537b80460a
+Add legalization for 0-sized arrays. (#7327)
+2d7106640addf0ac88e0a5462117cd90b13a5e73
