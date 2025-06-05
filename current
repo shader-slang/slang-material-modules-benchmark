@@ -1,2 +1,2 @@
-Implement isnan and isinf for WGSL with bitwise operations (#7344)
-ca0bdd238f29f2fd17ae44eec913bd6c82e0c1fe
+Check the supported backends in CI (#7346)
+94215dcdcb8b9003c3e6d12308ea006e827febc9
