@@ -1,2 +1,2 @@
-Revert "Remove a workaround disabling dxc-fetch" (#7348)
-638ca95f437c56622cf5b0a64658f78d58b71e32
+Fix missing debug info for the included slang file (#7281)
+0c4c63b4a575f45f5dcf03f26b78becd36b0efca
