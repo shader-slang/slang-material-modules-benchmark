@@ -1,2 +1,2 @@
-  Fix crash when loading modules with syntax errors (#6993) (#7288)
-624770a1e1ba7747cd7b2f5e0def1d677e931c8c
+Implement isnan and isinf for WGSL with bitwise operations (#7344)
+ca0bdd238f29f2fd17ae44eec913bd6c82e0c1fe
