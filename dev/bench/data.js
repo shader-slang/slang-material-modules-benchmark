@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1749112077342,
+  "lastUpdate": 1749145209415,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -37114,6 +37114,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 736.6875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e1ad2e3f09940a316465b84c46fcf8dc908e8a16",
+          "message": "Implement isnan and isinf for WGSL with bitwise operations (#7344)\n\nhttps://github.com/shader-slang/slang/commit/ca0bdd238f29f2fd17ae44eec913bd6c82e0c1fe",
+          "timestamp": "2025-06-05T10:39:57-07:00",
+          "tree_id": "832ae80128ed0a14dd15e81dc9fbb3c546526f29",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e1ad2e3f09940a316465b84c46fcf8dc908e8a16"
+        },
+        "date": 1749145207945,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2121.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 504.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 503.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2081.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 503.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 503.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 740.8125,
             "unit": "milliseconds"
           }
         ]
