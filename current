@@ -1,2 +1,2 @@
-Fix missing debug info for the included slang file (#7281)
-0c4c63b4a575f45f5dcf03f26b78becd36b0efca
+  Fix crash when loading modules with syntax errors (#6993) (#7288)
+624770a1e1ba7747cd7b2f5e0def1d677e931c8c
