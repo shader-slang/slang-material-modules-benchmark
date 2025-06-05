@@ -1,2 +1,2 @@
-Add legalization for 0-sized arrays. (#7327)
-2d7106640addf0ac88e0a5462117cd90b13a5e73
+Revert "Remove a workaround disabling dxc-fetch" (#7348)
+638ca95f437c56622cf5b0a64658f78d58b71e32
