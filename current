@@ -1,2 +1,2 @@
-Update slang-rhi (#7303)
-8abaec701f0637f082e081caa0dd4fa049a00430
+Disable coopvec while using Agility SDK and until graphics driver supports it (#7357)
+2203df78332f155374866b172887d2568422ed76
