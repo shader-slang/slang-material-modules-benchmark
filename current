@@ -1,2 +1,2 @@
-Address issues with GLSL style global in/out vars (#6669) (#6998)
-649d533727b31b28397ffb3a530e655ac3861547
+Add command line option for separate debug info (#7178)
+0d16228ae22fa2e1a00e62dc099eea08da7717fe
