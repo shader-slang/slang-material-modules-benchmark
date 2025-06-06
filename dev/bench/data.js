@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1749221830475,
+  "lastUpdate": 1749228107421,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -37342,6 +37342,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 742.0625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "356a1bc808afd1d5c4cd278d68b76c7e42f4a3a1",
+          "message": "Disable coopvec while using Agility SDK and until graphics driver supports it (#7357)\n\nhttps://github.com/shader-slang/slang/commit/2203df78332f155374866b172887d2568422ed76",
+          "timestamp": "2025-06-06T09:41:33-07:00",
+          "tree_id": "ed7fa2f2cd2e995ee8050c4fc96c949fb25ba01f",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/356a1bc808afd1d5c4cd278d68b76c7e42f4a3a1"
+        },
+        "date": 1749228105597,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3541.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 841.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 822.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3458.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 826.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 821.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1218.8125,
             "unit": "milliseconds"
           }
         ]
