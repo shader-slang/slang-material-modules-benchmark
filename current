@@ -1,2 +1,2 @@
-Check the supported backends in CI (#7346)
-94215dcdcb8b9003c3e6d12308ea006e827febc9
+Clean up a dead code forgot to delete (#7358)
+4cfc0f1fd67499847f2fa745cd083ebf0edd8188
