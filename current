@@ -1,2 +1,2 @@
-Disable Link-Time-Optimization by default (#7345)
-7f04adbfb9dc0c39c372809ea02cc740d484b291
+Address issues with GLSL style global in/out vars (#6669) (#6998)
+649d533727b31b28397ffb3a530e655ac3861547
