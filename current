@@ -1,2 +1,2 @@
-Disable coopvec while using Agility SDK and until graphics driver supports it (#7357)
-2203df78332f155374866b172887d2568422ed76
+Disable Link-Time-Optimization by default (#7345)
+7f04adbfb9dc0c39c372809ea02cc740d484b291
