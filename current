@@ -1,2 +1,2 @@
-Remove unnecessary compile definitions (#7355)
-10a3b87db80ae87d6d01ef2af562a732055da1c2
+Fix interface types as RHS of is/as operators (#7234)
+bfac247ff2489a1f7fb9766674a6ed25a48a493b
