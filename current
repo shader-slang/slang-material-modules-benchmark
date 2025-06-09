@@ -1,2 +1,2 @@
-Fix interface types as RHS of is/as operators (#7234)
-bfac247ff2489a1f7fb9766674a6ed25a48a493b
+Mediate access to ContainerDecl members (#7242)
+bfae49d853e0f9b6f9de495b13bcd1642ca4a285
