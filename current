@@ -1,2 +1,2 @@
-Legalise out parameters for vertex shaders on metal (#6943)
-405d438bf176411247bfd2937fcbb8c0684b0ed7
+remove unnecessary use of std::bit_cast (#7384)
+954ad3d5466219eab216add0cb1ac920da548425
