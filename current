@@ -1,2 +1,2 @@
-Add optix support for coopvec (#7286)
-d70da65a90ccd73439895a43b3958c0ea1441f35
+Legalise out parameters for vertex shaders on metal (#6943)
+405d438bf176411247bfd2937fcbb8c0684b0ed7
