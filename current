@@ -1,2 +1,2 @@
-remove unnecessary use of std::bit_cast (#7384)
-954ad3d5466219eab216add0cb1ac920da548425
+Fix IR layout of 3-element vectors in cbuffers for -fvk-use-dx-layout (#7282)
+e37202002276b679c5241b2678af612552b06d2c
