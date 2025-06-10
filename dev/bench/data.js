@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1749558688424,
+  "lastUpdate": 1749568584327,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -37969,6 +37969,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1607.4375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ebc4ba83ad7f42c5d4d5a0f7a8f87b147ff4ad0c",
+          "message": "Fix IR layout of 3-element vectors in cbuffers for -fvk-use-dx-layout (#7282)\n\nhttps://github.com/shader-slang/slang/commit/e37202002276b679c5241b2678af612552b06d2c",
+          "timestamp": "2025-06-10T08:16:11-07:00",
+          "tree_id": "feebe38e5545bdc2feda7b074cc8578910aa5557",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ebc4ba83ad7f42c5d4d5a0f7a8f87b147ff4ad0c"
+        },
+        "date": 1749568582468,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2213.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 670,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 670.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2193,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 667.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 670.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1031.625,
             "unit": "milliseconds"
           }
         ]
