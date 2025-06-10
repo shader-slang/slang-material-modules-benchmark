@@ -1,2 +1,2 @@
-Allow checking capabilities in specific stages (#7375)
-3fa382505271834514d47612efee8e51a06204c5
+Fix reflection to json issue (#7379)
+d93c71d53f969e5cd3911fbada0e566cd1887ec1
