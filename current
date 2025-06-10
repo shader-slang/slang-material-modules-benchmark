@@ -1,2 +1,2 @@
-Fix IR layout of 3-element vectors in cbuffers for -fvk-use-dx-layout (#7282)
-e37202002276b679c5241b2678af612552b06d2c
+Allow checking capabilities in specific stages (#7375)
+3fa382505271834514d47612efee8e51a06204c5
