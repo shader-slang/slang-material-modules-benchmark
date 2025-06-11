@@ -1,2 +1,2 @@
-Include CPU test on Windows CI (#7392)
-5a851fe846bb4b3657dfc94a88fcce7b1221a8eb
+Fix an issue in extension override. (#7402)
+45560483447dd737a63efc236b2be07fd0fc4347
