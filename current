@@ -1,2 +1,2 @@
-fix `SLANG_ENABLE_IR_BREAK_ALLOC` (#7418)
-c83a6d5b83a0b12f7029fd17fc8037beddb79834
+Fix intermittent debug failures with Debug build (#7369)
+7dad68f869502e5c0ab32c12cbf8db866e020713
