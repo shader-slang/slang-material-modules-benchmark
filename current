@@ -1,2 +1,2 @@
-Fix argument to float3 cbuffer tests (#7391)
-3ffeaf4c7f22bfe95702da76d710362b277e15ac
+Fix issue of missing scope for 'Differential' type (#7433)
+60b66c309075e91824aef69a153e304561ca6041
