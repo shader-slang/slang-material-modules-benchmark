@@ -1,2 +1,2 @@
-Fix intermittent debug failures with Debug build (#7369)
-7dad68f869502e5c0ab32c12cbf8db866e020713
+Diagnose on use of struct inheritance. (#7419)
+4ae6e9d8b7790d827ca9edd729ad94f38a0c73de
