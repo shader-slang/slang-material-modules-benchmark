@@ -1,2 +1,2 @@
-Improve exported build targets (#7382)
-0cb89b3062f89ec5f5c5812f0164f8c90f3f9aba
+Fix argument to float3 cbuffer tests (#7391)
+3ffeaf4c7f22bfe95702da76d710362b277e15ac
