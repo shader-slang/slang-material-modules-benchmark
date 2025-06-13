@@ -1,2 +1,2 @@
-Add new capdef for lss intrinsics (#7427)
-e9dcdd884ac616b4c9f5b258fb2a78d10bfce293
+Sort test list to be deterministic (#7432)
+0382c5116208a944da0153c94d30e1c21ae4e49c
