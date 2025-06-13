@@ -1,2 +1,2 @@
-Fix issue of missing scope for 'Differential' type (#7433)
-60b66c309075e91824aef69a153e304561ca6041
+Fix API changes from separate debugging support (#7397)
+9c8fab83a53c43e345566c35f87c16fe7b815e01
