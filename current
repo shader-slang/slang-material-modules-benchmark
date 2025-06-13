@@ -1,2 +1,2 @@
-Fix API changes from separate debugging support (#7397)
-9c8fab83a53c43e345566c35f87c16fe7b815e01
+Add new capdef for lss intrinsics (#7427)
+e9dcdd884ac616b4c9f5b258fb2a78d10bfce293
