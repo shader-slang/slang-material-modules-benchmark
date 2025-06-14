@@ -1,2 +1,2 @@
-Fix SLANG_USE_SYSTEM_SPIRV_HEADERS  (#7371)
-1d8f6f86d1a6d33ff6e6429206b94d72457e1378
+Fix a bug in empty array legalization. (#7444)
+84148b80b167f5102e5f4813671b97bc1faeb5f0
