@@ -1,2 +1,2 @@
-Fix a bug in empty array legalization. (#7444)
-84148b80b167f5102e5f4813671b97bc1faeb5f0
+Print CUDA version on CI servers (#7413)
+e72b3325663ab6d4bb791742574b031f0df6328a
