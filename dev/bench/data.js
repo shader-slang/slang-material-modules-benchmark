@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1749845644233,
+  "lastUpdate": 1749860519813,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -38938,6 +38938,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1035.375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "dde6564c6c5ac224d61c08f09a703bacae5d77dc",
+          "message": "Fix a bug in empty array legalization. (#7444)\n\nhttps://github.com/shader-slang/slang/commit/84148b80b167f5102e5f4813671b97bc1faeb5f0",
+          "timestamp": "2025-06-13T17:21:20-07:00",
+          "tree_id": "56654ffc18a40c127a4f469b256f1620f8925f93",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/dde6564c6c5ac224d61c08f09a703bacae5d77dc"
+        },
+        "date": 1749860518243,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3741.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1047.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1049.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3736.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1043.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1048.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1602.375,
             "unit": "milliseconds"
           }
         ]
