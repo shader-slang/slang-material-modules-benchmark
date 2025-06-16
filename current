@@ -1,2 +1,2 @@
-Exposing TU-local entity with modules fix (#7449)
-28d957327b113335167846a6501d548b07132da2
+Disable periadic diagnostic update on language-server on CI (#7445)
+07f79b943c3041dd18137d72893af260b75ddcf9
