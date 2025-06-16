@@ -1,2 +1,2 @@
-Bump the min shader model version for CUDA 12.8+ (#7415)
-bb03daf205285f1e02e489f85cd17800bbe09a22
+Exposing TU-local entity with modules fix (#7449)
+28d957327b113335167846a6501d548b07132da2
