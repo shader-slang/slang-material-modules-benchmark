@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1750103752026,
+  "lastUpdate": 1750132867868,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -39280,6 +39280,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1031.75,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "d95ef614743edbf7355c9f8de2b7b64d65b5579f",
+          "message": "Fix for missing signedness cast in SwizzleIR (#7448)\n\nhttps://github.com/shader-slang/slang/commit/60a8f1fc3eee37977ee891661f65916f66aef364",
+          "timestamp": "2025-06-16T20:59:31-07:00",
+          "tree_id": "6650927ffedd3c4d79efaa4e02c771c8831c7669",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/d95ef614743edbf7355c9f8de2b7b64d65b5579f"
+        },
+        "date": 1750132865614,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2229.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 688.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 687.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2207.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 685.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 687.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1063.5,
             "unit": "milliseconds"
           }
         ]
