@@ -1,2 +1,2 @@
-AD cleanup for 'break' replacement (#7456)
-14d002ac5463f0fd20ca5c3d4288fd7be2aa1b80
+Fix slangpy not using correct slang backend (#7334)
+b6ab113cc3f296b55292c2385e3c229266f235a4
