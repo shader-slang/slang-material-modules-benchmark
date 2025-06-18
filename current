@@ -1,2 +1,2 @@
-LanguageServer: Enhance auto completion for override. (#7465)
-4d517794eaac7dfe6196e9a36d709d66c5720492
+Fix out of bound buffer access in the preprocessor. (#7475)
+8c100305c8e1ac29b008e7cb95c0498b6adf197c
