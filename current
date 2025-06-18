@@ -1,2 +1,2 @@
-Fix false negative result for CUDA with recent versions (#7409)
-63ca2325d7f6afdbf07e8f00975fab01ec516302
+Fix additional VVL violations (#7377)
+3822f9243f7b80be4c47318cf3d0b8d9800e67dd
