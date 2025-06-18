@@ -1,2 +1,2 @@
-Fix out of bound buffer access in the preprocessor. (#7475)
-8c100305c8e1ac29b008e7cb95c0498b6adf197c
+Fix false negative result for CUDA with recent versions (#7409)
+63ca2325d7f6afdbf07e8f00975fab01ec516302
