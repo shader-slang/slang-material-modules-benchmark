@@ -1,2 +1,2 @@
-Fix slangpy not using correct slang backend (#7334)
-b6ab113cc3f296b55292c2385e3c229266f235a4
+Update CMake version to 3.26 (#7459)
+b9799e6137fb1d173cefd823521bb70b09ac435a
