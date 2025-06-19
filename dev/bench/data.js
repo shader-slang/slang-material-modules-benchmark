@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1750310625095,
+  "lastUpdate": 1750318325841,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -39964,6 +39964,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1051.25,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "4490534fc1e4afd2f6d0d507be9a1c8b50525629",
+          "message": "Fix cuda_fp16 header issue (#7476)\n\nhttps://github.com/shader-slang/slang/commit/9d01a903130d9185abd9bea3387fb363f7b2e119",
+          "timestamp": "2025-06-19T00:31:54-07:00",
+          "tree_id": "b407f2e81f0091bc290fcfd12db83f0619dfce9b",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/4490534fc1e4afd2f6d0d507be9a1c8b50525629"
+        },
+        "date": 1750318323552,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2180.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 666.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 665.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2158.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 663.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 663.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1040.5625,
             "unit": "milliseconds"
           }
         ]
