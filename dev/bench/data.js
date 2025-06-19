@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1750325138900,
+  "lastUpdate": 1750333960321,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -40078,6 +40078,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1634.9375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ed59df460e426165774eb2ba2e50f788dc2d7d52",
+          "message": "Enabling optix ci pipeline  (#7311)\n\nhttps://github.com/shader-slang/slang/commit/23dcea810a79e19051e70ff2aa0b8953429c6461",
+          "timestamp": "2025-06-19T04:52:28-07:00",
+          "tree_id": "3491e0ef0ec3660a00899703c9e99672604f439f",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ed59df460e426165774eb2ba2e50f788dc2d7d52"
+        },
+        "date": 1750333957939,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2188.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 669.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 666.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2165.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 664.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 662,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1034.75,
             "unit": "milliseconds"
           }
         ]
