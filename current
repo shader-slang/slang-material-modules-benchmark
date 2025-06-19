@@ -1,2 +1,2 @@
-remove sccache due to the instability (#7484)
-5da7301d19e0a293bc2187520b471361beaefe92
+Enabling optix ci pipeline  (#7311)
+23dcea810a79e19051e70ff2aa0b8953429c6461
