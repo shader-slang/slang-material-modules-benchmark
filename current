@@ -1,2 +1,2 @@
-Fix retry logic for unit test (#7471)
-3cbc500118d27f82c89f401ffb34826264e9cb60
+Add merge queue CI trigger. (#7485)
+97f328a669da035025a49d5b322a646bf97340f0
