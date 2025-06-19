@@ -1,2 +1,2 @@
-Add merge queue CI trigger. (#7485)
-97f328a669da035025a49d5b322a646bf97340f0
+Always emit DepthReplacing execution mode when writing to FragDepth (#7450)
+82418b16a135825e51a2afda3c6a00758615ba27
