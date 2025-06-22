@@ -1,2 +1,2 @@
-Update spirv-tools and spirv-headers (#7500)
-5510278792ccd1bc7b5bd2053e06c7d2d6d97798
+Add default implementation for determinant (#7505)
+b1fc75fab3a1b700a89a711289598ac74883483c
