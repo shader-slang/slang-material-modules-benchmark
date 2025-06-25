@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1750757569745,
+  "lastUpdate": 1750841855849,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -40306,6 +40306,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1045.5625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "624e620a90065ce8f43f83342b507c37271c3346",
+          "message": "Fix generation of wgsl case arms (#7374)\n\nhttps://github.com/shader-slang/slang/commit/7e8c85e85440c1fea42236a8ef8286e1ce1638ce",
+          "timestamp": "2025-06-25T01:57:25-07:00",
+          "tree_id": "373bdb6d56a8bb19094d846fd4df1e09a40160db",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/624e620a90065ce8f43f83342b507c37271c3346"
+        },
+        "date": 1750841854101,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3772.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1064.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1074,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3762.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1073.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1069.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1653.1875,
             "unit": "milliseconds"
           }
         ]
