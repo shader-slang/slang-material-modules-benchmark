@@ -1,2 +1,2 @@
-Document supported compiler versions in building.md (#7512)
-47475114d036a391bacdb53a9a1c60e5d35b61bc
+Fix generation of wgsl case arms (#7374)
+7e8c85e85440c1fea42236a8ef8286e1ce1638ce
