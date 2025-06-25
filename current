@@ -1,2 +1,2 @@
-Fix generation of wgsl case arms (#7374)
-7e8c85e85440c1fea42236a8ef8286e1ce1638ce
+Fix ambiguous reference for 'extern' and 'export' (#7515)
+d48f050cb0209a4ba9819a094ffd1e7a7c2524ee
