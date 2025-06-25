@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1750871674875,
+  "lastUpdate": 1750876681047,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -40420,6 +40420,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1039.4375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "1bf8deafaa02a962e2e8308face3aa558ace8d13",
+          "message": "Fix Phi elimination pass sometimes leaving broken insts in release builds (#7499)\n\nhttps://github.com/shader-slang/slang/commit/ee51fe592747fc66bd0b5757207583198068b5bd",
+          "timestamp": "2025-06-25T11:37:49-07:00",
+          "tree_id": "f63665735775b5edcda1d77e807ac0311298a49c",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/1bf8deafaa02a962e2e8308face3aa558ace8d13"
+        },
+        "date": 1750876679080,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3776.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1063,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1065.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3720.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1072.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1063.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1627,
             "unit": "milliseconds"
           }
         ]
