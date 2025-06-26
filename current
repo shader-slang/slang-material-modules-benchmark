@@ -1,2 +1,2 @@
-Fix the invalid SPIRV decoration issue (#7527)
-bf94fc3f5b73033334db28846580f16df42d6a85
+Hide atomics struct from reflection api (#7520)
+78dc7c3fd1441ba756c969b81ed90600fa9f9f38
