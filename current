@@ -1,2 +1,2 @@
-Correct the scope for DebugLocalVariable (#7516)
-d166fe8333c7dfc61c32fda5017461858eb4c3fa
+Fix the invalid SPIRV decoration issue (#7527)
+bf94fc3f5b73033334db28846580f16df42d6a85
