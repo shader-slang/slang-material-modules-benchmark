@@ -1,2 +1,2 @@
-Update spirv-tools to for SDK v2025.3 (#7519)
-3a54d68a6ab0a0beb92e9d61befd7280d474531f
+Correct the scope for DebugLocalVariable (#7516)
+d166fe8333c7dfc61c32fda5017461858eb4c3fa
