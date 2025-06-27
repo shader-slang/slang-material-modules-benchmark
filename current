@@ -1,2 +1,2 @@
-Update spirv-tool submodule to include the debug instruct fix (#7541)
-b10319c1c513de8dd7a1d7cf5a45265589978654
+Move separate-debug-info arg to target options (#7540)
+c5295eae268f78c306c9401719bb4e06ba63ba16
