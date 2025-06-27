@@ -1,2 +1,2 @@
-Move separate-debug-info arg to target options (#7540)
-c5295eae268f78c306c9401719bb4e06ba63ba16
+Don't call destructor, it causes UB when reading inst afterwards (#7544)
+5562215028adab99491a40241661f4c2238b2642
