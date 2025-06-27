@@ -1,2 +1,2 @@
-Hide atomics struct from reflection api (#7520)
-78dc7c3fd1441ba756c969b81ed90600fa9f9f38
+Update spirv-tool submodule to include the debug instruct fix (#7541)
+b10319c1c513de8dd7a1d7cf5a45265589978654
