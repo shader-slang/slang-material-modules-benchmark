@@ -1,2 +1,2 @@
-Don't call destructor, it causes UB when reading inst afterwards (#7544)
-5562215028adab99491a40241661f4c2238b2642
+Enable Vulkan Validation Layer in CI (#7543)
+a13dda4f214274a10d39f37c79622fc3e62da310
