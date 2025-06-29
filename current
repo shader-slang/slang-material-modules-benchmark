@@ -1,2 +1,2 @@
-Minimal optional constraints (#7422)
-7349dc5cff49cf22c82eb912813e47f30cd7a757
+Support the GLSL/SPIR-V Built-in variable `DeviceIndex` (#7552)
+67af8c718ce5e3f95a25e5188840f63b41a33ecc
