@@ -1,2 +1,2 @@
-Implement IFloat.scale for vectors, matrices (#7545)
-61c9eb3a9117b6227cf40d970e57cf3d746b3926
+Reset minimum cmake version to 3.22 (#7548)
+a55ff722cae338a8fcf5402858c47cf0650a8e5e
