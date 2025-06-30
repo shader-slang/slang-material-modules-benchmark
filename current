@@ -1,2 +1,2 @@
-Add MLP training examples. (#7550)
-f28f67d988158d6c46f7ffe967152f98d32a37b2
+Emit sample index when constructing a `OpImageTexelPointer` (#7563)
+46d0d97222d34374f45720cbdac1f823e42a4f0d
