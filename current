@@ -1,2 +1,2 @@
-Reset minimum cmake version to 3.22 (#7548)
-a55ff722cae338a8fcf5402858c47cf0650a8e5e
+Add MLP training examples. (#7550)
+f28f67d988158d6c46f7ffe967152f98d32a37b2
