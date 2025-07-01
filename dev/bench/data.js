@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1751326564351,
+  "lastUpdate": 1751332305870,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -41332,6 +41332,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1041.25,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "8fa3845796bcc93a041ec96141c1f9572af2ea79",
+          "message": "Remove redundant [payload] attribute (Fix #7528) (#7555)\n\nhttps://github.com/shader-slang/slang/commit/0f098b9d27a859add3d62d2e82b699341d5ce895",
+          "timestamp": "2025-06-30T18:11:35-07:00",
+          "tree_id": "f44f53a94bfdfab69017876175dcfe75807a48fa",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/8fa3845796bcc93a041ec96141c1f9572af2ea79"
+        },
+        "date": 1751332304189,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3776.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1078.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1082,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3759.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1080.625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1085.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1669.9375,
             "unit": "milliseconds"
           }
         ]
