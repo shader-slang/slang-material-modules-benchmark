@@ -1,2 +1,2 @@
-Remove redundant [payload] attribute (Fix #7528) (#7555)
-0f098b9d27a859add3d62d2e82b699341d5ce895
+Allow a compiler warning on MacOS (#7561)
+7a6a455f182722a42fcba5a2fc57c0cd524c4764
