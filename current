@@ -1,2 +1,2 @@
-Allow Link time constant array length sizing, warn on unsupported functionality (#7067)
-c94ca1692e101df87215232e87fa7edadc1a7b05
+extend fiddle to allow custom lua splices in more places (#7559)
+5120c1cd072548654c9ce79fa85426a5e48736c4
