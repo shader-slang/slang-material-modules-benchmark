@@ -1,2 +1,2 @@
-extend fiddle to allow custom lua splices in more places (#7559)
-5120c1cd072548654c9ce79fa85426a5e48736c4
+Misc language server improvements. (#7569)
+eb7f3357a1c316bad51cf0bfaea27d81a93f96ad
