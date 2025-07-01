@@ -1,2 +1,2 @@
-fix spirv-opt bug (#7565)
-ca21304d0bca7fdde9f5ab3f23129a553dd2408b
+Remove some cruft/complexity from IR serialization (#7483)
+6231a6830880f650e444405b670ed7cc0987184b
