@@ -1,2 +1,2 @@
-Remove some cruft/complexity from IR serialization (#7483)
-6231a6830880f650e444405b670ed7cc0987184b
+Add arguments for controlling floating point denormal mode  (#7461)
+d50c3f34a2eda5bf5e278c78d32cc9923fd83b82
