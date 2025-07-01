@@ -1,2 +1,2 @@
-Allow a compiler warning on MacOS (#7561)
-7a6a455f182722a42fcba5a2fc57c0cd524c4764
+fix spirv-opt bug (#7565)
+ca21304d0bca7fdde9f5ab3f23129a553dd2408b
