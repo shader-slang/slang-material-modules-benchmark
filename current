@@ -1,2 +1,2 @@
-Add arguments for controlling floating point denormal mode  (#7461)
-d50c3f34a2eda5bf5e278c78d32cc9923fd83b82
+Allow Link time constant array length sizing, warn on unsupported functionality (#7067)
+c94ca1692e101df87215232e87fa7edadc1a7b05
