@@ -1,2 +1,2 @@
-Add copilot environment configuration. (#7586)
-415adcfd774d30d90e62d15bb7b814464f6930a6
+Fix for emitting ArrayStride decoration for arrays of opaque types (#7568)
+7ffb9f53e41c409a51c41318442067cc6c7e4f48
