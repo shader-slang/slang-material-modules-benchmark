@@ -1,2 +1,2 @@
-Comment SLANG_OVERRIDE options (#7584)
-83c72fd8772d312233f4e3ccd4154b81030d4795
+Defer immutable buffer loads when emitting spirv. (#7579)
+c701ec00ccce6dfa8094d6550ce2db929fc8cefe
