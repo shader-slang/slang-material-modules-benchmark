@@ -1,2 +1,2 @@
-Fix for emitting ArrayStride decoration for arrays of opaque types (#7568)
-7ffb9f53e41c409a51c41318442067cc6c7e4f48
+Fix diagnostics not appearing when semantic tokens are disabled (#7477) (#7532)
+35f00363d03afad74874b330f623bcd4caf115be
