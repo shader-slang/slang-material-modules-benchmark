@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1751434121937,
+  "lastUpdate": 1751435741926,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -41959,6 +41959,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1667.25,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e2661d9ed475e48925fc165dab9efe22f5609288",
+          "message": "Fix for emitting ArrayStride decoration for arrays of opaque types (#7568)\n\nhttps://github.com/shader-slang/slang/commit/7ffb9f53e41c409a51c41318442067cc6c7e4f48",
+          "timestamp": "2025-07-01T22:55:31-07:00",
+          "tree_id": "505e9f0f2dd7c656bffd485ad134a533c0fc5f1e",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e2661d9ed475e48925fc165dab9efe22f5609288"
+        },
+        "date": 1751435739969,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3781.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1099.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1075.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3775.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1094.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1072.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1646.125,
             "unit": "milliseconds"
           }
         ]
