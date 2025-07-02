@@ -1,2 +1,2 @@
-add task shader alias (#7372)
-bee3142ce4564d7cb6ec0af43b4ffdcae1d2e68d
+Run full check on merge_queue, but not on push. (#7596)
+54a5d7f0056b4a846c790e7e019b9b5e74f76a98
