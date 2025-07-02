@@ -1,2 +1,2 @@
-Fix diagnostics not appearing when semantic tokens are disabled (#7477) (#7532)
-35f00363d03afad74874b330f623bcd4caf115be
+Don't run full gpu tests on merge queue. (#7587)
+0aa67332a8741ca4b14c20e571f281d0a5ccfa42
