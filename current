@@ -1,2 +1,2 @@
-Defer immutable buffer loads when emitting spirv. (#7579)
-c701ec00ccce6dfa8094d6550ce2db929fc8cefe
+Add copilot environment configuration. (#7586)
+415adcfd774d30d90e62d15bb7b814464f6930a6
