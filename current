@@ -1,2 +1,2 @@
-Fix crash when using wrong type for inout parameter with WGSL target (#7588)
-05ff8850c8c3d3049c1f429672750f8904d4b808
+Remove swiftshader (#7600)
+7dd89f2ca28f6ef9976b28cfcb7817bd41bfdb3f
