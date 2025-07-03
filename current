@@ -1,2 +1,2 @@
-Enable tests for CUDA (#7593)
-141eac9eb4400cf94c0a076f339e1d43ed652306
+Don't use access::sample for multisample texture in metal (#7601)
+20afbfea3134050fa93e48b5bb4edd59552384ec
