@@ -1,2 +1,2 @@
-Don't use access::sample for multisample texture in metal (#7601)
-20afbfea3134050fa93e48b5bb4edd59552384ec
+Remove a test from expected-failure-github for MacOS (#7526)
+279de50f9d717e5036b08e17fa937f7881f776e6
