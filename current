@@ -1,2 +1,2 @@
-Remove swiftshader (#7600)
-7dd89f2ca28f6ef9976b28cfcb7817bd41bfdb3f
+Enable tests for CUDA (#7593)
+141eac9eb4400cf94c0a076f339e1d43ed652306
