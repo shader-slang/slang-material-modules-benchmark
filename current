@@ -1,2 +1,2 @@
-Remove a test from expected-failure-github for MacOS (#7526)
-279de50f9d717e5036b08e17fa937f7881f776e6
+Replace SLANG_ALIGN_OF with C++11 alignof (#7523)
+551d0c365571a2e36505851f6a713464662c5fea
