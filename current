@@ -1,2 +1,2 @@
-Run full check on merge_queue, but not on push. (#7596)
-54a5d7f0056b4a846c790e7e019b9b5e74f76a98
+Fix crash when using wrong type for inout parameter with WGSL target (#7588)
+05ff8850c8c3d3049c1f429672750f8904d4b808
