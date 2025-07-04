@@ -1,2 +1,2 @@
-Replace SLANG_ALIGN_OF with C++11 alignof (#7523)
-551d0c365571a2e36505851f6a713464662c5fea
+Language Server Enhancements (#7604)
+b4fc380af5e390ca11892f9e657e653f6869c21b
