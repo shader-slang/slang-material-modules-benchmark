@@ -1,2 +1,2 @@
-Language Server Enhancements (#7604)
-b4fc380af5e390ca11892f9e657e653f6869c21b
+Make copysign function differentiable (#7585)
+b282c88d9743fc9bb60ef27cfa5d9cf58cccd60b
