@@ -1,2 +1,2 @@
-Catch abort exception from leaking from loadModule (#7627)
-7119d9cb487d866d1c25e55eafa03aca6e5e52e3
+Language server: sort completion candidate by relevance. (#7626)
+3865a6596afca1c193eb17bbb74008077096e7c3
