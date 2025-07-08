@@ -1,2 +1,2 @@
-Language server: sort completion candidate by relevance. (#7626)
-3865a6596afca1c193eb17bbb74008077096e7c3
+Use fossil for IR serialization (#7619)
+69947dec841ea46e68ccdccae45a1080fcaea01c
