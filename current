@@ -1,2 +1,2 @@
-Add <help-category> list and hint on usage in slangc -h (#7638)
-0ab515159e9da15e0077d55c761ca0f326361257
+Add error for forward references in generic constraints (#7615)
+2c4bfce49d9af2414f6a3f70f7221d6890a017e7
