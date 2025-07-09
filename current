@@ -1,2 +1,2 @@
-Generate OpExecutionMode PointMode for tessellation shaders (#7662)
-4f54cccf0e0e06be38312e2ee97c2b50b82d7c10
+Avoid adding underscore to _snorm format if it has one (#7664)
+a7cb36901ccaf8297136c58c1451d6e04420af73
