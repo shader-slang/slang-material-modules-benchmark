@@ -1,2 +1,2 @@
-no_diff diagnostics improvement (#7655)
-a670bafc121c20168624f70a388dbe8556402c7f
+Fix internal error when a generic in an extension is unused (#7665)
+e40ddc6efb275a753a46f8c8bcc420801668c931
