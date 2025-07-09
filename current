@@ -1,2 +1,2 @@
-Improve slang-test output verbosity control (#7625)
-a68e2635cbc9a555cfd1dab69a826d9af786aae2
+Add <help-category> list and hint on usage in slangc -h (#7638)
+0ab515159e9da15e0077d55c761ca0f326361257
