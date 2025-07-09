@@ -1,2 +1,2 @@
-Add error for forward references in generic constraints (#7615)
-2c4bfce49d9af2414f6a3f70f7221d6890a017e7
+Fix `extension` incorrectly interacting with `equality` and `type-coercion` constraints (#7578)
+e036c7f38e3b8b1f0b0e0ac1b4ef22fc6f16963b
