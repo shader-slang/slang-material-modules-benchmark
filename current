@@ -1,2 +1,2 @@
-Fix `extension` incorrectly interacting with `equality` and `type-coercion` constraints (#7578)
-e036c7f38e3b8b1f0b0e0ac1b4ef22fc6f16963b
+Generate OpExecutionMode PointMode for tessellation shaders (#7662)
+4f54cccf0e0e06be38312e2ee97c2b50b82d7c10
