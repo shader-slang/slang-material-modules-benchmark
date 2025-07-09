@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1752026000823,
+  "lastUpdate": 1752032749462,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -43099,6 +43099,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1687.9375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "c9b139c1821663ac9ee496591c580213e10bcfa5",
+          "message": "Generate OpExecutionMode PointMode for tessellation shaders (#7662)\n\nhttps://github.com/shader-slang/slang/commit/4f54cccf0e0e06be38312e2ee97c2b50b82d7c10",
+          "timestamp": "2025-07-08T20:45:35-07:00",
+          "tree_id": "6a97d16bb3d5472411cda1efe96adfe821e0b4f2",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/c9b139c1821663ac9ee496591c580213e10bcfa5"
+        },
+        "date": 1752032747684,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3781.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1081.5,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1089.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3794.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1071.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1074.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1693.625,
             "unit": "milliseconds"
           }
         ]
