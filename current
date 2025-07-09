@@ -1,2 +1,2 @@
-Fix internal error when a generic in an extension is unused (#7665)
-e40ddc6efb275a753a46f8c8bcc420801668c931
+Fix `slangc --help` text for `-reflection-json` (#7653)
+2d82d630e11d296ce1f52fe27d17081070042d56
