@@ -1,2 +1,2 @@
-copilot instruction prompt: emphasize to format changes.
-c1d07df3ede2e0d87d81a8d10429ae5df88519e1
+Fix SV_VertexID and SV_InstanceID crash with -preserve-params in SPIR-V emitter (#7691)
+aa3cc1e79315592e9b22fccd77fc27fef0c09762
