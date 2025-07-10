@@ -1,2 +1,2 @@
-Fix SV_VertexID and SV_InstanceID crash with -preserve-params in SPIR-V emitter (#7691)
-aa3cc1e79315592e9b22fccd77fc27fef0c09762
+Fix#7676  - Add Claude Code Assistant for using LLMs (#7673)
+df398fab63ac0c14a4a6cf34e4711a67ec1f4724
