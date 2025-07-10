@@ -1,2 +1,2 @@
-Fix#7676  - Add Claude Code Assistant for using LLMs (#7673)
-df398fab63ac0c14a4a6cf34e4711a67ec1f4724
+Fix CommittedRayInstanceCustomIndex generating wrong SPIR-V opcode (#7659)
+850df7913a17ec47f7fde12083d0d3e55170cc7b
