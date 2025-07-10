@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1752176767107,
+  "lastUpdate": 1752177828273,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -43498,6 +43498,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1075,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "2b5a54079880615d0fd9b798fb84eb29e17d4da9",
+          "message": "Fix#7676  - Add Claude Code Assistant for using LLMs (#7673)\n\nhttps://github.com/shader-slang/slang/commit/df398fab63ac0c14a4a6cf34e4711a67ec1f4724",
+          "timestamp": "2025-07-10T13:03:38-07:00",
+          "tree_id": "85eda7db070634fc2a4c4b93d085680c99fd0999",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/2b5a54079880615d0fd9b798fb84eb29e17d4da9"
+        },
+        "date": 1752177826509,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2216.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 674.3125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 672.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2181.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 673,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 673.125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1070.0625,
             "unit": "milliseconds"
           }
         ]
