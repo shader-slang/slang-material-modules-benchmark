@@ -1,2 +1,2 @@
-Modify CLAUDE.md for slang project better (#7720)
-b20b9297ed20f85dec6212cad83eeacaecbaccf3
+Fix IEEE 754 NaN comparisons in constant folding (#7721)
+57567778b7d91afe7e6325c731d54b313b8b16e9
