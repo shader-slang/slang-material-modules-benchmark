@@ -1,2 +1,2 @@
-Add slang-gfx build target back for Falcor (#7700)
-0ddb2fcbbaa5387990c8812341fbe8e2848f8989
+Ensure generic constraints are checked before inner extension. (#7685)
+90c34e3db4fdc7be79c62bd91905a2a84bbd673e
