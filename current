@@ -1,2 +1,2 @@
-Only append slangc --help value categories if explicitly specified (#7712)
-6f11c50ba101948b110aa7310fc4fb5732b2b708
+Fix int16_t/uint16_t support for WGSL target (#7692)
+d0f342c9263a0e47947ac3be9fa4d9f665831e63
