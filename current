@@ -1,2 +1,2 @@
-Fix int16_t/uint16_t support for WGSL target (#7692)
-d0f342c9263a0e47947ac3be9fa4d9f665831e63
+Configure the surface with right format (#7710)
+1eb62804b2c2c1acff94558acc648bb62ea7d051
