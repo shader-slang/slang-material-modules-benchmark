@@ -1,2 +1,2 @@
-Fix IEEE 754 NaN comparisons in constant folding (#7721)
-57567778b7d91afe7e6325c731d54b313b8b16e9
+Use claude action v0.0.31 to avoid premature termination.
+eaaf0196c052055ff166a870e8f072dd02a6dcce
