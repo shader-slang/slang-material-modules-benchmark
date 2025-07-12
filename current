@@ -1,2 +1,2 @@
-Fixup address spaces after inlining. (#7731)
-1e1a49ccf595dcc99bd9792a47199ec89d5b4370
+Add WorkgroupCount function (#7734)
+d39590228241cb42d72f493f6f484c5ea93df934
