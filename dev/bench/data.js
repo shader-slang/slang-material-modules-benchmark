@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1752273883285,
+  "lastUpdate": 1752281946051,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -44125,6 +44125,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1711.8125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "71c7f3a5a534434ac1caf2883f4a02ccb1643a36",
+          "message": "Fix unnecessary Int64 SPIRV capability usage in pointer marshalling (#7717)\n\nhttps://github.com/shader-slang/slang/commit/704d0c7109cf066f4b311e55a141f117f76c0672",
+          "timestamp": "2025-07-11T17:58:55-07:00",
+          "tree_id": "986d756bf14dfee11e41227eca3f355f27225111",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/71c7f3a5a534434ac1caf2883f4a02ccb1643a36"
+        },
+        "date": 1752281944266,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3871,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1096.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1100.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3853.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1098.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1093.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1730.1875,
             "unit": "milliseconds"
           }
         ]
