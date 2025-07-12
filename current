@@ -1,2 +1,2 @@
-Fix unnecessary Int64 SPIRV capability usage in pointer marshalling (#7717)
-704d0c7109cf066f4b311e55a141f117f76c0672
+Enable (at least a sub-set of) CoopVec tests that are disabled (#7706)
+d8d0b8969f731990820f25812f3d90ee4dd1ee75
