@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1752287705648,
+  "lastUpdate": 1752291666969,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -44296,6 +44296,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1081.75,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "885d1a5f5e67ddfa3d312b17af4670ce9b5e7ebb",
+          "message": "Add WorkgroupCount function (#7734)\n\nhttps://github.com/shader-slang/slang/commit/d39590228241cb42d72f493f6f484c5ea93df934",
+          "timestamp": "2025-07-11T20:40:56-07:00",
+          "tree_id": "1f2fffe7b10ed106c5e87cd31fc4f8e640292e0a",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/885d1a5f5e67ddfa3d312b17af4670ce9b5e7ebb"
+        },
+        "date": 1752291665108,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2219.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 677.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 679.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2198.0625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 677.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 676.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1077.6875,
             "unit": "milliseconds"
           }
         ]
