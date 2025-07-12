@@ -1,2 +1,2 @@
-Fix metal segfault by check vectorValue before accessing (#7688)
-e3afef145e67e74e054407606320be0e42a6aa63
+Fix unnecessary Int64 SPIRV capability usage in pointer marshalling (#7717)
+704d0c7109cf066f4b311e55a141f117f76c0672
