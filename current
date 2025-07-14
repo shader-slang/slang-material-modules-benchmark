@@ -1,2 +1,2 @@
-Add WorkgroupCount function (#7734)
-d39590228241cb42d72f493f6f484c5ea93df934
+Let `flake.nix` users run `extras/formatting.sh` (#7682)
+db06fbb163877b8823507b162ee7f2dfca8520f0
