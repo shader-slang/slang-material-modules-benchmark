@@ -1,2 +1,2 @@
-Fix `slang-generate` segfault when parsing `$(()...)` (#7683)
-73e9987c9fc86dd91c20267e9cd79efd2d33d1af
+Add Claude local setting files to .gitignore (#7771)
+12759c467cbaff98e7fb0fd075f3a53861a10c4f
