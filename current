@@ -1,2 +1,2 @@
-Update issue templates
-66d915ac8ec6ab31320c8dbbb43027b33e3a69fd
+Replace [KnownBuiltin] string-based comparisons with enum-based system (#7714)
+d964555d2ee83fac2ba357e4ec81e2a393a7b12f
