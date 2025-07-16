@@ -1,2 +1,2 @@
-Diagnose on initExpr of a global `const` decl (#7711)
-56e91e91e425b77a9d1512cca3d26ce446781935
+Fix CUDA issues with texture reads and surface writes (#7780)
+0bc89f27b08fa7241a7be4f80c2161f25ea3bf78
