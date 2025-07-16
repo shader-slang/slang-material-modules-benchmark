@@ -1,2 +1,2 @@
-Add clear diagnostic for unsupported float types in generic value parameters (#7737)
-652a8ee6883f08ce7cb55ef372277a535ce4d88f
+Fix GLSL memory layout qualifiers not applied to uniform buffers or cbuffers (#7740)
+299eb0c889322a960d1907b6722ee1caf88475a4
