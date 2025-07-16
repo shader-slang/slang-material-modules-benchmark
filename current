@@ -1,2 +1,2 @@
-Emit additional diagnostic for invalid pointer taking operations (#7663)
-21a66267c661a55c8ad27248c0765276dd6f72ea
+Add clear diagnostic for unsupported float types in generic value parameters (#7737)
+652a8ee6883f08ce7cb55ef372277a535ce4d88f
