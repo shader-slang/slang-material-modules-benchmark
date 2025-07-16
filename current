@@ -1,2 +1,2 @@
-Correct help text for `-dump-intermediate-prefix` (#7768)
-b282d0d012be97cbde66656a5aea65d1f63426c0
+Note that `Slang::String` is owned/null-terminated (#7648)
+bcd53322fb7bc3d226cc03a47cc6b91a37850690
