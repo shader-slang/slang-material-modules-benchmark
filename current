@@ -1,2 +1,2 @@
-Fix Metal pointer type emission in entry point parameters (#7759)
-223ccd40599ffcd74b409c7321f2264b93aec4bd
+Correct help text for `-dump-intermediate-prefix` (#7768)
+b282d0d012be97cbde66656a5aea65d1f63426c0
