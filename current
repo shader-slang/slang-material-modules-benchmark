@@ -1,2 +1,2 @@
-Debugging code improvement for IR tracking (#7770)
-f48fc786450dd26dab77f8da86aaa622ff75cf6b
+Emit additional diagnostic for invalid pointer taking operations (#7663)
+21a66267c661a55c8ad27248c0765276dd6f72ea
