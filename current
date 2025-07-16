@@ -1,2 +1,2 @@
-Fix GLSL memory layout qualifiers not applied to uniform buffers or cbuffers (#7740)
-299eb0c889322a960d1907b6722ee1caf88475a4
+Fix Metal pointer type emission in entry point parameters (#7759)
+223ccd40599ffcd74b409c7321f2264b93aec4bd
