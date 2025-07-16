@@ -1,2 +1,2 @@
-Strip debug info only for the SpvOpExtInst of debug import type (#7779)
-80f43f43466a46a5795ad44e5096d99e12c2a0da
+Fix duplicate DiffPair struct generation for row_major matrices in autodiff (#7728)
+73f9aeb838bfaeaeae2c46d94000a4f98da47cea
