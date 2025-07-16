@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1752642344731,
+  "lastUpdate": 1752649320735,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -44866,6 +44866,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1722.3125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ea8c91b4e77ef00a97207229c1c713820f60a276",
+          "message": "Fix Metal pointer type emission in entry point parameters (#7759)\n\nhttps://github.com/shader-slang/slang/commit/223ccd40599ffcd74b409c7321f2264b93aec4bd",
+          "timestamp": "2025-07-16T00:01:45-07:00",
+          "tree_id": "7249dec2dc0a5887c2765d4cadfa491ce7209543",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ea8c91b4e77ef00a97207229c1c713820f60a276"
+        },
+        "date": 1752649318568,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3810.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1135.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1093.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3822.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1123.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1104.375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1715,
             "unit": "milliseconds"
           }
         ]
