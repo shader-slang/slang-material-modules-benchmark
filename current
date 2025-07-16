@@ -1,2 +1,2 @@
-Note that `Slang::String` is owned/null-terminated (#7648)
-bcd53322fb7bc3d226cc03a47cc6b91a37850690
+Diagnose on initExpr of a global `const` decl (#7711)
+56e91e91e425b77a9d1512cca3d26ce446781935
