@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1752688886778,
+  "lastUpdate": 1752691369265,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -45208,6 +45208,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1693.0625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "fad566b34c18b25daec493bea81bacd1b0baedbb",
+          "message": "Fix duplicate DiffPair struct generation for row_major matrices in autodiff (#7728)\n\nhttps://github.com/shader-slang/slang/commit/73f9aeb838bfaeaeae2c46d94000a4f98da47cea",
+          "timestamp": "2025-07-16T11:42:39-07:00",
+          "tree_id": "b2a32ec73b7185497ee09444e08e8003e1f0379e",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/fad566b34c18b25daec493bea81bacd1b0baedbb"
+        },
+        "date": 1752691367351,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2229.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 679.8125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 672.6875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2194.75,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 676.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 675.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1064.8125,
             "unit": "milliseconds"
           }
         ]
