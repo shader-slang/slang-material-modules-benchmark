@@ -1,2 +1,2 @@
-Document IR changes (#7781)
-f081b8639caeb10607b92abced1fc286a977e1e5
+Increase timeout of claude workflow to 6 hours. (#7801)
+041e05fa08d0d465031b54fc27757449452ed011
