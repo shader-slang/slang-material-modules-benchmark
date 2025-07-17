@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1752751646987,
+  "lastUpdate": 1752755963446,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -45607,6 +45607,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1074.559375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "1afdc93d6a1970f6a8258b4349207ae39f92d53d",
+          "message": "Fix BitCast emitting bit shifts with too small integer types (#7792)\n\nhttps://github.com/shader-slang/slang/commit/b138e3f4b64e8f096c30d200dbafc701f0da6356",
+          "timestamp": "2025-07-17T05:39:13-07:00",
+          "tree_id": "a72d8e2c226c8aef82e9b85630f4298f73b5947f",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/1afdc93d6a1970f6a8258b4349207ae39f92d53d"
+        },
+        "date": 1752755961532,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2191.2731249999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 673.063125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 673.473125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2173.57,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 673.194375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 672.0056249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1056.749375,
             "unit": "milliseconds"
           }
         ]
