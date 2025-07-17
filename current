@@ -1,2 +1,2 @@
-fix typo (#7794)
-ab5a815297e57f579b15023cd2ebe97db6bd33eb
+slang: Add support for generating getters for IR struct defs. (#7725)
+150ec59f9081d65f523e7fe8de7a0b75c402195d
