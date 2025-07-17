@@ -1,2 +1,2 @@
-Further increase claude action limits. (#7803)
-cff6eab5453fba6e29e2ff4167c36fdb31d624b3
+Perf improvements to IR serialization (#7751)
+28758e0e427ceca196937dc90efe3ab1cb35bd70
