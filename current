@@ -1,2 +1,2 @@
-Perf improvements to IR serialization (#7751)
-28758e0e427ceca196937dc90efe3ab1cb35bd70
+Fix BitCast emitting bit shifts with too small integer types (#7792)
+b138e3f4b64e8f096c30d200dbafc701f0da6356
