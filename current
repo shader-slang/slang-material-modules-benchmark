@@ -1,2 +1,2 @@
-Increase timeout of claude workflow to 6 hours. (#7801)
-041e05fa08d0d465031b54fc27757449452ed011
+Further increase claude action limits. (#7803)
+cff6eab5453fba6e29e2ff4167c36fdb31d624b3
