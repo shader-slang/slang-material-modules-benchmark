@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1752764259348,
+  "lastUpdate": 1752767839933,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -45778,6 +45778,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1094.343125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "05359358ce3ee46222bdbc8462ed65f3184f52a9",
+          "message": "slang: Add support for generating getters for IR struct defs. (#7725)\n\nhttps://github.com/shader-slang/slang/commit/150ec59f9081d65f523e7fe8de7a0b75c402195d",
+          "timestamp": "2025-07-17T08:57:10-07:00",
+          "tree_id": "c255496753b3d2984ec1297eade46b91553f9906",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/05359358ce3ee46222bdbc8462ed65f3184f52a9"
+        },
+        "date": 1752767837969,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2200.739375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 674.5362499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 674.161875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2181.8181250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 673.708125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 675.379375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1055.8662499999998,
             "unit": "milliseconds"
           }
         ]
