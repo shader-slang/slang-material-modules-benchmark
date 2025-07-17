@@ -1,2 +1,2 @@
-Fix duplicate DiffPair struct generation for row_major matrices in autodiff (#7728)
-73f9aeb838bfaeaeae2c46d94000a4f98da47cea
+Fix formatting (#7799)
+1f3d53753ee96f4ad1e4fad080998d0fefe8f94e
