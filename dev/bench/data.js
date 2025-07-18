@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1752816903988,
+  "lastUpdate": 1752863479817,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -45949,6 +45949,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1513.5318750000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "953fae835300dc1b38bca84d236bdd21cda3a8ed",
+          "message": "Claude: increase tool timeout setting. (#7818)\n\nhttps://github.com/shader-slang/slang/commit/c901338e3b443be4c72308f4f473892404b73268",
+          "timestamp": "2025-07-18T11:31:09-07:00",
+          "tree_id": "b5d1b2f3d0fce1b12a9b284f858e8b70dd088717",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/953fae835300dc1b38bca84d236bdd21cda3a8ed"
+        },
+        "date": 1752863477856,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3959.0593750000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1097.315625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1097.2175000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3788.1862499999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1097.685,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1086.986875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1525.964375,
             "unit": "milliseconds"
           }
         ]
