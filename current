@@ -1,2 +1,2 @@
-Fix debug info generation for let variables in SPIR-V output (#7743)
-70273599e2bb8a8e2b0f7b5e7ad47fe2f00b2b40
+Add comment support to expected-failure files in slang-test (#7817)
+3df9fe8a8a1aa01db2651eacd1d8bec50d0ee90c
