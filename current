@@ -1,2 +1,2 @@
-Fix GLSL global const diagnostic regression (#7808)
-447d73f8c2245d061b0e84890fb994a77816a736
+Add bounds checking for out-of-bounds array access with constant indices (#7814)
+85edfb178cd243134f4bb3d35ad71f154d76c81c
