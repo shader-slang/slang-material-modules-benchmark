@@ -1,2 +1,2 @@
-Add bounds checking for out-of-bounds array access with constant indices (#7814)
-85edfb178cd243134f4bb3d35ad71f154d76c81c
+Claude: increase tool timeout setting. (#7818)
+c901338e3b443be4c72308f4f473892404b73268
