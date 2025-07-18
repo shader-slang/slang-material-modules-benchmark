@@ -1,2 +1,2 @@
-Claude: increase tool timeout setting. (#7818)
-c901338e3b443be4c72308f4f473892404b73268
+Fix debug info generation for let variables in SPIR-V output (#7743)
+70273599e2bb8a8e2b0f7b5e7ad47fe2f00b2b40
