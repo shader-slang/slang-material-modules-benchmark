@@ -1,2 +1,2 @@
-slang: Add support for generating getters for IR struct defs. (#7725)
-150ec59f9081d65f523e7fe8de7a0b75c402195d
+Fix GLSL global const diagnostic regression (#7808)
+447d73f8c2245d061b0e84890fb994a77816a736
