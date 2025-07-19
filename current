@@ -1,2 +1,2 @@
-Add comment support to expected-failure files in slang-test (#7817)
-3df9fe8a8a1aa01db2651eacd1d8bec50d0ee90c
+Fix enum array indexing by adding implicit conversion support (#7815)
+4d514f792fc590e28579a184be8890613d0fdf9e
