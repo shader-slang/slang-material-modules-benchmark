@@ -1,2 +1,2 @@
-Fix D3D12 test failure without Windows Developer mode (#7831)
-7343c7110c38b3ce71d679222dccf438190865b0
+Fix C-style casts in GLSL pointer cast operations (#7841)
+a77d22bf3bfc3098b01e4886c3a63fb751edc704
