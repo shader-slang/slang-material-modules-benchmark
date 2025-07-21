@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1752895627337,
+  "lastUpdate": 1753125546077,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -46234,6 +46234,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 962.540625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ae938a99e2d90bf87c271453d850f3c848c15b1c",
+          "message": "Fix C-style casts in GLSL pointer cast operations (#7841)\n\nhttps://github.com/shader-slang/slang/commit/a77d22bf3bfc3098b01e4886c3a63fb751edc704",
+          "timestamp": "2025-07-21T12:18:53-07:00",
+          "tree_id": "547127f21e2f3a504f70753a54f22f0c0598f220",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ae938a99e2d90bf87c271453d850f3c848c15b1c"
+        },
+        "date": 1753125543452,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2305.2400000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 704.019375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 706.129375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2192.7125000000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 705.0868750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 687.69125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 965.1587499999999,
             "unit": "milliseconds"
           }
         ]
