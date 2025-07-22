@@ -1,2 +1,2 @@
-Add command-line arguments to examples (#7835)
-13dd01489efd89268d15751c5299e5783015bbcd
+Fix capability generator to sort capabilities alphabetically within header groups (#7851)
+9adac4069fbcc7ce5bea2c42d19c61eb1dcd7f25
