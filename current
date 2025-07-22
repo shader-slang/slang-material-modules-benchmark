@@ -1,2 +1,2 @@
-Fix crash when private ctor is used for coercion. (#7858)
-52a45890b5ab71d7dbfdd01955afce129728d67e
+Fix segfault when using -separate-debug-info with unsupported targets (#7777)
+6e0c63b723cc81efcc82c2af778b26e507c71825
