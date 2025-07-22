@@ -1,2 +1,2 @@
-Add CI to check ir module versioning (#7821)
-f25e5a89f00bcecacee4f09901d5cfdc1be341c6
+Fix findFunctionByNameInType to preserve functions with different signatures (#7827)
+0d26dbaad90f5eac604e148971d14e552bf9d5b8
