@@ -1,2 +1,2 @@
-Fix findFunctionByNameInType to preserve functions with different signatures (#7827)
-0d26dbaad90f5eac604e148971d14e552bf9d5b8
+Fix crash when private ctor is used for coercion. (#7858)
+52a45890b5ab71d7dbfdd01955afce129728d67e
