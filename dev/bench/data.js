@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1753284058224,
+  "lastUpdate": 1753300015492,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -47032,6 +47032,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1523.255625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "eccab66a2f740a19aa92fe2305c0645ed32f2707",
+          "message": "Fix MSVC compiler complains about different calling convention between interface and impl when building Win32 binaries (#7845) (#7872)\n\nhttps://github.com/shader-slang/slang/commit/7b4c72379bf3c5feae58120cf3ef26d53d16ff10",
+          "timestamp": "2025-07-23T12:46:45-07:00",
+          "tree_id": "8e9f205f96f26882f3ed4468246fe0e73a8f751c",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/eccab66a2f740a19aa92fe2305c0645ed32f2707"
+        },
+        "date": 1753300013377,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3853.43875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1091.9143749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1094.096875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3803.75375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1104.3187500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1090.3,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1523.520625,
             "unit": "milliseconds"
           }
         ]
