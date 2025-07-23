@@ -1,2 +1,2 @@
-fix #7869 (#7871)
-ed8add13e917eb50a0ab4b021b57191271313a58
+Add LLDB data formatters for Slang IR (#7828)
+876b21f21cb9bfdff1479364f60f2ce6b15ea0b3
