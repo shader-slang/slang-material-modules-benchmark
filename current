@@ -1,2 +1,2 @@
-Fix visibility of synthesized Differential typedefs. (#7865)
-165a95ebb2e9dbdc1b92bdc103470438a5114500
+fix #7869 (#7871)
+ed8add13e917eb50a0ab4b021b57191271313a58
