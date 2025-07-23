@@ -1,2 +1,2 @@
-Fix segfault when using -separate-debug-info with unsupported targets (#7777)
-6e0c63b723cc81efcc82c2af778b26e507c71825
+Fix scalar to array conversion for tessellation factors (#7837)
+b16d4e955fdba3d68d156f944260f8b7a157fd4d
