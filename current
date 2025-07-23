@@ -1,2 +1,2 @@
-Add LLDB data formatters for Slang IR (#7828)
-876b21f21cb9bfdff1479364f60f2ce6b15ea0b3
+Fix MSVC compiler complains about different calling convention between interface and impl when building Win32 binaries (#7845) (#7872)
+7b4c72379bf3c5feae58120cf3ef26d53d16ff10
