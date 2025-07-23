@@ -1,2 +1,2 @@
-Fix public unscoped enum constants not visible across module boundaries (#7864)
-8a36695f1f3abaf98831d4512e74ebd5bce1494e
+Fix visibility of synthesized Differential typedefs. (#7865)
+165a95ebb2e9dbdc1b92bdc103470438a5114500
