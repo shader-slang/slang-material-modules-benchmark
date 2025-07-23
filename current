@@ -1,2 +1,2 @@
-Fix scalar to array conversion for tessellation factors (#7837)
-b16d4e955fdba3d68d156f944260f8b7a157fd4d
+Fix public unscoped enum constants not visible across module boundaries (#7864)
+8a36695f1f3abaf98831d4512e74ebd5bce1494e
