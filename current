@@ -1,2 +1,2 @@
-Fix confusing error messages for interface return type mismatches (#7854)
-2d23a962766a97cbb11bcee5483a66aec923da49
+Add test for Metal pointer uniform parameter (#7850)
+a9d1cc5daaf2cf72be88f7ebf4a2e3c3da68abc9
