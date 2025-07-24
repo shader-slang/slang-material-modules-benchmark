@@ -1,2 +1,2 @@
-Include Inst UID in some assert failure messages. (#7882)
-f78d7528fdcbd4d1825660356927ab33035377b7
+Fix confusing error messages for interface return type mismatches (#7854)
+2d23a962766a97cbb11bcee5483a66aec923da49
