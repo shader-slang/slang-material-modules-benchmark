@@ -1,2 +1,2 @@
-Fix MSVC compiler complains about different calling convention between interface and impl when building Win32 binaries (#7845) (#7872)
-7b4c72379bf3c5feae58120cf3ef26d53d16ff10
+Add slang-ast files to gitignore (#6901)
+c48e35506667c752edec6a021e7a9b9562940c7b
