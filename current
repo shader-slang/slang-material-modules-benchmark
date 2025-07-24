@@ -1,2 +1,2 @@
-Add slang-ast files to gitignore (#6901)
-c48e35506667c752edec6a021e7a9b9562940c7b
+Skip creating transitive witnesses for interface conformances that are inherited through structs (#7597)
+26b9a176e08ec6918d6fdebe1d7b586336f6f0fd
