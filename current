@@ -1,2 +1,2 @@
-Skip creating transitive witnesses for interface conformances that are inherited through structs (#7597)
-26b9a176e08ec6918d6fdebe1d7b586336f6f0fd
+Include Inst UID in some assert failure messages. (#7882)
+f78d7528fdcbd4d1825660356927ab33035377b7
