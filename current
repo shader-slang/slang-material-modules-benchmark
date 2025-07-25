@@ -1,2 +1,2 @@
-Avoid early specialization for witness tables in SimplifyIR (#7636)
-138efb9c25aadd319db6e6300a263574d90e3391
+Fix metallib-asm target parsing by adding missing comma (#7902)
+1a88488c309eab24b8f931c182353b271f22b44d
