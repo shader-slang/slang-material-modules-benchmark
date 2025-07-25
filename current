@@ -1,2 +1,2 @@
-Fix metallib-asm target parsing by adding missing comma (#7902)
-1a88488c309eab24b8f931c182353b271f22b44d
+Fix SPIRV OpMemberName member indices (#7912)
+fa946c659bd5ad577f30cf4565e13f9dcfc6937a
