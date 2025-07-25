@@ -1,2 +1,2 @@
-Add combined texture-sampler flag to reflection API to differentiate Texture2D from Sampler2D (#7901)
-c5091f0ae3a8b816af893e84ef289f745acf39dc
+Fix for Generic Function Redefinition Error (#7891)
+c0726e1d571f7f319a244ee6a6ba1ed2c361e079
