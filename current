@@ -1,2 +1,2 @@
-Fix SPIRV OpMemberName member indices (#7912)
-fa946c659bd5ad577f30cf4565e13f9dcfc6937a
+Fix compiler crash when enum is used as vertex output data (#7915)
+528ca0d0e55df88a9a97ba071ae803a62a34ae5a
