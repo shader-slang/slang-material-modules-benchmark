@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1753407287203,
+  "lastUpdate": 1753419886977,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -47431,6 +47431,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 966.156875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "163b6c5af4aadd6443b240f7aeb32d64be952a5d",
+          "message": "Fix metallib-asm target parsing by adding missing comma (#7902)\n\nhttps://github.com/shader-slang/slang/commit/1a88488c309eab24b8f931c182353b271f22b44d",
+          "timestamp": "2025-07-24T22:04:36-07:00",
+          "tree_id": "fe942eaed8fb105882c3ec26dcbe27c71c186ffe",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/163b6c5af4aadd6443b240f7aeb32d64be952a5d"
+        },
+        "date": 1753419884913,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3860.725,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1107.611875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1096.3075000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3831.8862499999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1109.794375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1094.675,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1533.6018750000003,
             "unit": "milliseconds"
           }
         ]
