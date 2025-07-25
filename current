@@ -1,2 +1,2 @@
-Add test for Metal pointer uniform parameter (#7850)
-a9d1cc5daaf2cf72be88f7ebf4a2e3c3da68abc9
+Avoid early specialization for witness tables in SimplifyIR (#7636)
+138efb9c25aadd319db6e6300a263574d90e3391
