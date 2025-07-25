@@ -1,2 +1,2 @@
-Fix for Generic Function Redefinition Error (#7891)
-c0726e1d571f7f319a244ee6a6ba1ed2c361e079
+Fix SLANG_USE_SYSTEM_SPIRV_HEADERS=TRUE (#7916)
+9cfdf5de6b867ca7a95b3a74f30471cbe7c87494
