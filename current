@@ -1,2 +1,2 @@
-Fix compiler crash when enum is used as vertex output data (#7915)
-528ca0d0e55df88a9a97ba071ae803a62a34ae5a
+Add combined texture-sampler flag to reflection API to differentiate Texture2D from Sampler2D (#7901)
+c5091f0ae3a8b816af893e84ef289f745acf39dc
