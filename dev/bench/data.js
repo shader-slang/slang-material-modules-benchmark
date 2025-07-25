@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1753398645899,
+  "lastUpdate": 1753407287203,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -47374,6 +47374,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 970.7450000000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "886301021bf7ed0f3b0d3909b966e53750de811a",
+          "message": "Avoid early specialization for witness tables in SimplifyIR (#7636)\n\nhttps://github.com/shader-slang/slang/commit/138efb9c25aadd319db6e6300a263574d90e3391",
+          "timestamp": "2025-07-24T18:34:36-07:00",
+          "tree_id": "69ca2d30818d90fd1f372ef72bbd8a69aa7997b5",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/886301021bf7ed0f3b0d3909b966e53750de811a"
+        },
+        "date": 1753407284863,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2215.6099999999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 683.2475000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 683.1862499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2194.89125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 681.889375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 681.613125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 966.156875,
             "unit": "milliseconds"
           }
         ]
