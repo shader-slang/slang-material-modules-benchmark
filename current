@@ -1,2 +1,2 @@
-Fix SLANG_USE_SYSTEM_SPIRV_HEADERS=TRUE (#7916)
-9cfdf5de6b867ca7a95b3a74f30471cbe7c87494
+Fix nv_viewport_mask semantic to emit SpvBuiltInViewportMaskNV (#7904)
+6f60f16e00f972cbfc7b30cf070faaf0952f9bc0
