@@ -1,2 +1,2 @@
-Fix nv_viewport_mask semantic to emit SpvBuiltInViewportMaskNV (#7904)
-6f60f16e00f972cbfc7b30cf070faaf0952f9bc0
+Fix mesh shader reflection JSON output (#7868)
+c068bdea454f389b7dd7ce38bbb51a16dc6896ab
