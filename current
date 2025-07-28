@@ -1,2 +1,2 @@
-Fix broken links in User Guide (#7938)
-6d399804a353154259cf4410940f144db8f9b5cf
+Update slang-rhi to fix CI error on debug. (#7946)
+4ca545ed9e98fa49740b3537473e02b950c23a99
