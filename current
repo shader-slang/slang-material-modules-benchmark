@@ -1,2 +1,2 @@
-Update slang-rhi to fix CI error on debug. (#7946)
-4ca545ed9e98fa49740b3537473e02b950c23a99
+Fix issue in multi-level break elimination by handling multi-level continue statements (#7953)
+5f8475bee2589b8e851c856135cf10758e859e72
