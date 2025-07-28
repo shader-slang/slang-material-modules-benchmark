@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1753733554606,
+  "lastUpdate": 1753736426186,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -48001,6 +48001,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 986.5056249999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "d2fe945a841602164a36b5d04c479a76a2a99049",
+          "message": "Fix issue in multi-level break elimination by handling multi-level continue statements (#7953)\n\nhttps://github.com/shader-slang/slang/commit/5f8475bee2589b8e851c856135cf10758e859e72",
+          "timestamp": "2025-07-28T14:00:14-07:00",
+          "tree_id": "1540f3227f9e1a383333ccc2bef46a8a08d8cb6c",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/d2fe945a841602164a36b5d04c479a76a2a99049"
+        },
+        "date": 1753736423428,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2229.2793749999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 691.7850000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 689.3199999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2207.9912500000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 688.2043749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 690.1856249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 971.979375,
             "unit": "milliseconds"
           }
         ]
