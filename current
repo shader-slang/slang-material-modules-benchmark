@@ -1,2 +1,2 @@
-[Language Server]: Show signature help on generic parameters. (#7913)
-855b1a262f3a769d44765e78f94e566d875b9286
+Fix slang-no-embedded-core-module-source embedding core module (#7885)
+2db6ac97ad62f28c246e8176df52a104bb7c4be9
