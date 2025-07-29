@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1753829473377,
+  "lastUpdate": 1753832353369,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -48400,6 +48400,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 964.7487499999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "f8bc6ac20a48c497da5594f7431e864f41a2d4aa",
+          "message": "Fix Metal invalid as_type cast for 64-bit RWByteAddressBuffer.Store values (#7843)\n\nhttps://github.com/shader-slang/slang/commit/48efc60380aa79e8c4aba13976cc2015f38a659e",
+          "timestamp": "2025-07-29T16:39:02-07:00",
+          "tree_id": "9ac7e1a1f5cb7477fa3f756dfc3c00800b70d729",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/f8bc6ac20a48c497da5594f7431e864f41a2d4aa"
+        },
+        "date": 1753832351007,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3786.2668750000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1077.1881250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1090.979375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3773.5118749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1082.865625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1078.7375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1514.61125,
             "unit": "milliseconds"
           }
         ]
