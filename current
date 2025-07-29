@@ -1,2 +1,2 @@
-Disable automatic `#include` insertion for clangd (#7951)
-a2d93ae0122aff62866e9266e5e51d4615a00783
+Fix CUDA backend missing U32_firstbitlow implementation (#7921)
+e8797496bf7caeb08b5334d13d0d5aa039106210
