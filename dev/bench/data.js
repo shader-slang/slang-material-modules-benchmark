@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1753752948553,
+  "lastUpdate": 1753776572606,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -48115,6 +48115,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 975.6462500000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "d1bbca38d433b28880e68e1a4eff87595c4abd61",
+          "message": "Fix CUDA backend missing U32_firstbitlow implementation (#7921)\n\nhttps://github.com/shader-slang/slang/commit/e8797496bf7caeb08b5334d13d0d5aa039106210",
+          "timestamp": "2025-07-29T01:09:19-07:00",
+          "tree_id": "211198fa18f908f95728fd739914c0e1bd7e7376",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/d1bbca38d433b28880e68e1a4eff87595c4abd61"
+        },
+        "date": 1753776569803,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3775.3081250000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1077.991875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1098.06,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3800.0525000000007,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1086.4381250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1078.2575000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1518.551875,
             "unit": "milliseconds"
           }
         ]
