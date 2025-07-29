@@ -1,2 +1,2 @@
-Detect uses of uninitialized resource fields (#7962)
-ea6f8551ad38f2bcc32b542fd52ce17f3829cbeb
+[Language Server]: Show signature help on generic parameters. (#7913)
+855b1a262f3a769d44765e78f94e566d875b9286
