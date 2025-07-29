@@ -1,2 +1,2 @@
-Fix slang-no-embedded-core-module-source embedding core module (#7885)
-2db6ac97ad62f28c246e8176df52a104bb7c4be9
+Fix Metal invalid as_type cast for 64-bit RWByteAddressBuffer.Store values (#7843)
+48efc60380aa79e8c4aba13976cc2015f38a659e
