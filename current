@@ -1,2 +1,2 @@
-Improve diagnostics over ambiguous references. (#7930)
-1da9019e9d3150502264365668156edf64ddfab1
+Detect uses of uninitialized resource fields (#7962)
+ea6f8551ad38f2bcc32b542fd52ce17f3829cbeb
