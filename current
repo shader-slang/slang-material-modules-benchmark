@@ -1,2 +1,2 @@
-disallow `static const` variables without default-value (#7993)
-c4dd2eb0033b3eaf683791a6666cff63aeb9f139
+Reduce merge_group CI workload. (#7996)
+db59c22cfb774e984a207a074f13870b78ec0071
