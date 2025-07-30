@@ -1,2 +1,2 @@
-Fix ICE when immutable value is passed to a bwd_diff function. (#7973)
-b8663a5d93e6e73d5e2d7e737cffd1efac055719
+Disable more CI workflows on master push. (#7983)
+42dc521f7817328a20e40b3352ae667dfd124edb
