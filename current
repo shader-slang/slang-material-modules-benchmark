@@ -1,2 +1,2 @@
-Fix Metal invalid as_type cast for 64-bit RWByteAddressBuffer.Store values (#7843)
-48efc60380aa79e8c4aba13976cc2015f38a659e
+Fix ICE when immutable value is passed to a bwd_diff function. (#7973)
+b8663a5d93e6e73d5e2d7e737cffd1efac055719
