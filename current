@@ -1,2 +1,2 @@
-Lowering unsupported matrix types for GLSL/WGSL/Metal targets (#7936)
-92ee2927d0012dd454dff7bb53b900f5240073d5
+disallow `static const` variables without default-value (#7993)
+c4dd2eb0033b3eaf683791a6666cff63aeb9f139
