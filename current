@@ -1,2 +1,2 @@
-Exclude a list of expensive slang-rhi tests to speed up CI (#8004)
-29f5d1f1099665c433de4e0af74773f2faa1208d
+Fix bug in ci test (#8005)
+4a255d211834a5d0218cf1d166180930754b16cd
