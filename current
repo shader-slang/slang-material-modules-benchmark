@@ -1,2 +1,2 @@
-Fix bug in ci test (#8005)
-4a255d211834a5d0218cf1d166180930754b16cd
+Handle debug-layer messages in a separate channel (#7988)
+aefd1e3e0dbe4e77f8d7dbbfa04e15c2db615394
