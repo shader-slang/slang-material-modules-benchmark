@@ -1,2 +1,2 @@
-msvc style bitfield packing (#7963)
-66301ab9068c5705e5a2bcbf2eaadfb28e8bb084
+Exclude a list of expensive slang-rhi tests to speed up CI (#8004)
+29f5d1f1099665c433de4e0af74773f2faa1208d
