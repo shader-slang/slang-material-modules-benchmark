@@ -1,2 +1,2 @@
-Add matrix select intrinsic (#7566)
-30fd3c63fb4af9ea8d482c75921710df1b40e59e
+Fix segmentation fault in ray tracing parameter consolidation. (#7997)
+e313300d2446c2efdc1d221304a6b6454fe7fa54
