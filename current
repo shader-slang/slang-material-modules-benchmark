@@ -1,2 +1,2 @@
-Omit "Internal" category from default help text output (#8013)
-96346cd67f79fae6b603d720b6d9634c2b89c829
+Omit listing values in slangc -h cmdline output, show how to list them seperately (#8012)
+5e24630674e52cc9a340aa05f8f36790f0df66c4
