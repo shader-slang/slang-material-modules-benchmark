@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1754003113183,
+  "lastUpdate": 1754006762622,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -49027,6 +49027,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1490.74,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "9d09cda8450ddc2b71a7de4d4a3fa16daadf7cd8",
+          "message": "Fix segmentation fault in ray tracing parameter consolidation. (#7997)\n\nhttps://github.com/shader-slang/slang/commit/e313300d2446c2efdc1d221304a6b6454fe7fa54",
+          "timestamp": "2025-07-31T17:05:49-07:00",
+          "tree_id": "b18c6314c251e34b0f05d483615ce3d766f1b054",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/9d09cda8450ddc2b71a7de4d4a3fa16daadf7cd8"
+        },
+        "date": 1754006759357,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3793.0243750000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1094.4525,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1088.6825,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3772.7700000000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1093.201875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1087.6118750000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1513.2143749999998,
             "unit": "milliseconds"
           }
         ]
