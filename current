@@ -1,2 +1,2 @@
-Fix segmentation fault in ray tracing parameter consolidation. (#7997)
-e313300d2446c2efdc1d221304a6b6454fe7fa54
+Omit "Internal" category from default help text output (#8013)
+96346cd67f79fae6b603d720b6d9634c2b89c829
