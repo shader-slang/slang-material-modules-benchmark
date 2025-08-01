@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1754020145824,
+  "lastUpdate": 1754045950568,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -49255,6 +49255,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 977.90875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "293220b15bb08df052163703a78aec54e918172e",
+          "message": "Fix 7441: CUDA boolean vector layout to use 1-byte elements (#7862)\n\nhttps://github.com/shader-slang/slang/commit/bdda8a90cdd44ca822b21233ac988f92d1f20826",
+          "timestamp": "2025-08-01T03:58:56-07:00",
+          "tree_id": "ea380579079410f733e19316e318c417e6905c56",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/293220b15bb08df052163703a78aec54e918172e"
+        },
+        "date": 1754045948359,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2252.94375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 696.636875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 701.0662499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2237.2062499999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 694.378125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 695.1937500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 981.0724999999999,
             "unit": "milliseconds"
           }
         ]
