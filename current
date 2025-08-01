@@ -1,2 +1,2 @@
-Fix 7441: CUDA boolean vector layout to use 1-byte elements (#7862)
-bdda8a90cdd44ca822b21233ac988f92d1f20826
+disable ray-tracing-pipeline test (#8023)
+374026df12021ce2f90cbd86d6e7ec6a181f6038
