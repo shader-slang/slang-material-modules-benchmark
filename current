@@ -1,2 +1,2 @@
-Omit "Invalid" capability from slangc -h output (#8020)
-7a133445ef82232a6961c25d09b79f45cd92e709
+Fix 7441: CUDA boolean vector layout to use 1-byte elements (#7862)
+bdda8a90cdd44ca822b21233ac988f92d1f20826
