@@ -1,2 +1,2 @@
-Omit listing values in slangc -h cmdline output, show how to list them seperately (#8012)
-5e24630674e52cc9a340aa05f8f36790f0df66c4
+Omit "Invalid" capability from slangc -h output (#8020)
+7a133445ef82232a6961c25d09b79f45cd92e709
