@@ -1,2 +1,2 @@
-disable ray-tracing-pipeline test (#8023)
-374026df12021ce2f90cbd86d6e7ec6a181f6038
+Reenable debug-layers on CI (#8017)
+6239a67cbeb3c551e08bfbf96044a0451e8ecc24
