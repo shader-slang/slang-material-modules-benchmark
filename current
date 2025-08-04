@@ -1,2 +1,2 @@
-fix overload in extension issue (#7999)
-34840bb69fd6b124e772535ffb3f223743870467
+Omit "Repro" category from default help text output (#8032)
+41314741d9bfca95abba40e58720b4ce2f2653dd
