@@ -1,2 +1,2 @@
-Omit "Repro" category from default help text output (#8032)
-41314741d9bfca95abba40e58720b4ce2f2653dd
+Clarify downstream and direct compilation paths in design overview doc (#8021)
+ce53e9c6703708bc85b0b1a0872620a7725c5a45
