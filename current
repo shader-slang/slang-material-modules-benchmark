@@ -1,2 +1,2 @@
-Bring back hooks for auto formatting and ensure build works (#7811)
-2d775b54d2ab7772785c2196075d4c7c174407ab
+Implement SPV_EXT_fragment_invocation_density (SPV_NV_shading_rate) (#8037)
+83675103a1a4fefde11b314aed26f4d37860efe7
