@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1754511142650,
+  "lastUpdate": 1754512291629,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -50053,6 +50053,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 973.4793749999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "b80e9804c6deee90f91127c069bed1319faf197b",
+          "message": "A new approach to AST node deduplication (#8072)\n\nhttps://github.com/shader-slang/slang/commit/352576546bf192b06e425e922d305f0a7d0845fb",
+          "timestamp": "2025-08-06T13:31:18-07:00",
+          "tree_id": "e1a864e72ac34b4ed7cb5063d00b6f089269d03d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/b80e9804c6deee90f91127c069bed1319faf197b"
+        },
+        "date": 1754512288709,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2227.393125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 703.3243750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 704.39125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2217.40375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 705.0556250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 703.3031249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1005.145,
             "unit": "milliseconds"
           }
         ]
