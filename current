@@ -1,2 +1,2 @@
-Fix noperspective modifier for SV_Barycentrics in SPIRV and GLSL (#8067)
-5074c4948d73b451c74bd21ac139d69eaeb390f3
+A new approach to AST node deduplication (#8072)
+352576546bf192b06e425e922d305f0a7d0845fb
