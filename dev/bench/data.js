@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1754503619084,
+  "lastUpdate": 1754511142650,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -49996,6 +49996,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 966.1731250000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ab48c105118e02e3770b7dc7b34928c602cf8fdf",
+          "message": "Fix noperspective modifier for SV_Barycentrics in SPIRV and GLSL (#8067)\n\nhttps://github.com/shader-slang/slang/commit/5074c4948d73b451c74bd21ac139d69eaeb390f3",
+          "timestamp": "2025-08-06T13:12:10-07:00",
+          "tree_id": "389a2224cb0ac3999fbd40c57fadf791faa163ad",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ab48c105118e02e3770b7dc7b34928c602cf8fdf"
+        },
+        "date": 1754511139808,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2230.4125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 688.99,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 688.9012500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2221.694375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 686.3193750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 688.2449999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 973.4793749999999,
             "unit": "milliseconds"
           }
         ]
