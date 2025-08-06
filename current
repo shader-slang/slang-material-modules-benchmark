@@ -1,2 +1,2 @@
-Fix 7723 - Add autodiff tests (#7919)
-d107327422b69777d41f1077c58d46c6bcf579c4
+Fix noperspective modifier for SV_Barycentrics in SPIRV and GLSL (#8067)
+5074c4948d73b451c74bd21ac139d69eaeb390f3
