@@ -1,2 +1,2 @@
-Add warning for comma operators used outside for-loops and expand expressions in legacy mode (#7984)
-9ed7b5264676547855e1378d2b9c9d51c8ba7162
+Add new _getName to get extension decl names for core module docs (#7985)
+67a96920674d628f615532a302504544a45e8187
