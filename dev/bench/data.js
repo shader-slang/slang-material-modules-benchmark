@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1754537067499,
+  "lastUpdate": 1754539448326,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -50224,6 +50224,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1828.0125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "3066b347d6c816eb3c670bfed6e7f0ae79a28fc4",
+          "message": "Fix atomic fp16 vector SPIRV emit (#8104)\n\nhttps://github.com/shader-slang/slang/commit/f241b1438104973d719926eb74e2195715d7608a",
+          "timestamp": "2025-08-06T21:03:55-07:00",
+          "tree_id": "c18fdb39c709ec276810dc67d3d603380c6c9ac7",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/3066b347d6c816eb3c670bfed6e7f0ae79a28fc4"
+        },
+        "date": 1754539446022,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2267.589375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 732.810625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 733.6631249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2251.9225000000006,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 730.531875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 729.75625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1140.4175,
             "unit": "milliseconds"
           }
         ]
