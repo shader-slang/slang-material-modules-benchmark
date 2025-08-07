@@ -1,2 +1,2 @@
-Add new _getName to get extension decl names for core module docs (#7985)
-67a96920674d628f615532a302504544a45e8187
+Support `expand` on concrete tuple values. (#8106)
+7cd8130e1a3dbcca8746e0577fb8df3bf2975bf8
