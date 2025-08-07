@@ -1,2 +1,2 @@
-Add Discord server link to Slang internal error messages (#8026)
-b9aad6649e3ba0186e17fc035d4b56f8e6169b59
+Improve performance of AST deserialization (#7935)
+631a4c37a597fab7599abc472f25d671bfe37751
