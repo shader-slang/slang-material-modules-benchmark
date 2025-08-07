@@ -1,2 +1,2 @@
-Run extras/verify-documented-compiler-version.sh only when built (#8097)
-d0848ab22d007fa54605480c301cfdc5ab6386e3
+export fewer things from module targets (#8089)
+9e2685853033f4286feaf22d04a755a7395d95ce
