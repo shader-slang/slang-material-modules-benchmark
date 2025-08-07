@@ -1,2 +1,2 @@
-Improve performance of AST deserialization (#7935)
-631a4c37a597fab7599abc472f25d671bfe37751
+Fix atomic fp16 vector SPIRV emit (#8104)
+f241b1438104973d719926eb74e2195715d7608a
