@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1754601177720,
+  "lastUpdate": 1754605869225,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -50680,6 +50680,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1785.7850000000003,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "de36646e5029658e59a3595b763df88f916fb5f7",
+          "message": "Fix intrinsic LoadLocalRootTableConstant for optix (#7949)\n\nhttps://github.com/shader-slang/slang/commit/e595743b5aa4f6bd88800cfbcfd6eead3cc3d01b",
+          "timestamp": "2025-08-07T15:30:58-07:00",
+          "tree_id": "5efbdf9c2040befa498190be253f5103a283e274",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/de36646e5029658e59a3595b763df88f916fb5f7"
+        },
+        "date": 1754605866964,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3892.0412500000007,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1148.96,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1150.0531250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3995.2818749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1171.2637499999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1152.8606249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1790.5781249999998,
             "unit": "milliseconds"
           }
         ]
