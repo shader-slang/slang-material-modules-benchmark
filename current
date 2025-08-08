@@ -1,2 +1,2 @@
-Fix intrinsic LoadLocalRootTableConstant for optix (#7949)
-e595743b5aa4f6bd88800cfbcfd6eead3cc3d01b
+Fix FunctionReflection getName() returning null for overloaded functions (#8113)
+c7c4816146bb9ec055e9a8f8c3f975624f2fdb07
