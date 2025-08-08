@@ -1,2 +1,2 @@
-Initial copy elision pass regression fix (#8126)
-719772c01a8ee8afa81cded249d6a51e33e17d8d
+Error if super-type capabilities are a super-set of sub-type (#7452)
+07f21ee31b5f427edb72d5578f713b3da3f3b96f
