@@ -1,2 +1,2 @@
-Diagnose on array of parameterblock instead of asserting (#8123)
-5d1ba37be64980d80e5106f8664a654d907ebaf4
+Initial copy elision pass regression fix (#8126)
+719772c01a8ee8afa81cded249d6a51e33e17d8d
