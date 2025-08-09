@@ -1,2 +1,2 @@
-Fix atomics error diagnostics (#8117)
-b7df3c7aa27301f88e31ed0a7bbf230688adab6a
+[SPIR-V] Emit control flags for `branch/flatten` decorations (#8134)
+fc6aea37483446372425aca8471f0e8bf7c3a910
