@@ -1,2 +1,2 @@
-Disable "Copilot Setup Steps" on "push". (#8129)
-06b8e69740a40e5cc9fdaac472a9242534876e5b
+Fix atomics error diagnostics (#8117)
+b7df3c7aa27301f88e31ed0a7bbf230688adab6a
