@@ -1,2 +1,2 @@
-[SPIR-V] Emit control flags for `branch/flatten` decorations (#8134)
-fc6aea37483446372425aca8471f0e8bf7c3a910
+Allow specializing entrypoints with generic value args or variadic types from API (#8119)
+dcdebc1a76a0a6ffbfd6a5805354f8f679c60202
