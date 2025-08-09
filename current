@@ -1,2 +1,2 @@
-Error if super-type capabilities are a super-set of sub-type (#7452)
-07f21ee31b5f427edb72d5578f713b3da3f3b96f
+Fix `tests\bugs\op-select-return-composite.slang` Test Failing (#8132)
+30646d4881c8f1d46bc8a4bf4049d0921a1c9b3c
