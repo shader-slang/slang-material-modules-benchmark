@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1754730949522,
+  "lastUpdate": 1754759004938,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -51136,6 +51136,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1897.661875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "cd7302058825a0d4b3cfbf84d138999eae320db8",
+          "message": "[SPIR-V] Emit control flags for `branch/flatten` decorations (#8134)\n\nhttps://github.com/shader-slang/slang/commit/fc6aea37483446372425aca8471f0e8bf7c3a910",
+          "timestamp": "2025-08-09T10:03:16-07:00",
+          "tree_id": "69a5389e6f8057638a158576871538102cccf1ab",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/cd7302058825a0d4b3cfbf84d138999eae320db8"
+        },
+        "date": 1754759002646,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2249.9537499999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 721.2024999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 723.0712500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2229.3993749999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 719.663125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 725.015625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1131.31875,
             "unit": "milliseconds"
           }
         ]
