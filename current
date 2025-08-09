@@ -1,2 +1,2 @@
-Fix `tests\bugs\op-select-return-composite.slang` Test Failing (#8132)
-30646d4881c8f1d46bc8a4bf4049d0921a1c9b3c
+Disable "Copilot Setup Steps" on "push". (#8129)
+06b8e69740a40e5cc9fdaac472a9242534876e5b
