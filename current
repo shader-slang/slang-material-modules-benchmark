@@ -1,2 +1,2 @@
-Allow specializing entrypoints with generic value args or variadic types from API (#8119)
-dcdebc1a76a0a6ffbfd6a5805354f8f679c60202
+Do case-sensitive search for category first in slangc -h (#8142)
+5b64150cdf0dfd6e068cdf27c5ea857c2d967d15
