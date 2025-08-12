@@ -1,2 +1,2 @@
-Do case-sensitive search for category first in slangc -h (#8142)
-5b64150cdf0dfd6e068cdf27c5ea857c2d967d15
+Allow `flake.nix` users to run Vulkan tests (#8152)
+719ecf3bf6ce50a8f1d02c6f96ae65e6f492321a
