@@ -1,2 +1,2 @@
-Allow `flake.nix` users to run Vulkan tests (#8152)
-719ecf3bf6ce50a8f1d02c6f96ae65e6f492321a
+Enable CUDA testing for batch 2 (#8147)
+3618f7a4c35de32405e6ebe458bae835869e2876
