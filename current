@@ -1,2 +1,2 @@
-Remove the semantic decoration from the original entry struct (#8146)
-d7e2bac2df176af4cd3955e6df02e2ddcbc059d8
+Fix error for not defining `Val::_toTextOverride` (#8177)
+80b46bd2124b3ead963ae977fef3d010049beb9a
