@@ -1,2 +1,2 @@
-Fix error for not defining `Val::_toTextOverride` (#8177)
-80b46bd2124b3ead963ae977fef3d010049beb9a
+Handle SV_Barycentrics on metal (#8163)
+90a9515fcbc7e362c05341c2ca65fbe78bc1106a
