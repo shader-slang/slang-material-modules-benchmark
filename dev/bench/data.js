@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1755099816577,
+  "lastUpdate": 1755121988999,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -51535,6 +51535,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1144.898125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e12c21b43d14a80f6a290842bb5706daf1ceebbd",
+          "message": "Fix error for not defining `Val::_toTextOverride` (#8177)\n\nhttps://github.com/shader-slang/slang/commit/80b46bd2124b3ead963ae977fef3d010049beb9a",
+          "timestamp": "2025-08-13T14:52:57-07:00",
+          "tree_id": "d9f563bdd18ea374b729f6fc5c55d6db739c9113",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e12c21b43d14a80f6a290842bb5706daf1ceebbd"
+        },
+        "date": 1755121986412,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2254.758125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 724.28125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 725.0306250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2245.8693749999993,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 723.2737500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 725.456875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1136.35625,
             "unit": "milliseconds"
           }
         ]
