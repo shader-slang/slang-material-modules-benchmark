@@ -1,2 +1,2 @@
-Handle SV_Barycentrics on metal (#8163)
-90a9515fcbc7e362c05341c2ca65fbe78bc1106a
+Fix typo in "compilation ceased" error identifier (#8189)
+ceb2e8d04885d55dd9685a38977a55c4f53f202f
