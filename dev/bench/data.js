@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1755202225497,
+  "lastUpdate": 1755205517736,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -51706,6 +51706,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1161.65,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "fe2c0706970ae348131d3160c46fe28085876b33",
+          "message": "[Capability System] Fix bug where capabilities do not correctly propegate if AST-parent has target+set the AST-child does not (#8175)\n\nhttps://github.com/shader-slang/slang/commit/dd06524f523cdac9c753801ce9c3992f66ae5576",
+          "timestamp": "2025-08-14T14:05:03-07:00",
+          "tree_id": "26c371a67e98ce75d76d94e80f8fceb5cc22cc14",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/fe2c0706970ae348131d3160c46fe28085876b33"
+        },
+        "date": 1755205514691,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2291.15,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 732.7837499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 735.180625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2268.505625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 731.4131250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 733.25,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1152.775,
             "unit": "milliseconds"
           }
         ]
