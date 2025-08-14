@@ -1,2 +1,2 @@
-Fix typo in "compilation ceased" error identifier (#8189)
-ceb2e8d04885d55dd9685a38977a55c4f53f202f
+[Capability System] Fix bug where capabilities do not correctly propegate if AST-parent has target+set the AST-child does not (#8175)
+dd06524f523cdac9c753801ce9c3992f66ae5576
