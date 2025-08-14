@@ -1,2 +1,2 @@
-[Capability System] Fix bug where capabilities do not correctly propegate if AST-parent has target+set the AST-child does not (#8175)
-dd06524f523cdac9c753801ce9c3992f66ae5576
+Clean up `natvis` and use fiddle to generate info needed for `.natvis` debugging (#8192)
+cfd08da1036cf72b8e6c6f661260b968f79667e7
