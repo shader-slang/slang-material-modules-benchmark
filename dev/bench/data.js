@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1755269002414,
+  "lastUpdate": 1755277375049,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -51877,6 +51877,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1142.40375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "bf9fb5a607ec4cb2589c2fbf4c49f82946749267",
+          "message": "[CUDA] Fix incorrect `kIROp_RaytracingAccelerationStructureType` emitting logic (#8168)\n\nhttps://github.com/shader-slang/slang/commit/f75bf474ef87737c87ef6dcb431bd0b87faee0a8",
+          "timestamp": "2025-08-15T10:02:42-07:00",
+          "tree_id": "a2710a2d966d581bb2a7875680b694335634e3e2",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/bf9fb5a607ec4cb2589c2fbf4c49f82946749267"
+        },
+        "date": 1755277371877,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2288.2349999999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 737.8124999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 736.98125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2272.448125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 738.2750000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 735.58125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1158.26,
             "unit": "milliseconds"
           }
         ]
