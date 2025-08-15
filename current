@@ -1,2 +1,2 @@
-Use 64bit int instead of emulation on metal (#8180)
-dcda42e7dcdb5e260013757763bf5dbf67d69568
+Add static functions to create blobs from data (#8179)
+af27de01532904508e6a630c213249e93fdd1c66
