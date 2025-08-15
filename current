@@ -1,2 +1,2 @@
-[CUDA] Fix incorrect `kIROp_RaytracingAccelerationStructureType` emitting logic (#8168)
-f75bf474ef87737c87ef6dcb431bd0b87faee0a8
+Use 64bit int instead of emulation on metal (#8180)
+dcda42e7dcdb5e260013757763bf5dbf67d69568
