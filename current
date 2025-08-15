@@ -1,2 +1,2 @@
-Prohibit use of buffer.GetDimensions on metal (#8156)
-feb1569d972f294ce482ea8b1645da6cde4e982d
+[CUDA] Fix incorrect `kIROp_RaytracingAccelerationStructureType` emitting logic (#8168)
+f75bf474ef87737c87ef6dcb431bd0b87faee0a8
