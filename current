@@ -1,2 +1,2 @@
-Clean up `natvis` and use fiddle to generate info needed for `.natvis` debugging (#8192)
-cfd08da1036cf72b8e6c6f661260b968f79667e7
+Prohibit use of buffer.GetDimensions on metal (#8156)
+feb1569d972f294ce482ea8b1645da6cde4e982d
