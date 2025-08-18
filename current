@@ -1,2 +1,2 @@
-Don't let clang-format reorder Fiddle `#include`s (#7887)
-09054bff3d0874a92958b514ae2a9ff2b32483e5
+Fix error in IR stable names Git diff CI script (#7954)
+e9a309678f55a59bb012a931af2c1b734968a13d
