@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1755577854508,
+  "lastUpdate": 1755631827239,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -52447,6 +52447,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1818.874375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "6d030c49b13d8998dfdf88b8ed92c147eb72ef55",
+          "message": "CMake: Guard inclusion of VULKAN_HEADERS and SPIRV-Headers (#8124)\n\nhttps://github.com/shader-slang/slang/commit/6321bf07f701692b82bb3a767071e68fc7e19bbf",
+          "timestamp": "2025-08-19T12:30:14-07:00",
+          "tree_id": "f0ad5c842e06cc926f0bb0b15ecb1aaef79d3020",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/6d030c49b13d8998dfdf88b8ed92c147eb72ef55"
+        },
+        "date": 1755631824115,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2279.7,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 727.2637499999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 742.96,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2260.1175,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 725.78,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 726.296875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1140.130625,
             "unit": "milliseconds"
           }
         ]
