@@ -1,2 +1,2 @@
-Fix error in IR stable names Git diff CI script (#7954)
-e9a309678f55a59bb012a931af2c1b734968a13d
+Emit descriptor handle correctly for ParameterBlock<DescriptorHandle> (#8206)
+ae1a93b579ed276d2455e1b97ca65ad4727d56d0
