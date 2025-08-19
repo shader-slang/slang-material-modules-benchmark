@@ -1,2 +1,2 @@
-Emit descriptor handle correctly for ParameterBlock<DescriptorHandle> (#8206)
-ae1a93b579ed276d2455e1b97ca65ad4727d56d0
+CMake: Guard inclusion of VULKAN_HEADERS and SPIRV-Headers (#8124)
+6321bf07f701692b82bb3a767071e68fc7e19bbf
