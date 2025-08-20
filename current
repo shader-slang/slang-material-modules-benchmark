@@ -1,2 +1,2 @@
-Add Metal support for WaveGetActiveMask and WaveActiveCountBits (#8218)
-82e3fc9c1064f06780f6449154c7cf8f663fceac
+Add more system dependency options to CMake (#7987)
+619de903b70e08a7ca8471419e8eb7e4dd43ca9d
