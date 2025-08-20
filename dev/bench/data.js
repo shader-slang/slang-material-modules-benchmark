@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1755712715571,
+  "lastUpdate": 1755716550871,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -52675,6 +52675,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1168.595,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "db6aa02eb5abeee9e2e5f61e5b0976dacfa3fe69",
+          "message": "Add Metal support for WaveGetActiveMask and WaveActiveCountBits (#8218)\n\nhttps://github.com/shader-slang/slang/commit/82e3fc9c1064f06780f6449154c7cf8f663fceac",
+          "timestamp": "2025-08-20T12:02:14-07:00",
+          "tree_id": "6648e3628acfde692f65f4102e3103feb24a2c88",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/db6aa02eb5abeee9e2e5f61e5b0976dacfa3fe69"
+        },
+        "date": 1755716548327,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3950.000625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1193.215,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1178.38875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4025.4018750000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1173.9950000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1179.0475,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1867.5243750000002,
             "unit": "milliseconds"
           }
         ]
