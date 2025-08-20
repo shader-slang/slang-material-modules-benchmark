@@ -1,2 +1,2 @@
-Add more system dependency options to CMake (#7987)
-619de903b70e08a7ca8471419e8eb7e4dd43ca9d
+Fix nextafter() (#8195)
+cbd73dde3dd2da790bb663385a229ce22965c43c
