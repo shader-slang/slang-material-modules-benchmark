@@ -1,2 +1,2 @@
-Enabling via-glsl test for "merge" event (#8133)
-a26a11ff5c3f14401bbbbbc4b6e3731056618138
+Add Metal support for WaveGetActiveMask and WaveActiveCountBits (#8218)
+82e3fc9c1064f06780f6449154c7cf8f663fceac
