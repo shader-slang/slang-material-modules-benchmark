@@ -1,2 +1,2 @@
-CMake: Guard inclusion of VULKAN_HEADERS and SPIRV-Headers (#8124)
-6321bf07f701692b82bb3a767071e68fc7e19bbf
+Fix#8076 - Re-enable slangpy test (#8087)
+e4a7129b84692ddc3c586f0d0dde95e80e173ed8
