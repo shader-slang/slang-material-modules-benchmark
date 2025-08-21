@@ -1,2 +1,2 @@
-Fix reflection JSON writing userAttribs section twice for some cases. (#8210)
-c45f02579076fcf559f92be501d8293d308db34e
+Fix SLANGC_EXECUTABLE search path in slangConfig.cmake (#8200)
+44815ba48c1d149137a2210ca3fccfe3bda2626e
