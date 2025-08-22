@@ -1,2 +1,2 @@
-Add record and replay support for IComponentType2 (#8215)
-a5e6ddd006ecf72ad9a41961811e93e1e2f72e64
+Fix readlink missing include (#8260)
+3ca2e47514e3fce133a6ac7d1aca88a3b679c551
