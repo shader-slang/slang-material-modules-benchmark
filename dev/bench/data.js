@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1755885802458,
+  "lastUpdate": 1755900753734,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -53188,6 +53188,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1173.185625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ddc7e5f92075c2ea0b9e1070c70b98c8983197f9",
+          "message": "Fix mesh shader OutputIndices subscript error by adding missing ref accessor (#7929)\n\nhttps://github.com/shader-slang/slang/commit/cd9e1f67184c1361558e18993e5cb392dc1131f0",
+          "timestamp": "2025-08-22T15:12:24-07:00",
+          "tree_id": "2de92861cc59d36265134579061a3a4a537ef747",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ddc7e5f92075c2ea0b9e1070c70b98c8983197f9"
+        },
+        "date": 1755900751230,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2294.2775,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 742.9918749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 744.12125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2280.50375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 738.5112500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 739.0693749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1169.2281249999999,
             "unit": "milliseconds"
           }
         ]
