@@ -1,2 +1,2 @@
-Fix#8084: Batch-8: Enable cuda tests (#8268)
-1562f98c07954ae17f9e7ef186f6c8eb029740ab
+Print GPU driver version in CI.yml (#8275)
+404a8635f4e5a1c7872b8c1cca322904f2ed1579
