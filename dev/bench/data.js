@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1756106657972,
+  "lastUpdate": 1756109333342,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -53359,6 +53359,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1150.6993750000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "26dfdb83a0992a9688328c0bbac8a628c5fbb40f",
+          "message": "Fix#8084: Batch-8: Enable cuda tests (#8268)\n\nhttps://github.com/shader-slang/slang/commit/1562f98c07954ae17f9e7ef186f6c8eb029740ab",
+          "timestamp": "2025-08-25T01:08:40-07:00",
+          "tree_id": "5af3f690535133aecbf43ecd536f8a143ab4b4b7",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/26dfdb83a0992a9688328c0bbac8a628c5fbb40f"
+        },
+        "date": 1756109330202,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2282.6137499999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 736.2875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 738.5431249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2259.804375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 738.8812499999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 741.9831250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1159.87375,
             "unit": "milliseconds"
           }
         ]
