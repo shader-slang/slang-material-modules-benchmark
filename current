@@ -1,2 +1,2 @@
-Add WASM platform support to release workflow (#8264)
-7b30ad489198ecedb16a0265f290c1e32772514c
+fix a autodiff crash (#8259)
+5060042bb63cbf42063f5e81c58881e1e8323857
