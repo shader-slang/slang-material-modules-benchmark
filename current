@@ -1,2 +1,2 @@
-Print GPU driver version in CI.yml (#8275)
-404a8635f4e5a1c7872b8c1cca322904f2ed1579
+Add WASM platform support to release workflow (#8264)
+7b30ad489198ecedb16a0265f290c1e32772514c
