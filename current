@@ -1,2 +1,2 @@
-Fix Metal 8-bit vector type names: emit char/uchar instead of int8_t/uint8_t (#8223)
-4e9ee1dc80ce353640c1e2134249a1f93da9229a
+Fail slang-test when VVL printed errors (#8280)
+1681bc67fbae57b54b66c5dcfcbf315d1efa831b
