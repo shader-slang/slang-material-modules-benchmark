@@ -1,2 +1,2 @@
-Update slang-rhi deps for gfx-unit-test (#8237)
-0b87355f946b9a0f8b7fa9225369dade3d5bf84a
+Fix Metal 8-bit vector type names: emit char/uchar instead of int8_t/uint8_t (#8223)
+4e9ee1dc80ce353640c1e2134249a1f93da9229a
