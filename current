@@ -1,2 +1,2 @@
-Fix warnings from CMake version 3.31 (#8227)
-70d70c1d315a91ed414892fb70974026082bcc99
+Update slang-rhi deps for gfx-unit-test (#8237)
+0b87355f946b9a0f8b7fa9225369dade3d5bf84a
