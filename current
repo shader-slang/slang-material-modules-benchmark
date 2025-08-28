@@ -1,2 +1,2 @@
-Remove the embedded source to avoid self-matching in slang-test (#8305)
-c19e2e92ae8e713225262a17f39a438cd511d416
+Revert "Reduce the dependency to thread library (#8216)" (#8319)
+74c39eaa3dbd6ca55a383afca51ec18962838f08
