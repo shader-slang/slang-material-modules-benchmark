@@ -1,2 +1,2 @@
-[Documentation] optix test coverage #463 (#8311)
-3dc466487d489f09c835bdd872eb130cdc5784ea
+Remove the embedded source to avoid self-matching in slang-test (#8305)
+c19e2e92ae8e713225262a17f39a438cd511d416
