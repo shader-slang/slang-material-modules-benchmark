@@ -1,2 +1,2 @@
-Fail slang-test when VVL printed errors (#8280)
-1681bc67fbae57b54b66c5dcfcbf315d1efa831b
+Add SPIRV OpCapability for 8/16bit use in storage (#8194)
+80ddf40274fdca93f2ae95a247ff3af122aec6ac
