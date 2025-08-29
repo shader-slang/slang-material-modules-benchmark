@@ -1,2 +1,2 @@
-Revert "Reduce the dependency to thread library (#8216)" (#8319)
-74c39eaa3dbd6ca55a383afca51ec18962838f08
+Enable slangpy and slang-rhi tests for Mac (#8297)
+450ef7934c1adfdf4a3a3c72967de3c5798a020d
