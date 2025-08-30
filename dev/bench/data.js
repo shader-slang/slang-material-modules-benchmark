@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1756509931039,
+  "lastUpdate": 1756514440094,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -54100,6 +54100,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1821.0018750000002,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "b76035b9e5f0ef5a1fefb877b90e6d2cea45e099",
+          "message": "[CBP] Pointer frontend changes + groupshared pointer support (#7848)\n\nhttps://github.com/shader-slang/slang/commit/7758625d3fea67e55e98e7e4103d56c9918365be",
+          "timestamp": "2025-08-29T17:40:27-07:00",
+          "tree_id": "da92dd6385f74f0787c83553cea8069ef8fd938e",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/b76035b9e5f0ef5a1fefb877b90e6d2cea45e099"
+        },
+        "date": 1756514436819,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3949.2606250000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1203.883125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1182.6025000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3895.6712500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1218.0712500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1202.8500000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1864.6143749999999,
             "unit": "milliseconds"
           }
         ]
