@@ -1,2 +1,2 @@
-[CBP] Pointer frontend changes + groupshared pointer support (#7848)
-7758625d3fea67e55e98e7e4103d56c9918365be
+Remove unused variable in slangc::main (#8325)
+288a63dea8c441df6edc4f8fae10d340c20e1ba3
