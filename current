@@ -1,2 +1,2 @@
-Remove unused variable in slangc::main (#8325)
-288a63dea8c441df6edc4f8fae10d340c20e1ba3
+Emit DebugInfo for the legalized entry point parameters (#7703)
+21693abbd0579107e3c03d1e5090b2653722b5de
