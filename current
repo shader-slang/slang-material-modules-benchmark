@@ -1,2 +1,2 @@
-Add Optix Intrinsics Coverage (#8159) (#8310)
-f5fae010863c0c836a5a80e659673bcd58010dba
+Fix#8085: Batch-9: Enable cuda tests (#8269)
+bf607e2f3fa183e9a2b18c7a98438a05247d6ed3
