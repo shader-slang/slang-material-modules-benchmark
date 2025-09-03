@@ -1,2 +1,2 @@
-Fix#8085: Batch-9: Enable cuda tests (#8269)
-bf607e2f3fa183e9a2b18c7a98438a05247d6ed3
+Diagnose on structured buffers containing resources (#8222)
+a766d27447aa0fcf69334c0467d9b1124892e180
