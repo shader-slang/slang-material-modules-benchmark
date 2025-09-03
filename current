@@ -1,2 +1,2 @@
-Enable ccache for self-hosted runner (#8345)
-7d15d388d7e92547f1cc8ca47748b79589701051
+manually config ccache locally (#8351)
+4886bf95fcf6e7f38f48a346f4112fe340a453c8
