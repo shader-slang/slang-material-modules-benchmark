@@ -1,2 +1,2 @@
-Emit DebugInfo for the legalized entry point parameters (#7703)
-21693abbd0579107e3c03d1e5090b2653722b5de
+Enable ccache for self-hosted runner (#8345)
+7d15d388d7e92547f1cc8ca47748b79589701051
