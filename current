@@ -1,2 +1,2 @@
-Fix#8128 LSS and sphere hit object intrinsics fail to compile (#8339)
-20373ad01d09d46646d4de0a8cc7a78a4c8f6638
+Split CI to build and test jobs (#8359)
+0fb62524bc8beda70694f6c58570ad8096bbe698
