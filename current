@@ -1,2 +1,2 @@
-Handle slang-test command comments better (#8363)
-b45706b3f532f85525de5746f1f607ba2e57fc88
+Fix#8128 LSS and sphere hit object intrinsics fail to compile (#8339)
+20373ad01d09d46646d4de0a8cc7a78a4c8f6638
