@@ -1,2 +1,2 @@
-Fix cache_dir path for ccache config (#8370)
-1e1ff8a1254c114f261271ffe5580183b8402e32
+Try both LoadLibrary functions on Windows (#8368)
+5500f11768d4d93eef4dfcecf0821fee747bf1a4
