@@ -1,2 +1,2 @@
-Try both LoadLibrary functions on Windows (#8368)
-5500f11768d4d93eef4dfcecf0821fee747bf1a4
+Add warnings for overflows of integer types (#8281)
+5055de0bb1cf3f9aac63a60217f2dbde5533c557
