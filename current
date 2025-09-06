@@ -1,2 +1,2 @@
-Add check for backtrace availability (#8329)
-4856da26e188c28bf691d0210ce8016264c00940
+Remove unnecessary check and adust server count etc. in CI (#8374)
+fe87a39e453b64e94446181a9ae5cbfc0f62bf0c
