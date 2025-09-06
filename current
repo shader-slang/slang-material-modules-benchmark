@@ -1,2 +1,2 @@
-Remove unnecessary check and adust server count etc. in CI (#8374)
-fe87a39e453b64e94446181a9ae5cbfc0f62bf0c
+Relax restriction on using link-time types for shader parameters. (#8387)
+bc6b82666fa4deda932c36cea93ee2059e0992b2
