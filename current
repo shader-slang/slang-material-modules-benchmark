@@ -1,2 +1,2 @@
-Add warnings for overflows of integer types (#8281)
-5055de0bb1cf3f9aac63a60217f2dbde5533c557
+Disable a few WGSL testing using Wave functions in branches (#8386)
+ffd58977b4e64af5a83ebc5478555fd667f58e51
