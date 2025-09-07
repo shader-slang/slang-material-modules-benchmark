@@ -1,2 +1,2 @@
-Relax restriction on using link-time types for shader parameters. (#8387)
-bc6b82666fa4deda932c36cea93ee2059e0992b2
+Enhances CI reliability and debug logging (#8393)
+c0d7405d831faa6208b27fe56bf66fb0b138dcc5
