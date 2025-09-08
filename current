@@ -1,2 +1,2 @@
-Don't emit ArrayStride 0 for RWStructuredBuffer pointers (#8397)
-8b512c49d163af1df33e940acc3c4a230f0d00b7
+Use wide char version of Windows API (#8390)
+3aff764c2b5d613f766538d27e0b9f448e7ed5ca
