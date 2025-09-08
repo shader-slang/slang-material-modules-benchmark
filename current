@@ -1,2 +1,2 @@
-Enhances CI reliability and debug logging (#8393)
-c0d7405d831faa6208b27fe56bf66fb0b138dcc5
+Don't emit ArrayStride 0 for RWStructuredBuffer pointers (#8397)
+8b512c49d163af1df33e940acc3c4a230f0d00b7
