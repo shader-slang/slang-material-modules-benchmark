@@ -1,2 +1,2 @@
-Use wide char version of Windows API (#8390)
-3aff764c2b5d613f766538d27e0b9f448e7ed5ca
+Fix #8314 - Enable tests/compute/texture-subscript.slang for CUDA (#8408)
+63676c5e51d9d58d3cde7e296f82250b71538b85
