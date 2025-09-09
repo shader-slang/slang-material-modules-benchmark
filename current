@@ -1,2 +1,2 @@
-Enable slang_lldb.py on macos (#8327)
-35b78082565b79125473c6fbd628541ecfa386eb
+Always define OptixTraversableHandle (#8411)
+3745d75543ded3bc457ff5aba152141d382ba306
