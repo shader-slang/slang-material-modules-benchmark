@@ -1,2 +1,2 @@
-Fix #8314 - Enable tests/compute/texture-subscript.slang for CUDA (#8408)
-63676c5e51d9d58d3cde7e296f82250b71538b85
+Enable slang_lldb.py on macos (#8327)
+35b78082565b79125473c6fbd628541ecfa386eb
