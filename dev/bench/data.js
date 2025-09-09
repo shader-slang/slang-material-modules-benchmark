@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1757355791550,
+  "lastUpdate": 1757418665146,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -55297,6 +55297,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1167.4925,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "57af9f2f44604ca2e548ed84d20f7b1a3dc3d8bc",
+          "message": "Fix #8314 - Enable tests/compute/texture-subscript.slang for CUDA (#8408)\n\nhttps://github.com/shader-slang/slang/commit/63676c5e51d9d58d3cde7e296f82250b71538b85",
+          "timestamp": "2025-09-09T04:50:54-07:00",
+          "tree_id": "15145cdcc25f1105a137bd6e8ce8d09dd3c61125",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/57af9f2f44604ca2e548ed84d20f7b1a3dc3d8bc"
+        },
+        "date": 1757418662420,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2297.138125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 741.3025,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 750.1212499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2278.5743749999992,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 740.183125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 737.4287500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1166.918125,
             "unit": "milliseconds"
           }
         ]
