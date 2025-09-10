@@ -1,2 +1,2 @@
-Enable ccache in slang bulid for CTS test (#8413)
-8aa63073c1be2cdc0c34e71601cb28255e92a805
+Send notification only on scheduled CTS runs (#8418)
+e554e1b726814535565f0619a868b96b6f2fb525
