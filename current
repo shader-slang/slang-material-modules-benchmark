@@ -1,2 +1,2 @@
-Fix pointers and C-like layout in varying parameters (#8425)
-ec42c4a20facbcae441cd172bfd607614e761907
+Fix crash when compiling specialized generic entrypoint containing a static const decl. (#8392)
+c5607e9d68e9082ada9441f1949937f6b16d5c7f
