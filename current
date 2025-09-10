@@ -1,2 +1,2 @@
-CUDA: Fix compiler crash with unsized array field - nonuniformres-as-… (#8380)
-3d0f5ee55788dca324641ae9268ee37dc4d7d9d5
+Squash warnings on gcc 14 (#8377)
+b03cbb02c6486274d46865f3995953f2105cefc9
