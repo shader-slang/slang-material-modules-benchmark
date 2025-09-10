@@ -1,2 +1,2 @@
-Update SPIRV-{Tools,Headers} (#8415)
-7026dec790ab0c239c58ebf72b17633e9e8765c3
+Fix language server auto-complete regression in debug build. (#8416)
+43dffcde78227113a0e62b02857eaf4ed6ea6e7e
