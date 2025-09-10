@@ -1,2 +1,2 @@
-Always define OptixTraversableHandle (#8411)
-3745d75543ded3bc457ff5aba152141d382ba306
+Enable ccache in slang bulid for CTS test (#8413)
+8aa63073c1be2cdc0c34e71601cb28255e92a805
