@@ -1,2 +1,2 @@
-Fix crash when compiling specialized generic entrypoint containing a static const decl. (#8392)
-c5607e9d68e9082ada9441f1949937f6b16d5c7f
+Add FindModifier for Declarations (#8308)
+f3e26754c4b63fee419407752b771ecf0bb8ed5a
