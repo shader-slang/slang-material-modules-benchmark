@@ -1,2 +1,2 @@
-Check if debugVar for is debuggable types in the legalization pass (#8326)
-2020a102e9e0ea2f39a0f2b2a75085c3607ce734
+CUDA: Fix compiler crash with unsized array field - nonuniformres-as-… (#8380)
+3d0f5ee55788dca324641ae9268ee37dc4d7d9d5
