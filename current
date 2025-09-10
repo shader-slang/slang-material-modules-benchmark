@@ -1,2 +1,2 @@
-Fix language server auto-complete regression in debug build. (#8416)
-43dffcde78227113a0e62b02857eaf4ed6ea6e7e
+Check if debugVar for is debuggable types in the legalization pass (#8326)
+2020a102e9e0ea2f39a0f2b2a75085c3607ce734
