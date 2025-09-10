@@ -1,2 +1,2 @@
-Squash warnings on gcc 14 (#8377)
-b03cbb02c6486274d46865f3995953f2105cefc9
+Fix pointers and C-like layout in varying parameters (#8425)
+ec42c4a20facbcae441cd172bfd607614e761907
