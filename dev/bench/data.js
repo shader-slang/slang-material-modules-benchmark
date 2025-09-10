@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1757490810694,
+  "lastUpdate": 1757508087452,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -55753,6 +55753,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1824.931875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "673779360cb33918f3433ccd3e552c2e9955915b",
+          "message": "CUDA: Fix compiler crash with unsized array field - nonuniformres-as-… (#8380)\n\nhttps://github.com/shader-slang/slang/commit/3d0f5ee55788dca324641ae9268ee37dc4d7d9d5",
+          "timestamp": "2025-09-10T05:41:13-07:00",
+          "tree_id": "ce9c28fabbb6ba4cbe577dcb1148909badee9dc9",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/673779360cb33918f3433ccd3e552c2e9955915b"
+        },
+        "date": 1757508083985,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3934.874999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1172.508125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1184.419375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3870.5849999999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1173.1518750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1170.8737500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1832.0006250000001,
             "unit": "milliseconds"
           }
         ]
