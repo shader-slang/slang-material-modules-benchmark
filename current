@@ -1,2 +1,2 @@
-Add FindModifier for Declarations (#8308)
-f3e26754c4b63fee419407752b771ecf0bb8ed5a
+Fix segfault in SPIR-V header processing in SpirvInstructionHelper (#8428)
+8bcf6c443bbd24498e67ae54f06c2ad933421738
