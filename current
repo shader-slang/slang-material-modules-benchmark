@@ -1,2 +1,2 @@
-Enable static mimalloc in Spriv-Tools (#8419)
-8ad0ae17880480abe587617c997ab28b23abc146
+Diagnose error when the function args can't satisfy constexpr parameter requirements (#7269)
+afb8146e10626887e3eb9f479480d4f8a1ad6128
