@@ -1,2 +1,2 @@
-Fix segfault in SPIR-V header processing in SpirvInstructionHelper (#8428)
-8bcf6c443bbd24498e67ae54f06c2ad933421738
+Enable static mimalloc in Spriv-Tools (#8419)
+8ad0ae17880480abe587617c997ab28b23abc146
