@@ -1,2 +1,2 @@
-Change CI to use locally installed sdk (#8450)
-64d23f2a56d9bd064557ae02a4f8a9d365cd9d60
+Fix LSS intrinsics for hit objects in ray tracing tests (#8469)
+5610d78451570c8866d207b0ce81005caaefb785
