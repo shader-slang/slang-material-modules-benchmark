@@ -1,2 +1,2 @@
-Diagnose error when the function args can't satisfy constexpr parameter requirements (#7269)
-afb8146e10626887e3eb9f479480d4f8a1ad6128
+Change CI to use locally installed sdk (#8450)
+64d23f2a56d9bd064557ae02a4f8a9d365cd9d60
