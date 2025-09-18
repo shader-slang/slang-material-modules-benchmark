@@ -1,2 +1,2 @@
-Add WASM FS module support for slang-playground (#8459)
-206f6cf5657177dfec9113d1f1b88b685eb2b75a
+Fix CUDA global variable initialization with constructor calls (#8340)
+54faa55c0bd4c4beede7337a76ed3a56d1eb4f15
