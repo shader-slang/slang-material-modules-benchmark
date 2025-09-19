@@ -1,2 +1,2 @@
-Fix DebugCompilationUnit to reference main shader file instead of header files (#7957)
-ed9f42361e2f07a79fde39ded9e57473d5fac39f
+include limits.h in slang-platform.cpp (#8473)
+391d35d63e83293855180b1cce061ca6b73a8b56
