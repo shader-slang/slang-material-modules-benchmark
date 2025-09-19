@@ -1,2 +1,2 @@
-Check if any required jobs failed (allow success or skipped) (#8495)
-c6d8c6b6890341ac9a849e0f5a96e686731c4e78
+Use LOAD_LIBRARY_SEARCH_DEFAULT_DIRS for LoadLibraryExW (#8491)
+c8d189bd500fce3d6716a79cdb204a94b36a84b5
