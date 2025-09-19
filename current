@@ -1,2 +1,2 @@
-Fix SPIRV headers precedence (#8481)
-48cbbcfeb3531a819edd74e072ca3c4b4379c5a3
+Check if any required jobs failed (allow success or skipped) (#8495)
+c6d8c6b6890341ac9a849e0f5a96e686731c4e78
