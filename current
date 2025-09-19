@@ -1,2 +1,2 @@
-include limits.h in slang-platform.cpp (#8473)
-391d35d63e83293855180b1cce061ca6b73a8b56
+Fix SPIRV headers precedence (#8481)
+48cbbcfeb3531a819edd74e072ca3c4b4379c5a3
