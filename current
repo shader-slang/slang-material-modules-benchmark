@@ -1,2 +1,2 @@
-Reduce the maxprocesses to 3 for slangpy test (#8502)
-bd24cc271c5d151dbaa7e4da674cbc219aef8153
+Add RHI Device Caching and Test Prefix Exclusion (#8448)
+ba8132345cbae5b749b4a01deda732ad6f8251a0
