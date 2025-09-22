@@ -1,2 +1,2 @@
-Use LOAD_LIBRARY_SEARCH_DEFAULT_DIRS for LoadLibraryExW (#8491)
-c8d189bd500fce3d6716a79cdb204a94b36a84b5
+Fixed typo in `SemanticsVisitor::_readAggregateValueFromInitializerList` (#8504)
+c991ad46ebffe3cd6aa4ac8eb1d88c17bf2f6a6f
