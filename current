@@ -1,2 +1,2 @@
-Fixed typo in `SemanticsVisitor::_readAggregateValueFromInitializerList` (#8504)
-c991ad46ebffe3cd6aa4ac8eb1d88c17bf2f6a6f
+Reduce the maxprocesses to 3 for slangpy test (#8502)
+bd24cc271c5d151dbaa7e4da674cbc219aef8153
