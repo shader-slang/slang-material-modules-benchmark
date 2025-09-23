@@ -1,2 +1,2 @@
-Lookup refactor (#8467)
-21c663605330d629e9022314a4720b86b017f295
+Legalize type as well in legalizeOperand (#8483)
+d61d6b57dfb0788ebf3449bfde6db288fe4e44a8
