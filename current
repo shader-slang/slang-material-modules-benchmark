@@ -1,2 +1,2 @@
-Split overloaded uses of RefType in front-end (#8427)
-c35b763f811298a6e9c61a4a8eaf805ea98bd608
+Fix varying output structs in GLSL source (#8501)
+9e34c6d949e97fc87a0a7be4ab37092b586aee9d
