@@ -1,2 +1,2 @@
-Fix varying output structs in GLSL source (#8501)
-9e34c6d949e97fc87a0a7be4ab37092b586aee9d
+fix a crash when using type equality constaint (#8515)
+7740f7905fdebebdbe22011787d432b385f4cd9d
