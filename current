@@ -1,2 +1,2 @@
-fix a crash when using type equality constaint (#8515)
-7740f7905fdebebdbe22011787d432b385f4cd9d
+Lookup refactor (#8467)
+21c663605330d629e9022314a4720b86b017f295
