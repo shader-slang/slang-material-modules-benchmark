@@ -1,2 +1,2 @@
-Adding 4 WGPU tests to expected-failure-github (#8540)
-55183716f2c8db506acd2f01330e6e21e3d9fdc7
+Fix CMake error with generator on list in 3.22.1 (#8364)
+2e0fe3d0608c4de239fd6cd2ecdf0322951855f5
