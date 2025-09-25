@@ -1,2 +1,2 @@
-Add timeout to CI jobs; add mimalloc to .gitignore (#8538)
-55a7d2a73ef051f6027129f90e73a88b5176ec3b
+Prepare VulkanSDK release Oct 2025 (#8525)
+db44c1b732891102199f0ec9d219a33d2ab2d6a1
