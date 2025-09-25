@@ -1,2 +1,2 @@
-Remove unnecessary Load and Store pair (#8433)
-9c2024a7509baae921083d49a56e1321c51f00ec
+Add timeout to CI jobs; add mimalloc to .gitignore (#8538)
+55a7d2a73ef051f6027129f90e73a88b5176ec3b
