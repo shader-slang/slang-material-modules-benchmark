@@ -1,2 +1,2 @@
-Fix CMake error with generator on list in 3.22.1 (#8364)
-2e0fe3d0608c4de239fd6cd2ecdf0322951855f5
+Fix VVL errors on coopvec tests (#8541)
+f55f669d1badc94eb4eabf77a22a5994acca7a89
