@@ -1,2 +1,2 @@
-Remove `cooperative-vector` tests from expected CI failures (#8381)
-ed5dfc550e7a0b8b685a130493faa8be198fb0a5
+Diagnostic on use of unsupported entry point modifiers (#8487)
+e9f74ebfa83cd6aca39d7e3da2801cd47935bd1a
