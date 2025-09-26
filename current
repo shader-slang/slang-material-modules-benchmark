@@ -1,2 +1,2 @@
-Fix VVL errors on coopvec tests (#8541)
-f55f669d1badc94eb4eabf77a22a5994acca7a89
+Remove `cooperative-vector` tests from expected CI failures (#8381)
+ed5dfc550e7a0b8b685a130493faa8be198fb0a5
