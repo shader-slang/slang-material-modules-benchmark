@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1758908602211,
+  "lastUpdate": 1758930587764,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -57805,6 +57805,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1848.7343749999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e4d3186469f7e4172448849270011f6f65dfd1b6",
+          "message": "Add SPV_NV_bindless_texture support (#8534)\n\nhttps://github.com/shader-slang/slang/commit/99de1a6203f676955f80de8c93c0f56c91d4ca96",
+          "timestamp": "2025-09-26T16:49:35-07:00",
+          "tree_id": "b292a0eb136002cf77dec3c122abb6587f663e3d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e4d3186469f7e4172448849270011f6f65dfd1b6"
+        },
+        "date": 1758930584824,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3918.6150000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1179.09375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1185.4106249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3910.1243750000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1180.380625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1176.946875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1870.9525,
             "unit": "milliseconds"
           }
         ]
