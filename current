@@ -1,2 +1,2 @@
-Diagnostic on use of unsupported entry point modifiers (#8487)
-e9f74ebfa83cd6aca39d7e3da2801cd47935bd1a
+Add SPV_NV_bindless_texture support (#8534)
+99de1a6203f676955f80de8c93c0f56c91d4ca96
