@@ -1,2 +1,2 @@
-Add SPV_NV_bindless_texture support (#8534)
-99de1a6203f676955f80de8c93c0f56c91d4ca96
+Fix segfault when shader entry points return resource types (#8434)
+d3093deb49d1088ede6c3dcd418575bfa4bcd732
