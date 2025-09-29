@@ -1,2 +1,2 @@
-Fix segfault when shader entry points return resource types (#8434)
-d3093deb49d1088ede6c3dcd418575bfa4bcd732
+cmake: install config files into the correct directory for find_package() (#8482)
+9936bccab1537e5430af449651db70c3f5d591df
