@@ -1,2 +1,2 @@
-Rewriting the lower-buffer-element-type pass to avoid unnecessary packing/unpacking. (#8526)
-a6deb5ed82cb8fc6b4f4c5c5fee264e09f97ff89
+canonical type equality constraint (#8445)
+ee5adb87050ae7c0b96056a67dddc5d48174e695
