@@ -1,2 +1,2 @@
-Enable metal tests (#8446)
-8086adc90b69f3199767c0617e2c429ce6b27f67
+Handle getEquivalentStructuredBuffer(castDynamicResource) in byte address legalization pass. (#8567)
+b6422e50cb19f7f790f29678ba22f31b0b305511
