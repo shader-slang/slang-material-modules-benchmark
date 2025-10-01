@@ -1,2 +1,2 @@
-Handle getEquivalentStructuredBuffer(castDynamicResource) in byte address legalization pass. (#8567)
-b6422e50cb19f7f790f29678ba22f31b0b305511
+Enhance buffer load specialization pass to specialize past field extracts. (#8547)
+e4611e2e30a3e5969d402f5ed7e72706a0e3b024
