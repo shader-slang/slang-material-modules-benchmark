@@ -1,2 +1,2 @@
-Re-add Windows cross-compile setup from release workflow (#8580)
-a43ac0053eb49fde3329cc7fdc7f60f45e502704
+Fix incorrect binding index assignment for StructuredBuffer and ByteAddressBuffer with DescriptorHandle (#8252)
+cd7da79f50f2b8fb9bca797131585ff1b85698f6
