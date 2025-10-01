@@ -1,2 +1,2 @@
-Misc parser improvements. (#8563)
-5793b6d864b572e464dd5e17dc842e99d13d310d
+Re-add Windows cross-compile setup from release workflow (#8580)
+a43ac0053eb49fde3329cc7fdc7f60f45e502704
