@@ -1,2 +1,2 @@
-Re-add macOS cross-compile setup to release workflow (#8583)
-fa16aa3e93cdbca2301eceb6e47d23036315002f
+Relax the inst definition order rule (#8588)
+0c778339d7e3c39f600af2cc049f13f661d3434b
