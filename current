@@ -1,2 +1,2 @@
-Rename some symbols related to pointers types (#8592)
-cc8f6a241edb47c43c5698ee33abed4fe57d4566
+Add direct usage support for gl_DrawID (#8594)
+2491ac5f42d78d082d4afa6416906fad9b32ea80
