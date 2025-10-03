@@ -1,2 +1,2 @@
-Relax the inst definition order rule (#8588)
-0c778339d7e3c39f600af2cc049f13f661d3434b
+Rename some symbols related to pointers types (#8592)
+cc8f6a241edb47c43c5698ee33abed4fe57d4566
