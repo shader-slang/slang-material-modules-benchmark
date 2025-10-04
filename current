@@ -1,2 +1,2 @@
-Add direct usage support for gl_DrawID (#8594)
-2491ac5f42d78d082d4afa6416906fad9b32ea80
+Respect isShadow() flag when setting depth type in SPIR-V backend (#8604)
+3375cde1add65894b8f2e2780cc91ab4ccf6d8fb
