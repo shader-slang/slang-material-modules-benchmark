@@ -1,2 +1,2 @@
-Respect isShadow() flag when setting depth type in SPIR-V backend (#8604)
-3375cde1add65894b8f2e2780cc91ab4ccf6d8fb
+Matrix legalization for missing instructions & MakeMatrix of vectors (#8605)
+04093bcbaea9784cdffe55f3931f50db7ad9f808
