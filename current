@@ -1,2 +1,2 @@
-Prefer IntegerType over LogicalType integer matrix mul() overloads (#8426)
-7774d5b430c5aca22c8e00a7578702ecfc7b5e2a
+Add check for NVRTC backend in unit test cudaCodeGenBug (#8611)
+f4449d9376f0a5c32274fd812d135f3595159bae
