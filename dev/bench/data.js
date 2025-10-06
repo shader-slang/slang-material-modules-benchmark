@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1759751640599,
+  "lastUpdate": 1759786070661,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -58945,6 +58945,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1181.6937500000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "9341ffd3a3b070d3aedaf15474a6827bedae4fa2",
+          "message": "Add check for NVRTC backend in unit test cudaCodeGenBug (#8611)\n\nhttps://github.com/shader-slang/slang/commit/f4449d9376f0a5c32274fd812d135f3595159bae",
+          "timestamp": "2025-10-06T14:27:39-07:00",
+          "tree_id": "9aa2a8d2f95b01204d1b9c7ed92eca80465722bc",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/9341ffd3a3b070d3aedaf15474a6827bedae4fa2"
+        },
+        "date": 1759786067389,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2261.381875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 747.2106249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 746.835,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2347.6237499999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 763.30875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 764.7381250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1193.69125,
             "unit": "milliseconds"
           }
         ]
