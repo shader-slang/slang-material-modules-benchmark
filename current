@@ -1,2 +1,2 @@
-Matrix legalization for missing instructions & MakeMatrix of vectors (#8605)
-04093bcbaea9784cdffe55f3931f50db7ad9f808
+Prefer IntegerType over LogicalType integer matrix mul() overloads (#8426)
+7774d5b430c5aca22c8e00a7578702ecfc7b5e2a
