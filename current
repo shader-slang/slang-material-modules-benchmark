@@ -1,2 +1,2 @@
-Add check for NVRTC backend in unit test cudaCodeGenBug (#8611)
-f4449d9376f0a5c32274fd812d135f3595159bae
+Minor Documentation Update to Remove Outdated Section (#8606)
+e23b5fa997c9032ee21d58da8c7023fc16795286
