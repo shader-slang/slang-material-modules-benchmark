@@ -1,2 +1,2 @@
-Minor Documentation Update to Remove Outdated Section (#8606)
-e23b5fa997c9032ee21d58da8c7023fc16795286
+Use GitHub runners for Windows releases, disable CUDA for aarch64 (#8613)
+0dac20642b971191256e058282811cf9307292e7
