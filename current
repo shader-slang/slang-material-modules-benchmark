@@ -1,2 +1,2 @@
-Use GitHub runners for Windows releases, disable CUDA for aarch64 (#8613)
-0dac20642b971191256e058282811cf9307292e7
+Fix a bug that causes a struct field to be initialized twice. (#8619)
+54e1d02715747ee81585bfd23e96a1f4956dbf66
