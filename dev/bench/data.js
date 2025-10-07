@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1759829834031,
+  "lastUpdate": 1759855018081,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -59116,6 +59116,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1876.1331249999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "1799249241fc20836f96c0597bf58ae6de4872bb",
+          "message": "Fix a bug that causes a struct field to be initialized twice. (#8619)\n\nhttps://github.com/shader-slang/slang/commit/54e1d02715747ee81585bfd23e96a1f4956dbf66",
+          "timestamp": "2025-10-07T09:36:46-07:00",
+          "tree_id": "48274e353729b9441d25087eb1d72b1e109ea640",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/1799249241fc20836f96c0597bf58ae6de4872bb"
+        },
+        "date": 1759855015012,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2251.5225000000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 748.10625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 744.758125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2286.9618750000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 740.8675,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 741.528125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1194.84875,
             "unit": "milliseconds"
           }
         ]
