@@ -1,2 +1,2 @@
-Fix a bug that causes a struct field to be initialized twice. (#8619)
-54e1d02715747ee81585bfd23e96a1f4956dbf66
+Add deterministic shuffling of tests in directory (#8622)
+e4d1200cb45260b2a114d6f4f8f8d0b389a7da56
