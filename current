@@ -1,2 +1,2 @@
-Feature/improve formatting sh (#8641)
-eda080bbf7a2b48e26342df13005a40434f7d802
+Fix DerivativeGroupQuadsKHR workgroup size validation for texture sampling (#8647)
+4e4aad5a0493defde1e0ef29f27e5d663c1182cd
