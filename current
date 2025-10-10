@@ -1,2 +1,2 @@
-Fix DerivativeGroupQuadsKHR workgroup size validation for texture sampling (#8647)
-4e4aad5a0493defde1e0ef29f27e5d663c1182cd
+Defer `IRCastStorageToLogicalDeref` in lowerBufferElementType pass. (#8668)
+e420f2f980813559b186a6a6bcd5540f74310d02
