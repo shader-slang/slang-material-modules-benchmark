@@ -1,2 +1,2 @@
-Fix `specializeRTTIObject` to use non-zero RTTI value to work with `Optional<T>`. (#8677)
-462ea4e66569efa978e4057ea2d041c69d4a729b
+Allow entry points with missing numthreads on CPU targets (#8678)
+c99addbf2e8a0210b97dad2827045dad95765d08
