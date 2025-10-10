@@ -1,2 +1,2 @@
-Improve perf with `-separate-debug-info` (#8670)
-a3372605363cfe511b5248cb1393f59b25cb2483
+Update debug var when in-param proxy var is being updated. (#8671)
+cd50974490b82dd7e0f9ac0dd5ce9c17e390ff1f
