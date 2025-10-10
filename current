@@ -1,2 +1,2 @@
-8503 wgsl depth texture (#8645)
-5c672cef1f6ac6b5cd6cd71bd47489b7b7331adb
+implement dot products for 1 vectors (#8599)
+b4023f715885ada9a2777ea3b0d6d9739860b39b
