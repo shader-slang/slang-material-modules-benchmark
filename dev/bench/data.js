@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1760119745992,
+  "lastUpdate": 1760134356368,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -59743,6 +59743,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1183.378125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e7af308e3e2d2c89c9e7c73ecd9e47d88cf9d49a",
+          "message": "Fix `specializeRTTIObject` to use non-zero RTTI value to work with `Optional<T>`. (#8677)\n\nhttps://github.com/shader-slang/slang/commit/462ea4e66569efa978e4057ea2d041c69d4a729b",
+          "timestamp": "2025-10-10T15:12:24-07:00",
+          "tree_id": "129e9a45f701342f3976a2f4fc51cfcf4304d826",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e7af308e3e2d2c89c9e7c73ecd9e47d88cf9d49a"
+        },
+        "date": 1760134353098,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3810.5025,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1204.0750000000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1168.185625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3754.6181249999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1155.569375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1157.069375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1857.9025000000004,
             "unit": "milliseconds"
           }
         ]
