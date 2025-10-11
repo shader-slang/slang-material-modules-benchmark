@@ -1,2 +1,2 @@
-Allow entry points with missing numthreads on CPU targets (#8678)
-c99addbf2e8a0210b97dad2827045dad95765d08
+Update build to allow setting external mimalloc path (#8676)
+d0641da8c7f27dfca5b0ae3bc7c737c7859e3939
