@@ -1,2 +1,2 @@
-Support tests outside tests directory (#7791) (#8666)
-f5a3a6dc6a98d22964154f809f9e0dcae30ab67f
+Fix segfault on arrays of structs containing parameter blocks (#8555)
+96df31a9fa53e3d897a2b7c4eef021f37f421c91
