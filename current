@@ -1,2 +1,2 @@
-Fix segfault on arrays of structs containing parameter blocks (#8555)
-96df31a9fa53e3d897a2b7c4eef021f37f421c91
+Add support targeting older OptiX versions (#8700)
+5978f934ee9a8a3e710dc743a4af92191639b718
