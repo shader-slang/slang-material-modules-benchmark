@@ -1,2 +1,2 @@
-Add support targeting older OptiX versions (#8700)
-5978f934ee9a8a3e710dc743a4af92191639b718
+Handle SPIR-V aliases (#8704)
+b173149f4f48b5331ebd3c3643f9449c7a29d72e
