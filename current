@@ -1,2 +1,2 @@
-Handle SPIR-V aliases (#8704)
-b173149f4f48b5331ebd3c3643f9449c7a29d72e
+Retry file reads in slang-test to handle intermittent I/O errors (#8713)
+05cae938cbe1ac8807f4913044d9bee46dc3a0e1
