@@ -1,2 +1,2 @@
-Fix use of variadic generics with [Differentiable]. (#8736)
-bedc3421c9e1e0837fa69e30396a27a60f0fee53
+Inline global constants for shader style CPU targets (#8686)
+537697d3aa21b418c348b1017005603668b6a4cb
