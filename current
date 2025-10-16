@@ -1,2 +1,2 @@
-Immutable access qualifier for pointers and use `__ldg` on cuda. (#8710)
-01510f2c922af8629c7a730ef92a31fa83bd9f49
+Fix WGSL bitshift test typo (#8720)
+7e35123bae1cd3b032fdffcafd600aa78394bf2d
