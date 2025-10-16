@@ -1,2 +1,2 @@
-Update slang-rhi (#8709)
-d8b732d7ba6d31a724cb18dc93f60d8bcc522c19
+Fix use of variadic generics with [Differentiable]. (#8736)
+bedc3421c9e1e0837fa69e30396a27a60f0fee53
