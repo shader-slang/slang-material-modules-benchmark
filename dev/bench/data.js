@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1760575337868,
+  "lastUpdate": 1760589872565,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -60370,6 +60370,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1860.3500000000004,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "8d0d512f747ecb887a76ac300484258d065a097f",
+          "message": "Immutable access qualifier for pointers and use `__ldg` on cuda. (#8710)\n\nhttps://github.com/shader-slang/slang/commit/01510f2c922af8629c7a730ef92a31fa83bd9f49",
+          "timestamp": "2025-10-15T21:44:21-07:00",
+          "tree_id": "6db84126ff300ce9afdc316adda28d6328de3916",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/8d0d512f747ecb887a76ac300484258d065a097f"
+        },
+        "date": 1760589869403,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2258.539375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 742.3056250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 740.9818750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2243.1106250000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 738.5331249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 741.2493750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1171.90375,
             "unit": "milliseconds"
           }
         ]
