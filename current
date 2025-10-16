@@ -1,2 +1,2 @@
-Inline global constants for shader style CPU targets (#8686)
-537697d3aa21b418c348b1017005603668b6a4cb
+Update SPIRV-Tools and SPIRV-Headers to latest versions (#8722)
+a890ddece9ab69b549068605595d006481a59d0f
