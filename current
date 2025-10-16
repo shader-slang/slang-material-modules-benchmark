@@ -1,2 +1,2 @@
-[CI] Skip slangpy test_blit.py::test_generate_mips for CUDA (#8725)
-d1a935c683ac1eb93d95587ee26bdaae7eb17e31
+Immutable access qualifier for pointers and use `__ldg` on cuda. (#8710)
+01510f2c922af8629c7a730ef92a31fa83bd9f49
