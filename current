@@ -1,2 +1,2 @@
-Re-enable slangpy test_blit.py::test_generate_mips for CUDA. (#8740)
-74d93c0fecdac121320ffac16352979ad4b16c45
+Fix infinite loop in SPIRVLegalizationContext::processWorkList (#8712)
+ff064b9a0f1316007f46710432f854777a520fdf
