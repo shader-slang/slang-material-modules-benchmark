@@ -1,2 +1,2 @@
-Update SPIRV-Tools and SPIRV-Headers to latest versions (#8722)
-a890ddece9ab69b549068605595d006481a59d0f
+Re-enable slangpy test_blit.py::test_generate_mips for CUDA. (#8740)
+74d93c0fecdac121320ffac16352979ad4b16c45
