@@ -1,2 +1,2 @@
-Fix infinite loop in SPIRVLegalizationContext::processWorkList (#8712)
-ff064b9a0f1316007f46710432f854777a520fdf
+Additional fix to calls with no_diff variadic type pack. (#8750)
+f329c13f6702b7ad254e0db1eadc71ca4c740e5d
