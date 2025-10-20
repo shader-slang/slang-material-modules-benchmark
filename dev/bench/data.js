@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1760753105934,
+  "lastUpdate": 1760978287521,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -60883,6 +60883,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1178.9718750000002,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "c76f29420612c7eb942a7df028243aa4408d5b19",
+          "message": "WGSL: Update depth texture constraints and add missing test coverage (#8699)\n\nhttps://github.com/shader-slang/slang/commit/fabab8d244e0b677f16e42f44dc93a2898456e65",
+          "timestamp": "2025-10-20T09:37:55-07:00",
+          "tree_id": "150ce0f887559c4d9ccdc4d0baaa5729498ab9b7",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/c76f29420612c7eb942a7df028243aa4408d5b19"
+        },
+        "date": 1760978284136,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2264.45,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 755.3356249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 753.724375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2238.801875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 748.928125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 749.43125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1195.183125,
             "unit": "milliseconds"
           }
         ]
