@@ -1,2 +1,2 @@
-WGSL: Update depth texture constraints and add missing test coverage (#8699)
-fabab8d244e0b677f16e42f44dc93a2898456e65
+Generate more IR inst functions from lua (#8688)
+54db8afde6f03ee74e9b8a5c4edec3aef10d4940
