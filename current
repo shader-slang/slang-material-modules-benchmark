@@ -1,2 +1,2 @@
-Generate more IR inst functions from lua (#8688)
-54db8afde6f03ee74e9b8a5c4edec3aef10d4940
+LLVM coverage support (#8651)
+73521aa490fc40a0087e9884ef92955eb2f9d395
