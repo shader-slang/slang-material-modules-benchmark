@@ -1,2 +1,2 @@
-LLVM coverage support (#8651)
-73521aa490fc40a0087e9884ef92955eb2f9d395
+Enable Vulkan-SPIRV validation rules, and fix all validation errors. (#8752)
+2495e0880fdf1ddbc9ee35d8c74449cb128b38ec
