@@ -1,2 +1,2 @@
-Publish coverage runs in a separate repo (#8789)
-19fbbcf8508f1b09b8abf6f24bbdf7266a829ed6
+Fix `static_assert` incorrectly triggering in dead-branches when `-minimum-slang-optimization` is enabled (#8784)
+1969d667ffbb52b27cba77df8877f5fd448930dc
