@@ -1,2 +1,2 @@
-Inherit secrets to nightly coverage workflow (#8812)
-f56bf5ab40c57fde62edec50ddab608dea97a273
+Switch Linux aarch64 release builder to 22.04 (#8805)
+673af6bb8d7ac206f034a9b01b26042efbda7bd8
