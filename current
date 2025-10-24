@@ -1,2 +1,2 @@
-Use actions/checkout in coverage report deployment (#8810)
-d8f73df8ab1ae4a22d1147f999d442135db7f744
+Inherit secrets to nightly coverage workflow (#8812)
+f56bf5ab40c57fde62edec50ddab608dea97a273
