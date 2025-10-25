@@ -1,2 +1,2 @@
-Switch Linux aarch64 release builder to 22.04 (#8805)
-673af6bb8d7ac206f034a9b01b26042efbda7bd8
+Fix a cap issue in __target_switch (#8766)
+a0f023e06b78c07c5c6b92f11910d99609dce222
