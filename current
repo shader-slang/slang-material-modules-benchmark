@@ -1,2 +1,2 @@
-Fix a cap issue in __target_switch (#8766)
-a0f023e06b78c07c5c6b92f11910d99609dce222
+Update LLVM from 14.0.6 to 21.1.2 (#8737)
+1f888a3672446c49389bc0809f6e60c47127e46d
