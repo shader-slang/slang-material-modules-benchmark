@@ -1,2 +1,2 @@
-Add `const` qualifier to `TargetDesc::compilerOptionEntries` (#8824)
-0ab33f742544fe7693348550ac5843e849b626f8
+Add support for SPIR-V extension instruction sets in direct emission (#8778)
+8f7c1b07e259ffea9427626c19cf24bb74bf397c
