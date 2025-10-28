@@ -1,2 +1,2 @@
-Update LLVM from 14.0.6 to 21.1.2 (#8737)
-1f888a3672446c49389bc0809f6e60c47127e46d
+Add `const` qualifier to `TargetDesc::compilerOptionEntries` (#8824)
+0ab33f742544fe7693348550ac5843e849b626f8
