@@ -1,2 +1,2 @@
-Add support for SPIR-V extension instruction sets in direct emission (#8778)
-8f7c1b07e259ffea9427626c19cf24bb74bf397c
+Use `CopyLogical` to further defer storage-to-logical translation when emitting SPIRV. (#8819)
+708e1bbe1197d198831ffbe8601ad0d9bdb821f9
