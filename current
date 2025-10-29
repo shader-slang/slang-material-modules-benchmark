@@ -1,2 +1,2 @@
-Use `CopyLogical` to further defer storage-to-logical translation when emitting SPIRV. (#8819)
-708e1bbe1197d198831ffbe8601ad0d9bdb821f9
+Add neural.slang module (#8602)
+b42c345828e27909acc2bbd8451e24cfb223565b
