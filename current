@@ -1,2 +1,2 @@
-Add neural.slang module (#8602)
-b42c345828e27909acc2bbd8451e24cfb223565b
+Diagnose an error on specialization using existential types. (#8839)
+f8b55418b535b958e878dcbeeb94796ff5d54787
