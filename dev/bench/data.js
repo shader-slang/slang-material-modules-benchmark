@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1761770005270,
+  "lastUpdate": 1761786529212,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -61852,6 +61852,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1200.3806250000002,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "dec944835b3cdcc071da7f9a64ee3c034719707e",
+          "message": "Fix Atomic::load() being incorrectly marked as mutating (#8807)\n\nhttps://github.com/shader-slang/slang/commit/8ab3f3ce5af11523c48e13d1099ffc241e7a13eb",
+          "timestamp": "2025-10-29T18:08:37-07:00",
+          "tree_id": "69311067590f9b4649f39691b57787fe6bb89dee",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/dec944835b3cdcc071da7f9a64ee3c034719707e"
+        },
+        "date": 1761786525758,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3832.4012500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1184.8462499999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1178.329375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3774.116875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1202.89,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1233.7356249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1879.8393750000002,
             "unit": "milliseconds"
           }
         ]
