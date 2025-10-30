@@ -1,2 +1,2 @@
-Diagnose an error on specialization using existential types. (#8839)
-f8b55418b535b958e878dcbeeb94796ff5d54787
+Fix Atomic::load() being incorrectly marked as mutating (#8807)
+8ab3f3ce5af11523c48e13d1099ffc241e7a13eb
