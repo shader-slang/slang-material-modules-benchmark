@@ -1,2 +1,2 @@
-DNI: test in self-hosted machine
-6b5b69b4e9d931240d7011056968592bc845db64
+Remove Claude local memory file, and ignore it (#8871)
+361bd2801ead62b24987774dd2fc7940ee39eee5
