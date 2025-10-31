@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1761898803240,
+  "lastUpdate": 1761900987554,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -62194,6 +62194,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1207.713125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "35f47bc235adc73440f9bfaf365dd27e94252825",
+          "message": "Fix NVRTC silent failures when CUDA/OptiX headers are missing (#8623)\n\nhttps://github.com/shader-slang/slang/commit/06c442fbd28badb5640be83931ea136784f8bcfa",
+          "timestamp": "2025-10-31T01:56:07-07:00",
+          "tree_id": "5abae5ad9396f88108038a65e9728dab3ab3f7dd",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/35f47bc235adc73440f9bfaf365dd27e94252825"
+        },
+        "date": 1761900983049,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2252.999375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 754.8618749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 753.1912500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2241.99625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 752.0725,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 750.0475,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1199.713125,
             "unit": "milliseconds"
           }
         ]
