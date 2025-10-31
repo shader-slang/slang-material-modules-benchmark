@@ -1,2 +1,2 @@
-Optix coopvec matmul (#8489)
-443a9b77c96015f5f4b93df716540a24bcded85a
+Fix NVRTC silent failures when CUDA/OptiX headers are missing (#8623)
+06c442fbd28badb5640be83931ea136784f8bcfa
