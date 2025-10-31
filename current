@@ -1,2 +1,2 @@
-Test if skip using cached LLVM fix the build issue
-f61cfaa7e3c2569b9f0f77c398b112f717a1151e
+Disable LLVM cache to fix build issue in self-hosted machines (#8861)
+3abc3dd58bda5b8f6fb25a8ea1533383136f865f
