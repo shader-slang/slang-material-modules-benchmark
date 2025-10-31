@@ -1,2 +1,2 @@
-Fix NVRTC silent failures when CUDA/OptiX headers are missing (#8623)
-06c442fbd28badb5640be83931ea136784f8bcfa
+DNI: test in self-hosted machine
+6b5b69b4e9d931240d7011056968592bc845db64
