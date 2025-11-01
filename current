@@ -1,2 +1,2 @@
-Remove Claude local memory file, and ignore it (#8871)
-361bd2801ead62b24987774dd2fc7940ee39eee5
+Lower CopyLogical before SPIRV control flow legalization. (#8883)
+3a2969a32ec0fb0e25b3834cf604f9cc44c47f68
