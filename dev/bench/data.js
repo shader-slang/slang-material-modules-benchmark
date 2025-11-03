@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1762207542304,
+  "lastUpdate": 1762210038661,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -62650,6 +62650,33 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1206.4812500000003,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "f9bbdd132735ffe32054b66fd9ff921a886c7ac6",
+          "message": "Deduplicate Capability Sets (#8829)\n\nhttps://github.com/shader-slang/slang/commit/329f40d40518c5f3222ada9429ebe2b298c6c100",
+          "timestamp": "2025-11-03T14:47:07-08:00",
+          "tree_id": "7ae760e8be4e54f61acba377e9acd4ef29c92ebf",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/f9bbdd132735ffe32054b66fd9ff921a886c7ac6"
+        },
+        "date": 1762210035315,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "precompilation : dxil",
+            "value": 1492.3275,
             "unit": "milliseconds"
           }
         ]
