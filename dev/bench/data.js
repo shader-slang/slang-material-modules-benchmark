@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1762210038661,
+  "lastUpdate": 1762214192336,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -62677,6 +62677,33 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1492.3275,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "87b626d0f68d2d144756bbed890a85cc130370a9",
+          "message": "Remove pending layout functionality (#8762)\n\nhttps://github.com/shader-slang/slang/commit/2292e5287e1e3e2fdef0a10e7814d1b4e6c68edf",
+          "timestamp": "2025-11-03T15:56:20-08:00",
+          "tree_id": "2a7aa259e4f46e2cf3e2e218b61748aecf4df56c",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/87b626d0f68d2d144756bbed890a85cc130370a9"
+        },
+        "date": 1762214188748,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "precompilation : dxil",
+            "value": 1515.138125,
             "unit": "milliseconds"
           }
         ]
