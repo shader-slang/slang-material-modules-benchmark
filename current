@@ -1,2 +1,2 @@
-Lower CopyLogical before SPIRV control flow legalization. (#8883)
-3a2969a32ec0fb0e25b3834cf604f9cc44c47f68
+Update slang-rhi (#8890)
+1b18ac59c380bbabce1f86a8e2c295baa4be6594
