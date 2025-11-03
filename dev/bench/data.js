@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1762180966578,
+  "lastUpdate": 1762207542304,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -62593,6 +62593,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1206.8562499999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "cdcb35bdcd1ac102da3b7aea2f9505b2286eb791",
+          "message": "Fix example app triangle on macOS (#8889)\n\nhttps://github.com/shader-slang/slang/commit/4755029317d90e5600fc59d42315062c3d29975b",
+          "timestamp": "2025-11-03T14:05:30-08:00",
+          "tree_id": "a32a2f106037cee007b0294ae9f6aaa344f6c486",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/cdcb35bdcd1ac102da3b7aea2f9505b2286eb791"
+        },
+        "date": 1762207538570,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2271.7625000000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 760.0918750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 757.1881250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2243.1074999999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 754.4506250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 752.21125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1206.4812500000003,
             "unit": "milliseconds"
           }
         ]
