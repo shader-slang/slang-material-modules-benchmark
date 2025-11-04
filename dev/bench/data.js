@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1762278838408,
+  "lastUpdate": 1762296990074,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -62812,6 +62812,33 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2577.4475,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ee225c6b13e2c312b7367253583478beba1de859",
+          "message": "Add specific labels for the benchmark to pick right runners (#8918)\n\nhttps://github.com/shader-slang/slang/commit/72eb449af232cadada40dff1ca8bae91a4ca6726",
+          "timestamp": "2025-11-04T14:56:16-08:00",
+          "tree_id": "fbe9b965a43b5fe5ff400c966b6811409e52d976",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ee225c6b13e2c312b7367253583478beba1de859"
+        },
+        "date": 1762296986430,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "precompilation : dxil",
+            "value": 1508.705,
             "unit": "milliseconds"
           }
         ]
