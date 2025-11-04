@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1762269772849,
+  "lastUpdate": 1762278838408,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -62785,6 +62785,33 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2485.5737499999996,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "837f6ad51b18346f079307c3a284e7fd1935655d",
+          "message": "Fix testing multiple OptiX versions (#8905)\n\nhttps://github.com/shader-slang/slang/commit/74fc5b1681de97f71b84843d9c1fb2d5369b8f44",
+          "timestamp": "2025-11-04T09:53:44-08:00",
+          "tree_id": "5615578473d5050b897673d2329aec94e4b35c5d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/837f6ad51b18346f079307c3a284e7fd1935655d"
+        },
+        "date": 1762278834707,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "precompilation : dxil",
+            "value": 2577.4475,
             "unit": "milliseconds"
           }
         ]
