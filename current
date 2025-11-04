@@ -1,2 +1,2 @@
-Fix testing multiple OptiX versions (#8905)
-74fc5b1681de97f71b84843d9c1fb2d5369b8f44
+Add specific labels for the benchmark to pick right runners (#8918)
+72eb449af232cadada40dff1ca8bae91a4ca6726
