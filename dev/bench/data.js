@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1762243247153,
+  "lastUpdate": 1762266412433,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -62731,6 +62731,33 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1532.0518749999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e9c0aa015e7014bbf4305a1f191df4b4acca3334",
+          "message": "Add multi-platform coverage reporting with historical tracking (#8888)\n\nhttps://github.com/shader-slang/slang/commit/55f3131632ab8a0b7c446c3ad6ceba502057d309",
+          "timestamp": "2025-11-04T06:26:38-08:00",
+          "tree_id": "3ef78b86d8c9576b7be98bcf4d2f5e78e75bdf14",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e9c0aa015e7014bbf4305a1f191df4b4acca3334"
+        },
+        "date": 1762266408530,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "precompilation : dxil",
+            "value": 1502.741875,
             "unit": "milliseconds"
           }
         ]
