@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1762214192336,
+  "lastUpdate": 1762243247153,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -62704,6 +62704,33 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1515.138125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "f7a34766eea0aed9f1b55198c341c5e7347cad20",
+          "message": "Fix CTS workflow after slang lib renaming (#8903)\n\nhttps://github.com/shader-slang/slang/commit/a148f5698e601eeee80042fb81c6893e3a732195",
+          "timestamp": "2025-11-04T00:00:33-08:00",
+          "tree_id": "910512b13378dff9481fa3d628b9cc0ae0a5942c",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/f7a34766eea0aed9f1b55198c341c5e7347cad20"
+        },
+        "date": 1762243242631,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "precompilation : dxil",
+            "value": 1532.0518749999999,
             "unit": "milliseconds"
           }
         ]
