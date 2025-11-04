@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1762266412433,
+  "lastUpdate": 1762269772849,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -62758,6 +62758,33 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1502.741875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "4b3e8417d4f8e7e6deb485989cd39ac2d5428c43",
+          "message": "Correct output buffer size in nested parameter block test, add CPU target test (#8897)\n\nhttps://github.com/shader-slang/slang/commit/c25878d25e42f7fd4b4383ad982e54e00c7d1849",
+          "timestamp": "2025-11-04T07:22:38-08:00",
+          "tree_id": "670889f7ee42edbff8f344b005a5683941f1bceb",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/4b3e8417d4f8e7e6deb485989cd39ac2d5428c43"
+        },
+        "date": 1762269768821,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "precompilation : dxil",
+            "value": 2485.5737499999996,
             "unit": "milliseconds"
           }
         ]
