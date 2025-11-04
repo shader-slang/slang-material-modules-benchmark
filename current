@@ -1,2 +1,2 @@
-Correct output buffer size in nested parameter block test, add CPU target test (#8897)
-c25878d25e42f7fd4b4383ad982e54e00c7d1849
+Fix testing multiple OptiX versions (#8905)
+74fc5b1681de97f71b84843d9c1fb2d5369b8f44
