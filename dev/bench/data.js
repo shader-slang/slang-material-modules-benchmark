@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1762346201429,
+  "lastUpdate": 1762350688328,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -62923,6 +62923,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1523.1937500000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "dde5e9a708c27f8a860e75d3110450eafc9931e6",
+          "message": "GLSL: Implement implicit/explicit LOD handling in texture() and variants (#8859)\n\nhttps://github.com/shader-slang/slang/commit/7ec3eeb2b55ba59cb95a6be6e96f4ef6c759c797",
+          "timestamp": "2025-11-05T05:51:16-08:00",
+          "tree_id": "09b5fc87b5332263045606c3ef855a73dd988b3c",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/dde5e9a708c27f8a860e75d3110450eafc9931e6"
+        },
+        "date": 1762350684538,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2558.53875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1073.65875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1068.385,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2542.033125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1055.99,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1051.9687499999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1492.025,
             "unit": "milliseconds"
           }
         ]
