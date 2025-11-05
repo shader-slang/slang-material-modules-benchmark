@@ -1,2 +1,2 @@
-GLSL: Implement implicit/explicit LOD handling in texture() and variants (#8859)
-7ec3eeb2b55ba59cb95a6be6e96f4ef6c759c797
+Remove unnecessary intermediate uses of CapabilitySet (#8835)
+8b2faea2c7b96466befb983db5dbe48400afa842
