@@ -1,2 +1,2 @@
-Pre-create test-servers sequentially before threading (#8923)
-9da177d394803ea04e92db71a16fdcf7ee504d13
+fix capability set equality operator (#8925)
+8bdd1af7fd159098f00bc78d62629d12259b18e0
