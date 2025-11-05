@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1762296990074,
+  "lastUpdate": 1762343704070,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -62839,6 +62839,33 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1508.705,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "7d2a7d148a30192dba79e0b10f3bb0a9abba79d9",
+          "message": "Pre-create test-servers sequentially before threading (#8923)\n\nhttps://github.com/shader-slang/slang/commit/9da177d394803ea04e92db71a16fdcf7ee504d13",
+          "timestamp": "2025-11-05T03:54:52-08:00",
+          "tree_id": "ae076379afea0f1430529eb7ee2ec823b91f23ee",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/7d2a7d148a30192dba79e0b10f3bb0a9abba79d9"
+        },
+        "date": 1762343700652,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "precompilation : dxil",
+            "value": 1510.3756250000004,
             "unit": "milliseconds"
           }
         ]
