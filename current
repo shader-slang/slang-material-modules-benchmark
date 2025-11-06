@@ -1,2 +1,2 @@
-Skip lowering SPIRV bitcasts that can use OpBitcast (#8361)
-35368fc12b6762e1efbcb55075a4a795a94b42a2
+Add nightly builds to glibc-2.27 release workflow (#8898)
+3ae032f7d80da22383e4197f530c3fe202657fe2
