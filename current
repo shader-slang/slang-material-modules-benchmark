@@ -1,2 +1,2 @@
-Remove unnecessary intermediate uses of CapabilitySet (#8835)
-8b2faea2c7b96466befb983db5dbe48400afa842
+Skip lowering SPIRV bitcasts that can use OpBitcast (#8361)
+35368fc12b6762e1efbcb55075a4a795a94b42a2
