@@ -1,2 +1,2 @@
-Treat IR_RayQueryType alike opaque types (#8922)
-486a16812e7ddd7c0f328eb4d78a562c0971171e
+Fix macOS code signing for versioned libraries (#8926)
+286bd05dbe3f9cb44f08e458bf5f4c1f589d5e33
