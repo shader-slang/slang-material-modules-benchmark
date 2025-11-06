@@ -1,2 +1,2 @@
-Fix macOS code signing for versioned libraries (#8926)
-286bd05dbe3f9cb44f08e458bf5f4c1f589d5e33
+Prevent copy-elision pass for CudaDeviceExport (#8941)
+6bf200902e5dc2ae2517303efae2a1ad2c36b04d
