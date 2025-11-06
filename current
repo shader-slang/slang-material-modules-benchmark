@@ -1,2 +1,2 @@
-Add nightly builds to glibc-2.27 release workflow (#8898)
-3ae032f7d80da22383e4197f530c3fe202657fe2
+Treat IR_RayQueryType alike opaque types (#8922)
+486a16812e7ddd7c0f328eb4d78a562c0971171e
