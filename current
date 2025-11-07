@@ -1,2 +1,2 @@
-Prevent copy-elision pass for CudaDeviceExport (#8941)
-6bf200902e5dc2ae2517303efae2a1ad2c36b04d
+Add LayoutOffset type (#8947)
+c3ebff58f868c3b32f20f22b48126f7dd8b74365
