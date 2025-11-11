@@ -1,2 +1,2 @@
-[Documentation] [minor] Clarify how compile slang to a static lib (#8817)
-3838b39533bd4a660479ced2690bc086aa7b96ce
+Cleanups around around parameter-passing modes (#8754)
+664fecd5556bfc3bbc90c76b4a32e92f371cf504
