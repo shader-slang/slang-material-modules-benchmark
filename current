@@ -1,2 +1,2 @@
-Incrementally update candidate extension cache (#8966)
-251f1ff167e00beeb8451f7a24e2e462c7d9e9fa
+Remove unnecessary cmake warning (#8998)
+a89e9ec207d4bc155d5ed2876abf97dd8740a142
