@@ -1,2 +1,2 @@
-Preserve aliasedType during module serialization for default export types (#8997)
-f8e97d9bd50070c64cbb4dedf9b21da8cfc3f349
+Fix parseCommandLineArguments not populating TargetDesc format and profile fields (#8967)
+a3afdc6be1034a3c861e59bfbc2761f1695ce830
