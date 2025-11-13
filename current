@@ -1,2 +1,2 @@
-Add minimal repro for issue 8920 and update SPIRV tools and headers (#8981)
-020552abd44a5814d2bc5820a699540f3de172d1
+Preserve aliasedType during module serialization for default export types (#8997)
+f8e97d9bd50070c64cbb4dedf9b21da8cfc3f349
