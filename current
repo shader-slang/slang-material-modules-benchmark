@@ -1,2 +1,2 @@
-Remove unnecessary cmake warning (#8998)
-a89e9ec207d4bc155d5ed2876abf97dd8740a142
+ci: Add automated check for SPIRV-Tools generated files (#8906)
+b14d2d446f8071996a9b4896287f4fe2693933f6
