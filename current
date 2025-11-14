@@ -1,2 +1,2 @@
-Fix parseCommandLineArguments not populating TargetDesc format and profile fields (#8967)
-a3afdc6be1034a3c861e59bfbc2761f1695ce830
+Fix incorrect debug function type (#9012)
+01fdbb8a1a9b4a948731b580a6a5b618e8e116ff
