@@ -1,2 +1,2 @@
-Fix incorrect debug function type (#9012)
-01fdbb8a1a9b4a948731b580a6a5b618e8e116ff
+Fix slang's slangpy CI testing across versions (#8969)
+3ecc3b6e13277091f342fb790eca9ce38f934417
