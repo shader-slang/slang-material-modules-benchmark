@@ -1,2 +1,2 @@
-Fix null pointer dereference in emitCalleeDebugInlinedAt (#8978)
-d1fbce396c36e77441f13db39098c7eb4d4786bb
+Implement emitOpDebugTypeFunction for SPIR-V (#8993)
+a025170b13e18c6ec76c0496b2766cd3d58e0b2a
