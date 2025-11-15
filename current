@@ -1,2 +1,2 @@
-Fix slang's slangpy CI testing across versions (#8969)
-3ecc3b6e13277091f342fb790eca9ce38f934417
+Fix null pointer dereference in emitCalleeDebugInlinedAt (#8978)
+d1fbce396c36e77441f13db39098c7eb4d4786bb
