@@ -1,2 +1,2 @@
-Add OptiX multi-level traversal intrinsics (#8660)
-0f4d0f6937d20ec1ed87115239fe40aea44cdf87
+Validate -render-features in render-test (#8940)
+d9b92cc66c0b625b396d4d539208f64828ea555c
