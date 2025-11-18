@@ -1,2 +1,2 @@
-Add CI testing for slangpy-samples (#8938)
-5ec72671593b337917b48695426155bd1185dcd6
+Add placeholder workflow for RTX Remix shader compilation testing (#9042)
+ce376e1ef48781ae27b09f983f798b1b8d1988ca
