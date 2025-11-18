@@ -1,2 +1,2 @@
-Fix missing debug line numbers for repacked struct members in SPIR-V (#9028)
-e63125213326a7b2618a5fed8677b6d3c5e4b682
+Implement SampleCmpBias and SampleCmpGrad (#8931)
+fd3b7290e57dbf5e742f8a946b659e034c45cbec
