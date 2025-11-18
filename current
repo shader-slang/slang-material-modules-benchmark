@@ -1,2 +1,2 @@
-Validate -render-features in render-test (#8940)
-d9b92cc66c0b625b396d4d539208f64828ea555c
+Improve typename deduction in slang-emit-spirv (#9026)
+75aefce6ad6c8548d878055de5f2de8334207f7b
