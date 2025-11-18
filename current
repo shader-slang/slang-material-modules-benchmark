@@ -1,2 +1,2 @@
-Improve typename deduction in slang-emit-spirv (#9026)
-75aefce6ad6c8548d878055de5f2de8334207f7b
+Fix missing debug line numbers for repacked struct members in SPIR-V (#9028)
+e63125213326a7b2618a5fed8677b6d3c5e4b682
