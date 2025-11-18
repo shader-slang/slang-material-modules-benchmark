@@ -1,2 +1,2 @@
-Implement SampleCmpBias and SampleCmpGrad (#8931)
-fd3b7290e57dbf5e742f8a946b659e034c45cbec
+Add CI testing for slangpy-samples (#8938)
+5ec72671593b337917b48695426155bd1185dcd6
