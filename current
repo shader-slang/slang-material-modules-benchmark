@@ -1,2 +1,2 @@
-Add type unification logic to handle `LambdaDecl`/Functor's with `FuncType` (#9010)
-ec34d697fe06d8ad40ad8b7d6070093a5904625b
+Add HitObject Optix implementation for HitObject.GetObjectRayOrigin and GetHitKind (#8990)
+7d0518956726d6056b99d6df17dfa67a6b286bda
