@@ -1,2 +1,2 @@
-Fix Sample() with depth texture + sampler comparison state; add minimal repro (#9043)
-1152af7b27a678b39d38c278c0cc654720f1493d
+Fix generic function overloads in reflection API (#9052)
+d90d8695183fa0add5772f9f0b6dbf551d69e1e8
