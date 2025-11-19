@@ -1,2 +1,2 @@
-Update slang-rhi and mlp-training-coopvec example (#9036)
-11842525222bcb04da92134e254df37c8a7a6053
+Add type unification logic to handle `LambdaDecl`/Functor's with `FuncType` (#9010)
+ec34d697fe06d8ad40ad8b7d6070093a5904625b
