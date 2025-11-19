@@ -1,2 +1,2 @@
-Add HitObject Optix implementation for HitObject.GetObjectRayOrigin and GetHitKind (#8990)
-7d0518956726d6056b99d6df17dfa67a6b286bda
+Fix Sample() with depth texture + sampler comparison state; add minimal repro (#9043)
+1152af7b27a678b39d38c278c0cc654720f1493d
