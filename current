@@ -1,2 +1,2 @@
-Fix documentation of __targetHasImplicitDerivatives() (#9014)
-938e51ee9ad6a1f82b75a7b8407cdfb20ad1bcfd
+Support ByteAddressBuffer legalization with dynamic branching (#8815)
+6a6435281b6b1a1e53c11eb95cb4d69ff9c1dae7
