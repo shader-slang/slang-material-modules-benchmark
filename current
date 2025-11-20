@@ -1,2 +1,2 @@
-Update SPIRV module (#9063)
-33834813318487f40cff418ad65cf529e9fc532e
+Fix documentation of __targetHasImplicitDerivatives() (#9014)
+938e51ee9ad6a1f82b75a7b8407cdfb20ad1bcfd
