@@ -1,2 +1,2 @@
-Improved half/float16 support for C++ & CUDA targets (#8986)
-a82e1cab35c662a9a99381ec75b05a36d8ba2b1f
+UserGuide: Add missing ref to GLSL Target (#9083)
+9674aeef9fde5e4af5ded0b1220c15c5cefbd567
