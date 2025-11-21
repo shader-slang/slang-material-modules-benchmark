@@ -1,2 +1,2 @@
-Support ByteAddressBuffer legalization with dynamic branching (#8815)
-6a6435281b6b1a1e53c11eb95cb4d69ff9c1dae7
+Fix #9051: Add atomicAdd wrapper for signed int64_t on CUDA (#9064)
+6f446e47b55dff0781a0fdc3bf29d1dcdaa22528
