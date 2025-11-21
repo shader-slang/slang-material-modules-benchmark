@@ -1,2 +1,2 @@
-Use posix_spawn in slang-unix-process.cpp (#9081)
-23d7b4c1e252c1658e8a5150d47828939adaa814
+Improved half/float16 support for C++ & CUDA targets (#8986)
+a82e1cab35c662a9a99381ec75b05a36d8ba2b1f
