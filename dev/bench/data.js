@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1763678807738,
+  "lastUpdate": 1763695540459,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -65032,6 +65032,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1130.254375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "0c61b6ef9c7f8cf1483ea131aa5dc3cf71605d55",
+          "message": "Fix #9051: Add atomicAdd wrapper for signed int64_t on CUDA (#9064)\n\nhttps://github.com/shader-slang/slang/commit/6f446e47b55dff0781a0fdc3bf29d1dcdaa22528",
+          "timestamp": "2025-11-20T19:25:29-08:00",
+          "tree_id": "8e8606d4a0213298076d12d542a7eceeda239efd",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/0c61b6ef9c7f8cf1483ea131aa5dc3cf71605d55"
+        },
+        "date": 1763695536988,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2299.270625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 750.54875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 748.2718749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2263.891875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 751.494375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 744.509375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1131.8425,
             "unit": "milliseconds"
           }
         ]
