@@ -1,2 +1,2 @@
-Fix generated SPIR-V for GetClusterID() (#9107)
-c25ca8ec5562a37b862cc5874a74087d7272e649
+Mark HLSL only RWStructuredBuffer::IncrementCounter and DecrementCounter (#9091)
+464c036a505d66dda118127567b119c21b2aeec0
