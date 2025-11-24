@@ -1,2 +1,2 @@
-Disable Clang optimizations for `Session::get*LibraryCode()` functions (#9069)
-6316dad75f7de5a23d43116f5cae5997e95d9c98
+Fix generated SPIR-V for GetClusterID() (#9107)
+c25ca8ec5562a37b862cc5874a74087d7272e649
