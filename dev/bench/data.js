@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1764033997978,
+  "lastUpdate": 1764081103911,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -65659,6 +65659,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1771.49375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "1a2e228ba34b026393f1c7a6bdace57f51581a91",
+          "message": "Disable imgui and stb dependencies in builds that disable test and gfx targets (#9049)\n\nhttps://github.com/shader-slang/slang/commit/a6667bc1e4c100ee870594096c503b7ec9b9a91f",
+          "timestamp": "2025-11-25T06:31:31-08:00",
+          "tree_id": "030df30af5ed56ddbc1813317d11c7665fe264ef",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/1a2e228ba34b026393f1c7a6bdace57f51581a91"
+        },
+        "date": 1764081100321,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2302.7737500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 751.92875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 751.6543750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2297.09375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 749.446875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 753.53,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1139.3993749999997,
             "unit": "milliseconds"
           }
         ]
