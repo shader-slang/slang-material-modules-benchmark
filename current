@@ -1,2 +1,2 @@
-Introduce SLANG_UNKNOWN_SIZE as a special return value for reflection api functions (#9005)
-b5543cf9d1d3431bc4f203a708d69130cd5851f4
+Fix intermittent build failure on examples (#9101)
+970f0462be28c3eedddcf7e0f1c3f925797ee232
