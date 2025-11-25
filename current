@@ -1,2 +1,2 @@
-Fix intermittent build failure on examples (#9101)
-970f0462be28c3eedddcf7e0f1c3f925797ee232
+Update claude-code-action to v1 with breaking parameter changes (#9119)
+db30f83d5484885c869ad6f3d9d42ca9d24b7cbb
