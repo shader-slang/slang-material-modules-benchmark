@@ -1,2 +1,2 @@
-Add SLANG_VERSION for source archives (#9020)
-ef568793ae236bec5dd6af7e7b885639bd6cfd3a
+Quick fix for build error on aarch64/windows (#9137)
+d022f0bd1320bd07c9fcc6af57afdd0dce79e92f
