@@ -1,2 +1,2 @@
- Correct inheritence documentation and add reminder to update docs (#9117)
-fc6e76dddb10382fe42b5f49743b24bc362f9ab5
+Disable imgui and stb dependencies in builds that disable test and gfx targets (#9049)
+a6667bc1e4c100ee870594096c503b7ec9b9a91f
