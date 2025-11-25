@@ -1,2 +1,2 @@
-Mark HLSL only RWStructuredBuffer::IncrementCounter and DecrementCounter (#9091)
-464c036a505d66dda118127567b119c21b2aeec0
+ Correct inheritence documentation and add reminder to update docs (#9117)
+fc6e76dddb10382fe42b5f49743b24bc362f9ab5
