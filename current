@@ -1,2 +1,2 @@
-Disable imgui and stb dependencies in builds that disable test and gfx targets (#9049)
-a6667bc1e4c100ee870594096c503b7ec9b9a91f
+Introduce SLANG_UNKNOWN_SIZE as a special return value for reflection api functions (#9005)
+b5543cf9d1d3431bc4f203a708d69130cd5851f4
