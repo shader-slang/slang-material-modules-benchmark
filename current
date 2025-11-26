@@ -1,2 +1,2 @@
-Quick fix for build error on aarch64/windows (#9137)
-d022f0bd1320bd07c9fcc6af57afdd0dce79e92f
+Avoid building Slang with slang-rhi for Falcor test (#9139)
+702c1e7e5eb54744e7de6a0548a9642820a4b378
