@@ -1,2 +1,2 @@
-reserve space upfront for UIntSet unionWith (#8933)
-98be4beca46f7a50a1fd9979cc151099ad7375eb
+Implement GetElementCount for TypeCastIntVal (#8950)
+307eff671aa2979c5427cdd8ee9814da7748634d
