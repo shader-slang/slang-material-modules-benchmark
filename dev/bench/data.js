@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1764323991732,
+  "lastUpdate": 1764602238821,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -66343,6 +66343,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1142.440625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "9e593a90626e5a12335c61144c3ddf0e18925687",
+          "message": "Fix Linux CUDA detection in render-test (#9171)\n\nhttps://github.com/shader-slang/slang/commit/a86e7844b3d1ae2afa0e3cd296acbb41e58a698a",
+          "timestamp": "2025-12-01T07:17:06-08:00",
+          "tree_id": "518b657512a60cc97e1c0cf54ff113cd50f8a3cb",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/9e593a90626e5a12335c61144c3ddf0e18925687"
+        },
+        "date": 1764602235091,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2314.5593750000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 757.4199999999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 755.926875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2316.6899999999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 758.8306250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 756.7843750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1146.870625,
             "unit": "milliseconds"
           }
         ]
