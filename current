@@ -1,2 +1,2 @@
-Filter out unused vertex attributes to fix WARNING-Shader-OutputNotConsumed (#9138)
-0c7c9592d6030ee477164274dfaf4093cfbe668e
+Update SPIRV for VulkanSDK Release Dec/2025 (#9180)
+8916cc6fb3dc98b807fb7dc934e4ac86d5c76a25
