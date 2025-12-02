@@ -1,2 +1,2 @@
-Update SPIRV for VulkanSDK Release Dec/2025 (#9180)
-8916cc6fb3dc98b807fb7dc934e4ac86d5c76a25
+Check compiler version for the _float16 support (#9135)
+6515cd98c5a6f5b45d2a7b814a737de03d533b57
