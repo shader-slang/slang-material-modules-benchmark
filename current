@@ -1,2 +1,2 @@
-Correct HitTriangleVertexPosition documentation (#9193)
-f7c497ad38d5e270c3d102c2bdc1a699017ed433
+Fix mojibake in error messages when .slang-module can't find source file (#9147)
+24c18cd49c80bdd86996439bcf68fbaa62c1bd61
