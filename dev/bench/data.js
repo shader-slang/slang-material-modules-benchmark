@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1764761520886,
+  "lastUpdate": 1764790796654,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -67027,6 +67027,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1790.28375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "72c2c04081adb58423d3e4a15d3a7c44069b8d0a",
+          "message": "Fix nested switch with continue incorrectly collecting parent loop blocks (#9166)\n\nhttps://github.com/shader-slang/slang/commit/412d3472a291f9fe9db49b9c2366d9943381538d",
+          "timestamp": "2025-12-03T11:39:42-08:00",
+          "tree_id": "4ab87afb0613919c0b7f4ea7b7d54022c0fa48e5",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/72c2c04081adb58423d3e4a15d3a7c44069b8d0a"
+        },
+        "date": 1764790792356,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2256.9325000000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 751.9193750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 752.6987499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2234.7300000000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 754.1812500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 751.4949999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1145.6499999999999,
             "unit": "milliseconds"
           }
         ]
