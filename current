@@ -1,2 +1,2 @@
-Fix mojibake in error messages when .slang-module can't find source file (#9147)
-24c18cd49c80bdd86996439bcf68fbaa62c1bd61
+Add diagnostic logging for slang-test debugging (#9066)
+82f7892ef0814b042fc61e5389b6729d922d94c7
