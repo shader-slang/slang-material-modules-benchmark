@@ -1,2 +1,2 @@
-Fix nested switch with continue incorrectly collecting parent loop blocks (#9166)
-412d3472a291f9fe9db49b9c2366d9943381538d
+Fix the bug when checking cuda version (#9207)
+25b48c02cf1da665552ed77e5999a6130a32f380
