@@ -1,2 +1,2 @@
-Fix the bug when checking cuda version (#9207)
-25b48c02cf1da665552ed77e5999a6130a32f380
+Emit header files for cpp and cuda targets (#3938)
+ea460c8dd9d20d1c44e8078cc4138e2fd84d714a
