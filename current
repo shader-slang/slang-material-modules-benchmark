@@ -1,2 +1,2 @@
-Handle nullptr in RenderTest (#9194)
-e3e2262982998b7768fb349a8f7e815697966bc9
+Fix nested switch with continue incorrectly collecting parent loop blocks (#9166)
+412d3472a291f9fe9db49b9c2366d9943381538d
