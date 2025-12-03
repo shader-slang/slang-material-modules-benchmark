@@ -1,2 +1,2 @@
-Issue a warning if requested bindless space index is not available (#9190)
-2d65cc77340ff0ea540ff9cd0b9c98cc84781414
+Preliminary support for spirv workgroup pointers. (#9186)
+e61dcc8857658d82f1d729101cc93108b680a82e
