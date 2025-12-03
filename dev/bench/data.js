@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1764730140442,
+  "lastUpdate": 1764731546169,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -66799,6 +66799,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1151.580625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "73c8dec6ba36f8cda53ca68c764333653479bba7",
+          "message": "Correct HitTriangleVertexPosition documentation (#9193)\n\nhttps://github.com/shader-slang/slang/commit/f7c497ad38d5e270c3d102c2bdc1a699017ed433",
+          "timestamp": "2025-12-02T19:12:13-08:00",
+          "tree_id": "ab774d176408df006d648a11b074ff91b7657d56",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/73c8dec6ba36f8cda53ca68c764333653479bba7"
+        },
+        "date": 1764731542494,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3899.19625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1190.915,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1199.2487499999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3840.9975000000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1191.1718750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1197.2818750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1798.4250000000002,
             "unit": "milliseconds"
           }
         ]
