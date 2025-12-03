@@ -1,2 +1,2 @@
-Add diagnostic logging for slang-test debugging (#9066)
-82f7892ef0814b042fc61e5389b6729d922d94c7
+Handle nullptr in RenderTest (#9194)
+e3e2262982998b7768fb349a8f7e815697966bc9
