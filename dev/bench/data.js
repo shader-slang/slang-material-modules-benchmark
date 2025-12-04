@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1764812342027,
+  "lastUpdate": 1764831192466,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -67312,6 +67312,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1749.2906249999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "4f27eed3ca42f45d335a93a8d89740c9576d340a",
+          "message": "Enable Claude Code workflow on Windows self-hosted runners with GPU (#9204)\n\nhttps://github.com/shader-slang/slang/commit/e694c6c56aa665b77d2d7a034a3dd3a9854f31bc",
+          "timestamp": "2025-12-03T22:52:57-08:00",
+          "tree_id": "be7e8e34df8c6d9e4a9b135b15d104c9fd482086",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/4f27eed3ca42f45d335a93a8d89740c9576d340a"
+        },
+        "date": 1764831188010,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2242.9125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 750.5231249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 749.0356250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2224.5512500000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 747.235625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 744.370625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1136.37875,
             "unit": "milliseconds"
           }
         ]
