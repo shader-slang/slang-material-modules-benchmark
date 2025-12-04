@@ -1,2 +1,2 @@
-Add VS2026 Toolchain Support for CMake 4.2 (#9181)
-d8c5a81637396a5ba854fcfb648ef8fd75fdd7d7
+Enable Claude Code workflow on Windows self-hosted runners with GPU (#9204)
+e694c6c56aa665b77d2d7a034a3dd3a9854f31bc
