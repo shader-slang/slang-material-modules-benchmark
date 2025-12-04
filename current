@@ -1,2 +1,2 @@
-Fix subtle bug when looking up symbols during pre-linking step (#9214)
-a96f01a8432aba5842f7ab6ed80453fe33ae2a4f
+Add VS2026 Toolchain Support for CMake 4.2 (#9181)
+d8c5a81637396a5ba854fcfb648ef8fd75fdd7d7
