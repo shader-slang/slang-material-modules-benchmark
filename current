@@ -1,2 +1,2 @@
-Add type-flow analysis pass for specialized dynamic dispatch (#7968)
-4280f24832600b0f9b2ded0b45a7d7da2d04d73a
+Fix rewriteValueUsesToAddrUses and add regression test (#9113)
+9536d2f94df2f396a1a3f25314e3b1610a3f1e64
