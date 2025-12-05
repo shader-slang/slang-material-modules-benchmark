@@ -1,2 +1,2 @@
-Fix a bug in PolynomialIntVal's substitution logic. (#9244)
-0358e80fd4cf8fab6e01a30a49779ccb2752fb9d
+Revert "Add diagnostic logging for slang-test debugging (#9066)" (#9246)
+bd436a3599a447762b161686920c0191bfe1452a
