@@ -1,2 +1,2 @@
-Revert "Add diagnostic logging for slang-test debugging (#9066)" (#9246)
-bd436a3599a447762b161686920c0191bfe1452a
+Fix the issue that produce long mangled name (#9218)
+b77ace737649067f4d1a1a75302cd6f18a38502f
