@@ -1,2 +1,2 @@
-Fix rewriteValueUsesToAddrUses and add regression test (#9113)
-9536d2f94df2f396a1a3f25314e3b1610a3f1e64
+Fix a bug in PolynomialIntVal's substitution logic. (#9244)
+0358e80fd4cf8fab6e01a30a49779ccb2752fb9d
