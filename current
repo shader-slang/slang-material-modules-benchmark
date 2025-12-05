@@ -1,2 +1,2 @@
-Fix the issue that produce long mangled name (#9218)
-b77ace737649067f4d1a1a75302cd6f18a38502f
+Save the base expression of ParenExpr in serialized AST (#9255)
+89a1f99b4e1b9c3538d2ecc29f7bcad67c682e7d
