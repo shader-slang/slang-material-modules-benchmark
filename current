@@ -1,2 +1,2 @@
-Allow generic workgroup size. (#9245)
-07868178186128a04fb80a6ed25f3729f67d860e
+Remove the deprecated hlsl_coopvec_poc capability that was for POC CoopVec (#9213)
+cc73e8dcf0e10eb6ead8cf3009850b4b8e6ab9a5
