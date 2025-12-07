@@ -1,2 +1,2 @@
-Remove the deprecated hlsl_coopvec_poc capability that was for POC CoopVec (#9213)
-cc73e8dcf0e10eb6ead8cf3009850b4b8e6ab9a5
+Fix default implement method in generic interface (#9248)
+dcb2b8e1e4f28cd3b97725e1900a24ffaa180412
