@@ -1,2 +1,2 @@
-Fix default implement method in generic interface (#9248)
-dcb2b8e1e4f28cd3b97725e1900a24ffaa180412
+Fix a bug in const-fold for array size (#9259)
+cc532e4138401269c82cd5d214e692123731680d
