@@ -1,2 +1,2 @@
-Fix CMake CMP0135 deprecation warning (#9243)
-2db82e17075ce3c9f3d4a90a09432781ca26bae9
+Add error diagnostic for integer literals that don't fit into `uint64_t` (#9208)
+72761cc366f10a5bdce6c09d0c3213522a515f99
