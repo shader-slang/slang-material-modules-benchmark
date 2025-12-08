@@ -1,2 +1,2 @@
-Fix a bug in const-fold for array size (#9259)
-cc532e4138401269c82cd5d214e692123731680d
+Fix CMake CMP0135 deprecation warning (#9243)
+2db82e17075ce3c9f3d4a90a09432781ca26bae9
