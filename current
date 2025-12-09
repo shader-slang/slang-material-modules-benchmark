@@ -1,2 +1,2 @@
-Add error diagnostic for integer literals that don't fit into `uint64_t` (#9208)
-72761cc366f10a5bdce6c09d0c3213522a515f99
+Diagnose if extension declares new interface requirements (#9276)
+65749cfe8e17ec65d77e8b30c30311f6190f5dd4
