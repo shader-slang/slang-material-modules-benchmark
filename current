@@ -1,2 +1,2 @@
-Fix internal error when accessing ConstantBuffer<matrix> elements (#9280)
-025c39466c81f4edf07c6c5c08f10dc417670907
+Handle uninitialized resources in structs (#9151)
+c3542ad690762bb41d4fd9af51be71f8f1db79b4
