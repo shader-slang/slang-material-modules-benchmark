@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1765301535475,
+  "lastUpdate": 1765303812393,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -68167,6 +68167,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1129.244375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "b638bb7dee2292a5f8938d49c611b2fca5f2d3a4",
+          "message": "Add SER support for DXR 1.3 and VK EXT extensions (#7292, #9023) (#9230)\n\nhttps://github.com/shader-slang/slang/commit/18d0a3a39f9e5f3d6f1ac9671c701851129dfef1",
+          "timestamp": "2025-12-09T10:09:56-08:00",
+          "tree_id": "a176a5210b05b95d81d588d4b899313d5b5ce9cd",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/b638bb7dee2292a5f8938d49c611b2fca5f2d3a4"
+        },
+        "date": 1765303807172,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2258.138125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 745.9425,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 745.8193749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2239.23625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 741.4875000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 743.76375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1129.67125,
             "unit": "milliseconds"
           }
         ]
