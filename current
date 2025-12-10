@@ -1,2 +1,2 @@
-Handle uninitialized resources in structs (#9151)
-c3542ad690762bb41d4fd9af51be71f8f1db79b4
+fix typo: unamed -> unnamed (#9299)
+d66c2c64be8bdf41aa72d202f072e3902e66f2ea
