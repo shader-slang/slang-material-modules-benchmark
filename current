@@ -1,2 +1,2 @@
-fix typo: unamed -> unnamed (#9299)
-d66c2c64be8bdf41aa72d202f072e3902e66f2ea
+CI test-slangpy: use a dedicated slangpy-samples branch (#9312)
+3fd9f501adee46b1cac80d985ff5beb330461046
