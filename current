@@ -1,2 +1,2 @@
-CI test-slangpy: use a dedicated slangpy-samples branch (#9312)
-3fd9f501adee46b1cac80d985ff5beb330461046
+Fix jq single-quote argument handling on Windows (#9320)
+fe7c6f3690ef5b480714dad8727a4f4796b64b6a
