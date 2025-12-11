@@ -1,2 +1,2 @@
-Fix jq single-quote argument handling on Windows (#9320)
-fe7c6f3690ef5b480714dad8727a4f4796b64b6a
+Fix CI workflow branch fetch for fork PRs (#9327)
+5921ee673699fc1a65b59e9160578b1abdd1d31c
