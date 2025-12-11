@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1765457607391,
+  "lastUpdate": 1765474582193,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -68566,6 +68566,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1129.4912499999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "b1ae3cbf37b7b44248f3f312c3d1e0844b0797a1",
+          "message": "Add tool to split IR dumps into separate section files (#9247)\n\nhttps://github.com/shader-slang/slang/commit/cfdbbbacc36ca42acf27d75e71c872bec9361984",
+          "timestamp": "2025-12-11T09:36:07-08:00",
+          "tree_id": "459953ad764945e76122c73b1c0682ecdcfddb09",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/b1ae3cbf37b7b44248f3f312c3d1e0844b0797a1"
+        },
+        "date": 1765474578167,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3842.9593750000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1170.4531250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1168.27,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3850.6393749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1178.126875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1171.8849999999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1772.3393749999998,
             "unit": "milliseconds"
           }
         ]
