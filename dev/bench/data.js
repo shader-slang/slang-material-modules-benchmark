@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1765404923264,
+  "lastUpdate": 1765447413047,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -68452,6 +68452,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1144.4387499999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "44c135fd9178e139b7df1aea2ef24d9698f40d20",
+          "message": "Fix jq single-quote argument handling on Windows (#9320)\n\nhttps://github.com/shader-slang/slang/commit/fe7c6f3690ef5b480714dad8727a4f4796b64b6a",
+          "timestamp": "2025-12-11T02:03:21-08:00",
+          "tree_id": "7365b95c4516df09fe65ef6bca83af91095850e5",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/44c135fd9178e139b7df1aea2ef24d9698f40d20"
+        },
+        "date": 1765447409142,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2272.424375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 746.8425000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 750.4325,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2255.7506249999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 744.7906250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 744.665,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1133.54375,
             "unit": "milliseconds"
           }
         ]
