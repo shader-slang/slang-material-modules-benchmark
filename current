@@ -1,2 +1,2 @@
-Fix pragma warning rejection when using import statements (#9296)
-9228bba58911489f74fe68e25b95bc297e726e35
+Add SLANG_ASSERT environment variable support (#9313)
+0aae4853c4c56ea7e0bd68875542c5d7e86af3f1
