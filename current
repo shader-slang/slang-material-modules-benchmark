@@ -1,2 +1,2 @@
-Install gh CLI and jq on Windows self-hosted runners (#9118) (#9347)
-9f2c6d51ee51879cb657fa53bb0b26a49a44af40
+Use curl instead of gh CLI for fork PR detection (#9118) (#9351)
+4fd8f91094fa302f6533af12e75a41c93a10f7e4
