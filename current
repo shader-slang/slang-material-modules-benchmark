@@ -1,2 +1,2 @@
-Enable Linux GPU CI with containerized builds and tests (#9173)
-2b8534c776050a28850d899e017b886117e2cbd9
+Fix OpCapability Int64ImageEXT detection (#9308)
+eaad58a2ca78fc16e62415c66588fb91bd66aa6c
