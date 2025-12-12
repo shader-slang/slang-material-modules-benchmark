@@ -1,2 +1,2 @@
-Fix #9018 - HitObject.GetCurrentTime had incorrect availability (#9321)
-d67d3819be1c4f86c3099d932a2eb1274b1735dd
+Install gh CLI and jq on Windows self-hosted runners (#9118) (#9347)
+9f2c6d51ee51879cb657fa53bb0b26a49a44af40
