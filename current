@@ -1,2 +1,2 @@
-Add SLANG_ASSERT environment variable support (#9313)
-0aae4853c4c56ea7e0bd68875542c5d7e86af3f1
+Fix #9018 - HitObject.GetCurrentTime had incorrect availability (#9321)
+d67d3819be1c4f86c3099d932a2eb1274b1735dd
