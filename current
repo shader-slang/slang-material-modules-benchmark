@@ -1,2 +1,2 @@
-Fix OpCapability Int64ImageEXT detection (#9308)
-eaad58a2ca78fc16e62415c66588fb91bd66aa6c
+slangd: Canonicalize all paths found from search paths into URIs (#9279)
+379113bcee9ede71d342f1d76bbdfe7959204554
