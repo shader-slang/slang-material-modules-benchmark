@@ -1,2 +1,2 @@
-Fix UBSan error: load of invalid `SpvOp` value (#9349)
-e5001703669c757af974ce3437223c6bc63bcf4a
+Fix UBSan errors: `memcpy()` and `memcmp()` called with null pointers (#9361)
+5b8d64107030fa52d8c16e033206edb49d2f52d5
