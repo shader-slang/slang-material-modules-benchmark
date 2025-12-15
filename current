@@ -1,2 +1,2 @@
-Update to latest external/slang-rhi (#9357)
-da483a3e5458f7d6a20b60baf9c073d26a69f530
+Fix bindless resource heap placed in wrong descriptor set (#9281)
+17818f20c601b4e45a0969af18bdc1376385d9d4
