@@ -1,2 +1,2 @@
-slangd: Canonicalize all paths found from search paths into URIs (#9279)
-379113bcee9ede71d342f1d76bbdfe7959204554
+Fix UBSan error: load of invalid `SpvOp` value (#9349)
+e5001703669c757af974ce3437223c6bc63bcf4a
