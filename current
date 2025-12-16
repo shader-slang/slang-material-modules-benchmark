@@ -1,2 +1,2 @@
-Fix various issues in `slang-glslang` (#9305)
-6514add2daab188ea8f7f7699a023836f52ca724
+Get target-specific layout for DescriptorHandle<T>, refactor Type-kind mapping in layout creation (#8383)
+0ea091454e220b7d51aafb411a1afd3a2f7fc3e8
