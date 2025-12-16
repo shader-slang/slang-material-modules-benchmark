@@ -1,2 +1,2 @@
-Remove unused MD5 implementation (#9333)
-95f38acdc4dcc8a0600a1b14890e08b8a90d2e4c
+Remove unused byte encoding functions (#9332)
+984e27efc721a3fe74877316090eacc1074c3b0a
