@@ -1,2 +1,2 @@
-Introduce lua description file for new diagnostics format (#9379)
-fa75c8487cf04dc9ac54d3be0358ca7c9687bf30
+Fix Clang warning introduced by PR #7968 (#9311)
+1717891a1d864a08d7b02c9f5220696197f41829
