@@ -1,2 +1,2 @@
-Remove unused byte encoding functions (#9332)
-984e27efc721a3fe74877316090eacc1074c3b0a
+Fix various issues in `slang-glslang` (#9305)
+6514add2daab188ea8f7f7699a023836f52ca724
