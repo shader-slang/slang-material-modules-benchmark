@@ -1,2 +1,2 @@
-Enable Slack notifications for RTX Remix nightly CI (#9377)
-9ab7718208054cd546ab5b0b5e35de32fafd0c64
+Fix coverage nightly workflow: Add retention policy integration (#9392)
+706bc9da83906effd27d65c8f630ee7ec4ad895d
