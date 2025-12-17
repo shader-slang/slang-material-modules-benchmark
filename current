@@ -1,2 +1,2 @@
-Emit SPIR-V OpTypeMatrix for uniform and storage buffers (#9341)
-69556160060c9541f05db56f414f0d3c4c817617
+Fix UBSan errors: member calls on null pointers (#9355)
+a2ba47af07c68c973d1ac4238b4c030ddc51098f
