@@ -1,2 +1,2 @@
-Get target-specific layout for DescriptorHandle<T>, refactor Type-kind mapping in layout creation (#8383)
-0ea091454e220b7d51aafb411a1afd3a2f7fc3e8
+Emit SPIR-V OpTypeMatrix for uniform and storage buffers (#9341)
+69556160060c9541f05db56f414f0d3c4c817617
