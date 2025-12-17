@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1765963228184,
+  "lastUpdate": 1766000528688,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -69991,6 +69991,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1131.489375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "7d537cdcd7ffdd12a36fd8dd45ff13441e036823",
+          "message": "Fix coverage nightly workflow: Add retention policy integration (#9392)\n\nhttps://github.com/shader-slang/slang/commit/706bc9da83906effd27d65c8f630ee7ec4ad895d",
+          "timestamp": "2025-12-17T11:41:55-08:00",
+          "tree_id": "9bca893b4e88239986ab45627f3370ea6a04fe9d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/7d537cdcd7ffdd12a36fd8dd45ff13441e036823"
+        },
+        "date": 1766000523970,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2251.8243749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 750.3568750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 748.4943750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2244.3875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 743.8825000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 742.6756250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1147.88,
             "unit": "milliseconds"
           }
         ]
