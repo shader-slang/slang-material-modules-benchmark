@@ -1,2 +1,2 @@
-Fix UBSan errors: unaligned loads/stores in bytecode VM (#9289)
-6ca87a470886f02e39212c1190408476f0a80c01
+Fix the usage of the SLANG_APPLE_FAMILY macro (#9376)
+0782413177056aebd0e98dc7fa498a1e559c6251
