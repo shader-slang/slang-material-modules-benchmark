@@ -1,2 +1,2 @@
-Add more Slang support for Shader subgroups (#9319)
-e1763e9ffa95b7cdc7ef9aeba7776ccad82a1c8f
+Fix negations of `INT64_MIN` when handling integer literals (#9330)
+4a7e78f1239196d55e58dee5797bd104c5f639d9
