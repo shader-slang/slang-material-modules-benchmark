@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1766039506410,
+  "lastUpdate": 1766040023257,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -70219,6 +70219,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1133.5187499999997,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "5744887dec54f55c07e28ca82aa7e1bcc029d7cc",
+          "message": "Fix UBSan errors: unaligned loads/stores in bytecode VM (#9289)\n\nhttps://github.com/shader-slang/slang/commit/6ca87a470886f02e39212c1190408476f0a80c01",
+          "timestamp": "2025-12-17T22:40:07-08:00",
+          "tree_id": "a568a6ad92e366bf7c9bd311f825b7c809646fa2",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/5744887dec54f55c07e28ca82aa7e1bcc029d7cc"
+        },
+        "date": 1766040017719,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2268.3799999999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 744.9975000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 745.801875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2262.32375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 743.24125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 742.463125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1130.7274999999997,
             "unit": "milliseconds"
           }
         ]
