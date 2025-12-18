@@ -1,2 +1,2 @@
-Fix negations of `INT64_MIN` when handling integer literals (#9330)
-4a7e78f1239196d55e58dee5797bd104c5f639d9
+Fix tests using `SLANG_CHECK` instead of `SLANG_CHECK_ABORT` (#9358)
+b6a575f561fbe7063ff6481b7656b23f36986a91
