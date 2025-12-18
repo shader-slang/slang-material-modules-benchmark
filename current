@@ -1,2 +1,2 @@
-Enable slangpy and slang-rhi tests on macOS debug builds (#9387)
-a19633e54266f98045ea3334021baa17322fede6
+Add missing DebugLines in two cases (#9371)
+40ae503b6dad32d0805bd9b64ba7d64c3a6aa0ea
