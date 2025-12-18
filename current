@@ -1,2 +1,2 @@
-Fix tests using `SLANG_CHECK` instead of `SLANG_CHECK_ABORT` (#9358)
-b6a575f561fbe7063ff6481b7656b23f36986a91
+Fix UBSan errors: unaligned loads/stores in bytecode VM (#9289)
+6ca87a470886f02e39212c1190408476f0a80c01
