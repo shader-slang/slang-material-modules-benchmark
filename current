@@ -1,2 +1,2 @@
-Fix coverage nightly workflow: Add retention policy integration (#9392)
-706bc9da83906effd27d65c8f630ee7ec4ad895d
+Add more Slang support for Shader subgroups (#9319)
+e1763e9ffa95b7cdc7ef9aeba7776ccad82a1c8f
