@@ -1,2 +1,2 @@
-Revert "Add workspace mounts to container options for Copilot compati… (#9426)
-a9d10b83c3577f27edf71f84358e6e40f4d4321f
+Install curl before Copilot preparation step (#9432)
+d26153eedbf751d933700f2e90c641c539152696
