@@ -1,2 +1,2 @@
-Add workspace mounts to container options for Copilot compatibility (#9424)
-262c3a6bc9cebe513efe2b801270f405fe458f8c
+Revert "Add workspace mounts to container options for Copilot compati… (#9426)
+a9d10b83c3577f27edf71f84358e6e40f4d4321f
