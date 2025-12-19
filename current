@@ -1,2 +1,2 @@
-Skip slangpy-samples tests on macOS debug builds (#9408)
-dd4ba6e904b452c0a8056ba08cda9a2b33514a3b
+Add workspace mounts to container options for Copilot compatibility (#9424)
+262c3a6bc9cebe513efe2b801270f405fe458f8c
