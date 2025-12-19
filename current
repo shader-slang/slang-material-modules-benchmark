@@ -1,2 +1,2 @@
-Configure Copilot Coding Agent for ARC self-hosted GPU runner (#9415)
-db9dd161622502b90ea3502549fa81b7783c15e5
+Skip slangpy-samples tests on macOS debug builds (#9408)
+dd4ba6e904b452c0a8056ba08cda9a2b33514a3b
