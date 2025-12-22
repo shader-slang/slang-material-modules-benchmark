@@ -1,2 +1,2 @@
-emit-spirv: handle IRVoidType in emitDebugTypeImpl (#9414)
-25c1c6e5e08d3cb618c847e1d4dc24eb003bc199
+Use Custom Linux CI container image (#9460)
+2db7bd6d1e28cbdbd6699c66a1284a189cd7fac3
