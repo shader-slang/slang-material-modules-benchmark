@@ -1,2 +1,2 @@
-Remove container specification from copilot-setup-steps (#9468)
-c969c4bcd7e89ebe13790044f7b24bcf9bee771d
+Emit a warning for a default-constructed interface variable and make it safer (#9421)
+7ea1506ad022aa1b57ff65b488318532e8aaa0b4
