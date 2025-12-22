@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1766426829369,
+  "lastUpdate": 1766429805890,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -71245,6 +71245,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1122.879375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e6e7b20b49c46744e004c12ea8a81caf3e9e919b",
+          "message": "Add /runner to /home/runner bind mount for Copilot compatibility (#9470)\n\nhttps://github.com/shader-slang/slang/commit/23424c83865bb2b95790af42b0166f8db81f7c7d",
+          "timestamp": "2025-12-22T10:56:34-08:00",
+          "tree_id": "ec60002bfdad36a0cf3776387573a14f7420548d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e6e7b20b49c46744e004c12ea8a81caf3e9e919b"
+        },
+        "date": 1766429801682,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2245.1000000000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 741.1193750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 739.1068750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2223.241875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 735.8925,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 734.9743749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1119.8925000000002,
             "unit": "milliseconds"
           }
         ]
