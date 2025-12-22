@@ -1,2 +1,2 @@
-Emit a warning for a default-constructed interface variable and make it safer (#9421)
-7ea1506ad022aa1b57ff65b488318532e8aaa0b4
+Add /runner to /home/runner bind mount for Copilot compatibility (#9470)
+23424c83865bb2b95790af42b0166f8db81f7c7d
