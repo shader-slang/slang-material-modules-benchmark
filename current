@@ -1,2 +1,2 @@
-Fix incorrect use of reinterpret_cast and union (#9458)
-831213310d3dd4b5be51f89631010e9bd094cfe4
+Fix scope of local variables from inlined functions (#9418)
+70df5d2f3be82119246d08bb83dadf8010e1c34e
