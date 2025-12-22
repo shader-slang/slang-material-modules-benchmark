@@ -1,2 +1,2 @@
-Add /runner to /home/runner bind mount for Copilot compatibility (#9470)
-23424c83865bb2b95790af42b0166f8db81f7c7d
+Fix Copilot path mapping - mount _work to work not _work (#9473)
+f1165f5e9abbeb862b7e07e66f04dc7bf592ac55
