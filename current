@@ -1,2 +1,2 @@
-Fix scope of local variables from inlined functions (#9418)
-70df5d2f3be82119246d08bb83dadf8010e1c34e
+Remove container specification from copilot-setup-steps (#9468)
+c969c4bcd7e89ebe13790044f7b24bcf9bee771d
