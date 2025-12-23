@@ -1,2 +1,2 @@
-Reduce copying inside SourceFile::setContents; fix non-BOM UTF-16 offset and skip UTF-16 checks if file size is odd (#9407)
-1027aa56eb205b43645fa189cb1dd33934803e8d
+Preserve emtpy tuple elements in `createGLSLGlobalVaryings`. (#9479)
+55d680e6409a6c572b3294879dcad48d13373456
