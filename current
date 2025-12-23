@@ -1,2 +1,2 @@
-Don't generate IR in `ComponentType::specialize` if spec arg is invalid. (#9453)
-2e66e603bf770b94fad85790f7aba8bc4dd926b8
+Reduce copying inside SourceFile::setContents; fix non-BOM UTF-16 offset and skip UTF-16 checks if file size is odd (#9407)
+1027aa56eb205b43645fa189cb1dd33934803e8d
