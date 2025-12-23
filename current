@@ -1,2 +1,2 @@
-Fix Copilot path mapping - mount _work to work not _work (#9473)
-f1165f5e9abbeb862b7e07e66f04dc7bf592ac55
+Don't generate IR in `ComponentType::specialize` if spec arg is invalid. (#9453)
+2e66e603bf770b94fad85790f7aba8bc4dd926b8
