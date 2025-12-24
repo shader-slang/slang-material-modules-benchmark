@@ -1,2 +1,2 @@
-Preserve emtpy tuple elements in `createGLSLGlobalVaryings`. (#9479)
-55d680e6409a6c572b3294879dcad48d13373456
+move tests from bug directory to bugs (#9463)
+fe8bd58d1f15774ceb987edda0a5fe684bf9fdc0
