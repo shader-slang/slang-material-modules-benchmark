@@ -1,2 +1,2 @@
-move tests from bug directory to bugs (#9463)
-fe8bd58d1f15774ceb987edda0a5fe684bf9fdc0
+Add `-report-dynamic-dispatch-sites` flag (#9273)
+21296aff9b59d350d909072a0ea44275f9cf268a
