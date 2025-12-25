@@ -1,2 +1,2 @@
-Add `-report-dynamic-dispatch-sites` flag (#9273)
-21296aff9b59d350d909072a0ea44275f9cf268a
+Avoid infinite cycle when mangling struct defined inline at a parameter type location (#9482)
+992ec72d8f57fbd56d01c790c57f98385e347b70
