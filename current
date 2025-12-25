@@ -1,2 +1,2 @@
-Avoid infinite cycle when mangling struct defined inline at a parameter type location (#9482)
-992ec72d8f57fbd56d01c790c57f98385e347b70
+Use the system-installed `slangc` compiler when building without dependencies (#9480)
+671b391fc9fedf875ce31951aa166f1ba554f962
