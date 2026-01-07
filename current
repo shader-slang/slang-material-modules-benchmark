@@ -1,2 +1,2 @@
-Improved diagnostics prototype (#9503)
-7350592524db797878e23bb189f8510ef2356945
+Fix potential null pointer dereference in enum type lowering (#9518)
+f4504671044173211aa0747520016039f2f70ba7
