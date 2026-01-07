@@ -1,2 +1,2 @@
-Fix potential null pointer dereference in enum type lowering (#9518)
-f4504671044173211aa0747520016039f2f70ba7
+Fix incorrect spelling for spirv target and profiles (#9521)
+c9c8cf61023c01780a64c0ba723053aa31b27b95
