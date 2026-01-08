@@ -1,2 +1,2 @@
-Fix incorrect spelling for spirv target and profiles (#9521)
-c9c8cf61023c01780a64c0ba723053aa31b27b95
+Use GitHub larger runner for Copilot to avoid path issues (#9540)
+e2d30702b427792005675213d435f163aaa72593
