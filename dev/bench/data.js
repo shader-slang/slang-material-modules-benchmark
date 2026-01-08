@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1767866117069,
+  "lastUpdate": 1767875927554,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -72157,6 +72157,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1145.7475,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "112c884fc802084257a2a0be153d27eb2549415d",
+          "message": "Add X11 and Vulkan development libraries for Copilot (#9554)\n\nhttps://github.com/shader-slang/slang/commit/69795e376667d56c3470cd604f0d1d1dfb950096",
+          "timestamp": "2026-01-08T04:38:31-08:00",
+          "tree_id": "e84d0a3d810cc40d64150a56447b2da71e46cf9c",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/112c884fc802084257a2a0be153d27eb2549415d"
+        },
+        "date": 1767875922552,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3932.5843750000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1199.1274999999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1201.53125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3789.0043750000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1183.025625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1178.6175,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1791.81125,
             "unit": "milliseconds"
           }
         ]
