@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1767875927554,
+  "lastUpdate": 1767888133717,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -72214,6 +72214,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1791.81125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "cd231b95398e36144958d4ffe375f58ff99d2ae3",
+          "message": "Remove CUDA installer when setting up Copilot (#9557)\n\nhttps://github.com/shader-slang/slang/commit/b1da8b2c0f7a7f1fd1fc3237d001255832aff2a9",
+          "timestamp": "2026-01-08T08:01:58-08:00",
+          "tree_id": "1669e608fdf42f0059a1b9b87beabb4fb22ca6be",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/cd231b95398e36144958d4ffe375f58ff99d2ae3"
+        },
+        "date": 1767888129160,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2283.310625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 764.9375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 760.7606250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2263.8275,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 757.315,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 759.285625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1157.4825,
             "unit": "milliseconds"
           }
         ]
