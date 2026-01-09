@@ -1,2 +1,2 @@
-Remove CUDA installer when setting up Copilot (#9557)
-b1da8b2c0f7a7f1fd1fc3237d001255832aff2a9
+nix: dev-shell fixes (#9437)
+186351f07d1efc279bcd3a0d3fe2e1d508ba386b
