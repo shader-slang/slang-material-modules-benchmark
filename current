@@ -1,2 +1,2 @@
-Allow passing LLVM downstream args to LLVMBuilder (#9491)
-e4215bc1991f094d795a5da1e1a818d4d347ab04
+Allow extern functions to not have a definition in Slang module (#9492)
+043899b064c0d417ea0c1654d9f0eede03c98fad
