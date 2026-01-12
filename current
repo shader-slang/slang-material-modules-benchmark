@@ -1,2 +1,2 @@
-Fix SPIR-V debug info source file references for #include and import (#9520)
-0b7e9344f90db045899e20c009183a303550ed37
+Fix GLSL to HLSL/DXIL compilation by adding semantic decorations (#6678) (#9519)
+65afd68e61a62cbe324b309839d6c9e30e540756
