@@ -1,2 +1,2 @@
-Fix GLSL to HLSL/DXIL compilation by adding semantic decorations (#6678) (#9519)
-65afd68e61a62cbe324b309839d6c9e30e540756
+Fix SPIR-V invalid default init interface values (#9522)
+7be0f2401594e55b669acbbd63761c27450731f3
