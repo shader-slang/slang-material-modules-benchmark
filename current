@@ -1,2 +1,2 @@
-Package static libraries for C++ WASM development (#9556)
-cfaccc644bdc404f43f1419313409973e874446e
+ci: Enable slangpy tests on Linux debug (#9598)
+8cac39f17dbd6d38cde9c034ddadeabd6d7e9120
