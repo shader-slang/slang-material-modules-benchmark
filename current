@@ -1,2 +1,2 @@
-Add newline character after version output (#9568)
-061b616e0b17180dc98f4f3187820e86d1d7b6cc
+Don't emit OpCapability StorageImageMultisample for read-only multisampled textures (#9587)
+b000fc96817f162f4358d7804f537b06e46c5c6c
