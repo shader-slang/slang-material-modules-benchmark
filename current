@@ -1,2 +1,2 @@
-Fix depth output mode being dropped when referencing shader parameters (#9577)
-f17cb477e5046b073bd1119c0af56ea6bf6a137c
+Add diagnostic for static function accessing non-static member via this (#9586)
+1b96be36fc19f799d403269bfadb3f1f7be9bc5c
