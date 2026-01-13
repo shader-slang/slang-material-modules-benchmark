@@ -1,2 +1,2 @@
-Don't emit OpCapability StorageImageMultisample for read-only multisampled textures (#9587)
-b000fc96817f162f4358d7804f537b06e46c5c6c
+Package static libraries for C++ WASM development (#9556)
+cfaccc644bdc404f43f1419313409973e874446e
