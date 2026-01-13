@@ -1,2 +1,2 @@
-Fix sizeof(DescriptorHandle<T>) returning 0 (#9571)
-380dfc545e33f51928af929a7cb49c45fad8a974
+Fix lowering of nested optional types (#9499)
+55e7ed9d96d8ed61778fa07f67e1b61dfb7718a3
