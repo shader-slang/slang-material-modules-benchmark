@@ -1,2 +1,2 @@
-Fix SPIR-V invalid default init interface values (#9522)
-7be0f2401594e55b669acbbd63761c27450731f3
+Fix crash when calling getEntrypointHash on a specialized entrypoint. (#9566)
+b1fc2d5b034eb271912fd2960e7a674fa3897bb8
