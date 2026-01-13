@@ -1,2 +1,2 @@
-Fix crash when calling getEntrypointHash on a specialized entrypoint. (#9566)
-b1fc2d5b034eb271912fd2960e7a674fa3897bb8
+Fix depth output mode being dropped when referencing shader parameters (#9577)
+f17cb477e5046b073bd1119c0af56ea6bf6a137c
