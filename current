@@ -1,2 +1,2 @@
-Fix preprocessor AtStartOfLine flag regression in macro (#9573)
-4bf4c79118be6f971ad9e5906e4c1f120d0de3cc
+Fix crashes during parameter binding when entrypoint returns optional (#9525)
+eff0c0e423c6e66d4c34478c809aa541efc22fed
