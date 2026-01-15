@@ -1,2 +1,2 @@
-Make min/max conform to IComparable interface (#9593)
-60518d6242fbd54c42d8cb7d7d48d326e1073159
+Fix incorrect use of reinterpret_cast (#9484)
+5894ce5fe3f59f9e71b0a39e713715efe0ae27e0
