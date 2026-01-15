@@ -1,2 +1,2 @@
-Fix SPIR-V emit crash for tess factors (#9538)
-44c91c53299e39698d4161541617f35779892bc8
+Make min/max conform to IComparable interface (#9593)
+60518d6242fbd54c42d8cb7d7d48d326e1073159
