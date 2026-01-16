@@ -1,2 +1,2 @@
-Fix incorrect use of reinterpret_cast (#9484)
-5894ce5fe3f59f9e71b0a39e713715efe0ae27e0
+Skip the URL document checking test of slangpy (#9639)
+569db87e16c04caaf6fc2d7591fc406893a43a9a
