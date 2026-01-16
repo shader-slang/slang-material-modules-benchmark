@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1768597465146,
+  "lastUpdate": 1768599004712,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -73810,6 +73810,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1799.0974999999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "f5cc8c67051a5729f1525ec400ececc31bb9ee5c",
+          "message": "[LLM] Add LLM instruction for debugging slang issues with slangpy repro steps (#9627)\n\nhttps://github.com/shader-slang/slang/commit/9bfcb6a8b5fc80d7f1758bb674b031bdc801a28f",
+          "timestamp": "2026-01-16T13:29:49-08:00",
+          "tree_id": "623aca6a4f13a2e8b027407bf78c692ad0065ea0",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/f5cc8c67051a5729f1525ec400ececc31bb9ee5c"
+        },
+        "date": 1768598999355,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3842.6075,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1189.4931250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1203.6018750000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3808.1287499999994,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1191.6712499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1187.405,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1820.3968750000004,
             "unit": "milliseconds"
           }
         ]
