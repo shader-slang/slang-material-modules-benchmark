@@ -1,2 +1,2 @@
-Skip the URL document checking test of slangpy (#9639)
-569db87e16c04caaf6fc2d7591fc406893a43a9a
+[LLM] Add LLM instruction for debugging slang issues with slangpy repro steps (#9627)
+9bfcb6a8b5fc80d7f1758bb674b031bdc801a28f
