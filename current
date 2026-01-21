@@ -1,2 +1,2 @@
-Fix missing Aligned operand for PhysicalStorageBuffer stores (#9644)
-689b5fb2488c28e04d53856530202e0fe8b389bd
+Enable back PR #9230 for SER enabling which were reverted in #9375 (#9504)
+d4803234f1b60c592975f64a95e9c97107f14572
