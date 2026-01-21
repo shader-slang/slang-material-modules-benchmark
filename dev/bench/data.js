@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1768947158853,
+  "lastUpdate": 1768971631143,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -74095,6 +74095,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1783.31,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ff8360b3ac398720a426db4fa3266e983d85d349",
+          "message": "Fix missing Aligned operand for PhysicalStorageBuffer stores (#9644)\n\nhttps://github.com/shader-slang/slang/commit/689b5fb2488c28e04d53856530202e0fe8b389bd",
+          "timestamp": "2026-01-20T21:00:15-08:00",
+          "tree_id": "58c00007bfafb44b582a67ad6d03d4fba58a1191",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ff8360b3ac398720a426db4fa3266e983d85d349"
+        },
+        "date": 1768971625151,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2266.91625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 749.130625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 750.50625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2241.8825,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 746.8750000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 745.7712500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1138.3587499999999,
             "unit": "milliseconds"
           }
         ]
