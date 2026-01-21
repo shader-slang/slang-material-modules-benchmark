@@ -1,2 +1,2 @@
-Enable back PR #9230 for SER enabling which were reverted in #9375 (#9504)
-d4803234f1b60c592975f64a95e9c97107f14572
+Update CI container to Vulkan SDK 1.4.321.1 to fix validation layer bug (#9640)
+7f02114b31e5e7e734fccf3cafe1cd165ae540c1
