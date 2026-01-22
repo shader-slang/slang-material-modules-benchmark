@@ -1,2 +1,2 @@
-Misc CoopMat/lambda expr fixes. (#9685)
-849a5d12fec90014f4ad3399d4d0fb3c1eafbf55
+Add comprehensive version logging to GPU test jobs (#9689)
+0bc91e3712760576505025538f28f97bcac6522b
