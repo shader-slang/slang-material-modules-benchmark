@@ -1,2 +1,2 @@
-Update SPIRV-Tools and SPIRV-Headers to latest versions (#9617)
-222bbdf3ac6eb013301904fafea3b4369b248a05
+add __floatAsInt expression to support compile time bitcast operation (#9687)
+3ad9f69f00b5d101d274b05b034a6844716efb16
