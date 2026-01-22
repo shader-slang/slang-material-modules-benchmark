@@ -1,2 +1,2 @@
-Fix coopvec test failures via glsl on Linux (#9681)
-261162776881a7b0ed838f6949be7bec333bd8ba
+Enable sizeof/alignof for DescriptorHandle<T> with target-aware resol… (#9671)
+bca74267704381664da58cf3c74375d87d79f87e
