@@ -1,2 +1,2 @@
-Enable sizeof/alignof for DescriptorHandle<T> with target-aware resol… (#9671)
-bca74267704381664da58cf3c74375d87d79f87e
+Enable SPIRV validation for slangpy CI tests (#9645)
+144ff56cbe4f1dc08faa28492daa7be9326db9ce
