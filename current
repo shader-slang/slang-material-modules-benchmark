@@ -1,2 +1,2 @@
-Enable SPIRV validation for slangpy CI tests (#9645)
-144ff56cbe4f1dc08faa28492daa7be9326db9ce
+Misc CoopMat/lambda expr fixes. (#9685)
+849a5d12fec90014f4ad3399d4d0fb3c1eafbf55
