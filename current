@@ -1,2 +1,2 @@
-add __floatAsInt expression to support compile time bitcast operation (#9687)
-3ad9f69f00b5d101d274b05b034a6844716efb16
+Update spirv-tools and spirv-headers to v2026.1.rc1 (#9697)
+c8ddf20bb09d9a2f8726b1bdc85879a3a8b4ef3b
