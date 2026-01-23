@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1769150957892,
+  "lastUpdate": 1769165209385,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -74722,6 +74722,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1797.7356249999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "49dab47183022f08c107fe2128093398cbc15b13",
+          "message": "Update Slack webhook for RTX remix (#9701)\n\nhttps://github.com/shader-slang/slang/commit/d4539882b82b53a67b0f57a4dc9a6b1d53b078e9",
+          "timestamp": "2026-01-23T02:46:35-08:00",
+          "tree_id": "c522b3b891c7dce6feab94b6ff93e8e912ab4c54",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/49dab47183022f08c107fe2128093398cbc15b13"
+        },
+        "date": 1769165204863,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3906.490625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1199.5325000000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1195.430625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3856.5993750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1197.208125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1198.9550000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1811.5093749999999,
             "unit": "milliseconds"
           }
         ]
