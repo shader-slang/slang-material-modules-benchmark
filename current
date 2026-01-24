@@ -1,2 +1,2 @@
-Rerun slangpy test sequentially (#9706)
-dee968db72884d8d80cc25e6f1eaee5ebf021c65
+Re-enabled tests disabled due to the bug in SPIRV-Tools (#9711)
+47e743d9b1ab00a29e4898905b2dd4f65c9b2b45
