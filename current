@@ -1,2 +1,2 @@
-Fix default->case fallthrough and add HLSL output tests (#9677)
-94c09c5276cdbb5c972ea617080eac55397bb4c9
+Remove unreachable IR after discard (#9714)
+ff8d636c0a28899dfd84da65623cc50dc1a7392b
