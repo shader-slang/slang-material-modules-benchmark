@@ -1,2 +1,2 @@
-spv: assign default names to nameless struct members (#9696)
-812dc34193caca4fba32bd2295d63c00540aaf33
+Fix temporarily unparented insts wrecking stuff in specializeFunctionCalls (#9718)
+e21bc1b724559462081c4211dc0c044b8f03a61c
