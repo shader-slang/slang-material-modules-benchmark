@@ -1,2 +1,2 @@
-Remove unreachable IR after discard (#9714)
-ff8d636c0a28899dfd84da65623cc50dc1a7392b
+Add support for casting DescriptorHandle <-> uint64_t on CUDA (#9665)
+7e6105f9730f0ee302b4e0f2b53de4dd3902286e
