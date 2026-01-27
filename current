@@ -1,2 +1,2 @@
-Language server highlighting fix for generic value param. (#9743)
-7fed1982e862afb5382f24aac7daff0364a64924
+Explicitly remove unused ByteAddressBuffer types after the legalization (#9742)
+fb09d1d15105fc28002a95967e165a9e1ea6b254
