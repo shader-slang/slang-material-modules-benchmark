@@ -1,2 +1,2 @@
-Fix Optional none lowering for DifferentialPair (#9562)
-4923e8883ba6f6152ab0d0e8863f190fbfa95a12
+Language server highlighting fix for generic value param. (#9743)
+7fed1982e862afb5382f24aac7daff0364a64924
