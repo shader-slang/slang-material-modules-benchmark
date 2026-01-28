@@ -1,2 +1,2 @@
-Change Conditional<> to Use Vector internally (#9655)
-f0719cb9069e4586341a2805e0faef5aa9483ef4
+Add dynamic specialization logic for `OpGetElement`. (#9766)
+e705058d1fdf01a83988f7b22e872d2dc0cd157f
