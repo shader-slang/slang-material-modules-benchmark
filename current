@@ -1,2 +1,2 @@
-Add DescriptorHandle Support to AnyValue Marshalling (#9386)
-557e45c83c42f3de9228e8446250888d732f3ca6
+neural.slang: implement CoopVec-like interface by using CoopMat intrinsics (#9512)
+f955cbbfd26a5dea6f1c6769401103ef1827a846
