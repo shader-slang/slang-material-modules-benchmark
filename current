@@ -1,2 +1,2 @@
-Fix an enum lowering bug that can lead to duplicated int lit. (#9740)
-efbbc4f52c6ef65584796e6f5f8cf41a2bf4b0a2
+Fix issue with dynamic dispatch lowering of externally visible existential parameters (#9751)
+801ae9914b3042a8a9bde73572f81481831d7c2c
