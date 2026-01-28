@@ -1,2 +1,2 @@
-Explicitly remove unused ByteAddressBuffer types after the legalization (#9742)
-fb09d1d15105fc28002a95967e165a9e1ea6b254
+Fix an enum lowering bug that can lead to duplicated int lit. (#9740)
+efbbc4f52c6ef65584796e6f5f8cf41a2bf4b0a2
