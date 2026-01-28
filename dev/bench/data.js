@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1769597308906,
+  "lastUpdate": 1769612192827,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -75862,6 +75862,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1145.96375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "794ac950212829afc82e05bc5f645920d2a0e7ed",
+          "message": "Enable LLVM caching in Copilot CI setup (#9746)\n\nhttps://github.com/shader-slang/slang/commit/7fdfd5b691880402cd599500dc1abd301af871e2",
+          "timestamp": "2026-01-28T06:55:50-08:00",
+          "tree_id": "c42d5f7ed147736ee1eeb9da8cba624ff89862ef",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/794ac950212829afc82e05bc5f645920d2a0e7ed"
+        },
+        "date": 1769612187451,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3852.931875000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1187.0875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1186.19125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3900.1312499999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1202.2325,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1187.954375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1799.2825,
             "unit": "milliseconds"
           }
         ]
