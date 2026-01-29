@@ -1,2 +1,2 @@
-Fix the issue when detecting the reachable inst for auto-diff worklist (#9764)
-743ddc6a9893f1e55cdee5ba308fe847dcbf35f3
+Remove CLAUDE hooks (#9775)
+5e0a22a4fdb37122fee3fda7b4a55521b0ef7704
