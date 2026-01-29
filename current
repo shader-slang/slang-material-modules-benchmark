@@ -1,2 +1,2 @@
-Add placeholder for update-spirv-tools CI workflow (#9778)
-08c30f078604ad566f97ec275aa28bb78f37eccc
+Fix the issue when detecting the reachable inst for auto-diff worklist (#9764)
+743ddc6a9893f1e55cdee5ba308fe847dcbf35f3
