@@ -1,2 +1,2 @@
-Fix *= in GLSL for vectors and matrices (#9774)
-d24c8e4c82dea4891ae2393e09bea436f0c09892
+Add placeholder for update-spirv-tools CI workflow (#9778)
+08c30f078604ad566f97ec275aa28bb78f37eccc
