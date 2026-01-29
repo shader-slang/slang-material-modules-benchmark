@@ -1,2 +1,2 @@
-Fix #9509: Restrict HitObject.SetShaderTableIndex to DXR native (#9744)
-be4c8efb387f1ebc51ad5f106046bef1e46f7e3b
+Add Linux ARM64 (aarch64) CI support with CPU-only tests (#9725)
+9688eafdb68b268260904ed3f9f81e9c89400d44
