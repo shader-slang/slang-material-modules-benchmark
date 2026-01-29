@@ -1,2 +1,2 @@
-Add dynamic specialization logic for `OpGetElement`. (#9766)
-e705058d1fdf01a83988f7b22e872d2dc0cd157f
+Fix #9509: Restrict HitObject.SetShaderTableIndex to DXR native (#9744)
+be4c8efb387f1ebc51ad5f106046bef1e46f7e3b
