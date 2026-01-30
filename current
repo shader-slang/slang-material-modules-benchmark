@@ -1,2 +1,2 @@
-Build only completely missing LLVM by default (#9800)
-8f054243a02711e502e89599dfd811003305d36a
+Fix OptiX payload mismatch for types containing bool/half (#9793)
+a1065ee303d880908ca4d8eb637800bb85d563eb
