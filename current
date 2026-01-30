@@ -1,2 +1,2 @@
-Remove CLAUDE hooks (#9775)
-5e0a22a4fdb37122fee3fda7b4a55521b0ef7704
+Revert "Add Linux ARM64 (aarch64) CI support with CPU-only tests" (#9792)
+d3b0cff871cc79f5495d7d52d96617438d504069
