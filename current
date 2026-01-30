@@ -1,2 +1,2 @@
-Fix OptiX payload mismatch for types containing bool/half (#9793)
-a1065ee303d880908ca4d8eb637800bb85d563eb
+Reapply "Add Linux ARM64 (aarch64) CI supportth CPU-only tests" (#9802)
+39fb1e3feb1283f0885e5a32377e8a1a9ae8be50
