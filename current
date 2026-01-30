@@ -1,2 +1,2 @@
-neural: add frontend APIs (#9713)
-2856c13d0deefa9820e88bf1d163b5ad66afe436
+Carry over initExpr when creating UserDefinedAttribute from StructDecl. (#9786)
+db758d509a421ed3dcb375811108d0831db9664c
