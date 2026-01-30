@@ -1,2 +1,2 @@
-Reapply "Add Linux ARM64 (aarch64) CI supportth CPU-only tests" (#9802)
-39fb1e3feb1283f0885e5a32377e8a1a9ae8be50
+Partially revert to fix nightly ci on slangpy (#9791)
+077bba8690a08e2722238d9affa713fda0b2a6f1
