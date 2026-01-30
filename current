@@ -1,2 +1,2 @@
-Partially revert to fix nightly ci on slangpy (#9791)
-077bba8690a08e2722238d9affa713fda0b2a6f1
+neural: add frontend APIs (#9713)
+2856c13d0deefa9820e88bf1d163b5ad66afe436
