@@ -1,2 +1,2 @@
-Carry over initExpr when creating UserDefinedAttribute from StructDecl. (#9786)
-db758d509a421ed3dcb375811108d0831db9664c
+Support fp8 and bfloat16 types. (#9780)
+45774a448642538441ab9bb7670ae8bcefad90dc
