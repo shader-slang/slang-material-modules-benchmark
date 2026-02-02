@@ -1,2 +1,2 @@
-Update Copilot code formatting (#9822)
-686beee553839d25ebdd1e06de924e9fcb78ad81
+Fix data race in expected failure list copying across test threads (#9820)
+29e8e7557efddd5e287211434a3be8fd13498301
