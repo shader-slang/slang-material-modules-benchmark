@@ -1,2 +1,2 @@
-Support fp8 and bfloat16 types. (#9780)
-45774a448642538441ab9bb7670ae8bcefad90dc
+Port `getTargetHostCallable` over to the recommended slang api (#9707)
+c49ca3072c7bdf5424dd67c0a0ea5261aaa87a83
