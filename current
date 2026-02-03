@@ -1,2 +1,2 @@
-Fix data race in expected failure list copying across test threads (#9820)
-29e8e7557efddd5e287211434a3be8fd13498301
+Fix WGSL semantic removal when struct is used as both input and output (#9752)
+dbe276896e02a71489218b54ef01c6428443da7e
