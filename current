@@ -1,2 +1,2 @@
-Fix WGSL semantic removal when struct is used as both input and output (#9752)
-dbe276896e02a71489218b54ef01c6428443da7e
+Treat logical AND and OR as constant-fold-able (#9833)
+f022290af1239cbad78bbe20168c642198c47dde
