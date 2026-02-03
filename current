@@ -1,2 +1,2 @@
-Fix visibility of `TargetEnum`. (#9834)
-a24c5a5e77c08e5a7d369467024a4bfa2ad920bc
+Add diagnostic annotation system to slang-test (#9853)
+3056ebe371fd8853812a9d379605671cae65df27
