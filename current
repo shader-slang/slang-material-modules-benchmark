@@ -1,2 +1,2 @@
-Treat logical AND and OR as constant-fold-able (#9833)
-f022290af1239cbad78bbe20168c642198c47dde
+Fix visibility of `TargetEnum`. (#9834)
+a24c5a5e77c08e5a7d369467024a4bfa2ad920bc
