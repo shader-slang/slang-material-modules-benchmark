@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1770154729111,
+  "lastUpdate": 1770179684875,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -77401,6 +77401,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1151.2806249999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "a5c4af81620e0b9f417ba02df46c522e06250ca7",
+          "message": "Add missing constant folding for fp8/bf16. (#9863)\n\nhttps://github.com/shader-slang/slang/commit/f718c7c8bf57fc5522ea9b377d48092109c33836",
+          "timestamp": "2026-02-03T20:34:31-08:00",
+          "tree_id": "69fe0fe200a2a384bffcd8bfa7367e343c894046",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/a5c4af81620e0b9f417ba02df46c522e06250ca7"
+        },
+        "date": 1770179679791,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2299.013125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 772.421875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 769.5775000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2309.7056249999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 775.38375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 767.616875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1173.3056250000002,
             "unit": "milliseconds"
           }
         ]
