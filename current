@@ -1,2 +1,2 @@
-Add missing constant folding for fp8/bf16. (#9863)
-f718c7c8bf57fc5522ea9b377d48092109c33836
+Don't rewrite entrypoint `in` to `borrow` during ir lowering. (#9869)
+8dc2705f706ddf84696eab7f41d9c2c3f78c258e
