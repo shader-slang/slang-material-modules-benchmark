@@ -1,2 +1,2 @@
-Don't eliminate debug info instructions (#9860)
-e9cc1f671471692ed25e49aae2da310b775fc630
+Add missing constant folding for fp8/bf16. (#9863)
+f718c7c8bf57fc5522ea9b377d48092109c33836
