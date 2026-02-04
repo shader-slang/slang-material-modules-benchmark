@@ -1,2 +1,2 @@
-Don't rewrite entrypoint `in` to `borrow` during ir lowering. (#9869)
-8dc2705f706ddf84696eab7f41d9c2c3f78c258e
+Language reference: improve introduction, add behavior classes, typographical conventions (#9732)
+c3ad80cd908804bb508c9e0edbee1b0ab74bcb0d
