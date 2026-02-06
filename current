@@ -1,2 +1,2 @@
-Refactor GCC/Clang compiler output parsing (#9874)
-a83a63bcb6292c540d1b8ac8782a15605457a064
+Fix internal error in getTypeNameHint for generic texture types (#9803) (#9902)
+18b939056d8dd5571c76da05b2e60dc134a14708
