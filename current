@@ -1,2 +1,2 @@
-Include slang-glslang.pdb in debug-info package (#9922)
-950715b2cfc1a19a6c7cea47c012ba3a95676543
+neural slang: expose Layout as generic parameter (#9915)
+eaa54ed384190ba720fb273c294f062ce20d12f0
