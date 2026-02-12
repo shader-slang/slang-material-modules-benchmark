@@ -1,2 +1,2 @@
-Add wrapper script for local coverage runs (#9898)
-f860761f984f6f273b85d21ae09f20d7177b7ce7
+Add atomic_reduce intrinsic for cuda target(#9969)
+75e0c71197f11009739d614d2b9d607a9dcb1ee9
