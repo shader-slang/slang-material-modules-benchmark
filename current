@@ -1,2 +1,2 @@
-Add atomic_reduce intrinsic for cuda target(#9969)
-75e0c71197f11009739d614d2b9d607a9dcb1ee9
+Add cache restore for use-local-sccache in container workflow (#9990)
+8d37bd0fb25bc2dfc64a151e2d9b67296dcd1a56
