@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1770649702150,
+  "lastUpdate": 1770883905887,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -77971,6 +77971,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1875.0874999999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "39f13f1f1334b3ab10ef29d879a01afbeb9beb5e",
+          "message": "Add atomic_reduce intrinsic for cuda target(#9969)\n\nhttps://github.com/shader-slang/slang/commit/75e0c71197f11009739d614d2b9d607a9dcb1ee9",
+          "timestamp": "2026-02-12T00:11:28-08:00",
+          "tree_id": "18ba9ede7c4522ec5a01656118cb968045742133",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/39f13f1f1334b3ab10ef29d879a01afbeb9beb5e"
+        },
+        "date": 1770883900019,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2297.264375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 758.525,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 759.266875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2244.8499999999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 754.3312499999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 753.559375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1156.7237499999999,
             "unit": "milliseconds"
           }
         ]
