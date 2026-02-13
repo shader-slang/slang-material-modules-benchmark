@@ -1,2 +1,2 @@
-Fix lambda expr capture logic. (#9992)
-bc3bbf889f756f9cfd44f43c76128df6b99864c6
+Add diagnostic tests for __ref/__constref interface params in dynamic dispatch (#9909)
+e3d5e4256177e5e77edac5a9ee07f14b47d21d66
