@@ -1,2 +1,2 @@
-Add diagnostic tests for __ref/__constref interface params in dynamic dispatch (#9909)
-e3d5e4256177e5e77edac5a9ee07f14b47d21d66
+Language reference: program execution and divergence/reconvergence (#9960)
+e78d03a3c330ba407821efd08ad1f0b3de6a500e
