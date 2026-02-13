@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1770948002175,
+  "lastUpdate": 1770959460067,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -78427,6 +78427,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1869.2512499999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "29dcd3eb456da5f02e0c45683f4d907d3282ee72",
+          "message": "Add tests for circular interface conformance in dynamic dispatch (#9911)\n\nhttps://github.com/shader-slang/slang/commit/ba1a4b326de8b390803d4469ffa834fb707aec67",
+          "timestamp": "2026-02-12T21:10:44-08:00",
+          "tree_id": "10c277deb437ea3ab567824df9996db0118a3f69",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/29dcd3eb456da5f02e0c45683f4d907d3282ee72"
+        },
+        "date": 1770959454355,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2297.81375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 764.058125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 766.36875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2269.705,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 760.0943749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 758.8368750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1164.6206249999998,
             "unit": "milliseconds"
           }
         ]
