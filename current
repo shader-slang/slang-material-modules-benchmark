@@ -1,2 +1,2 @@
-Add tests for generic specialization with associated type of existential (error 33180) (#9935)
-adb73326a509f1b6e89bb645979a856c32f2a439
+Add tests for circular interface conformance in dynamic dispatch (#9911)
+ba1a4b326de8b390803d4469ffa834fb707aec67
