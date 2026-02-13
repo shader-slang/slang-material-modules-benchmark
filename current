@@ -1,2 +1,2 @@
-Add tests for [Specialize] interface dynamic dispatch error: 52008 (#9930)
-ae33f43e4c23c683895888b997150a7a2a1c9161
+Add tests for generic specialization with associated type of existential (error 33180) (#9935)
+adb73326a509f1b6e89bb645979a856c32f2a439
