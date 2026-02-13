@@ -1,2 +1,2 @@
-Reduce sccache local cache size to 2G (#10002)
-cd26b40318252684e492fa6f709cfb75fb6a35e5
+Add tests for [Specialize] interface dynamic dispatch error: 52008 (#9930)
+ae33f43e4c23c683895888b997150a7a2a1c9161
