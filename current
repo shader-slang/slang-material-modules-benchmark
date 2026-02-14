@@ -1,2 +1,2 @@
-Support relaxed coopmat conversions in coop_mat_2. (#9994)
-2942719f1cf5676e60af7d615963ac2f0ce20d74
+Ensure generated getters of optional operands don't crash (#10019)
+4724809ccdb34b3e328d1eeb2fbf2ff88d8f5b94
