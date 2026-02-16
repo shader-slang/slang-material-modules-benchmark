@@ -1,2 +1,2 @@
-Require colon after prefix in diagnostic annotation tests (#10035)
-af57b50eec03ccee3769ee9bd78224d457d8f8cf
+Include lz4 and miniz dependencies in WASM C++ libs package (#9818)
+4dc5364e3e439b39161fb0de9bc56d36657273ec
