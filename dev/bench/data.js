@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1771239972486,
+  "lastUpdate": 1771251819890,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -78940,6 +78940,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1858.5118749999997,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "052716370184c6963f987449b4dea81e927c597f",
+          "message": "Include lz4 and miniz dependencies in WASM C++ libs package (#9818)\n\nhttps://github.com/shader-slang/slang/commit/4dc5364e3e439b39161fb0de9bc56d36657273ec",
+          "timestamp": "2026-02-16T06:23:26-08:00",
+          "tree_id": "636af0024c835f9e0e459d5b6bae3fa5389b3607",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/052716370184c6963f987449b4dea81e927c597f"
+        },
+        "date": 1771251814973,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2286.3424999999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 761.3193749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 758.52,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2263.416875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 756.603125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 755.35375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1171.529375,
             "unit": "milliseconds"
           }
         ]
