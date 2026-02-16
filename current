@@ -1,2 +1,2 @@
-Ensure generated getters of optional operands don't crash (#10019)
-4724809ccdb34b3e328d1eeb2fbf2ff88d8f5b94
+remove unused diagnostics (#10012)
+7ffb51d75e7a9668919aabced2b6e65818e37e73
