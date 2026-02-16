@@ -1,2 +1,2 @@
-Improve diagnostic testing infrastructure (#10033)
-b0a623efaa11c32867b07e60f7d76d68bd4b2ccf
+Require colon after prefix in diagnostic annotation tests (#10035)
+af57b50eec03ccee3769ee9bd78224d457d8f8cf
