@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1771234705494,
+  "lastUpdate": 1771239972486,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -78883,6 +78883,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1873.4056250000003,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "24ecf0de2d9bc1389567fe96d4421d0a8a52c892",
+          "message": "Require colon after prefix in diagnostic annotation tests (#10035)\n\nhttps://github.com/shader-slang/slang/commit/af57b50eec03ccee3769ee9bd78224d457d8f8cf",
+          "timestamp": "2026-02-16T03:05:56-08:00",
+          "tree_id": "4a722892454645785ab329480de0eddf869dcd50",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/24ecf0de2d9bc1389567fe96d4421d0a8a52c892"
+        },
+        "date": 1771239967294,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3942.5112499999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1235.078125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1231.59,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3900.4693749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1230.710625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1230.705625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1858.5118749999997,
             "unit": "milliseconds"
           }
         ]
