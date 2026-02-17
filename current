@@ -1,2 +1,2 @@
-Include lz4 and miniz dependencies in WASM C++ libs package (#9818)
-4dc5364e3e439b39161fb0de9bc56d36657273ec
+Simplify CodeRabbit configuration (#10025)
+0c484bf754ec3daa21ac96db3d91b20d0500540d
