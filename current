@@ -1,2 +1,2 @@
-clean disk space (#10016)
-a65b6a143487c5f603dccfec2cc8d109bb402ce2
+Diagnostics: Apply diagnostic settings early during option parsing (#10040)
+0ebbe5cf97b405cc037f8997b1ca0580a3c9a2cd
