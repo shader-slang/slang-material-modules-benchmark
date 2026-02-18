@@ -1,2 +1,2 @@
-Diagnostics: Apply diagnostic settings early during option parsing (#10040)
-0ebbe5cf97b405cc037f8997b1ca0580a3c9a2cd
+Add tests for associated type access through dynamic dispatch (#9883) (#10005)
+f95c6042968500d7da4d9dfb82fac673c28eac5d
