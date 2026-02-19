@@ -1,2 +1,2 @@
-Don't perform address elimination on user-pointers (#10077)
-0b0a63bf1b1f6d760a9d148ed65353de0b19f009
+Fix defaultConstruct of DescriptorHandler (#10064)
+ebfe4dbaa81b9221f6536a9da598a92f582afd45
