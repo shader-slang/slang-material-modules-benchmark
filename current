@@ -1,2 +1,2 @@
-dynamic dispatch: add test for interface pointer field in implementation (#9836) (#9901)
-a93e7e6f0ed8b7dea2d4c46dac93637d450de9c9
+Unwrap ParameterBlock with ResourceType in type legalization (#9938)
+eb0e3de3928325ba4b2b975ea69f5244eb62076d
