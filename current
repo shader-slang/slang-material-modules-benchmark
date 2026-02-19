@@ -1,2 +1,2 @@
-Update SPIRV-Tools and SPIRV-Headers to latest versions (#10062)
-692500e709b0b6f7b936e834a62b1766d7c6e831
+Don't perform address elimination on user-pointers (#10077)
+0b0a63bf1b1f6d760a9d148ed65353de0b19f009
