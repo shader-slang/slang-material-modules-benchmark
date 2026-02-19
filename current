@@ -1,2 +1,2 @@
-Fix VMOp::CallExt to look at right operand for function name (#10057)
-c863e106d52a9580fe4d8ee6b3563165bc583588
+Update SPIRV-Tools and SPIRV-Headers to latest versions (#10062)
+692500e709b0b6f7b936e834a62b1766d7c6e831
