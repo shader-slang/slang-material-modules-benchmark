@@ -1,2 +1,2 @@
-Add tests for associated type access through dynamic dispatch (#9883) (#10005)
-f95c6042968500d7da4d9dfb82fac673c28eac5d
+dynamic dispatch: add test for interface pointer field in implementation (#9836) (#9901)
+a93e7e6f0ed8b7dea2d4c46dac93637d450de9c9
