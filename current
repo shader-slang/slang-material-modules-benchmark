@@ -1,2 +1,2 @@
-Unwrap ParameterBlock with ResourceType in type legalization (#9938)
-eb0e3de3928325ba4b2b975ea69f5244eb62076d
+Fix VMOp::CallExt to look at right operand for function name (#10057)
+c863e106d52a9580fe4d8ee6b3563165bc583588
