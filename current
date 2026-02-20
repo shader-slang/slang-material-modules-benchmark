@@ -1,2 +1,2 @@
-Bindless migration (#10017)
-db7cd04d3134757d01aea29875fbcd9dafaa33c8
+Fix garbage text in markdown help heading for template-expanded options (#10096)
+74f1dc8f3b5cc6920c0cb994cbf0850ebcaa4c2b
