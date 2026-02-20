@@ -1,2 +1,2 @@
-Fix defaultConstruct of DescriptorHandler (#10064)
-ebfe4dbaa81b9221f6536a9da598a92f582afd45
+Do not generate output on compilation error (#10088)
+02e959409aa11ab702dd3e352c8310d141c5d1a9
