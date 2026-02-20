@@ -1,2 +1,2 @@
-Do not generate output on compilation error (#10088)
-02e959409aa11ab702dd3e352c8310d141c5d1a9
+Fix SPIR-V emit crash from void-typed debug variables in cleanUpVoidType (#10061)
+f3a61273bb8e1287231a3665fd4f709e7914bff4
