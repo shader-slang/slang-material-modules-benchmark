@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1771618669231,
+  "lastUpdate": 1771638741856,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -79909,6 +79909,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1165.536875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "1686f2b1d76d1892ae73bb41933f7573fb29f908",
+          "message": "Metal inline ray tracing support (#9926)\n\nhttps://github.com/shader-slang/slang/commit/cfe3537c480cbd1deefe02f00dd9eba3460f7a97",
+          "timestamp": "2026-02-20T17:52:05-08:00",
+          "tree_id": "cfdd0feae3834d11623079536ed0a2363864ea77",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/1686f2b1d76d1892ae73bb41933f7573fb29f908"
+        },
+        "date": 1771638735222,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3942.36125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1238.0043749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1244.0462500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3937.0225000000014,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1239.878125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1240.381875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1893.6087499999999,
             "unit": "milliseconds"
           }
         ]
