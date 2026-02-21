@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1771640786344,
+  "lastUpdate": 1771655124333,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -80023,6 +80023,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1186.429375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "0bdd001e086493739908543099b9d13a32f2aa6f",
+          "message": "Fix underflow in rounding in type layout reflection in 32-bit builds (#10118)\n\nhttps://github.com/shader-slang/slang/commit/562fa67c3eae1447493e301269a86969313a3601",
+          "timestamp": "2026-02-20T22:25:10-08:00",
+          "tree_id": "994c89308891687e4071cc3463979594c9b9009d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/0bdd001e086493739908543099b9d13a32f2aa6f"
+        },
+        "date": 1771655118933,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2283.4762499999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 772.155625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 772.0456249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2262.7174999999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 769.5374999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 769.200625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1181.9225000000001,
             "unit": "milliseconds"
           }
         ]
