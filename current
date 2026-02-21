@@ -1,2 +1,2 @@
-Metal inline ray tracing support (#9926)
-cfe3537c480cbd1deefe02f00dd9eba3460f7a97
+Cut slang build time in half with precompiled headers (#9892)
+df4e4d2509138b42a194c5e93d6cae2cb0c14594
