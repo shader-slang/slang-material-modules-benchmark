@@ -1,2 +1,2 @@
-Cut slang build time in half with precompiled headers (#9892)
-df4e4d2509138b42a194c5e93d6cae2cb0c14594
+Fix underflow in rounding in type layout reflection in 32-bit builds (#10118)
+562fa67c3eae1447493e301269a86969313a3601
