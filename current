@@ -1,2 +1,2 @@
-Ensure temporary DiagnosticSinks inherit parent configuration (#10137)
-82ba0ff77bccddcafcefa2cc93895baac0702e1f
+Improve machine-readable diagnostic formatting (#10134)
+4d868e40b7886e060aa5ae5a46e0c2170417e52f
