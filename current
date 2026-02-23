@@ -1,2 +1,2 @@
-Improve machine-readable diagnostic formatting (#10134)
-4d868e40b7886e060aa5ae5a46e0c2170417e52f
+Improve CI disk space cleanup with more directories and better logging (#10142)
+de4c23b6c597b3599685c6b40585c16e6ebe648f
