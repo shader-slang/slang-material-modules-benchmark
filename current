@@ -1,2 +1,2 @@
-Error when non-exhaustive diagnostic test mode is unnecessary (#10140)
-5cc40e65e9ff5cd216969efad0fb66cc602e7a22
+Add support for mold linker diagnostic parsing (#10141)
+a8db0d0c721535fd8a218a2ad61fbbe917bc59fc
