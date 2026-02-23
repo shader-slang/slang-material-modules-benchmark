@@ -1,2 +1,2 @@
-Fix incorrect SLANG_RETURN_ON_FAIL usage in slang-test (#10138)
-63a13a38fe4b56520c9dda114674e698ecc1ce41
+Error when non-exhaustive diagnostic test mode is unnecessary (#10140)
+5cc40e65e9ff5cd216969efad0fb66cc602e7a22
