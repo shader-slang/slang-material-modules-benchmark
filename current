@@ -1,2 +1,2 @@
-Improve diagnostic annotation span handling in test framework (#10132)
-73d29c2ca5da1fa24b04d9577ed62fec35feeb06
+Ensure temporary DiagnosticSinks inherit parent configuration (#10137)
+82ba0ff77bccddcafcefa2cc93895baac0702e1f
