@@ -1,2 +1,2 @@
-Fix underflow in rounding in type layout reflection in 32-bit builds (#10118)
-562fa67c3eae1447493e301269a86969313a3601
+Fix incorrect SLANG_RETURN_ON_FAIL usage in slang-test (#10138)
+63a13a38fe4b56520c9dda114674e698ecc1ce41
