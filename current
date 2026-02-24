@@ -1,2 +1,2 @@
-Fix case-insensitive anchor ID collision in markdown help output (#10095)
-fa1f248dd9a84e69eda6a93a041a57bde38d8356
+Store hyperlinks as structured data to fix formatting in help output (#9939)
+296eee770ea1235597f24d41c0eed181f928102a
