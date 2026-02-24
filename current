@@ -1,2 +1,2 @@
-remove all the usage of pointer to shared memory (#10093)
-f017e405a52ad96059c20f1cc82fea5dc8309f48
+Improve release-note.sh with auto-detection and help option (#10194)
+cbeb97d4516844fb6465c5a58f8f6d72fef61a3d
