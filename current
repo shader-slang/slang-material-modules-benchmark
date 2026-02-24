@@ -1,2 +1,2 @@
-Store hyperlinks as structured data to fix formatting in help output (#9939)
-296eee770ea1235597f24d41c0eed181f928102a
+Fix SPIR-V NonUniform index decoration for NonUniformResourceIndex (#9871)
+a6fc2b5b169f568fc8b2d45f4ae4d93e1c3b333a
