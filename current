@@ -1,2 +1,2 @@
-Fix SPIR-V NonUniform index decoration for NonUniformResourceIndex (#9871)
-a6fc2b5b169f568fc8b2d45f4ae4d93e1c3b333a
+Add -explicit-test-order option to slang-test (#10184)
+939b4266261af77c2cdb20e0702fe2be98a60018
