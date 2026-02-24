@@ -1,2 +1,2 @@
-Add dynamic dispatch tests for special interface members (#9887) (#10112)
-036089817b675866c3a369eac5d01afafefa86fe
+Fix case-insensitive anchor ID collision in markdown help output (#10095)
+fa1f248dd9a84e69eda6a93a041a57bde38d8356
