@@ -1,2 +1,2 @@
-flush stdout in slang-test after dry run (#10208)
-ed97591062fd87f048d5fe3df5b4bafa51c257ed
+Add tests for dynamic dispatch returning interface types (#9840) (#10173)
+e459ea7117c8583d8efaaa7c6172c93562532ad2
