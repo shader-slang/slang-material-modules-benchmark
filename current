@@ -1,2 +1,2 @@
-Add -disable-retries option to slang-test and show synthesized tests as ignored when API unavailable (#10205)
-5d349fe0e17ea32c78ff3b8c502cdeb6ce17b0c3
+LLVM 22.1 support (#10192)
+a31c8ec1b560fa67aca78a7942ca869ff374b094
