@@ -1,2 +1,2 @@
-LLVM 22.1 support (#10192)
-a31c8ec1b560fa67aca78a7942ca869ff374b094
+flush stdout in slang-test after dry run (#10208)
+ed97591062fd87f048d5fe3df5b4bafa51c257ed
