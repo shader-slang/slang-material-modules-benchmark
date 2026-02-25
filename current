@@ -1,2 +1,2 @@
-Add tests for dynamic dispatch returning interface types (#9840) (#10173)
-e459ea7117c8583d8efaaa7c6172c93562532ad2
+Add test for [mutating] methods through dynamic dispatch (#9919) (#10193)
+fdfa7109346baaa1f1acc4111a1f26f782cb5d16
