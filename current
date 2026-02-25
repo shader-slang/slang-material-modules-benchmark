@@ -1,2 +1,2 @@
-Add test for [mutating] methods through dynamic dispatch (#9919) (#10193)
-fdfa7109346baaa1f1acc4111a1f26f782cb5d16
+Support SPV_EXT_descriptor_heap. (#10177)
+7ea9c52812c7da4c36ae948e7116f819b0526928
