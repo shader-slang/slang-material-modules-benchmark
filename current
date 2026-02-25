@@ -1,2 +1,2 @@
-Improve release-note.sh with auto-detection and help option (#10194)
-cbeb97d4516844fb6465c5a58f8f6d72fef61a3d
+Add -disable-retries option to slang-test and show synthesized tests as ignored when API unavailable (#10205)
+5d349fe0e17ea32c78ff3b8c502cdeb6ce17b0c3
