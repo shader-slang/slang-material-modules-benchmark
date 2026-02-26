@@ -1,2 +1,2 @@
-neural.slang: Fix the shared memory race-condition issue (#10224)
-e3053c3bfc5421f613e89572e3002701a87e209f
+Update Bot to reduce noise. Also add ability to run Claude PR Review automatically. (#10190)
+b61ae4cd76fbe239491a9ffc2a7b00635c32cb4b
