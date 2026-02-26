@@ -1,2 +1,2 @@
-Implement HitObject.GetRayTCurrent for OptiX backend (#10101)
-c2790613cb16c7aba30628db701310ac17bd05ef
+Use GitHub Actions cache for sccache, add Windows support (#10227)
+217c3f32608608065be089a292dbfc9907b2ef1d
