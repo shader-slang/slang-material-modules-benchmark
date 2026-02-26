@@ -1,2 +1,2 @@
-enable get pointer on buffer for CUDA (#10162)
-368e7d25766d30c06d8222476656040a3ed92224
+Revert "Testing master branch protection"
+4d452971b215e96ae1641919ad52a80505c138e0
