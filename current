@@ -1,2 +1,2 @@
-Fix glibc-2.27 release build Docker API version mismatch (#10161)
-3e431359fb0c60bfee4940ae23cb9415c6fce996
+Add tests for generic interface dynamic dispatch (#10157)
+cdf8c0ae70bf1d256a7dcb7efe49a9511c997a94
