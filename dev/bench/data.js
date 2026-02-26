@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1772075243410,
+  "lastUpdate": 1772089533112,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -81334,6 +81334,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1154.710625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "79d911cc1f443d6c883cfa3a2c8f7686703705ea",
+          "message": "Update Bot to reduce noise. Also add ability to run Claude PR Review automatically. (#10190)\n\nhttps://github.com/shader-slang/slang/commit/b61ae4cd76fbe239491a9ffc2a7b00635c32cb4b",
+          "timestamp": "2026-02-25T23:05:17-08:00",
+          "tree_id": "e2df1377ada0a35dbda4f98dc90edb8455f81ff0",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/79d911cc1f443d6c883cfa3a2c8f7686703705ea"
+        },
+        "date": 1772089527667,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3840.3662499999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1199.6212500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1206.49125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3825.1612499999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1202.3631249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1200.661875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1815.091875,
             "unit": "milliseconds"
           }
         ]
