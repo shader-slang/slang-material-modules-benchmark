@@ -1,2 +1,2 @@
-Fix the parsing error on release-note.sh (#10007)
-fe86506ce198361b40452edae3846e3630a8b96a
+neural.slang: Fix the shared memory race-condition issue (#10224)
+e3053c3bfc5421f613e89572e3002701a87e209f
