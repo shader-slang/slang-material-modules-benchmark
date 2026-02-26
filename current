@@ -1,2 +1,2 @@
-Add tests for generic interface dynamic dispatch (#10157)
-cdf8c0ae70bf1d256a7dcb7efe49a9511c997a94
+Implement HitObject.GetRayTCurrent for OptiX backend (#10101)
+c2790613cb16c7aba30628db701310ac17bd05ef
