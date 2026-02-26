@@ -1,2 +1,2 @@
-Support SPV_EXT_descriptor_heap. (#10177)
-7ea9c52812c7da4c36ae948e7116f819b0526928
+Fix the parsing error on release-note.sh (#10007)
+fe86506ce198361b40452edae3846e3630a8b96a
