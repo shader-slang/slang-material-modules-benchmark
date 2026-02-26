@@ -1,2 +1,2 @@
-Use GitHub Actions cache for sccache, add Windows support (#10227)
-217c3f32608608065be089a292dbfc9907b2ef1d
+CI analytics: filter OS charts to real platforms only (#10219)
+acbf40392f161c68a24f22705c183988fb01c0a0
