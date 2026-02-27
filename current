@@ -1,2 +1,2 @@
-Add disabled diagnostic test for ref accessor returning interface type (#10245)
-ca7a003c4c44f48ea4c44e67ce19cba197478bb5
+neural: Fix a sync issue (#10281)
+48d73cd2bbed431eaf2c5e47d9901e7d4d84d833
