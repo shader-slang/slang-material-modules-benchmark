@@ -1,2 +1,2 @@
-Add Android build presets and documentation for cross-compilation (#9805)
-a9b84c93973e822b262ec29dfff001974eac0584
+Add -only-api-detection option to slang-test (#10288)
+adb2b0f1a819dd79dc3c35de6dd03a3b0a70592a
