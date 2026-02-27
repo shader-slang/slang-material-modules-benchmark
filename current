@@ -1,2 +1,2 @@
-Fix #10092: empty ray payload struct generates invalid CUDA code (#10100)
-dde23d4d6a78840a5310a19d12c3e5a36f4ebb70
+Remove Copilot Coding Assistant setup workflow (#10269)
+62035f5366ab7b68b7cecb399cdf036d4d06cddb
