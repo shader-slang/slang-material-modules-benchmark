@@ -1,2 +1,2 @@
-Fix sccache installation on Windows and Linux (#10287)
-90ed8733a2d605f00e912744388ff922d56a79e1
+Add SLANG_USE_SCCACHE option for local sccache builds (#10238)
+4d57f379d6f68f4aff899c9bb4c080ed283b0d25
