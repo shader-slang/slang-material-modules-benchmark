@@ -1,2 +1,2 @@
-Add tests for This return type with dynamic dispatch (#10152)
-2b4d9f13701fee907db852343c6786b73f9fb86f
+Emit error 52008 when [Specialize] interface requires dynamic dispatch (#9933)
+03dc50911546931f64faeb68200387bad28e4e17
