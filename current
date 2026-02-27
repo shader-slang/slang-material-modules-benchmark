@@ -1,2 +1,2 @@
-Emit error 52008 when [Specialize] interface requires dynamic dispatch (#9933)
-03dc50911546931f64faeb68200387bad28e4e17
+Fix scenario where type coerce constraints were not erroring (#9628)
+0a64f3e473db5d52df6b15e3ffced6ab07c748f8
