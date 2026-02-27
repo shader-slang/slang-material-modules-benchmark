@@ -1,2 +1,2 @@
-Add -only-api-detection option to slang-test (#10288)
-adb2b0f1a819dd79dc3c35de6dd03a3b0a70592a
+Fix CI health workflow: use PAT instead of invalid administration permission (#10292)
+99ae88a13f62e81062cb4600198dc2fa8f23087b
