@@ -1,2 +1,2 @@
-Fix CI health workflow: use PAT instead of invalid administration permission (#10292)
-99ae88a13f62e81062cb4600198dc2fa8f23087b
+Add disabled diagnostic test for ref accessor returning interface type (#10245)
+ca7a003c4c44f48ea4c44e67ce19cba197478bb5
