@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1772174269462,
+  "lastUpdate": 1772176442354,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -81961,6 +81961,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1176.143125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "72905f43c53a16fc48827acf264287a1c5e92dbf",
+          "message": "Remove Copilot Coding Assistant setup workflow (#10269)\n\nhttps://github.com/shader-slang/slang/commit/62035f5366ab7b68b7cecb399cdf036d4d06cddb",
+          "timestamp": "2026-02-26T23:13:49-08:00",
+          "tree_id": "1d4294bdf8ff0417633b2b9c080ccba6abd27663",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/72905f43c53a16fc48827acf264287a1c5e92dbf"
+        },
+        "date": 1772176436936,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2296.131875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 769.5175000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 770.9368749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2277.4924999999994,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 769.5537500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 767.7806250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1175.804375,
             "unit": "milliseconds"
           }
         ]
