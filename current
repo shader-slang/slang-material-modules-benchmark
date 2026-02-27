@@ -1,2 +1,2 @@
-Master branch setup test (#10277)
-2ddf420869fdad04dd5eaa4a6c7f1a9c58543389
+Emit diagnostic for __ref/__constref params with interface types in dynamic dispatch (#9908)
+b96ca2c9bc8e795d392423aaf7561a5b868cb187
