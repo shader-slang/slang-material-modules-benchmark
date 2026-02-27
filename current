@@ -1,2 +1,2 @@
-Emit diagnostic for __ref/__constref params with interface types in dynamic dispatch (#9908)
-b96ca2c9bc8e795d392423aaf7561a5b868cb187
+Fix #10092: empty ray payload struct generates invalid CUDA code (#10100)
+dde23d4d6a78840a5310a19d12c3e5a36f4ebb70
