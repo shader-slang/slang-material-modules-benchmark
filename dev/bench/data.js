@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1772209628705,
+  "lastUpdate": 1772214551885,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -82417,6 +82417,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1164.763125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "f3a2c3209f3c50481fe9c5054fc6997fd76e7880",
+          "message": "Fix CI health workflow: use PAT instead of invalid administration permission (#10292)\n\nhttps://github.com/shader-slang/slang/commit/99ae88a13f62e81062cb4600198dc2fa8f23087b",
+          "timestamp": "2026-02-27T09:48:56-08:00",
+          "tree_id": "76dca0d894f44b7a041784a996b9a14520788e61",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/f3a2c3209f3c50481fe9c5054fc6997fd76e7880"
+        },
+        "date": 1772214546215,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3856.4675,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1206.04375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1207.2387500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3821.555,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1204.3893750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1207.5181249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1829.9050000000002,
             "unit": "milliseconds"
           }
         ]
