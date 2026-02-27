@@ -1,2 +1,2 @@
-Add SLANG_USE_SCCACHE option for local sccache builds (#10238)
-4d57f379d6f68f4aff899c9bb4c080ed283b0d25
+Add Android build presets and documentation for cross-compilation (#9805)
+a9b84c93973e822b262ec29dfff001974eac0584
