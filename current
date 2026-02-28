@@ -1,2 +1,2 @@
-neural: Fix a sync issue (#10281)
-48d73cd2bbed431eaf2c5e47d9901e7d4d84d833
+Emit array stride for SPIRV descriptor heap. (#10297)
+eb4f759b598b52a84d8e68c4744a3852c34e0624
