@@ -1,2 +1,2 @@
-Emit array stride for SPIRV descriptor heap. (#10297)
-eb4f759b598b52a84d8e68c4744a3852c34e0624
+Replace `uint32_t` with `uint` in HLSL bitfield expansion (#10299)
+6128e511c77a2517e77826f8e2b4b5173ea0f332
