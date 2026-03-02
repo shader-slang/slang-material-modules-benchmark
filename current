@@ -1,2 +1,2 @@
-Migrate all diagnostics to lua based rich descriptions (#10125)
-747b6671a3e251807ede365b01ffb86b1c93c36c
+CI analytics: fix runner name prefixes for new VM naming (#10335)
+eb9ff2f1de2c45749aa719558f9c31c728297ecc
