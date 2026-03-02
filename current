@@ -1,2 +1,2 @@
-Add diagnostic tests for COM interface validation (#10229)
-6fce7abe7a006863052d52b2f8c21a898e946648
+Migrate all diagnostics to lua based rich descriptions (#10125)
+747b6671a3e251807ede365b01ffb86b1c93c36c
