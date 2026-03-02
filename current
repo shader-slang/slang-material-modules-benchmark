@@ -1,2 +1,2 @@
-Replace `uint32_t` with `uint` in HLSL bitfield expansion (#10299)
-6128e511c77a2517e77826f8e2b4b5173ea0f332
+Fix generic default values that depend on prior generic args (#10270)
+30ed25f20668e2e27a522d74b354f89d1b8ade27
