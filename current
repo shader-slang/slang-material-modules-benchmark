@@ -1,2 +1,2 @@
-Fix missing implicit `this` in generic method overload calls (#10329)
-16f2a5def2b8a99457ea600831554ef6a74faaed
+Fix crash and emit diagnostic for array return types from entry points (#10283)
+144baf59f347ca999fb7c3a042321d75de6ca990
