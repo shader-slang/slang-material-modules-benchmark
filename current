@@ -1,2 +1,2 @@
-Fix diagnose-global-interface-param test for rich diagnostics (#10336)
-bac8c5ee8e6d40842648f8cfb37e1497e761ef10
+Decouple SlangPy CI testing via cross-repo dispatch (#9900)
+ab70f7891568156655ebb3ba8bc120ac048ecb89
