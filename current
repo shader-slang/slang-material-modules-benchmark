@@ -1,2 +1,2 @@
-CI analytics: fix runner name prefixes for new VM naming (#10335)
-eb9ff2f1de2c45749aa719558f9c31c728297ecc
+Fix diagnose-global-interface-param test for rich diagnostics (#10336)
+bac8c5ee8e6d40842648f8cfb37e1497e761ef10
