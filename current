@@ -1,2 +1,2 @@
-Fix crash and emit diagnostic for array return types from entry points (#10283)
-144baf59f347ca999fb7c3a042321d75de6ca990
+Fix incorrect HLSL semantic index emission (#10337)
+7224ec573355173bf0d3f87e1cfd4066a10b72af
