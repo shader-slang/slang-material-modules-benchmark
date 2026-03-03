@@ -1,2 +1,2 @@
-Fix incorrect HLSL semantic index emission (#10337)
-7224ec573355173bf0d3f87e1cfd4066a10b72af
+neural.slang: Add TorchTensorVIewAddress type (#10226)
+4bf6bf66c16059da7f05b00e6b10a08440a5c13d
