@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1772586984075,
+  "lastUpdate": 1772597915720,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -83443,6 +83443,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1881.455625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "89a4677a9dcea0f2567cc71d27ebac3d576326af",
+          "message": "Fix missing stages for SV_Clip/CullDistance and SV_DeviceIndex (#10368)\n\nhttps://github.com/shader-slang/slang/commit/21f499dbb8f90237364b603b3ea849cabe0ee1a4",
+          "timestamp": "2026-03-03T20:18:19-08:00",
+          "tree_id": "08ce14fca981a9c4e3e19090640268d69ccb20ad",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/89a4677a9dcea0f2567cc71d27ebac3d576326af"
+        },
+        "date": 1772597909379,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3917.604375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1222.120625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1224.701875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3895.5625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1214.88125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1226.1143749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1852.735625,
             "unit": "milliseconds"
           }
         ]
