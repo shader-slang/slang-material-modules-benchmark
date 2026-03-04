@@ -1,2 +1,2 @@
-neural.slang: Add TorchTensorVIewAddress type (#10226)
-4bf6bf66c16059da7f05b00e6b10a08440a5c13d
+change package location of neural.slang (#10341)
+fe3f2779f47f433efb7f991082fe6e0538d5cc74
