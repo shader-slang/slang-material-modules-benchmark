@@ -1,2 +1,2 @@
-Accept float2 and float3 for SV_Position in semantic type validation (#10369)
-69e981f02a8650c4b723de7607a8509f5401f620
+Fix sizeof returning 0 for generic vector types (#10382)
+343ea8419852214fd4d0d46558e8f08c82943c56
