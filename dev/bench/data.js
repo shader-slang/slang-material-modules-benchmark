@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1772607363220,
+  "lastUpdate": 1772609889848,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -83614,6 +83614,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1872.2312499999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "c7f42c2dcf2267a824328ff14cac59fb0d653dfe",
+          "message": "Fix internal error when using ternary on specialization constant as groupshared array size in SPIR-V emit (#10361)\n\nhttps://github.com/shader-slang/slang/commit/d6a3e4dcb57614713aaddeb867e9e34c1127ad02",
+          "timestamp": "2026-03-03T23:37:52-08:00",
+          "tree_id": "5e30edca43354c37e70044a5faeb685429c1e10a",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/c7f42c2dcf2267a824328ff14cac59fb0d653dfe"
+        },
+        "date": 1772609884035,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2279.579375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 764.6187500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 765.5950000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2279.7775,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 759.8125000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 764.2487500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1167.41375,
             "unit": "milliseconds"
           }
         ]
