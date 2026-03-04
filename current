@@ -1,2 +1,2 @@
-Fix sign-extension corruption of non-ASCII bytes in slang-embed octal escapes (#10365)
-b7d750261bb8d72435dbe38545039f897d4d7da4
+Size optimization on non-msvc debug builds (#10374)
+be445c5524adec651b7c8fcc75ba977ddb864148
