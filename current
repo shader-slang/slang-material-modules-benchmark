@@ -1,2 +1,2 @@
-Restore SlangPy test jobs, make cross-repo dispatch manual-only (#10370)
-b90a473883b29239f62969749a7c70bb0f7cfa0e
+Fix internal error when using ternary on specialization constant as groupshared array size in SPIR-V emit (#10361)
+d6a3e4dcb57614713aaddeb867e9e34c1127ad02
