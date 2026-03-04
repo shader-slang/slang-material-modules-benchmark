@@ -1,2 +1,2 @@
-Auto-detect Unicode support in rich diagnostics based on terminal (#10363)
-2eeac7f194b177678646de8c620d35739f0d19a1
+Restore SlangPy test jobs, make cross-repo dispatch manual-only (#10370)
+b90a473883b29239f62969749a7c70bb0f7cfa0e
