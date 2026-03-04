@@ -1,2 +1,2 @@
-Size optimization on non-msvc debug builds (#10374)
-be445c5524adec651b7c8fcc75ba977ddb864148
+Fix sccache cross-contamination between debug and release builds (#10375)
+a0c3d3cf4bfc6f38d5b44aff165eb484c568ee7f
