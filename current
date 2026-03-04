@@ -1,2 +1,2 @@
-change package location of neural.slang (#10341)
-fe3f2779f47f433efb7f991082fe6e0538d5cc74
+Fix missing stages for SV_Clip/CullDistance and SV_DeviceIndex (#10368)
+21f499dbb8f90237364b603b3ea849cabe0ee1a4
