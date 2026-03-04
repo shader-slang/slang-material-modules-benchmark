@@ -1,2 +1,2 @@
-Fix sccache cross-contamination between debug and release builds (#10375)
-a0c3d3cf4bfc6f38d5b44aff165eb484c568ee7f
+Accept float2 and float3 for SV_Position in semantic type validation (#10369)
+69e981f02a8650c4b723de7607a8509f5401f620
