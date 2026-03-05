@@ -1,2 +1,2 @@
-Add PRs merged chart and GPU quota monitoring to CI analytics (#10400)
-91a0321efc9b517f452576e2d6a444d7f7932d40
+Fix crash when calling interface method through interface property (#10159)
+44c884190249da612ecf685893697f54493b0571
