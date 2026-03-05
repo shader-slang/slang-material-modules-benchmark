@@ -1,2 +1,2 @@
-Fix crash when calling interface method through interface property (#10159)
-44c884190249da612ecf685893697f54493b0571
+Add slangc compiler pipeline coverage metrics to nightly reports (#10397)
+c10a6e2e348b4ee96ce7406672b49b15762b0446
