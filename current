@@ -1,2 +1,2 @@
-Add slangc compiler pipeline coverage metrics to nightly reports (#10397)
-c10a6e2e348b4ee96ce7406672b49b15762b0446
+Add gcloud authentication to CI health workflow (#10408)
+b9f7830f6e02c48b4752dc6ff8c3d2e0917d6986
