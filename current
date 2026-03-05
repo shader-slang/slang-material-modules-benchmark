@@ -1,2 +1,2 @@
-Add support for UndefinedBehaviorSanitizer (UBSan) (#9981)
-1a8fd7f482847ad4005e4ec4a4f776ecfab6d8ca
+Add diagnostics for illegal type declarations (#10385)
+064e7da51ee7973e85f275ac1bb0bb3f372060b3
