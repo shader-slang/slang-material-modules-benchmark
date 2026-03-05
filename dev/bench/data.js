@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1772746647228,
+  "lastUpdate": 1772753898931,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -84469,6 +84469,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1183.416875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "72da9be5b2d761b43d6259f28647cd4b01afb23c",
+          "message": "Add gcloud authentication to CI health workflow (#10408)\n\nhttps://github.com/shader-slang/slang/commit/b9f7830f6e02c48b4752dc6ff8c3d2e0917d6986",
+          "timestamp": "2026-03-05T15:38:03-08:00",
+          "tree_id": "4316b45ecd401887c4e7c327ec6874ad7cd572f3",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/72da9be5b2d761b43d6259f28647cd4b01afb23c"
+        },
+        "date": 1772753892153,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2363.8656249999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 781.256875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 781.96125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2287.4843749999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 779.7312499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 779.955625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1192.658125,
             "unit": "milliseconds"
           }
         ]
