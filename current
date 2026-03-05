@@ -1,2 +1,2 @@
-Fix sizeof returning 0 for generic vector types (#10382)
-343ea8419852214fd4d0d46558e8f08c82943c56
+Fix incorrect phi coalescing with `-obfuscate` option (#10342)
+e82d705d73aec2b4cfce30427b53efc29d5f1742
