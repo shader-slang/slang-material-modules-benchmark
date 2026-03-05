@@ -1,2 +1,2 @@
-Fix incorrect phi coalescing with `-obfuscate` option (#10342)
-e82d705d73aec2b4cfce30427b53efc29d5f1742
+Replace remaining direct option accesses with wrapper functions (#10332)
+fba63fac6ea8818958edf6534ea7e01ed7f8247c
