@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1772714844309,
+  "lastUpdate": 1772715361172,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -84298,6 +84298,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1935.8775,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "729ba0a6099410f18c1d2bea34cb05ca74566133",
+          "message": "Add PRs merged chart and GPU quota monitoring to CI analytics (#10400)\n\nhttps://github.com/shader-slang/slang/commit/91a0321efc9b517f452576e2d6a444d7f7932d40",
+          "timestamp": "2026-03-05T04:55:47-08:00",
+          "tree_id": "147840be91f14847dacaac9a6d8178ecdbc8d75c",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/729ba0a6099410f18c1d2bea34cb05ca74566133"
+        },
+        "date": 1772715355468,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2345.079375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 790.5443750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 791.98,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2328.583125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 790.3531249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 788.8699999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1207.90125,
             "unit": "milliseconds"
           }
         ]
