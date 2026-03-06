@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1772827289695,
+  "lastUpdate": 1772829561890,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -84754,6 +84754,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1862.661875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "33475b508c8855b694af883c79eb43d7527714e7",
+          "message": "Handle non-uniform `Conditional` vector layout in GLSL rules to unblock conditional resource declarations (#10389)\n\nhttps://github.com/shader-slang/slang/commit/cf44766bff4bc96d16869eb32665800939333918",
+          "timestamp": "2026-03-06T12:39:07-08:00",
+          "tree_id": "22e553b4038e949ca300aac2202e4cbed3f7d2ba",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/33475b508c8855b694af883c79eb43d7527714e7"
+        },
+        "date": 1772829555884,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2305.05875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 779.9037500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 778.785,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2285.861875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 775.8706250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 776.6068750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1187.908125,
             "unit": "milliseconds"
           }
         ]
