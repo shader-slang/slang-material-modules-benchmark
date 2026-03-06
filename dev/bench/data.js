@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1772753898931,
+  "lastUpdate": 1772795589891,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -84526,6 +84526,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1192.658125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "b5cb3921e1335416e7b5f8a359f7ff8376cfb4c6",
+          "message": "dynamic dispatch: add test for nested existentials in composite types  (#9839) (#10116)\n\nhttps://github.com/shader-slang/slang/commit/745c4d2b12c0d8b78ce2f50d115bedb3df334510",
+          "timestamp": "2026-03-06T03:12:56-08:00",
+          "tree_id": "a8ddec24ed49eb239a70249d7e399ec3cb23ba38",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/b5cb3921e1335416e7b5f8a359f7ff8376cfb4c6"
+        },
+        "date": 1772795584053,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2345.488125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 791.6762499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 793.1156250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2328.8075,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 787.819375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 789.6624999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1212.926875,
             "unit": "milliseconds"
           }
         ]
