@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1772830544973,
+  "lastUpdate": 1772833994685,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -84868,6 +84868,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1851.32375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "2c0609ad6f06d2c8e5b9ce2b6655d70e6ecd653c",
+          "message": "Fix glsl target error with ray reordering (#10358)\n\nhttps://github.com/shader-slang/slang/commit/9f5f70881ceb5653f2ba7b8351d17f3036d87dc9",
+          "timestamp": "2026-03-06T13:52:59-08:00",
+          "tree_id": "5cf5d82f4c531c2fe70ce059ee8c2cc6f5878e0f",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/2c0609ad6f06d2c8e5b9ce2b6655d70e6ecd653c"
+        },
+        "date": 1772833988780,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2295.00625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 774.9662500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 775.3456249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2285.4543750000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 773.0350000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 771.6099999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1185.403125,
             "unit": "milliseconds"
           }
         ]
