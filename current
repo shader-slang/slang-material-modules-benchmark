@@ -1,2 +1,2 @@
-Handle non-uniform `Conditional` vector layout in GLSL rules to unblock conditional resource declarations (#10389)
-cf44766bff4bc96d16869eb32665800939333918
+Fix type conformances not working on binary modules (#10392)
+57d87cede9fdd47097b2bec214bb6b6277f34719
