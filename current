@@ -1,2 +1,2 @@
-dynamic dispatch: add test for nested existentials in composite types  (#9839) (#10116)
-745c4d2b12c0d8b78ce2f50d115bedb3df334510
+Add tests for anyValueSize auto-inference in dynamic dispatch (#10319)
+4089b36c51f61d982eda4bc2bd118a5278457f7b
