@@ -1,2 +1,2 @@
-Fix ambiguous `==` comparison in Session destructor (#10416)
-d3337e35e0c1c7f5a018ebca3dd010b24ef705aa
+Handle non-uniform `Conditional` vector layout in GLSL rules to unblock conditional resource declarations (#10389)
+cf44766bff4bc96d16869eb32665800939333918
