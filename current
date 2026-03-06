@@ -1,2 +1,2 @@
-Add test coverage for ConstantBuffer/ParameterBlock with interface-typed elements (#10393)
-d27b803ae57c7b29d8097dc609edccb34e87c8ab
+Fix ambiguous `==` comparison in Session destructor (#10416)
+d3337e35e0c1c7f5a018ebca3dd010b24ef705aa
