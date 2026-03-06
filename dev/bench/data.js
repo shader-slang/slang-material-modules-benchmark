@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1772823711709,
+  "lastUpdate": 1772825108114,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -84640,6 +84640,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1176.2425,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "7592419035bedda68793ea0eb6929607a18678db",
+          "message": "Add test coverage for ConstantBuffer/ParameterBlock with interface-typed elements (#10393)\n\nhttps://github.com/shader-slang/slang/commit/d27b803ae57c7b29d8097dc609edccb34e87c8ab",
+          "timestamp": "2026-03-06T11:24:51-08:00",
+          "tree_id": "4a5edba03c56d4c26fe723d9634fb642373ab15f",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/7592419035bedda68793ea0eb6929607a18678db"
+        },
+        "date": 1772825101532,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2301.4606249999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 783.974375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 781.614375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2282.77625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 779.5331249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 779.1806249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1193.6331249999998,
             "unit": "milliseconds"
           }
         ]
