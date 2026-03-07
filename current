@@ -1,2 +1,2 @@
-Support variadic generic value parameters. (#10415)
-030903068595f93de6a84525c5a93d503a25dbee
+Guard MSVC-specific #pragma comment with _MSC_VER (#10412)
+868c15814531e3960c27f5a2f3f48cea5889dbfb
