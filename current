@@ -1,2 +1,2 @@
-Guard MSVC-specific #pragma comment with _MSC_VER (#10412)
-868c15814531e3960c27f5a2f3f48cea5889dbfb
+Allow external contributors to trigger Claude PR Review (#10268)
+ed9e7700c9c2e2de7568acd7bddba4f5ed85130d
