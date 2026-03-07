@@ -1,2 +1,2 @@
-Allow external contributors to trigger Claude PR Review (#10268)
-ed9e7700c9c2e2de7568acd7bddba4f5ed85130d
+Fix SLANG_ENABLE_ASAN CMake option and ASan-detected errors (#10354)
+f4a67a7e708e53b9b7b0084c2a8fb9b1bddd6209
