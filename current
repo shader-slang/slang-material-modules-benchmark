@@ -1,2 +1,2 @@
-Fix SLANG_ENABLE_ASAN CMake option and ASan-detected errors (#10354)
-f4a67a7e708e53b9b7b0084c2a8fb9b1bddd6209
+add enum field/return test coverage on dynamic dispatch (#10425)
+aa13debab97156e09a9f70d113b5e29c40444447
