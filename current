@@ -1,2 +1,2 @@
-Fix glsl target error with ray reordering (#10358)
-9f5f70881ceb5653f2ba7b8351d17f3036d87dc9
+Support variadic generic value parameters. (#10415)
+030903068595f93de6a84525c5a93d503a25dbee
