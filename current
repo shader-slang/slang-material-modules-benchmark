@@ -1,2 +1,2 @@
-add enum field/return test coverage on dynamic dispatch (#10425)
-aa13debab97156e09a9f70d113b5e29c40444447
+Add test coverage for dynamic dispatch through StructuredBuffer variants (#10377)
+d138e768f5b25d8189208105323464455d73b6ff
