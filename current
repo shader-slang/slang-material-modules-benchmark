@@ -1,2 +1,2 @@
-Add test coverage for dynamic dispatch through StructuredBuffer variants (#10377)
-d138e768f5b25d8189208105323464455d73b6ff
+Update Linux CI container Vulkan SDK to 1.4.341.1 (#10451)
+91d9eba98afe8127ac603899dbbb0d68bce95cd9
