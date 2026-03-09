@@ -1,2 +1,2 @@
-add array impl-field test coverage on dynamic dispatch (#10426)
-266611434f95e5825c6e8b6fa34f37aca5c8b4f7
+Add diagnostic tests for disallowed types in dynamic dispatch (#10422)
+eaa87c568ef4a3d35c8424c8e13dbb7247c50626
