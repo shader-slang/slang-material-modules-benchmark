@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1773161209315,
+  "lastUpdate": 1773181423437,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -85951,6 +85951,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1843.053125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "bafd525710486158685dd7d58737c08e490d2467",
+          "message": "Fix issue with custom derivatives that mutate differentiable pointer types (#10464)\n\nhttps://github.com/shader-slang/slang/commit/38b5b838552694de539e9e1c601f26c42198ff99",
+          "timestamp": "2026-03-10T15:23:29-07:00",
+          "tree_id": "c1d25de7408d8669a01e51ab0b3384171a788401",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/bafd525710486158685dd7d58737c08e490d2467"
+        },
+        "date": 1773181417516,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2323.3168750000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 775.51625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 776.515625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2288.779375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 774.7256250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 773.4706249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1186.599375,
             "unit": "milliseconds"
           }
         ]
