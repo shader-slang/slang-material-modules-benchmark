@@ -1,2 +1,2 @@
-Fix getLayout() crash on unspecialized generic entry points (#10436)
-1ab74a23dd5d04a5d48306897660a84491fa67f0
+Fix sizeof(Atomic<T>) returning 0 for intrinsic types (#10432)
+056b308cd73d2e6d476d73a3a5671278aa23107d
