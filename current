@@ -1,2 +1,2 @@
-Fix diagnostic rendering for no-source sections (#10410)
-61cd228a2370bcf76b0560ebb258c0d16443007a
+Fix torch prelude empty-tensor check for zero-numel shapes (#10401)
+b389635bf0c7955a4a4ff577082508bcd5a82dcd
