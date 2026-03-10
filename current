@@ -1,2 +1,2 @@
-Add getDeclSourceLocation to ISession for retrieving declaration source locations (#10437)
-99e2a4fa8cd90ed476046743fff984365d208f5f
+Fix issue with custom derivatives that mutate differentiable pointer types (#10464)
+38b5b838552694de539e9e1c601f26c42198ff99
