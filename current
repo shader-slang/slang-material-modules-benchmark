@@ -1,2 +1,2 @@
-Fix sizeof(Atomic<T>) returning 0 for intrinsic types (#10432)
-056b308cd73d2e6d476d73a3a5671278aa23107d
+Add getDeclSourceLocation to ISession for retrieving declaration source locations (#10437)
+99e2a4fa8cd90ed476046743fff984365d208f5f
