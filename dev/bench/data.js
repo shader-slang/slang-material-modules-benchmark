@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1773134563076,
+  "lastUpdate": 1773136811470,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -85723,6 +85723,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1191.3731249999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "bbb85259bd32c6b09b814c6853fa367542103e45",
+          "message": "Fix torch prelude empty-tensor check for zero-numel shapes (#10401)\n\nhttps://github.com/shader-slang/slang/commit/b389635bf0c7955a4a4ff577082508bcd5a82dcd",
+          "timestamp": "2026-03-10T02:59:54-07:00",
+          "tree_id": "88444146fdeb3bed9fe8ecaacf8cd966449120f8",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/bbb85259bd32c6b09b814c6853fa367542103e45"
+        },
+        "date": 1773136804082,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3862.8475000000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1216.159375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1214.550625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3827.404375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1226.620625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1220.26875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1845.84625,
             "unit": "milliseconds"
           }
         ]
