@@ -1,2 +1,2 @@
-Fix spurious StorageImageReadWithoutFormat capability for write-only textures (#10023)
-ad00e04566ea26be74387435cd5430d6d1d50918
+Dyn dispatch fix varying io (#10406)
+5cde9ea5ff3b6c657978de54d2241a86cb3528b1
