@@ -1,2 +1,2 @@
-Add test coverage for 8/16/64-bit types and vectors in dynamic dispatch (#10475)
-a055dd280635dd4e878c9192f0d3838157a15d86
+Update glslang to recognize new raytracing extensions (#10498)
+d2eed72cd14e0019fee65be2a52ed0254337d465
