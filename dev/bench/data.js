@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1773267178586,
+  "lastUpdate": 1773269654002,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -86350,6 +86350,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1872.6274999999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "c4b2ac0b9c3ec671a63f2a05559b24356567c540",
+          "message": "Fix spurious StorageImageReadWithoutFormat capability for write-only textures (#10023)\n\nhttps://github.com/shader-slang/slang/commit/ad00e04566ea26be74387435cd5430d6d1d50918",
+          "timestamp": "2026-03-11T15:53:58-07:00",
+          "tree_id": "9ae5ce6de5b2f06edccb4852d200e812be5ea763",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/c4b2ac0b9c3ec671a63f2a05559b24356567c540"
+        },
+        "date": 1773269647843,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3903.578125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1252.8462500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1253.3518750000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3909.4106250000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1273.7524999999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1253.468125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1964.5906249999998,
             "unit": "milliseconds"
           }
         ]
