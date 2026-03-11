@@ -1,2 +1,2 @@
-Fix issue with custom derivatives that mutate differentiable pointer types (#10464)
-38b5b838552694de539e9e1c601f26c42198ff99
+Fix conflicting GLSL extension requirements in HitObject methods (#10497)
+67816bce2191f0f1bdca7e90f70ef794583a38c3
