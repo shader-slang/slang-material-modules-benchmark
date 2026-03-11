@@ -1,2 +1,2 @@
-Fix conflicting GLSL extension requirements in HitObject methods (#10497)
-67816bce2191f0f1bdca7e90f70ef794583a38c3
+Support `nonempty` variadic pack constraints and pack operators. (#10444)
+955f2df246f4b8768b22f5f8404c2754da1f89a0
