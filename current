@@ -1,2 +1,2 @@
-Add test coverage for DescriptorHandle<T> fields in dynamic dispatch (#10472)
-174b75999f7a7f41df75cea56bc1d5ded90f485a
+Add nightly CI for Sascha Willems Vulkan Slang shaders (#10474)
+e4d533d0d921a9080df52460f190104e17060106
