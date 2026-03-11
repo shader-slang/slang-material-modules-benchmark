@@ -1,2 +1,2 @@
-Add nightly CI for Sascha Willems Vulkan Slang shaders (#10474)
-e4d533d0d921a9080df52460f190104e17060106
+Add test coverage for 8/16/64-bit types and vectors in dynamic dispatch (#10475)
+a055dd280635dd4e878c9192f0d3838157a15d86
