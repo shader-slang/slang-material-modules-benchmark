@@ -1,2 +1,2 @@
-Support `nonempty` variadic pack constraints and pack operators. (#10444)
-955f2df246f4b8768b22f5f8404c2754da1f89a0
+Add test coverage for DescriptorHandle<T> fields in dynamic dispatch (#10472)
+174b75999f7a7f41df75cea56bc1d5ded90f485a
