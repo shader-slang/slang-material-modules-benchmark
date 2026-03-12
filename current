@@ -1,2 +1,2 @@
-Suppress an abort dialog when an exception is thrown in an LLM workflow (#10495)
-be46b933d2b88b95c1c631c1e5354195ed301550
+Fix invalid SPIRV from `continue` inside `switch` inside `for` loop (#10301)
+775387beeaae384b82e0b12753461953ac429693
