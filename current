@@ -1,2 +1,2 @@
-Use D3DCOMPILE_SKIP_OPTIMIZATION for Maximal debug info with no optimization (#10507)
-c3f4b4c19768b4bbf5948c31be9724a29253044c
+Add custom derivatives for getOffset (#10499)
+312d479a57ea68698366c0d6c1d0ca4efe760b67
