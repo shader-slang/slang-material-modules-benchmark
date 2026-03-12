@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1773337997078,
+  "lastUpdate": 1773344579688,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -86806,6 +86806,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1228.529375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "0c34c93a0afadda4261ea2e3e16b25f7281fbce4",
+          "message": "Fix invalid SPIRV from `continue` inside `switch` inside `for` loop (#10301)\n\nhttps://github.com/shader-slang/slang/commit/775387beeaae384b82e0b12753461953ac429693",
+          "timestamp": "2026-03-12T12:42:44-07:00",
+          "tree_id": "b599b23ac68289988467cb4b6ca5eea3d2371213",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/0c34c93a0afadda4261ea2e3e16b25f7281fbce4"
+        },
+        "date": 1773344573326,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2330.405,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 795.1493749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 801.28,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2306.40375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 799.649375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 797.0856249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1227.2993750000003,
             "unit": "milliseconds"
           }
         ]
