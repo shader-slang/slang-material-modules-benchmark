@@ -1,2 +1,2 @@
-Dyn dispatch fix varying io (#10406)
-5cde9ea5ff3b6c657978de54d2241a86cb3528b1
+Override assertion behavior for SLANG_ASSERT_FAILURE (#10494)
+9b23d666b0003bc379ae495684431727fce7c619
