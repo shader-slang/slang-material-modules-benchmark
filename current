@@ -1,2 +1,2 @@
-Enable automatic SlangPy cross-repo dispatch on every PR (#10454)
-25e6d713d56edceb78591b0ebc250a8cb542e24c
+Suppress an abort dialog when an exception is thrown in an LLM workflow (#10495)
+be46b933d2b88b95c1c631c1e5354195ed301550
