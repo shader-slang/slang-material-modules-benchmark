@@ -1,2 +1,2 @@
-Override assertion behavior for SLANG_ASSERT_FAILURE (#10494)
-9b23d666b0003bc379ae495684431727fce7c619
+Use D3DCOMPILE_SKIP_OPTIMIZATION for Maximal debug info with no optimization (#10507)
+c3f4b4c19768b4bbf5948c31be9724a29253044c
