@@ -1,2 +1,2 @@
-Update SPIRV-Tools and SPIRV-Headers to latest versions (#10493)
-68dc111964b90b9efde84348fa28c483d7b59d74
+Add test for ancestor/descendant type-equality constraints (#10447)
+475396e4211a54ccef58a90785c0ad75eb5ab411
