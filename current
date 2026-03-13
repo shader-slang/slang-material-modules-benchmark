@@ -1,2 +1,2 @@
-Fix invalid SPIRV from `continue` inside `switch` inside `for` loop (#10301)
-775387beeaae384b82e0b12753461953ac429693
+Update SPIRV-Tools and SPIRV-Headers to latest versions (#10493)
+68dc111964b90b9efde84348fa28c483d7b59d74
