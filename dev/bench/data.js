@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1773391363399,
+  "lastUpdate": 1773552775957,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -86977,6 +86977,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1223.4,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "b48929aae60db99e324f25c5d7e05de0e1010c9d",
+          "message": "Follow up type-pack facet linearization (#10500)\n\nhttps://github.com/shader-slang/slang/commit/cfc706bf3c04ca038c08a915531646dde8f3a66a",
+          "timestamp": "2026-03-14T22:32:39-07:00",
+          "tree_id": "5aa085d407688d88303f62ed1a186166e51238bb",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/b48929aae60db99e324f25c5d7e05de0e1010c9d"
+        },
+        "date": 1773552769154,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3884.0631250000006,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1227.411875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1226.38625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3881.9325,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1227.0975,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1223.481875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1867.290625,
             "unit": "milliseconds"
           }
         ]
