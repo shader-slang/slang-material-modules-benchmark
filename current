@@ -1,2 +1,2 @@
-Add test for ancestor/descendant type-equality constraints (#10447)
-475396e4211a54ccef58a90785c0ad75eb5ab411
+Follow up type-pack facet linearization (#10500)
+cfc706bf3c04ca038c08a915531646dde8f3a66a
