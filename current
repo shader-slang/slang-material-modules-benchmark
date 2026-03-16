@@ -1,2 +1,2 @@
-Fix slangc coverage filter to exclude all language server files (#10530)
-f267cb77a09b0f4cf083a9585bc1ddb3744c310a
+Fix crash when using `sizeof()` in `static const` definition compiled to binary module (#10467)
+a3a528de7cb1bbb6b1eb6cb54673561a8724f49b
