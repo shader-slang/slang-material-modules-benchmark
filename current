@@ -1,2 +1,2 @@
-Fix SlangPy tests timing out in merge queue (#10534)
-e40b35c3984d0f2b0b890972f927fc3264d3a955
+Fix slangc coverage filter to exclude all language server files (#10530)
+f267cb77a09b0f4cf083a9585bc1ddb3744c310a
