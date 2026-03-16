@@ -1,2 +1,2 @@
-Dynamic Dispatch: add test coverage for vector and matrix fields in dynamic dispatch (#10468) (#10508)
-67a58ec9b6b42fc166d3628d1e8b623dea6c03d1
+Fix isParameterLocationUsed false for WGSL varying inputs (#10510)
+07000f590c6ace2c6a9cbcb7b20a87128e84f22e
