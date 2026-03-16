@@ -1,2 +1,2 @@
-Fix crash when using `sizeof()` in `static const` definition compiled to binary module (#10467)
-a3a528de7cb1bbb6b1eb6cb54673561a8724f49b
+Dynamic Dispatch: add test coverage for vector and matrix fields in dynamic dispatch (#10468) (#10508)
+67a58ec9b6b42fc166d3628d1e8b623dea6c03d1
