@@ -1,2 +1,2 @@
-Fix using wrong -O in docs for Optimisation level (#10303)
-41e62664518b398f694e12334355c016ced8eda4
+Add compile-only mode for backend coverage without GPU (#10524)
+d0ed98e7f326e38414bf9f9da16e606e622de0a1
