@@ -1,2 +1,2 @@
-Fix null Val* crash and improve CI GPU failure handling (#10535)
-d00b499df143923d49b722940078a8d757e06316
+Apply SLANG_BOOTSTRAP_IGNORE_ABORT_MSG to other build tools (#10574)
+bf8fc86fe4f314bda00972a17da8bad99df94a7e
