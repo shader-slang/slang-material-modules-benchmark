@@ -1,2 +1,2 @@
-Enable Slack notifications for Sascha Willems shader nightly CI (#10547)
-8cb0ddcdfe5899e1e3120338b3044d47f498c4ac
+Fix null Val* crash and improve CI GPU failure handling (#10535)
+d00b499df143923d49b722940078a8d757e06316
