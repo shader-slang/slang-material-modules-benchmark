@@ -1,2 +1,2 @@
-Add compile-only mode for backend coverage without GPU (#10524)
-d0ed98e7f326e38414bf9f9da16e606e622de0a1
+Propagate @SpecConst rate type for global constants derived from specialization constants (#10391)
+8c7c1cba4764244ba58cc48ae65883bc6e5110bc
