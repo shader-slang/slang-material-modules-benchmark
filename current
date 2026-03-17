@@ -1,2 +1,2 @@
-Fix isParameterLocationUsed false for WGSL varying inputs (#10510)
-07000f590c6ace2c6a9cbcb7b20a87128e84f22e
+Handle multiple blocks in isMemoryLocationUnmodifiedBetweenLoadAndUser (#10438)
+65552df0b388b8f09d9dedb47ef1ef9204f93dd3
