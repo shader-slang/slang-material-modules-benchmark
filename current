@@ -1,2 +1,2 @@
-Propagate @SpecConst rate type for global constants derived from specialization constants (#10391)
-8c7c1cba4764244ba58cc48ae65883bc6e5110bc
+Enable Slack notifications for Sascha Willems shader nightly CI (#10547)
+8cb0ddcdfe5899e1e3120338b3044d47f498c4ac
