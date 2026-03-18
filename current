@@ -1,2 +1,2 @@
-Add SYSLOG capability to CI containers for dmesg access (#10581)
-c22fe98869e43a058f701a5793cd30819001e39f
+Add sccache build documentation to CLAUDE.md (#10580)
+3b08bb39e9c45b09e8230348e7d331e456924f0d
