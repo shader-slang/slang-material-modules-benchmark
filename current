@@ -1,2 +1,2 @@
-Fix WGSL `@binding`/`@group` not emitted for resources when `-fvk-*-shift` options are used (#10465)
-bbb3d72a95659662ca51493a9dfdd84c672fd805
+Fix incorrect WGSL `@binding`/`@group` values for parameter groups when `-fvk-*-shift` options are used (#10466)
+7621b12efffd641c9676843ecb49b32d1611deaf
