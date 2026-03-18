@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1773831194284,
+  "lastUpdate": 1773849407249,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -87946,6 +87946,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1908.1125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "cb59ab23f5703f482457640cebbf6266b6df14a2",
+          "message": "Add SYSLOG capability to CI containers for dmesg access (#10581)\n\nhttps://github.com/shader-slang/slang/commit/c22fe98869e43a058f701a5793cd30819001e39f",
+          "timestamp": "2026-03-18T08:56:27-07:00",
+          "tree_id": "089af7bb64d0c5e09571b5ce314298f4cd63c919",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/cb59ab23f5703f482457640cebbf6266b6df14a2"
+        },
+        "date": 1773849400004,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3966.1462500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1250.71375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1249.9593749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3913.0650000000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1256.8212500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1245.774375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1902.89125,
             "unit": "milliseconds"
           }
         ]
