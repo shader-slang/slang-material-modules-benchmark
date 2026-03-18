@@ -1,2 +1,2 @@
-Fix incorrect spec-const rate propagation for mixed spec-const/runtime operands during IR cloning (#10575)
-5f9227cf6e5055b6a9ee742fdd729aab9162cf25
+Add SYSLOG capability to CI containers for dmesg access (#10581)
+c22fe98869e43a058f701a5793cd30819001e39f
