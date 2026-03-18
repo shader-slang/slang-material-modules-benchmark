@@ -1,2 +1,2 @@
-Add sccache build documentation to CLAUDE.md (#10580)
-3b08bb39e9c45b09e8230348e7d331e456924f0d
+Fix WGSL `@binding`/`@group` not emitted for resources when `-fvk-*-shift` options are used (#10465)
+bbb3d72a95659662ca51493a9dfdd84c672fd805
