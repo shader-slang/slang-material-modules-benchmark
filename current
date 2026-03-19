@@ -1,2 +1,2 @@
-Add tests for dyn interface qualifier (#10565)
-93e18caeb95fc12ee043150257aea4f68075b1e0
+Fix methods synthesized for interface conformance when they throw (#10577)
+3bd235061e869cac6d9abba61ac08b2936dbc607
