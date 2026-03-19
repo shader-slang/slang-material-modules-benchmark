@@ -1,2 +1,2 @@
-Add tests for dynamic dispatch edge cases (#10566)
-6822e29828526030fa00481fb6cf1bbbdab0cc90
+Remove/deprecate "struct" [bracket-attributes] "identifier" syntax (#10458)
+d6ddcafbc8223fecc10fdb530188af8dca9fe657
