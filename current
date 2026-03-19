@@ -1,2 +1,2 @@
-Add tests for uncovered dynamic dispatch diagnostics (#10564)
-fd0ff60aeed04edf0c91d7dcce014acb06b65d08
+Add tests for dyn interface qualifier (#10565)
+93e18caeb95fc12ee043150257aea4f68075b1e0
