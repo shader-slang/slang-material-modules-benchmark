@@ -1,2 +1,2 @@
-Fix incorrect WGSL `@binding`/`@group` values for parameter groups when `-fvk-*-shift` options are used (#10466)
-7621b12efffd641c9676843ecb49b32d1611deaf
+Add support for source in .slang.md files (#10554)
+9259b1f6dc81a518bea564d5fda90fd451f025be
