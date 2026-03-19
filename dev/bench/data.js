@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1773914840049,
+  "lastUpdate": 1773924878823,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -88402,6 +88402,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1198.9593750000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "20a40dc6e0cc4167ef686536b1e1475874f97ed7",
+          "message": "Add tests for AnyValue size edge cases in dynamic dispatch (#10567)\n\nhttps://github.com/shader-slang/slang/commit/5463cee07b0d0e3535105b2c263c79fcd5eef7b5",
+          "timestamp": "2026-03-19T05:54:21-07:00",
+          "tree_id": "0380cc3c101075901e65403c05f08a071065ace2",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/20a40dc6e0cc4167ef686536b1e1475874f97ed7"
+        },
+        "date": 1773924871616,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2482.9443750000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 808.838125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 803.650625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2404.165,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 806.0675,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 797.634375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1251.0175,
             "unit": "milliseconds"
           }
         ]
