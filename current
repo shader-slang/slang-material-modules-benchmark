@@ -1,2 +1,2 @@
-Add tests for AnyValue size edge cases in dynamic dispatch (#10567)
-5463cee07b0d0e3535105b2c263c79fcd5eef7b5
+Add diagnostic tests for generics: type packs and specialization errors (#10544)
+400024d549cfa467e3f6996cbe8339bfe5b26f43
