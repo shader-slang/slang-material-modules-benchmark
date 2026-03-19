@@ -1,2 +1,2 @@
-Fix methods synthesized for interface conformance when they throw (#10577)
-3bd235061e869cac6d9abba61ac08b2936dbc607
+Harden CI web fetches against transient HTTP failures (#10602)
+fb3fcb5e32861e16eb7929ceba396f0a900f82fc
