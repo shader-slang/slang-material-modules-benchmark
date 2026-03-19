@@ -1,2 +1,2 @@
-Add support for source in .slang.md files (#10554)
-9259b1f6dc81a518bea564d5fda90fd451f025be
+Extend slang.md support to module system __include (#10589)
+428cd9afc608e8903b1b7300c7621164a5fe86bf
