@@ -1,2 +1,2 @@
-Improve CoopVec tests with half-type support on TEST_INPUT (#10590)
-e1492eb9f74c43eb1abb33ed7aded2d7fd48bc1e
+Fix macOS coverage CI: add expected failure list for cross-dylib exception tests (#10613)
+e4a5a219d535dbdf138a313adcbc252a7a9d972f
