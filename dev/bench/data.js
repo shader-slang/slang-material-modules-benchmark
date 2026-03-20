@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1773966651469,
+  "lastUpdate": 1774011712024,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -88801,6 +88801,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1218.1650000000002,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "05edc2eb0c2da53bcbabc8ab8249bbfc74cc1798",
+          "message": "Fix macOS coverage CI: add expected failure list for cross-dylib exception tests (#10613)\n\nhttps://github.com/shader-slang/slang/commit/e4a5a219d535dbdf138a313adcbc252a7a9d972f",
+          "timestamp": "2026-03-20T06:01:35-07:00",
+          "tree_id": "52263693c2aa449c1aedf6cf95493ada8a4cffad",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/05edc2eb0c2da53bcbabc8ab8249bbfc74cc1798"
+        },
+        "date": 1774011705283,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4161.376875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1253.4693750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1234.93625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4001.126875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1248.861875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1243.3006249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1889.434375,
             "unit": "milliseconds"
           }
         ]
