@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1774023612118,
+  "lastUpdate": 1774028928241,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -89086,6 +89086,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1210.6637500000002,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "a6653bf906574cac28c06e0ff74202c1290c005c",
+          "message": "Fix spurious spvImageGatherExtended requirement from stdlib inverse() (#10620)\n\nhttps://github.com/shader-slang/slang/commit/186cc015ce332d767d48d637509e26d72e115c03",
+          "timestamp": "2026-03-20T10:48:33-07:00",
+          "tree_id": "1a9a39146976ebe47719680bdcc927c50bc7eac0",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/a6653bf906574cac28c06e0ff74202c1290c005c"
+        },
+        "date": 1774028921578,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2303.2187499999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 789.586875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 792.17125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2282.329375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 787.16625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 784.898125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1215.960625,
             "unit": "milliseconds"
           }
         ]
