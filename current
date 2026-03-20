@@ -1,2 +1,2 @@
-Fix spurious spvImageGatherExtended requirement from stdlib inverse() (#10620)
-186cc015ce332d767d48d637509e26d72e115c03
+Add `const` qualifier to `SessionDesc::compilerOptionEntries` (#10282)
+c2b8569e68255112c25c4e32c788ec63dfd399f8
