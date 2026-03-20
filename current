@@ -1,2 +1,2 @@
-Fix macOS coverage CI: add expected failure list for cross-dylib exception tests (#10613)
-e4a5a219d535dbdf138a313adcbc252a7a9d972f
+Improve PR review: parallel agents, richer findings, REVIEW.md protocol (#10504)
+66f8f8c1d4d86a221522354f45903b19c2fe22a6
