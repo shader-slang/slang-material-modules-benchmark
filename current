@@ -1,2 +1,2 @@
-Harden CI web fetches against transient HTTP failures (#10602)
-fb3fcb5e32861e16eb7929ceba396f0a900f82fc
+Improve CoopVec tests with half-type support on TEST_INPUT (#10590)
+e1492eb9f74c43eb1abb33ed7aded2d7fd48bc1e
