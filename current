@@ -1,2 +1,2 @@
-Add `const` qualifier to `SessionDesc::compilerOptionEntries` (#10282)
-c2b8569e68255112c25c4e32c788ec63dfd399f8
+Use Vulkan SDK loader in CI container and bump to v1.5.0 (#10618)
+fb5debbac6b2913ffbae7ef8578d0d236b418e70
