@@ -1,2 +1,2 @@
-Add diagnostic tests for generics: value parameters and constraint errors (#10543)
-116e6dfbf28a4ab249274f520b6c7c940be640eb
+Emit debug information for enum type variables (#9967)
+1965f6cd609014005652544903d8cf811d286320
