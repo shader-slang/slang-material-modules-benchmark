@@ -1,2 +1,2 @@
-Improve PR review: parallel agents, richer findings, REVIEW.md protocol (#10504)
-66f8f8c1d4d86a221522354f45903b19c2fe22a6
+Emit warnings for integer constant overflow in implicit conversions (#10430)
+36b08b5c3449b2857d686df1a123b6976bc28e7a
