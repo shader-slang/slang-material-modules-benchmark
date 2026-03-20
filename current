@@ -1,2 +1,2 @@
-Emit warnings for integer constant overflow in implicit conversions (#10430)
-36b08b5c3449b2857d686df1a123b6976bc28e7a
+Add diagnostic tests for generics: value parameters and constraint errors (#10543)
+116e6dfbf28a4ab249274f520b6c7c940be640eb
