@@ -1,2 +1,2 @@
-Emit debug information for enum type variables (#9967)
-1965f6cd609014005652544903d8cf811d286320
+Fix spurious spvImageGatherExtended requirement from stdlib inverse() (#10620)
+186cc015ce332d767d48d637509e26d72e115c03
