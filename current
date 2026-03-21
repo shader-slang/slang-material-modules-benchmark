@@ -1,2 +1,2 @@
-Support SM6.10 (#10559)
-548a89a1d9e5a7f529ce3dff701e889c067772ec
+Emit per-member DebugValue for optimized struct locals (#10541)
+ab001e5562d03fc4e4fee6afb2f3531ec698275d
