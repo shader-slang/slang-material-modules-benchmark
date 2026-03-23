@@ -1,2 +1,2 @@
-Remove runtime check of "-ignore-abort-msg" (#10637)
-8104e0276110a0878cc8038272a65e9724607491
+Fix CUDA codegen crash for getElementPtr on rate-qualified vector types (#10588)
+820b023d604ad1d591f84266f4b6bb0bfdb07a95
