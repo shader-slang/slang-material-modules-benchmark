@@ -1,2 +1,2 @@
-Add support for late capability checks (#10046)
-2536494a04f79bcba535bcef122a697873ee280d
+Suppress warnings related to unused variables in slang-check-expr.cpp (#10647)
+b215028ef5ec0ae5da8961b9ece37cde2a04f91c
