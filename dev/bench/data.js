@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1774289621315,
+  "lastUpdate": 1774298513806,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -89827,6 +89827,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1247.1831249999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "c6edcdf47cd00ebb4858c11651e81619bb63c593",
+          "message": "Fix CUDA codegen crash for getElementPtr on rate-qualified vector types (#10588)\n\nhttps://github.com/shader-slang/slang/commit/820b023d604ad1d591f84266f4b6bb0bfdb07a95",
+          "timestamp": "2026-03-23T13:41:37-07:00",
+          "tree_id": "8a83e6d5436addcc01335dcc0c64ba8a34572900",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/c6edcdf47cd00ebb4858c11651e81619bb63c593"
+        },
+        "date": 1774298506621,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2276.6756250000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 798.7075000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 797.9562499999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2256.315625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 793.505625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 793.6943749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1232.14875,
             "unit": "milliseconds"
           }
         ]
