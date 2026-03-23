@@ -1,2 +1,2 @@
-Allow enum-typed specialization constants (#10034)
-07fcf5e1ae2e36d10d74b0fce6c40bf68fd9fde6
+Clean up CI container: remove Mesa/GL packages, bump to v1.5.1 (#10646)
+0e9fd4f211fc9f07e608bd9dd6f920fe0cd1f2e1
