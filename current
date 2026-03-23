@@ -1,2 +1,2 @@
-Add CI check for stdlib-only Python in extras/ (#10414)
-52806e86bc73c0fbd8c1e1bb21aad31e6a17fce6
+Allow enum-typed specialization constants (#10034)
+07fcf5e1ae2e36d10d74b0fce6c40bf68fd9fde6
