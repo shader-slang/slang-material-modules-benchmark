@@ -1,2 +1,2 @@
-Add build script to help coding agents to build on windows. (#10636)
-ece7d79e6c3d2e65dd8b7bbdf648c68071766942
+Add support for late capability checks (#10046)
+2536494a04f79bcba535bcef122a697873ee280d
