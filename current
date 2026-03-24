@@ -1,2 +1,2 @@
-Fix CUDA codegen crash for getElementPtr on rate-qualified vector types (#10588)
-820b023d604ad1d591f84266f4b6bb0bfdb07a95
+Introduce a `slang` dispatcher tool (#10621)
+d11dc42c8aa37698aeca1f5867da63c5cd39e78f
