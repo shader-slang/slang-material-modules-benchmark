@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1774415804793,
+  "lastUpdate": 1774430276325,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -90112,6 +90112,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1223.1212499999997,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "457bef3a2bec5035a3138189620b6901484ab62b",
+          "message": "Add XID error diagnostics for silent GPU wedge failures (#10649)\n\nhttps://github.com/shader-slang/slang/commit/40f8b20354dacedbd9dd164cfa73fb6e6c39ac31",
+          "timestamp": "2026-03-25T02:17:41-07:00",
+          "tree_id": "569f46f97f0fc49957942dd6963a69181bfd421b",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/457bef3a2bec5035a3138189620b6901484ab62b"
+        },
+        "date": 1774430269656,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2269.010625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 786.5237500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 786.639375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2256.765625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 780.88,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 782.4737500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1214.4450000000002,
             "unit": "milliseconds"
           }
         ]
