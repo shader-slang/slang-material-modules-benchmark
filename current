@@ -1,2 +1,2 @@
-Enable GPU persistence mode on CI runners to prevent NVML corruption (#10659)
-8a8c065ec2fa69aeb42ea8aa5785f88e272d3813
+Fix `-warnings-disable` / `-warnings-as-errors` failing with "unknown diagnostic" for valid warning codes (#10585)
+2e7fc274cc85e3535ad3ce15234aedcd95c3cd24
