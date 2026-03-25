@@ -1,2 +1,2 @@
-Bump google.golang.org/grpc from 1.72.2 to 1.79.3 in /extras/scaler (#10591)
-91cd7c1514640280ad28f57256e75b919582078e
+Enable GPU persistence mode on CI runners to prevent NVML corruption (#10659)
+8a8c065ec2fa69aeb42ea8aa5785f88e272d3813
