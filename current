@@ -1,2 +1,2 @@
-Add XID error diagnostics for silent GPU wedge failures (#10649)
-40f8b20354dacedbd9dd164cfa73fb6e6c39ac31
+Bump google.golang.org/grpc from 1.72.2 to 1.79.3 in /extras/scaler (#10591)
+91cd7c1514640280ad28f57256e75b919582078e
