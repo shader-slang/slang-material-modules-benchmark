@@ -1,2 +1,2 @@
-Add symbolic shape-pack transforms for tile-style generic shapes (#10645)
-4010cb4cecb09fbc6e0eab131a0dc0a41347ab13
+Add XID error diagnostics for silent GPU wedge failures (#10649)
+40f8b20354dacedbd9dd164cfa73fb6e6c39ac31
