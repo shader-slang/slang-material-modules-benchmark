@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1774369156518,
+  "lastUpdate": 1774415804793,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -90055,6 +90055,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1211.6975,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "1d56e9c4de7b5e174fc6ea988cb952183a74403a",
+          "message": "Add symbolic shape-pack transforms for tile-style generic shapes (#10645)\n\nhttps://github.com/shader-slang/slang/commit/4010cb4cecb09fbc6e0eab131a0dc0a41347ab13",
+          "timestamp": "2026-03-24T22:16:24-07:00",
+          "tree_id": "cb079a41d24cdf1f4d082e6c2f06f1a6f5515482",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/1d56e9c4de7b5e174fc6ea988cb952183a74403a"
+        },
+        "date": 1774415798119,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2292.363125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 794.1256249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 791.578125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2265.309375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 792.4931249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 789.2449999999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1223.1212499999997,
             "unit": "milliseconds"
           }
         ]
