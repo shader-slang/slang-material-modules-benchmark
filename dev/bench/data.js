@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1774446851010,
+  "lastUpdate": 1774449884976,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -90226,6 +90226,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1929.005625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "740a62643ff0b24f00d014c919c0564d1dc1c5a3",
+          "message": "Enable GPU persistence mode on CI runners to prevent NVML corruption (#10659)\n\nhttps://github.com/shader-slang/slang/commit/8a8c065ec2fa69aeb42ea8aa5785f88e272d3813",
+          "timestamp": "2026-03-25T07:44:23-07:00",
+          "tree_id": "8bf7f35b9aa98cf6974554a25b5949eda9164a51",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/740a62643ff0b24f00d014c919c0564d1dc1c5a3"
+        },
+        "date": 1774449877615,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3897.1668749999994,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1265.2668749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1244.7900000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3844.935625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1239.73375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1245.73625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1902.64375,
             "unit": "milliseconds"
           }
         ]
