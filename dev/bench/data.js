@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1774470863967,
+  "lastUpdate": 1774489835108,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -90397,6 +90397,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1889.279375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e6e250bab923db924e49c98526c8100c7d5c1f93",
+          "message": "Fix RHI device cache key and startup device pollution (#10661)\n\nhttps://github.com/shader-slang/slang/commit/a222ecdcad779fd00004e9afdde58c4eb814a2a7",
+          "timestamp": "2026-03-25T18:50:17-07:00",
+          "tree_id": "b90b1fe90341a0271ebdfa21f7ec792950ab4f82",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e6e250bab923db924e49c98526c8100c7d5c1f93"
+        },
+        "date": 1774489828161,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3870.2068750000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1239.39125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1245.0331250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3839.44875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1251.4406250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1241.286875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1896.964375,
             "unit": "milliseconds"
           }
         ]
