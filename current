@@ -1,2 +1,2 @@
-Fix RHI device cache key and startup device pollution (#10661)
-a222ecdcad779fd00004e9afdde58c4eb814a2a7
+Add Vulkan gfx-unit-tests to no-GPU expected failure list (#10676)
+54be703933296cfc5fceeea0ac71f3a1913529f8
