@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1774888218636,
+  "lastUpdate": 1774892029370,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -90568,6 +90568,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1899.6756249999996,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "616c6984c7c9b5af713e5bc74f5c1c88fe6ccd08",
+          "message": "Fix LLVM GCS download hanging on self-hosted Windows runners (#10687)\n\nhttps://github.com/shader-slang/slang/commit/8a22fdc3b9eca2aa06833793bf56403ae1f32948",
+          "timestamp": "2026-03-30T10:33:34-07:00",
+          "tree_id": "49d4afd4287c39ffa79798317722f3a50aa1b8de",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/616c6984c7c9b5af713e5bc74f5c1c88fe6ccd08"
+        },
+        "date": 1774892022595,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2317.5375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 806.1687500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 820.5618749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2351.33875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 810.671875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 801.1400000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1291.9424999999999,
             "unit": "milliseconds"
           }
         ]
