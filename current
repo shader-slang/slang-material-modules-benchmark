@@ -1,2 +1,2 @@
-Add Vulkan gfx-unit-tests to no-GPU expected failure list (#10676)
-54be703933296cfc5fceeea0ac71f3a1913529f8
+Disable DXC backend CoopVec multiply tests with matrix (#10672)
+dbd755061758c8558c84a8fde72b09aeea95e13f
