@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1774982908674,
+  "lastUpdate": 1774985757675,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -90910,6 +90910,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1224.8412500000002,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e442f18c286cfb2ed0c6982f16f3688b40ab8d36",
+          "message": "Add IR instructions for cooperative matrix/vector ops (#10643)\n\nhttps://github.com/shader-slang/slang/commit/d22eebfb0ab5277de2bdaf00f30d5467394b719d",
+          "timestamp": "2026-03-31T12:34:52-07:00",
+          "tree_id": "4bee029fd42b0d349a091564337978733c50b450",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e442f18c286cfb2ed0c6982f16f3688b40ab8d36"
+        },
+        "date": 1774985750119,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3857.16125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1225.15125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1234.1774999999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3826.17375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1229.428125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1230.35125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1880.6700000000003,
             "unit": "milliseconds"
           }
         ]
