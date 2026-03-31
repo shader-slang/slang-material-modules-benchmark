@@ -1,2 +1,2 @@
-Install a pkgconfig file for slang-compiler (#10171)
-b75875b523bf317ced1ad964d2dcc530e29290a8
+Fix vkAcquireNextImageKHR() Vulkan validation error in slang-gfx (#10640)
+88a05d8f2be7eac49eb30aa021c26cc1a4e3477d
