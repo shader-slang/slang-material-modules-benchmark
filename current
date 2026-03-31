@@ -1,2 +1,2 @@
-Add IR instructions for cooperative matrix/vector ops (#10643)
-d22eebfb0ab5277de2bdaf00f30d5467394b719d
+Install a pkgconfig file for slang-compiler (#10171)
+b75875b523bf317ced1ad964d2dcc530e29290a8
