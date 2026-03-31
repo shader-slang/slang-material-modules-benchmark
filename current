@@ -1,2 +1,2 @@
-Fix vkAcquireNextImageKHR() Vulkan validation error in slang-gfx (#10640)
-88a05d8f2be7eac49eb30aa021c26cc1a4e3477d
+Metal: Add metal 4 capability and add required threadgroup size attribute. (#10592)
+72fdc442cd8081658501f994fb4f5f1021646138
