@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1774988938065,
+  "lastUpdate": 1774990639084,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -91081,6 +91081,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1224.58375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ad9a47c29eb1eca0c69f5a257d89b452a4988974",
+          "message": "Metal: Add metal 4 capability and add required threadgroup size attribute. (#10592)\n\nhttps://github.com/shader-slang/slang/commit/72fdc442cd8081658501f994fb4f5f1021646138",
+          "timestamp": "2026-03-31T13:56:42-07:00",
+          "tree_id": "8ba174ec0ad9202263da42a4932de1d4a0a363af",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ad9a47c29eb1eca0c69f5a257d89b452a4988974"
+        },
+        "date": 1774990631599,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3886.761249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1239.4112500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1247.13125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3849.769375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1246.82125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1243.504375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1892.3825000000002,
             "unit": "milliseconds"
           }
         ]
