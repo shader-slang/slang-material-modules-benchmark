@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1774987876225,
+  "lastUpdate": 1774988938065,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -91024,6 +91024,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1215.7224999999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "73a824c36d68bb567b8ee7c4e0a26267f324c80a",
+          "message": "Fix vkAcquireNextImageKHR() Vulkan validation error in slang-gfx (#10640)\n\nhttps://github.com/shader-slang/slang/commit/88a05d8f2be7eac49eb30aa021c26cc1a4e3477d",
+          "timestamp": "2026-03-31T13:28:42-07:00",
+          "tree_id": "fdf1834f3d2061ded670fd0ffed3a54f13ebc03e",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/73a824c36d68bb567b8ee7c4e0a26267f324c80a"
+        },
+        "date": 1774988930876,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2308.755625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 797.5256250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 795.4168749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2293.7331249999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 795.2643750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 796.4556249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1224.58375,
             "unit": "milliseconds"
           }
         ]
