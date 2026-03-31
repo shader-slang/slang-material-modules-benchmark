@@ -1,2 +1,2 @@
-Diagnose unpackable types in dynamic dispatch instead of ICE (#10678)
-e27c8f691036d4d75ac903a36b2fc4b247965e59
+Fix sanitizer findings: buffer overflows, null pointer UB, and Optional bugs (#10597)
+8963dd5454fa876b3cae5ca37eb92c1a21916979
