@@ -1,2 +1,2 @@
-Metal: Add metal 4 capability and add required threadgroup size attribute. (#10592)
-72fdc442cd8081658501f994fb4f5f1021646138
+Remove slang-binaries module and fetch the official DXC release package (#10684)
+95f1f662f130386a47362adb7a8fe076b3fc4aa2
