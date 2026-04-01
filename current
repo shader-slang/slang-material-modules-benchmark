@@ -1,2 +1,2 @@
-Fix sccache cache misses for macOS and Linux aarch64 builds (#10708)
-473afb979274b30f20538ef13513ddfad2aa713c
+Refactor auto-diff implementation. (#9808)
+45ccce9a376d48a7342615afb607d865cf973092
