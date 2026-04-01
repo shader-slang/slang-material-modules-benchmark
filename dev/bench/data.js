@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1775060301877,
+  "lastUpdate": 1775068933039,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -91309,6 +91309,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1227.115625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "35af8f4984923d2f05c5ab047d9fb3ac5170e2b5",
+          "message": "Fix PR project workflow to check org membership instead of team (#10704)\n\nhttps://github.com/shader-slang/slang/commit/c739e046792ab69fb0c3e64f24c936975fb876dd",
+          "timestamp": "2026-04-01T11:41:57-07:00",
+          "tree_id": "10604f3f1610e43b6f38b614d7db44498b2614ef",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/35af8f4984923d2f05c5ab047d9fb3ac5170e2b5"
+        },
+        "date": 1775068926169,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2340.0593749999994,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 820.1768750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 816.541875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2310.4518749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 812.966875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 814.1781249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1253.6206250000002,
             "unit": "milliseconds"
           }
         ]
