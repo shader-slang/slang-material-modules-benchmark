@@ -1,2 +1,2 @@
-Reject pointer fields in dynamic dispatch for SPIRV (#10679)
-f6e4a0c51f0e6a4ee6b1f8842168eed5879cb138
+Diagnose ref accessors returning interface types in dynamic dispatch (#10697)
+6a0e155094163486dd72df7dd6396ef64f0f4068
