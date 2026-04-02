@@ -1,2 +1,2 @@
-Fix unreachable E72 diagnostic for invalid type conformance options (#10685)
-80815507a52bb9f391cf9e447d2d1a22a7b0a4c3
+Reject pointer fields in dynamic dispatch for SPIRV (#10679)
+f6e4a0c51f0e6a4ee6b1f8842168eed5879cb138
