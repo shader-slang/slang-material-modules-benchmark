@@ -1,2 +1,2 @@
-Refactor auto-diff implementation. (#9808)
-45ccce9a376d48a7342615afb607d865cf973092
+Fix unreachable E72 diagnostic for invalid type conformance options (#10685)
+80815507a52bb9f391cf9e447d2d1a22a7b0a4c3
