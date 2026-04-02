@@ -1,2 +1,2 @@
-Diagnose ref accessors returning interface types in dynamic dispatch (#10697)
-6a0e155094163486dd72df7dd6396ef64f0f4068
+Support CoopMat for SM 6.10 (#10711)
+e55e901c05f390d774ce6c3e9183bd246a0285d6
