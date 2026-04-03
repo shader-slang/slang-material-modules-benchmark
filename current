@@ -1,2 +1,2 @@
-Fix crash in calcCodePointCount when resolving source locations (#10616) (#10664)
-d35ce5c2a242bfdcfb39ac66ae9c9413f0c1546b
+Update SPIRV submodules (#10740)
+4c02a7b89a99acc730f8dd68dec74f98a1fee020
