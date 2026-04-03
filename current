@@ -1,2 +1,2 @@
-Update SPIRV submodules (#10740)
-4c02a7b89a99acc730f8dd68dec74f98a1fee020
+Track slang compiler library when building neural module (#10662)
+cbcc86b0794d6c66b95db7d5d08ff12af7f1172d
