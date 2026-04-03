@@ -1,2 +1,2 @@
-Pin TypeScript version on WASM build to the latest stable version pre-6.0 (#10721)
-89770bfb20e9c8ec57318db5bfb14ea28cb96b8b
+Fix crash in calcCodePointCount when resolving source locations (#10616) (#10664)
+d35ce5c2a242bfdcfb39ac66ae9c9413f0c1546b
