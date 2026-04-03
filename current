@@ -1,2 +1,2 @@
-Support CoopVec for SM 6.10 backend (#10723)
-c44f0a2c4d0931fa61f081375218bcd1ed3e1e5a
+Implement Conditional<> as an intrinsic (#10736)
+4fba8c8fa4c7c000207b3928e671f5ea3b9f3a5f
