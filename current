@@ -1,2 +1,2 @@
-Track slang compiler library when building neural module (#10662)
-cbcc86b0794d6c66b95db7d5d08ff12af7f1172d
+Use `OpCompilerDictionary` for specialization caching (#10719)
+0a761880ad06daaf82bf36ca9565435eed4f6df5
