@@ -1,2 +1,2 @@
-Implement Conditional<> as an intrinsic (#10736)
-4fba8c8fa4c7c000207b3928e671f5ea3b9f3a5f
+Pin TypeScript version on WASM build to the latest stable version pre-6.0 (#10721)
+89770bfb20e9c8ec57318db5bfb14ea28cb96b8b
