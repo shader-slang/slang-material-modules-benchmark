@@ -1,2 +1,2 @@
-Use `OpCompilerDictionary` for specialization caching (#10719)
-0a761880ad06daaf82bf36ca9565435eed4f6df5
+Remove lvalue-ness when casting-to-super interface->interface (#10449)
+e999f855ceb0c3a5ed47c1b96cc8c3884acd0b3c
