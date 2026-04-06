@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1775458551040,
+  "lastUpdate": 1775488627670,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -92164,6 +92164,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1562.1031249999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "95a4eb7272cbff54457b5e71049744c73bb7553b",
+          "message": "Improve secure CRT portability by detecting and implementing missing definitions (#10442)\n\nhttps://github.com/shader-slang/slang/commit/7c8e7cb25681bff741c74ae6fae7b581fd0460ff",
+          "timestamp": "2026-04-06T08:16:47-07:00",
+          "tree_id": "7097b6197d59461b320fc8bf29bf84c548b4f388",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/95a4eb7272cbff54457b5e71049744c73bb7553b"
+        },
+        "date": 1775488619744,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4429.229375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1607.25375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1608.77,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4410.828750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1618.5906250000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1603.4412500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 2339.51375,
             "unit": "milliseconds"
           }
         ]
