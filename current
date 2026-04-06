@@ -1,2 +1,2 @@
-Remove lvalue-ness when casting-to-super interface->interface (#10449)
-e999f855ceb0c3a5ed47c1b96cc8c3884acd0b3c
+Improve secure CRT portability by detecting and implementing missing definitions (#10442)
+7c8e7cb25681bff741c74ae6fae7b581fd0460ff
