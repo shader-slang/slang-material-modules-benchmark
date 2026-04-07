@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1775488627670,
+  "lastUpdate": 1775551647115,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -92221,6 +92221,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2339.51375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "1553a22946239ffa73e36e55b2a92e772d71c156",
+          "message": "Fix legalization of complex struct types with void-typed fields (#10744)\n\nhttps://github.com/shader-slang/slang/commit/475a00aa5f5c1e0322e4d12e021e1327029c27fb",
+          "timestamp": "2026-04-07T01:47:11-07:00",
+          "tree_id": "edf6ffb2a899662337ec869c09e85a34befda065",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/1553a22946239ffa73e36e55b2a92e772d71c156"
+        },
+        "date": 1775551640355,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2616.808125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1038.629375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1041.1837499999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2599.3531249999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1037.775625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1035.480625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1589.8900000000003,
             "unit": "milliseconds"
           }
         ]
