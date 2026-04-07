@@ -1,2 +1,2 @@
-Improve secure CRT portability by detecting and implementing missing definitions (#10442)
-7c8e7cb25681bff741c74ae6fae7b581fd0460ff
+Fix legalization of complex struct types with void-typed fields (#10744)
+475a00aa5f5c1e0322e4d12e021e1327029c27fb
