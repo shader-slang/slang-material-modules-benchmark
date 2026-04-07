@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1775586840609,
+  "lastUpdate": 1775594354438,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -92335,6 +92335,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1594.186875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "a63f7167888266d8964a30e579a32b09c7eb158c",
+          "message": "Remove gcloud SDK setup from LLVM download (~3 min savings on Windows) (#10756)\n\nhttps://github.com/shader-slang/slang/commit/b1674447787cd25c3b5a3cc888595d07fed603ed",
+          "timestamp": "2026-04-07T13:38:57-07:00",
+          "tree_id": "7323e9077e17bbbbad67af5525413877d943fe70",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/a63f7167888266d8964a30e579a32b09c7eb158c"
+        },
+        "date": 1775594347482,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4439.88625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1607.3600000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1615.8331249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4497.850625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1640.0418750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1610.8425000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 2374.375,
             "unit": "milliseconds"
           }
         ]
