@@ -1,2 +1,2 @@
-Add Clang 18 CI container for sanitizer/coverage jobs (#10755)
-ec88a51715824e5282b41c0d6a9ea88bf63920f3
+Remove gcloud SDK setup from LLVM download (~3 min savings on Windows) (#10756)
+b1674447787cd25c3b5a3cc888595d07fed603ed
