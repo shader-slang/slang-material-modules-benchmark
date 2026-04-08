@@ -1,2 +1,2 @@
-Convert `IHasDiffTypeInfo` interface to `__hasDiffTypeInfo`  custom constraint & witness logic. (#10748)
-56e13abaded8cde4ea124768d32c9972f1904bd1
+Detect mid-test GPU crashes for automatic CI retry (#10762)
+350388a245b21c5bb6a86f18aec04df1e769446d
