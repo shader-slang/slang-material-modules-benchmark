@@ -1,2 +1,2 @@
-Fix interface-typed entry point parameter crashes and missing CUDA diagnostic (#10681)
-6ab12651a27581d663d26837e5206b5374802056
+Convert `IHasDiffTypeInfo` interface to `__hasDiffTypeInfo`  custom constraint & witness logic. (#10748)
+56e13abaded8cde4ea124768d32c9972f1904bd1
