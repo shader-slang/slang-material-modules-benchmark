@@ -1,2 +1,2 @@
-Detect mid-test GPU crashes for automatic CI retry (#10762)
-350388a245b21c5bb6a86f18aec04df1e769446d
+Add regression test for #6856: returning an expand expression (#10629)
+ef418db85685aea7b9d112c5ca5b238fd2d441df
