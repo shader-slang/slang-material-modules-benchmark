@@ -1,2 +1,2 @@
-Add diagnostic tests for loop variable mismatch warnings in differentiable functions (#10732)
-2c65849f5c1261dc419ed70880f6300d0cd37b6c
+Add diagnostic tests for DerivativeMember and differentiability modifiers (#10731)
+915942b9d02431dd22eb55dbf2009ef42a3ae8d1
