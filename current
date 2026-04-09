@@ -1,2 +1,2 @@
-Reject non-copyable types in regular interface implementations (#10758)
-4dc75c6c3a32c71fcfac5030437fee7302e9ad65
+Add diagnostic tests for loop variable mismatch warnings in differentiable functions (#10732)
+2c65849f5c1261dc419ed70880f6300d0cd37b6c
