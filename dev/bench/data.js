@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1775762257924,
+  "lastUpdate": 1775771210541,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -93019,6 +93019,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1601.0231250000002,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "c63c8cb32a457eca51bfc16adcc22aea6d019cf7",
+          "message": "Add diagnostic tests for loop variable mismatch warnings in differentiable functions (#10732)\n\nhttps://github.com/shader-slang/slang/commit/2c65849f5c1261dc419ed70880f6300d0cd37b6c",
+          "timestamp": "2026-04-09T14:46:34-07:00",
+          "tree_id": "f3beb0d552ac76941f383431c31e6268f36acc5d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/c63c8cb32a457eca51bfc16adcc22aea6d019cf7"
+        },
+        "date": 1775771203118,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2632.4337499999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1048.5600000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1046.20625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2620.5325000000007,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1047.069375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1044.52,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1595.5606249999998,
             "unit": "milliseconds"
           }
         ]
