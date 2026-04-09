@@ -1,2 +1,2 @@
-Language reference: memory model (#10657)
-a59cfda64b93c9ece9824dc7572a01d8b0db1e62
+Fix sanitizer CI false failure when tests crash without ASAN logs (#10778)
+9c4d9a5a80808b2b5cb95164a73e54e46f007573
