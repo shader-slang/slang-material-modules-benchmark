@@ -1,2 +1,2 @@
-Add diagnostic tests for DerivativeMember and differentiability modifiers (#10731)
-915942b9d02431dd22eb55dbf2009ef42a3ae8d1
+Fix GPU retry dispatch permission in merge queue (#10782)
+589c300814d5ba882f66118bad109103cb9a95b1
