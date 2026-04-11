@@ -1,2 +1,2 @@
-Fix GPU retry dispatch permission in merge queue (#10782)
-589c300814d5ba882f66118bad109103cb9a95b1
+Move `@SpecConst` rate propagation from IR cloning to IR instruction creation (#10694)
+f09c7e8f48aec3adcce27421d516436ea9dff7f7
