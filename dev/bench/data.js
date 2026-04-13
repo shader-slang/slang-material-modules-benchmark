@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1776066878229,
+  "lastUpdate": 1776080175153,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -93304,6 +93304,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1608.774375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "1d6a1e0be53c70c683ed287960190f4c0e1ea06c",
+          "message": "Fix crash when HitObject::TraceRay payload is an empty struct (#10634)\n\nhttps://github.com/shader-slang/slang/commit/5deaea9f2987ade87c2364849e017fe1987bce24",
+          "timestamp": "2026-04-13T04:35:56-07:00",
+          "tree_id": "0a987feed475af859d0045073f95888017aed1bb",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/1d6a1e0be53c70c683ed287960190f4c0e1ea06c"
+        },
+        "date": 1776080167361,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2623.8843749999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1042.81625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1044.08125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2610.151875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1039.444375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1040.875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1591.8587499999999,
             "unit": "milliseconds"
           }
         ]
