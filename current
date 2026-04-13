@@ -1,2 +1,2 @@
-Emit E30300 for is/as operators on unrelated concrete types (#10760)
-ef3d763e9a2d3fa87e4c002906a952895f363fe6
+Fix crash when HitObject::TraceRay payload is an empty struct (#10634)
+5deaea9f2987ade87c2364849e017fe1987bce24
