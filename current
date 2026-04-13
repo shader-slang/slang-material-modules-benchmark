@@ -1,2 +1,2 @@
-Fix crash when HitObject::TraceRay payload is an empty struct (#10634)
-5deaea9f2987ade87c2364849e017fe1987bce24
+Fix ICE when using ByteAddressBuffer.Load/Store with interface types (#10768)
+c01388b55a38186854035bbaa5e6aa7bb9048f24
