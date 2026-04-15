@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1776285777758,
+  "lastUpdate": 1776297501613,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -94102,6 +94102,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1671.2206250000002,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "921d552fb97e02b0b41b63f802c10645c7b4bdd6",
+          "message": "Fix prelinkIR crash from self-referencing Generic subtrees (#10847)\n\nhttps://github.com/shader-slang/slang/commit/68cb3714e77916138aa9c2d52c02ed60ef77281a",
+          "timestamp": "2026-04-15T16:58:07-07:00",
+          "tree_id": "902ad1f946eb7fa8fc704bbe9a9104cd915aa3bd",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/921d552fb97e02b0b41b63f802c10645c7b4bdd6"
+        },
+        "date": 1776297494587,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2669.9937500000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1078.8737499999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1078.663125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2645.235,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1079.4675000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1076.02875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1668.3787499999999,
             "unit": "milliseconds"
           }
         ]
