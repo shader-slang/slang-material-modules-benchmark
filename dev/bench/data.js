@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1776260324193,
+  "lastUpdate": 1776269718666,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -93988,6 +93988,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1680.5862499999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "8d695df054ee64663215aa3fcca0be605c93ed85",
+          "message": "Deprecate 'volatile' in Slang 2025 and remove it from Slang 2026 (#10720)\n\nhttps://github.com/shader-slang/slang/commit/51b06a31eece8b3268a1df2182afceacd7db5370",
+          "timestamp": "2026-04-15T09:14:58-07:00",
+          "tree_id": "a312da0235307e3b5a01bd8b32cdbf8e10028505",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/8d695df054ee64663215aa3fcca0be605c93ed85"
+        },
+        "date": 1776269710953,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4522.7856249999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1666.0075000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1664.2506250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4513.678749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1662.4037500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1667.0475000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 2518.7581250000003,
             "unit": "milliseconds"
           }
         ]
