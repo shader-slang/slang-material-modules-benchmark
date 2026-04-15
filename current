@@ -1,2 +1,2 @@
-Add structured environment dump for Windows and macOS CI tests (#10838)
-ee50d090ee8c063af69f062c286ca4916cd6a336
+Add [RemovedSince] for scheduled declaration removal (#10816)
+677f3a528f605e7b087b8dac13cec85124cde76f
