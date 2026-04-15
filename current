@@ -1,2 +1,2 @@
-Fix segfault in prelinkIR when compiling neural.slang with slang-boot… (#10835)
-696644f72c092a806392e4d69906189b92c5ead7
+Add structured environment dump for Windows and macOS CI tests (#10838)
+ee50d090ee8c063af69f062c286ca4916cd6a336
