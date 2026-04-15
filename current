@@ -1,2 +1,2 @@
-Scope GPU retry to merge queue and revert to github.token (#10820)
-990d07ddc1bb78295708ebe6c35174a1a8fd0682
+Fix segfault in prelinkIR when compiling neural.slang with slang-boot… (#10835)
+696644f72c092a806392e4d69906189b92c5ead7
