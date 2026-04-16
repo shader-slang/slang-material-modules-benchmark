@@ -1,2 +1,2 @@
-Fix ICE when using groupshared with interface-typed variables (#10846)
-91378eb8b745d790c372387a6848d2ae8c00d355
+Fix crash when entry point param is a struct containing an interface field (#10856)
+cc649df53acf12d2d5d7a19eb45f472001454593
