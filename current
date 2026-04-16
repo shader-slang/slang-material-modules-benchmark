@@ -1,2 +1,2 @@
-Fix crash when passing struct with interface field by value (#10767)
-fce0e4af0c5752a5316423108d160ec9ecd90930
+Fix ICE when using groupshared with interface-typed variables (#10846)
+91378eb8b745d790c372387a6848d2ae8c00d355
