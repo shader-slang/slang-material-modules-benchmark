@@ -1,2 +1,2 @@
-Add functional tests for autodiff generic constraints and PR 9808 features (#10733)
-e74c7823e0585ddaa9c84131eadc7eb68542de13
+Fix crash when passing struct with interface field by value (#10767)
+fce0e4af0c5752a5316423108d160ec9ecd90930
