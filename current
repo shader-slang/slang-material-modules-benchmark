@@ -1,2 +1,2 @@
-Fix crash when entry point param is a struct containing an interface field (#10856)
-cc649df53acf12d2d5d7a19eb45f472001454593
+Fix intermittent build failures with SLANG_EMBED_CORE_MODULE=OFF (#10840)
+2bccc27f1682960d2d51b8023aa255fccb4c2d70
