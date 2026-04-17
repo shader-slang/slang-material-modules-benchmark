@@ -1,2 +1,2 @@
-Fix intermittent build failures with SLANG_EMBED_CORE_MODULE=OFF (#10840)
-2bccc27f1682960d2d51b8023aa255fccb4c2d70
+Fix Metal DescriptorHandle as_type cast in dynamic dispatch (#10849)
+b7d1a2caa4e18f9eebd006ae0c306fbe79f15964
