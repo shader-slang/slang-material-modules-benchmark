@@ -1,2 +1,2 @@
-Fix Metal DescriptorHandle as_type cast in dynamic dispatch (#10849)
-b7d1a2caa4e18f9eebd006ae0c306fbe79f15964
+[codex] Fix interface differential pair witness lowering (#10829)
+64efeb9f4638b45d29aab472d65b86c520978543
