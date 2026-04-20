@@ -1,2 +1,2 @@
-Update slang-rhi to fix the CI intermittent failure (#10875)
-88ca756acb7878c6c710c3b6ed43241fc9b67ba6
+Fix replay crash on `getSessionDescDigest` due to null input pointer during playback (#10834)
+be166b013ba564d0a2426269f301f39049a52721
