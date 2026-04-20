@@ -1,2 +1,2 @@
-Fix crash in stdlib reference doc generation caused by autodiff func types (#10867)
-e72c2f57496905a52041ab2934aabeb7b2c1263d
+Update slang-rhi to fix the CI intermittent failure (#10875)
+88ca756acb7878c6c710c3b6ed43241fc9b67ba6
