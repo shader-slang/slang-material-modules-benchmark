@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1776729015333,
+  "lastUpdate": 1776729668704,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -94729,6 +94729,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1674.5143750000002,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "782b8ac7fdf539fcb59593c0e95cabe63cb6c5ab",
+          "message": "Fix memory leak when replay system is statically linked but never used (#10862)\n\nhttps://github.com/shader-slang/slang/commit/1cabae465413476bbd2f1f7f582d9f5dc08c911c",
+          "timestamp": "2026-04-20T17:00:51-07:00",
+          "tree_id": "5edbb1241468e23e1d838294173e302467e41f11",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/782b8ac7fdf539fcb59593c0e95cabe63cb6c5ab"
+        },
+        "date": 1776729660834,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2657.03625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1070.98125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1073.784375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2639.5200000000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1064.67625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1068.8775,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1667.8899999999999,
             "unit": "milliseconds"
           }
         ]
