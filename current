@@ -1,2 +1,2 @@
-Fix memory leak when replay system is statically linked but never used (#10862)
-1cabae465413476bbd2f1f7f582d9f5dc08c911c
+Expand sanitizer nightly to full test coverage (#10824)
+72dfd8b9c2d12ffd47252ecd1ce9e6029b8315c4
