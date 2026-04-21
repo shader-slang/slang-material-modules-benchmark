@@ -1,2 +1,2 @@
-Fix replay crash on `getSessionDescDigest` due to null input pointer during playback (#10834)
-be166b013ba564d0a2426269f301f39049a52721
+Fix memory leak when replay system is statically linked but never used (#10862)
+1cabae465413476bbd2f1f7f582d9f5dc08c911c
