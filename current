@@ -1,2 +1,2 @@
-[codex] Diagnose non-copyable interface conformance (#10818)
-01d9523ee7a6b6a0ea298ed535bc276fe2866098
+Fix forward-mode autodiff crash for no_diff scalar in generic vector construct (#10883)
+b6c9de1de023bf05a029aab5ba33a7c320a32d80
