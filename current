@@ -1,2 +1,2 @@
-Diagnose per-primitive semantics in non-primitive mesh shader outputs (#10633)
-91f0d842550a85b5b30a8f44642f1743c45faf58
+Warn when a generic type parameter shadows an outer generic (#10899)
+cb42a1c640d3df24986d8a1b09ffb85971047c5d
