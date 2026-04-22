@@ -1,2 +1,2 @@
-Diagnose geometry shaders missing required output stream or [maxvertexcount] (#10632)
-66fd47eaa29b0bde22f7a314da001a246ffb1310
+Diagnose per-primitive semantics in non-primitive mesh shader outputs (#10633)
+91f0d842550a85b5b30a8f44642f1743c45faf58
