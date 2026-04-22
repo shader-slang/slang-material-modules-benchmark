@@ -1,2 +1,2 @@
-Suppress nightly sanitizer TypeLayout UAF findings pending #10893 (#10894)
-996ebcbdcd4765c85f8b1910c8a5d54c2aba7f8a
+Diagnose geometry shaders missing required output stream or [maxvertexcount] (#10632)
+66fd47eaa29b0bde22f7a314da001a246ffb1310
