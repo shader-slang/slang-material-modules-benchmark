@@ -1,2 +1,2 @@
-Add diagnostic note for concrete-to-interface pointer cast (#9962) (#10833)
-663c8e866f72b0a072446827142e890da724e19a
+Suppress nightly sanitizer TypeLayout UAF findings pending #10893 (#10894)
+996ebcbdcd4765c85f8b1910c8a5d54c2aba7f8a
