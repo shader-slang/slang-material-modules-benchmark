@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1776825343813,
+  "lastUpdate": 1776847414149,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -95185,6 +95185,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2494.3825,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ceb3627829e882daa1fcc2a45ea5c707c5816d4e",
+          "message": "Suppress nightly sanitizer TypeLayout UAF findings pending #10893 (#10894)\n\nhttps://github.com/shader-slang/slang/commit/996ebcbdcd4765c85f8b1910c8a5d54c2aba7f8a",
+          "timestamp": "2026-04-22T01:43:15-07:00",
+          "tree_id": "e3a8cf57c2a061fe9aebb98cc310eeb5c1747c77",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ceb3627829e882daa1fcc2a45ea5c707c5816d4e"
+        },
+        "date": 1776847406591,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4633.745000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1647.4674999999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1656.4468749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4481.079374999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1656.6250000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1664.1425,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 2491.8468749999997,
             "unit": "milliseconds"
           }
         ]
