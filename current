@@ -1,2 +1,2 @@
-Fix #10909: Add Flat decoration for SubgroupLocalInvocationId in fragment shaders (#10916)
-1c660f0d0b5de24a591a277e05622a4eff2d1418
+Fix #10872: Include pointee type in SPIR-V builtin variable cache key (#10913)
+c1d5bb37788941c0234d0c077535252cca643a6b
