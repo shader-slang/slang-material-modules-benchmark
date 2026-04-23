@@ -1,2 +1,2 @@
-Fix #10870: Guard null IRNameHintDecoration in mesh shader legalization (#10914)
-fa86b2c9c70cda186b1809831081c9d8af54935a
+Fix #10909: Add Flat decoration for SubgroupLocalInvocationId in fragment shaders (#10916)
+1c660f0d0b5de24a591a277e05622a4eff2d1418
