@@ -1,2 +1,2 @@
-Replace operator `&` usage with `__getAddress` (#10280)
-b1505c6e574395e92613d208d5ff49d50356e085
+Fix #10870: Guard null IRNameHintDecoration in mesh shader legalization (#10914)
+fa86b2c9c70cda186b1809831081c9d8af54935a
