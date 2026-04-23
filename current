@@ -1,2 +1,2 @@
-Warn when a generic type parameter shadows an outer generic (#10899)
-cb42a1c640d3df24986d8a1b09ffb85971047c5d
+Replace operator `&` usage with `__getAddress` (#10280)
+b1505c6e574395e92613d208d5ff49d50356e085
