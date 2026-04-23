@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1776977598033,
+  "lastUpdate": 1776979201142,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -95584,6 +95584,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1695.2325,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "89ef2a4822342674ab159f6a2a7ae76f1df3ba4b",
+          "message": "Fix #10872: Include pointee type in SPIR-V builtin variable cache key (#10913)\n\nhttps://github.com/shader-slang/slang/commit/c1d5bb37788941c0234d0c077535252cca643a6b",
+          "timestamp": "2026-04-23T14:19:39-07:00",
+          "tree_id": "5d5a40367c7ac780c754b9e97289977e09963534",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/89ef2a4822342674ab159f6a2a7ae76f1df3ba4b"
+        },
+        "date": 1776979191894,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4509.795,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1649.723125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1661.0549999999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4466.51875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1652.9637500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1650.1437500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 2504.9162499999998,
             "unit": "milliseconds"
           }
         ]
