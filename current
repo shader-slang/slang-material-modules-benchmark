@@ -1,2 +1,2 @@
-Fix #10872: Include pointee type in SPIR-V builtin variable cache key (#10913)
-c1d5bb37788941c0234d0c077535252cca643a6b
+Fix false positives from _CrtDumpMemoryLeaks in MSVC Debug (#10934)
+1ee8e2fb670843eefa488b441b20b740b9a6f207
