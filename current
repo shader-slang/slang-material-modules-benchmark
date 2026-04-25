@@ -1,2 +1,2 @@
-Disallow mesh output reads (#9788)
-5ec0401f52517a65ff6c23d2d90e6522d2e98500
+Add entry-point signature validation in frontend (#10793)
+1cb1d481a2dff3657ae12aed4d58b2e97b991816
