@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1777062389317,
+  "lastUpdate": 1777104813930,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -96040,6 +96040,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1677.6368749999997,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "88eb9839c4600e7f1498dea2ddbd2a42adfaf629",
+          "message": "Add entry-point signature validation in frontend (#10793)\n\nhttps://github.com/shader-slang/slang/commit/1cb1d481a2dff3657ae12aed4d58b2e97b991816",
+          "timestamp": "2026-04-25T01:13:17-07:00",
+          "tree_id": "2855e643f7cf3c471ef7bd392a626acac1b67244",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/88eb9839c4600e7f1498dea2ddbd2a42adfaf629"
+        },
+        "date": 1777104806200,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2674.9293749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1073.338125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1076.25875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2650.2956249999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1070.150625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1074.1074999999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1672.06,
             "unit": "milliseconds"
           }
         ]
