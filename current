@@ -1,2 +1,2 @@
-Replace ci-gpu-stress-loop.sh with Python rewrite (#10956)
-dbafa9ad6f6fce97e50ef3ce91812a96b28fda6d
+Fix missing GL_ARB_texture_cube_map_array extension for TextureCubeArray in GLSL (#10630)
+fe5d800ee9beb59b582c1e4dd11f0115145be089
