@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1777326493060,
+  "lastUpdate": 1777327138943,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -96439,6 +96439,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1681.7012500000003,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "93286f9f838cda3f989621746dea4ff6d245abe2",
+          "message": "Fix missing GL_ARB_texture_cube_map_array extension for TextureCubeArray in GLSL (#10630)\n\nhttps://github.com/shader-slang/slang/commit/fe5d800ee9beb59b582c1e4dd11f0115145be089",
+          "timestamp": "2026-04-27T14:58:39-07:00",
+          "tree_id": "663d63cf1c482716545e4f001bd65f04a5f1486e",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/93286f9f838cda3f989621746dea4ff6d245abe2"
+        },
+        "date": 1777327134235,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2680.2718750000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1077.9275,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1075.583125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2654.169375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1073.6625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1073.63125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1672.1918749999998,
             "unit": "milliseconds"
           }
         ]
