@@ -1,2 +1,2 @@
-Replace DebugCompilationUnit heuristic with IRDebugCompilationUnit IR instruction (#10907)
-b0d4ffe418a8534e890a368a3eac62aeace12f56
+Diagnose rgba16float storage texture with read_write access in WGSL (#10926)
+05cbe09df94e5d655bb17e97e9e622c5553b1c1f
