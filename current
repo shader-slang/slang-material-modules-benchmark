@@ -1,2 +1,2 @@
-tools/coverage-html: LCOV → HTML renderer + multi-OS merger (#10948)
-f93b70fa22e6a67e0515c397d9df720cec038600
+Replace ci-gpu-stress-loop.sh with Python rewrite (#10956)
+dbafa9ad6f6fce97e50ef3ce91812a96b28fda6d
