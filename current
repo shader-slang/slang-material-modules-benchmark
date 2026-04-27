@@ -1,2 +1,2 @@
-Diagnose rgba16float storage texture with read_write access in WGSL (#10926)
-05cbe09df94e5d655bb17e97e9e622c5553b1c1f
+tools/coverage-html: LCOV → HTML renderer + multi-OS merger (#10948)
+f93b70fa22e6a67e0515c397d9df720cec038600
