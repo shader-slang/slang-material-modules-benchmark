@@ -1,2 +1,2 @@
-Fix missing GL_ARB_texture_cube_map_array extension for TextureCubeArray in GLSL (#10630)
-fe5d800ee9beb59b582c1e4dd11f0115145be089
+Preserve no_diff in synthesized property accessors (#10874)
+e3c1e892e07804bd577262b862d11dd120482489
