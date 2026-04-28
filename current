@@ -1,2 +1,2 @@
-Preserve no_diff in synthesized property accessors (#10874)
-e3c1e892e07804bd577262b862d11dd120482489
+Enable unused-variable warning (#10946)
+60cb8f0a1c513c000626d58934abf397c3e4ea47
