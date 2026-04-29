@@ -1,2 +1,2 @@
-ci: harden SM80Plus scaler (#10986)
-4c834b1559dc5f50d72567c0964f15a3e2061ed2
+Fix defer in function with infinite loop (#10954)
+51429aa217a3337ec21d4e91eaabfb68f79fc25c
