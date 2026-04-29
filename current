@@ -1,2 +1,2 @@
-Fix associated type scope tracking for non-let variables (#10823)
-480fb581ba1e9cf2612b9abef77ee1f8d1930c6b
+ci: add narrow Linux SM80Plus GPU tier (#10967)
+cff97ef70cf80b200d6ebd0a02fd8b87ecb6595a
