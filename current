@@ -1,2 +1,2 @@
-Fix wrong std430 struct member offset in SPIRV emission (#10964)
-2a48128ca08b410f8c2bdfdead7b4001ec66066d
+Fix SM6.10 outer product prelude for updated dx/linalg.h ComponentTypeTraits (#10991)
+72e02203daa57f62285b07d0dac8a093b907641e
