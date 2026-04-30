@@ -1,2 +1,2 @@
-Remove dead code in source/slang/ (#10958)
-315ea9f990fc3471c789d65ce95e72b8abfb106a
+ci: update stale Windows Actions runners on VM boot (#11001)
+ada2a5afb2627775d1df66ded5ed160d98922d1e
