@@ -1,2 +1,2 @@
-Fix SM6.10 outer product prelude for updated dx/linalg.h ComponentTypeTraits (#10991)
-72e02203daa57f62285b07d0dac8a093b907641e
+Adjust slang-test RPC timeout (#10993)
+82f9ed73937c8e7171363c00db195cbc51e31694
