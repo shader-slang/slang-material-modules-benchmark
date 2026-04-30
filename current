@@ -1,2 +1,2 @@
-Fix defer in function with infinite loop (#10954)
-51429aa217a3337ec21d4e91eaabfb68f79fc25c
+Fix wrong std430 struct member offset in SPIRV emission (#10964)
+2a48128ca08b410f8c2bdfdead7b4001ec66066d
