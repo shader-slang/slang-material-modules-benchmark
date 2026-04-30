@@ -1,2 +1,2 @@
-Adjust slang-test RPC timeout (#10993)
-82f9ed73937c8e7171363c00db195cbc51e31694
+ci: suppress `glslang_disassembleSPIRV` alloc-dealloc-mismatch in nightly sanitizer (#10989)
+29556cc055d3ef156a3138271205d92716c485ad
