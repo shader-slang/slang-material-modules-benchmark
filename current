@@ -1,2 +1,2 @@
-ci: suppress `glslang_disassembleSPIRV` alloc-dealloc-mismatch in nightly sanitizer (#10989)
-29556cc055d3ef156a3138271205d92716c485ad
+ci: disable test server for CPU-only tier (#10992)
+bd9dc2eb020c7cb5f61c85ee46381cde7a28dc0d
