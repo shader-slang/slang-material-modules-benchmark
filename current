@@ -1,2 +1,2 @@
-ci: update stale Windows Actions runners on VM boot (#11001)
-ada2a5afb2627775d1df66ded5ed160d98922d1e
+ci: increase slang-test workflow timeouts (#11003)
+196dde1bd1e047e22a32ac80ab6f4869bc65f25a
