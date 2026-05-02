@@ -1,2 +1,2 @@
-Update SPIRV-Tools and SPIRV-Headers to latest versions (#11025)
-d88cc8fff35baf96cf30d242b2572564cf8043b6
+Guard against double-add in doesTypeSatisfyConstraintRequirements (#11026)
+17be1203bf788c12a9cfd8758797be365f6027dc
