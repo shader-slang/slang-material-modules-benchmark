@@ -1,2 +1,2 @@
-ci/coverage-windows: skip tests/autodiff/global-param-hoisting (#10978)
-52071d62feb8cbfc05acf127cb0aa27f88e08d62
+Diagnose arrays of resource types when targeting WGSL (#10924)
+bdee771069691ae777b881da1ff1f4fa1fb037f3
