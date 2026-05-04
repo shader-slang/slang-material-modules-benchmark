@@ -1,2 +1,2 @@
-slang-unit-test: utility unit tests (#10951)
-cb89051a0084e3d65be355f3f9edaa4714672e63
+Add unit tests for secure CRT fallback functions (#10781)
+4e25b43bc80360d5be1a31e5a99aa0c5a93aeaac
