@@ -1,2 +1,2 @@
-Add unit tests for secure CRT fallback functions (#10781)
-4e25b43bc80360d5be1a31e5a99aa0c5a93aeaac
+ci/coverage-windows: skip tests/autodiff/global-param-hoisting (#10978)
+52071d62feb8cbfc05acf127cb0aa27f88e08d62
