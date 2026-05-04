@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1777885096492,
+  "lastUpdate": 1777888239994,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -97807,6 +97807,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2501.2749999999996,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "54140567f7cc6c64305f11c7fc6aded61110eb79",
+          "message": "Add unit tests for secure CRT fallback functions (#10781)\n\nhttps://github.com/shader-slang/slang/commit/4e25b43bc80360d5be1a31e5a99aa0c5a93aeaac",
+          "timestamp": "2026-05-04T02:50:18-07:00",
+          "tree_id": "8d490a855f35dd88363cf7a8ae0ccb0e1e5b7872",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/54140567f7cc6c64305f11c7fc6aded61110eb79"
+        },
+        "date": 1777888232172,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2639.6131250000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1068.9212500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1078.283125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2623.4099999999994,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1064.8562499999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1064.8156250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1656.2087500000002,
             "unit": "milliseconds"
           }
         ]
