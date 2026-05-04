@@ -1,2 +1,2 @@
-Fix std140 float3x3 matrix element stride reported by reflection (#10990)
-4faaa64f875d699aea96fef046fcbca5c5cf5869
+slang-unit-test: utility unit tests (#10951)
+cb89051a0084e3d65be355f3f9edaa4714672e63
