@@ -1,2 +1,2 @@
-Diagnose arrays of resource types when targeting WGSL (#10924)
-bdee771069691ae777b881da1ff1f4fa1fb037f3
+Fix cooperative matrix diagnostic code collision (#11049)
+231bfea24b59a9a829d126b9ad1f61dee6018be6
