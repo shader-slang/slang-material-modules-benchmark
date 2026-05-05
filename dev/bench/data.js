@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1777949701207,
+  "lastUpdate": 1777971711887,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -98092,6 +98092,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1768.790625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "5aca9cedb59417ee1a64e8811dd453458af2cb65",
+          "message": "ci: wipe stray actions-runner installs at VM startup (#11041)\n\nhttps://github.com/shader-slang/slang/commit/80fcdce01d8de3ffa72898e4d2003118ec407193",
+          "timestamp": "2026-05-05T02:01:34-07:00",
+          "tree_id": "0422d0a7f27681f776e0333b6b54538f9e2c7e68",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/5aca9cedb59417ee1a64e8811dd453458af2cb65"
+        },
+        "date": 1777971704224,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4582.99,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1680.70125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1684.6293750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4546.829374999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1688.5349999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1679.1587499999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 2556.5256249999998,
             "unit": "milliseconds"
           }
         ]
