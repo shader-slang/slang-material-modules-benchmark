@@ -1,2 +1,2 @@
-Fix cooperative matrix diagnostic code collision (#11049)
-231bfea24b59a9a829d126b9ad1f61dee6018be6
+Fix autodiff extension visibility for private members (#10873)
+a90fb9980c99419fc60d90bf6a0e135e23c11b8e
