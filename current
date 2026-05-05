@@ -1,2 +1,2 @@
-Fix autodiff extension visibility for private members (#10873)
-a90fb9980c99419fc60d90bf6a0e135e23c11b8e
+ci: wipe stray actions-runner installs at VM startup (#11041)
+80fcdce01d8de3ffa72898e4d2003118ec407193
