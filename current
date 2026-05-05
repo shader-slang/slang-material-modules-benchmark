@@ -1,2 +1,2 @@
-ci: wipe stray actions-runner installs at VM startup (#11041)
-80fcdce01d8de3ffa72898e4d2003118ec407193
+Warn when vertex shader output lacks SV_Position (E38052) (#10971)
+b7f3dbb0ccd0687cbbea6d01d49ab7108dc769d6
