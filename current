@@ -1,2 +1,2 @@
-Fix outdated SPIRV-Registry links to NonSemantic.Shader.DebugInfo in headers (#11051)
-6b0234374ae8be789d0d8a80e02f79386c18a42e
+Suppress misleading cascade for constexpr-via-loop diagnostics (#11023)
+977dcf52c370032d546d8613620358427f96b755
