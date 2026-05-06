@@ -1,2 +1,2 @@
-ci: include scaler-linux-sm80plus in update-scaler.sh (#11055)
-9f6db86bc90b5ca1981db855721d617e17e46598
+Drive fiddle from a stamp file to fix incremental rebuilds (#10972)
+47db8d2d625541eea955039a5611ca077264bbf7
