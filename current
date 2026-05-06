@@ -1,2 +1,2 @@
-Suppress misleading cascade for constexpr-via-loop diagnostics (#11023)
-977dcf52c370032d546d8613620358427f96b755
+ci: include scaler-linux-sm80plus in update-scaler.sh (#11055)
+9f6db86bc90b5ca1981db855721d617e17e46598
