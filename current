@@ -1,2 +1,2 @@
-Drive fiddle from a stamp file to fix incremental rebuilds (#10972)
-47db8d2d625541eea955039a5611ca077264bbf7
+Emit torch::kBFloat16 for BFloat16 tensor element type (#11040)
+7432fb0e48d71ac1409db4de7e2012c4bb9ec21e
