@@ -1,2 +1,2 @@
-Emit torch::kBFloat16 for BFloat16 tensor element type (#11040)
-7432fb0e48d71ac1409db4de7e2012c4bb9ec21e
+Fix neural module not built when SLANG_EMBED_CORE_MODULE=OFF (#11053)
+7538e0b1b982ae7359713f6ccc6036fb790a7e50
