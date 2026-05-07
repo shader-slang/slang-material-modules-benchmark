@@ -1,2 +1,2 @@
-Fixed const expressions in geometry attributes crashing the compiler (#11020)
-240a3cd5da8058c15949147dbe20ccf8c10c14af
+fix typo in SlangLanguageVersion enum (LANGAUGE -> LANGUAGE) (#11054)
+b9e32d0ad78989cd1a2aaf17ffe995e06ba2df1a
