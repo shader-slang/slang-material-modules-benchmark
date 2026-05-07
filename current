@@ -1,2 +1,2 @@
-Make constraint solver deal with default generic args with functions (#10836)
-786ee6eefe08fb6e57b6c88a5ec731dbee599c06
+Fixed const expressions in geometry attributes crashing the compiler (#11020)
+240a3cd5da8058c15949147dbe20ccf8c10c14af
