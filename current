@@ -1,2 +1,2 @@
-Fix neural module not built when SLANG_EMBED_CORE_MODULE=OFF (#11053)
-7538e0b1b982ae7359713f6ccc6036fb790a7e50
+Make constraint solver deal with default generic args with functions (#10836)
+786ee6eefe08fb6e57b6c88a5ec731dbee599c06
