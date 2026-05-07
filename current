@@ -1,2 +1,2 @@
-Fix crashes with interface-typed global params and -conformance flags (#10776)
-ac1b066c55322df195e5d494b141fe22dc82acda
+Disallow default initialization of interface-typed variables in Slang 2026 (#10845)
+b4fb27da21de6d2f5d40c55de0e93d23f7af6884
