@@ -1,2 +1,2 @@
-fix typo in SlangLanguageVersion enum (LANGAUGE -> LANGUAGE) (#11054)
-b9e32d0ad78989cd1a2aaf17ffe995e06ba2df1a
+Fix crashes with interface-typed global params and -conformance flags (#10776)
+ac1b066c55322df195e5d494b141fe22dc82acda
