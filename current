@@ -1,2 +1,2 @@
-Fetch git tags in CI build workflow (#11104)
-79888365679aca3a454b0f2a43d5971685d94bf5
+Fix #10871: Mark enum tag type as erroneous when base type is invalid (#10912)
+f7aa167936aebeb22b57c5dcfd5bce057e36abd4
