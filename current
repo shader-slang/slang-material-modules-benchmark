@@ -1,2 +1,2 @@
-Disable AVX-512 in slang-llvm JIT TargetMachine (#11071)
-6c7f82f6915c77bc73711ee75d980dcfe9de65c4
+Unskip replay tests in CI (#11086)
+eab26890f551edb10cbf2aef0cf0ede155c66291
