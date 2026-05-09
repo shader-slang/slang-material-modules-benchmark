@@ -1,2 +1,2 @@
-Fix #10871: Mark enum tag type as erroneous when base type is invalid (#10912)
-f7aa167936aebeb22b57c5dcfd5bce057e36abd4
+[Metal] Enable frame buffer fetch (#10981)
+bfd7fb4321dac2c3f1ceeced75511759e1fc59fd
