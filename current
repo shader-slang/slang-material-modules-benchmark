@@ -1,2 +1,2 @@
-[Metal] Enable frame buffer fetch (#10981)
-bfd7fb4321dac2c3f1ceeced75511759e1fc59fd
+Fix SPIR-V layout-sensitive type memoization (#11009)
+b499c0009ff3f5a8988b8bbf4782dfcc4eebd662
