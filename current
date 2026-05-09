@@ -1,2 +1,2 @@
-Fix SPIR-V layout-sensitive type memoization (#11009)
-b499c0009ff3f5a8988b8bbf4782dfcc4eebd662
+Avoid dead default-init in legalizeDefUse hoists (#11011)
+297ce60359e1fc773e82e1b15df86553a24ee532
