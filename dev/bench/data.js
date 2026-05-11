@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1778526693399,
+  "lastUpdate": 1778537766254,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -99460,6 +99460,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2499.02625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ca0bfa32b6363e55b4038df3154cabf6e8dc63ae",
+          "message": "[WIP] Add CI workflow to verify each CMake option compiles at its non-default value (#10945)\n\nhttps://github.com/shader-slang/slang/commit/9cf28339a8c5232f7b28d8db569ffbe0e4452cd1",
+          "timestamp": "2026-05-11T15:02:53-07:00",
+          "tree_id": "79064e752f45721f12a66b914de293df2b9f2f8a",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ca0bfa32b6363e55b4038df3154cabf6e8dc63ae"
+        },
+        "date": 1778537758277,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4518.375000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1654.2050000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1678.7649999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4489.256875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1691.395,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1652.2225,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 2518.2931250000006,
             "unit": "milliseconds"
           }
         ]
