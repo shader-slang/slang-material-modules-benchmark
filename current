@@ -1,2 +1,2 @@
-Diagnose static const global initialized from non-const expression (fixes #8550) (#10925)
-4656c48411fa4e83900abc706de1522ff024c667
+[WIP] Add CI workflow to verify each CMake option compiles at its non-default value (#10945)
+9cf28339a8c5232f7b28d8db569ffbe0e4452cd1
