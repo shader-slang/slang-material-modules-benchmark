@@ -1,2 +1,2 @@
-Downgrade GitHub CPU only instruction set to workaround intermittent failures (#11105)
-63207ece82420eeb0f9a606b0739b7d8534a6662
+Diagnose static const global initialized from non-const expression (fixes #8550) (#10925)
+4656c48411fa4e83900abc706de1522ff024c667
