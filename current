@@ -1,2 +1,2 @@
-Add severity comment to generated rich diagnostic structs (#11123)
-4dc6d2f7fdadc8cdb5d368c3074900ef85855ccf
+Diagnose class type instantiation instead of crashing (#11058)
+56f96f96c7990b9d8c17ef298301ab9fe41d2529
