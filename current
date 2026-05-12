@@ -1,2 +1,2 @@
-[WIP] Add CI workflow to verify each CMake option compiles at its non-default value (#10945)
-9cf28339a8c5232f7b28d8db569ffbe0e4452cd1
+Add severity comment to generated rich diagnostic structs (#11123)
+4dc6d2f7fdadc8cdb5d368c3074900ef85855ccf
