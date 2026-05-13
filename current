@@ -1,2 +1,2 @@
-Fix invalid SPIR-V on descriptor-heap RW structured buffer struct access (#11047)
-5990df4895f2fc92ceff189590d4138708569a0a
+scaler: evict orphan VMs that never went busy (#11120)
+25faf32573307234d2a8553dbd7114ad78d50918
