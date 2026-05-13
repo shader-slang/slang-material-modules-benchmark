@@ -1,2 +1,2 @@
-ci: remove merge_group trigger from CMake Options workflow (#11138)
-091588a28f3d05816c8fbc35b0da13afe31a3502
+Detect enumerator overflow in enum declarations (#11121)
+f1c644f11dc201c8282e125cff8235d5f8981fce
