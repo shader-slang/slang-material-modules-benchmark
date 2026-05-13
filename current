@@ -1,2 +1,2 @@
-Detect enumerator overflow in enum declarations (#11121)
-f1c644f11dc201c8282e125cff8235d5f8981fce
+Fix invalid SPIR-V on descriptor-heap RW structured buffer struct access (#11047)
+5990df4895f2fc92ceff189590d4138708569a0a
