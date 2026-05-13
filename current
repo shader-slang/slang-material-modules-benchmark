@@ -1,2 +1,2 @@
-Diagnose class type instantiation instead of crashing (#11058)
-56f96f96c7990b9d8c17ef298301ab9fe41d2529
+ci: remove merge_group trigger from CMake Options workflow (#11138)
+091588a28f3d05816c8fbc35b0da13afe31a3502
