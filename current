@@ -1,2 +1,2 @@
-Warn when synthesized dadd/dzero are empty for custom Differential types (#10921)
-db41f433ccc1d66b82efc6d7c620f26a3b3cc8c9
+Fix autodiff annotation cloning during linking (#11072)
+5bce8a3f8f31848aa5be3efdf036692301d8b13e
