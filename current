@@ -1,2 +1,2 @@
-Print filename and line number when SLANG_ASSERT fail (#11077)
-db2a2811c74a72a833ee4b9d5223f42e705c7680
+Deduplicate SPIR-V annotation instructions (#11114)
+b1d4f75e63fcb6006059302579f47ef797a726fd
