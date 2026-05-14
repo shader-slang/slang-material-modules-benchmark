@@ -1,2 +1,2 @@
-Deduplicate SPIR-V annotation instructions (#11114)
-b1d4f75e63fcb6006059302579f47ef797a726fd
+Reject OutputIndices with invalid element type (#10975)
+9e0c8b9d4beac1ff8b3ddcb96aa7e650183d3670
