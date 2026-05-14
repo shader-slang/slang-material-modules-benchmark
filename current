@@ -1,2 +1,2 @@
-Reject OutputIndices with invalid element type (#10975)
-9e0c8b9d4beac1ff8b3ddcb96aa7e650183d3670
+Warn when synthesized dadd/dzero are empty for custom Differential types (#10921)
+db41f433ccc1d66b82efc6d7c620f26a3b3cc8c9
