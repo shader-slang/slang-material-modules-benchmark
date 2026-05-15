@@ -1,2 +1,2 @@
-Fix autodiff annotation cloning during linking (#11072)
-5bce8a3f8f31848aa5be3efdf036692301d8b13e
+Add shader coverage host binding metadata (#11080)
+88a7d7da8bf651b8d759a48350059a79500fb20e
