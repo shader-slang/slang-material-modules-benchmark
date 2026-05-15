@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1778863752183,
+  "lastUpdate": 1778868267998,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -100315,6 +100315,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1663.6412500000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "b76b877ad8adce891207da5088a6c739a96946d9",
+          "message": "PR review: tighter evidence gate; opus on highest-leverage subagents (#11139)\n\nhttps://github.com/shader-slang/slang/commit/cd009fe4a716d70eec40310dca3c2f15d625ff87",
+          "timestamp": "2026-05-15T11:04:07-07:00",
+          "tree_id": "15173e98b769a37911f01302b683556f63a7f284",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/b76b877ad8adce891207da5088a6c739a96946d9"
+        },
+        "date": 1778868258733,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2677.1656249999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1070.595,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1070.32625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2651.5131249999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1067.3300000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1070.07125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1668.4087499999998,
             "unit": "milliseconds"
           }
         ]
