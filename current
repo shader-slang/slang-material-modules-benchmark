@@ -1,2 +1,2 @@
-Add shader coverage host binding metadata (#11080)
-88a7d7da8bf651b8d759a48350059a79500fb20e
+tools/coverage-html: accept llvm-cov JSON as input + Region column (#11084)
+1d63c34ea481787de7c8c8d8c0574043bd40168b
