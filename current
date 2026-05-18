@@ -1,2 +1,2 @@
-Update SPIRV-Tools and SPIRV-Headers to latest versions (#11188)
-22be091d4324ca6740fbcc4ef4fd14abf09746d5
+ci: add apt.llvm.org repo for versioned clang install (#11189)
+0dcaeb0f58f3cc727889ace6339b55f19d650721
