@@ -1,2 +1,2 @@
-Warn when the same variable is passed to aliased out/inout parameters (#11151)
-77209700275c5e9714a6e9c8f986c5178a0012b3
+Update SPIRV-Tools and SPIRV-Headers to latest versions (#11188)
+22be091d4324ca6740fbcc4ef4fd14abf09746d5
