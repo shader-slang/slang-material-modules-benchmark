@@ -1,2 +1,2 @@
-Enable WGSL ByteAddressBuffer.Load and related buffer access support (#11167)
-f4bf8c8ae49963bfd25b72c6982c1f05ec773f2e
+ci: bake gdb into linux-gpu-ci container (v1.6.0) (#11219)
+36deb481e7a1ac5454f89d31ae10952544eec0aa
