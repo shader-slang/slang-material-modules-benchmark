@@ -1,2 +1,2 @@
-Add WaveGetWaveIndex builtin (#11192)
-7dd70f15b68fb30dae58e168a82a34e4dcbf7a8c
+Fix WGSL emitter: emit u64 instead of uint64_t for UInt64Type (#11164)
+704de06f54287edacbead7ed24943839b2a24123
