@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1779247743972,
+  "lastUpdate": 1779270031821,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -101113,6 +101113,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2505.885,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "5ca046824684843d0cbd8252b3fda1309238c7f3",
+          "message": "linalg: fix implementation of cooperative vector VectorAccumulate (#11213)\n\nhttps://github.com/shader-slang/slang/commit/6a5ae04d0fb9f9529393a8d9579fc678ed71c5e7",
+          "timestamp": "2026-05-20T02:40:12-07:00",
+          "tree_id": "5aa81008d80bcd1e3261f5b6d965d801fa01bafe",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/5ca046824684843d0cbd8252b3fda1309238c7f3"
+        },
+        "date": 1779270022776,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2654.728124999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1069.251875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1066.641875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2622.8575,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1066.895625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1063.0306249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1653.7875,
             "unit": "milliseconds"
           }
         ]
