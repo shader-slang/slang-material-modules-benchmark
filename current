@@ -1,2 +1,2 @@
-Extend shader coverage source metadata (#11177)
-1d3d077721d30750b85d8bc09fd7cbe97baccf54
+Enable WGSL ByteAddressBuffer.Load and related buffer access support (#11167)
+f4bf8c8ae49963bfd25b72c6982c1f05ec773f2e
