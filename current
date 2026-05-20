@@ -1,2 +1,2 @@
-Fix slang-test launching problem on WSL (#11212)
-c6d49b8abd40a30162fdbe341fc5231d8c1f1afc
+Extend shader coverage source metadata (#11177)
+1d3d077721d30750b85d8bc09fd7cbe97baccf54
