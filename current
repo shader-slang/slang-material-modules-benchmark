@@ -1,2 +1,2 @@
-Fix SPIR-V void pointer array stride (#11110)
-9b044ad46588ab111c4acbd4ed9f0159418f9abc
+Require fp8 render feature for CUDA tests (#11222)
+184d9aa410da1478b65734670765066a920a5aa1
