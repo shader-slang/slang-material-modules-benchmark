@@ -1,2 +1,2 @@
-ci/rtx-remix-nightly: drop ngx_sdk_dlfg from packman pull (#11229)
-4c4e8d388c27ed0a2662c9fadbc3eeb940990ea7
+Emit default ray payload access qualifiers for HLSL SM 6.7+ (#11224)
+bf714d55b7795baa18ed5cbfcc5ad1bc8f9534e9
