@@ -1,2 +1,2 @@
-Enable optional WebGPU development on Linux (#11206)
-a2ad34d7ae92d8354b0efd60e33fc1308c822a5e
+Fix SPIR-V void pointer array stride (#11110)
+9b044ad46588ab111c4acbd4ed9f0159418f9abc
