@@ -1,2 +1,2 @@
-Emit default ray payload access qualifiers for HLSL SM 6.7+ (#11224)
-bf714d55b7795baa18ed5cbfcc5ad1bc8f9534e9
+Enable optional WebGPU development on Linux (#11206)
+a2ad34d7ae92d8354b0efd60e33fc1308c822a5e
