@@ -1,2 +1,2 @@
-Require fp8 render feature for CUDA tests (#11222)
-184d9aa410da1478b65734670765066a920a5aa1
+Verify Vulkan SDK checksum in GPU CI image (#11238)
+acfb1379f383dab9dca4c4608f60909f30ad03d9
