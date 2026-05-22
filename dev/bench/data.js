@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1779400725230,
+  "lastUpdate": 1779468180221,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -101705,6 +101705,65 @@ window.BENCHMARK_DATA = {
           "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/2719842261e8d5a1a318d991062c78390aed104f"
         },
         "date": 1779400715982,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2713.2431250000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1093.1374999999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1087.624375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2685.03375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1089.2956250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1086.189375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1691.7412500000003,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "158105547+swoods-nv@users.noreply.github.com",
+            "name": "Shannon Woods",
+            "username": "swoods-nv"
+          },
+          "committer": {
+            "email": "noreply@github.com",
+            "name": "GitHub",
+            "username": "web-flow"
+          },
+          "distinct": true,
+          "id": "1bfb1630c81ece037c4b9636519a5a1489d05063",
+          "message": "Merge pull request #3 from shader-slang/add-ai-assisted-contributions\n\nAdd ai assisted contributions",
+          "timestamp": "2026-05-22T12:42:42-04:00",
+          "tree_id": "73088cb7c633be7ccc81c2cea58b480e82dd4365",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/1bfb1630c81ece037c4b9636519a5a1489d05063"
+        },
+        "date": 1779468171733,
         "tool": "customSmallerIsBetter",
         "benches": [
           {
