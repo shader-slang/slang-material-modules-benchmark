@@ -1,2 +1,2 @@
-Verify Vulkan SDK checksum in GPU CI image (#11238)
-acfb1379f383dab9dca4c4608f60909f30ad03d9
+Use slang-build skill in agent guidance (#11263)
+fd6aa89a2ab267da204f3c1c7a91412fe9c65c64
