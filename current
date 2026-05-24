@@ -1,2 +1,2 @@
-Add tmux option to worktree helper (#11268)
-9589cd4073876251aa67dff49e3ac7ad5f8d97f6
+Initialize worktree submodules concurrently (#11269)
+a99af6e7fe67e6d17ab27d66d3410e16ae73b038
