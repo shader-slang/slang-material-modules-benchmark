@@ -1,2 +1,2 @@
-Validate VM bytecode offsets (#11261)
-803a4180ba46b3737c6efcffc85f3ae10a116fb3
+Fix spurious GL_EXT_texture_shadow_lod requirement for baseline shadow LOD types (#11156)
+18e72e1b67ec7196fadeaace9442a7e3fc30e894
