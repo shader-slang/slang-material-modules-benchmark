@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1779715522248,
+  "lastUpdate": 1779717915216,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -102141,6 +102141,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2555.878125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "43acf3064377dd6800029135a04acc47584b2eb0",
+          "message": "Fix spurious GL_EXT_texture_shadow_lod requirement for baseline shadow LOD types (#11156)\n\nhttps://github.com/shader-slang/slang/commit/18e72e1b67ec7196fadeaace9442a7e3fc30e894",
+          "timestamp": "2026-05-25T07:04:54-07:00",
+          "tree_id": "7aeadebb6b83cb2335a54b198efb8193330d5964",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/43acf3064377dd6800029135a04acc47584b2eb0"
+        },
+        "date": 1779717904642,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2651.6256249999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1070.6893750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1069.641875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2628.404375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1065.7643750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1071.1443749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1675.1181250000002,
             "unit": "milliseconds"
           }
         ]
