@@ -1,2 +1,2 @@
-Fix submodule sync error (#11283)
-98067e48104c7b536cac02492ee2ff2729c9340c
+ci: bump linux-gpu-ci container to v1.6.1 (#11274)
+3b9d0d627cbf9bc605163f55b65a81cd9edd8480
