@@ -1,2 +1,2 @@
-Fix spurious GL_EXT_texture_shadow_lod requirement for baseline shadow LOD types (#11156)
-18e72e1b67ec7196fadeaace9442a7e3fc30e894
+Fix submodule sync error (#11283)
+98067e48104c7b536cac02492ee2ff2729c9340c
