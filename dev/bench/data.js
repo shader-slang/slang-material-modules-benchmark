@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1779735744053,
+  "lastUpdate": 1779764625222,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -102312,6 +102312,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1690.3825000000002,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "61efae72dd35e19315cab2a1618824a1936c7af5",
+          "message": "Fix buffer overflow and dead code in RTTI list copyArray (#11239)\n\nhttps://github.com/shader-slang/slang/commit/a5cc7ebdf25d73f812e3035dee2d2efb88e57ee2",
+          "timestamp": "2026-05-25T20:03:28-07:00",
+          "tree_id": "31350d70fdde1ba2bec9d67014f518570e9cab28",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/61efae72dd35e19315cab2a1618824a1936c7af5"
+        },
+        "date": 1779764616826,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2665.1949999999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1069.490625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1071.261875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2630.8975000000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1067.206875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1066.499375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1662.3775,
             "unit": "milliseconds"
           }
         ]
