@@ -1,2 +1,2 @@
-Validate replay blob hashes (#11259)
-944da82490d47a8737740cae7cca23797406d40b
+Use variadic layer sizes for neural shared memory (#11255)
+38aaf2e7d00a2af4d1e5cf634cc3feed3dc107b7
