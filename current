@@ -1,2 +1,2 @@
-Use variadic layer sizes for neural shared memory (#11255)
-38aaf2e7d00a2af4d1e5cf634cc3feed3dc107b7
+Implement SP #039: Add `__func_extension` for flexible custom derivatives (#10827)
+65d2b9e3a649a32815bbbd419cb23eeb7a185d91
