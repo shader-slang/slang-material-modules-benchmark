@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1779825452598,
+  "lastUpdate": 1779828644123,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -102654,6 +102654,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1718.035625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "47e5027f26b0c22cb8b897af28ae7ee732359fbe",
+          "message": "Implement SP #039: Add `__func_extension` for flexible custom derivatives (#10827)\n\nhttps://github.com/shader-slang/slang/commit/65d2b9e3a649a32815bbbd419cb23eeb7a185d91",
+          "timestamp": "2026-05-26T13:50:14-07:00",
+          "tree_id": "581961643e00e68025c469b4565289753ee06c82",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/47e5027f26b0c22cb8b897af28ae7ee732359fbe"
+        },
+        "date": 1779828634408,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2672.524375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1090.059375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1083.10125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2652.8531249999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1083.245625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1082.54,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1684.5000000000002,
             "unit": "milliseconds"
           }
         ]
