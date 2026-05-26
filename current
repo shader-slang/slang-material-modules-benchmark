@@ -1,2 +1,2 @@
-Fix buffer overflow and dead code in RTTI list copyArray (#11239)
-a5cc7ebdf25d73f812e3035dee2d2efb88e57ee2
+Guard serialized IR operand indices against out-of-bounds access (#11251)
+ac9c20bea6d40310b3cc31d60dc65d6fa6987f9d
