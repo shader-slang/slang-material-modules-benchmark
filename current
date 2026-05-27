@@ -1,2 +1,2 @@
-Validate repro offsets before loading to prevent out-of-bounds reads (#11250)
-28aecc53e967b7d8d5bd67ed729fa6c72630450f
+Tighten CI Git trust and sccache setup (#11302)
+43ec1a3081562d6ad210982e013d59ad228d55de
