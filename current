@@ -1,2 +1,2 @@
-Support stdin input in slangc (#11305)
-37f0f9d15e5f51a714f95553bc6215b95ef709e4
+ci: skip Claude PR review for draft PRs (#11295)
+c01b0b63f4657a91926a5013319a71eb732ecc18
