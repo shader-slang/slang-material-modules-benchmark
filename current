@@ -1,2 +1,2 @@
-Open existential through ModifiedType in member lookup (#11273)
-bd95ee134e869a01cabe7f99affa972eed7c725c
+Support stdin input in slangc (#11305)
+37f0f9d15e5f51a714f95553bc6215b95ef709e4
