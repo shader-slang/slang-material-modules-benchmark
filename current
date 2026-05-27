@@ -1,2 +1,2 @@
-ci: skip Claude PR review for draft PRs (#11295)
-c01b0b63f4657a91926a5013319a71eb732ecc18
+Validate VM bytecode operand bounds (#11309)
+a02423373359c5785998d7d523a261a044059abb
