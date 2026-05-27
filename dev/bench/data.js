@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1779828644123,
+  "lastUpdate": 1779841632874,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -102711,6 +102711,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1684.5000000000002,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "3031df6e79650a490b34c85b8db91258669b8935",
+          "message": "Add PR review mode to worktree helper (#11301)\n\nhttps://github.com/shader-slang/slang/commit/cdf0bd1a0d34b832c97a77d1598b98fcad90a1e6",
+          "timestamp": "2026-05-26T17:26:56-07:00",
+          "tree_id": "2e90abb54da1bfd9fcf24693ddf5e51edceae035",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/3031df6e79650a490b34c85b8db91258669b8935"
+        },
+        "date": 1779841623996,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2641.366875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1070.0762500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1066.5793749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2616.2762500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1066.08375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1067.399375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1665.0906249999998,
             "unit": "milliseconds"
           }
         ]
