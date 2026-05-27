@@ -1,2 +1,2 @@
-Limit replay stream array decoding (#11256)
-9e0acfecc7a13683e59becc2fa9ccc349058a0ee
+Validate repro offsets before loading to prevent out-of-bounds reads (#11250)
+28aecc53e967b7d8d5bd67ed729fa6c72630450f
