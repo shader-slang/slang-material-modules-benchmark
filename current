@@ -1,2 +1,2 @@
-Emit macro expansion stack in diagnostics (#6165) (#11116)
-b6ca5682d0e95fca2d32ffb38b83aa3f41249549
+Consolidate generic constraint solving in a monolithic worklist (#11210)
+79ac457f00c6eaf8f581598998324b8542bf7588
