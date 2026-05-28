@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1779973061429,
+  "lastUpdate": 1779974569623,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -103452,6 +103452,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2540.269375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "4d2f76a8c2f7cb93a03f8aba2260af9fef24b39d",
+          "message": "Use VS 2026 for CMake options workflow (#11321)\n\nhttps://github.com/shader-slang/slang/commit/e4c7947a2c145069a50b7de37155a6c1b621e4c8",
+          "timestamp": "2026-05-28T06:20:59-07:00",
+          "tree_id": "05c60390c418ebb519c2de7714adf01262843157",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/4d2f76a8c2f7cb93a03f8aba2260af9fef24b39d"
+        },
+        "date": 1779974560877,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2691.1087500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1094.2706249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1089.2587500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2673.0756249999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1081.55875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1087.57375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1693.4074999999998,
             "unit": "milliseconds"
           }
         ]
