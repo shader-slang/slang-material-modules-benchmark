@@ -1,2 +1,2 @@
-Remove deprecated SPIRV-Tools optimizer passes (#11312)
-74459f665bc4f2cbee40dce89970cf50a59d8b19
+Enable KHR barycentric features during Vulkan device init (#11298)
+888fb5daf4feb368a1aa5c1cb64794a66420186b
