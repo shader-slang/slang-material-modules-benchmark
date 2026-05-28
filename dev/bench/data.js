@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1779931659265,
+  "lastUpdate": 1779936541981,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -103281,6 +103281,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2513.63,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "457789d9f873eece8eff79c553797b3e353777e1",
+          "message": "Enable KHR barycentric features during Vulkan device init (#11298)\n\nhttps://github.com/shader-slang/slang/commit/888fb5daf4feb368a1aa5c1cb64794a66420186b",
+          "timestamp": "2026-05-27T19:48:45-07:00",
+          "tree_id": "ea60ba855dc219bfbc8337812ebfbf0fc8b5f668",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/457789d9f873eece8eff79c553797b3e353777e1"
+        },
+        "date": 1779936533427,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2667.556875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1089.7350000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1088.805,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2645.45875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1087.99125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1084.4056249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1704.1018749999998,
             "unit": "milliseconds"
           }
         ]
