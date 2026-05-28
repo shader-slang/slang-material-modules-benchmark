@@ -1,2 +1,2 @@
-Use VS 2026 for CMake options workflow (#11321)
-e4c7947a2c145069a50b7de37155a6c1b621e4c8
+Emit macro expansion stack in diagnostics (#6165) (#11116)
+b6ca5682d0e95fca2d32ffb38b83aa3f41249549
