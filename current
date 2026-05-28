@@ -1,2 +1,2 @@
-Add Metal neural cooperative matrix support (#11099)
-d50a8340f0ef17e975bb15bdd04723e908e0a062
+Remove deprecated SPIRV-Tools optimizer passes (#11312)
+74459f665bc4f2cbee40dce89970cf50a59d8b19
