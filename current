@@ -1,2 +1,2 @@
-Revert DXC cooperative vector test updates (#11354)
-9e16a6b7cb7df032be9632045be3b881e6606fd2
+Fix the broken CI (#11360)
+4753161ba9ec9eb83654406f4f1f6f74297a3c83
