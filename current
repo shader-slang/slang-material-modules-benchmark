@@ -1,2 +1,2 @@
-Fix printf in LLVM IR emitter when it is passed structs that are not from MakeStruct (#11159)
-bd5e45064680eb34cf8363c3570eb73a385aab44
+Revert DXC cooperative vector test updates (#11354)
+9e16a6b7cb7df032be9632045be3b881e6606fd2
