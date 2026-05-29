@@ -1,2 +1,2 @@
-Fix the broken CI (#11360)
-4753161ba9ec9eb83654406f4f1f6f74297a3c83
+Fix child and decoration transfer loop in type legalization (#11092)
+5e72b40eb1c96de3256abb950563cf83e8f57e2e
