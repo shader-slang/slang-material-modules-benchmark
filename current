@@ -1,2 +1,2 @@
-Fix child and decoration transfer loop in type legalization (#11092)
-5e72b40eb1c96de3256abb950563cf83e8f57e2e
+Proper fix for coopvec test failures on CI (#11361)
+8b789681d2228ff536b8a6c196d4a4b714d3846f
