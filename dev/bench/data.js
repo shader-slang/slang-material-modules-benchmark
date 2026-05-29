@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1780000523705,
+  "lastUpdate": 1780020749191,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -103737,6 +103737,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1772.7125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "7d7124de22ada0498dcd767212092e2c5432b600",
+          "message": "Fix printf in LLVM IR emitter when it is passed structs that are not from MakeStruct (#11159)\n\nhttps://github.com/shader-slang/slang/commit/bd5e45064680eb34cf8363c3570eb73a385aab44",
+          "timestamp": "2026-05-28T19:12:07-07:00",
+          "tree_id": "2406135b418ab48e5f2d1b5d8e3423ea29d5616d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/7d7124de22ada0498dcd767212092e2c5432b600"
+        },
+        "date": 1780020739004,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4556.686874999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1702.64875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1704.1737499999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4496.414375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1738.05,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1702.5537499999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 2616.833125,
             "unit": "milliseconds"
           }
         ]
