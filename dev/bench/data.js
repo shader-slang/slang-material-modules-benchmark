@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1780056386032,
+  "lastUpdate": 1780064260875,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -103908,6 +103908,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1765.4962500000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "a109289d1419fb45ad642dd7bd976c554b205a4e",
+          "message": "Fix child and decoration transfer loop in type legalization (#11092)\n\nhttps://github.com/shader-slang/slang/commit/5e72b40eb1c96de3256abb950563cf83e8f57e2e",
+          "timestamp": "2026-05-29T07:17:19-07:00",
+          "tree_id": "9ea261bc6f69430ec6c9f3fe7f3b3eb826239f19",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/a109289d1419fb45ad642dd7bd976c554b205a4e"
+        },
+        "date": 1780064251455,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4508.2825,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1693.5356249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1687.311875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4486.3306250000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1687.5774999999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1686.7187500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 2599.945625,
             "unit": "milliseconds"
           }
         ]
