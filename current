@@ -1,2 +1,2 @@
-ci/coverage-windows: skip /d1trimfile on coverage builds; sanity-check Cobertura (#11382)
-30daa50d2ac9a86b9a319ff6d83adabf07692b50
+slang-test: Reorder init for disabled LLVM backend (#11391)
+670f6bfa682e273f88755190b5800b7f468fa804
