@@ -1,2 +1,2 @@
-autodiff: require carrying argument for Call in carryNonTrivialDiffSet (#11286)
-d59284fe889a27413a617dbae297dafc6abcf282
+ci/coverage-windows: skip /d1trimfile on coverage builds; sanity-check Cobertura (#11382)
+30daa50d2ac9a86b9a319ff6d83adabf07692b50
