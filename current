@@ -1,2 +1,2 @@
-Default implicit SPIR-V SER to EXT (#11343)
-ea11331b6bf2eca47d46bae278c2023b727702d0
+Fix crash when ConstantBuffer<T>.Handle is used with spvDescriptorHeapEXT (#11037) (#11211)
+aaa5f89dd1a8e9ba0ced7c27a7d343ebbc55117c
