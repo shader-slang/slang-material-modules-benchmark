@@ -1,2 +1,2 @@
-ci-agentic-tests-nightly: drop wrapper, use slang-test natively, suppress 8 known failures (#11414)
-fd4f6c7a673073562746c38b1bc073d06ca0eb88
+Improve LLM-generated design-doc workflow and grammar literals (#11363)
+7cbbcfea26e05f9d84acab376dedf742ae50fee3
