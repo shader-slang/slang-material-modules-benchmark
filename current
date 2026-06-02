@@ -1,2 +1,2 @@
-Fix crash when ConstantBuffer<T>.Handle is used with spvDescriptorHeapEXT (#11037) (#11211)
-aaa5f89dd1a8e9ba0ced7c27a7d343ebbc55117c
+ci-agentic-tests-nightly: drop wrapper, use slang-test natively, suppress 8 known failures (#11414)
+fd4f6c7a673073562746c38b1bc073d06ca0eb88
