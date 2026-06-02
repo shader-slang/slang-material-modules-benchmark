@@ -1,2 +1,2 @@
-Lower bash version requirement (#11411)
-ec8f06e939ab9a39169dd43d6cf8e020ffd46f13
+Default implicit SPIR-V SER to EXT (#11343)
+ea11331b6bf2eca47d46bae278c2023b727702d0
