@@ -1,2 +1,2 @@
-Improve LLM-generated design-doc workflow and grammar literals (#11363)
-7cbbcfea26e05f9d84acab376dedf742ae50fee3
+ci-slang-coverage: enable agentic suite with -expected-failure-list (#11416)
+1df4c5766d0f04cd301441999470e7aa1925e3db
