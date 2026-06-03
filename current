@@ -1,2 +1,2 @@
-ci-slang-coverage: enable agentic suite with -expected-failure-list (#11416)
-1df4c5766d0f04cd301441999470e7aa1925e3db
+Stack overflow in any-value interface dependency walk (#11412)
+2ad0ee2f68e4dcc7f2c86072eb636d1c29ebcf34
