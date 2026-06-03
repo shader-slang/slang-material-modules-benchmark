@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1780447642715,
+  "lastUpdate": 1780460155664,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -104820,6 +104820,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2675.496875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "3d2c4da3e04ff4abe1621e12c1f6e38a35df73fb",
+          "message": "Gate SPIRV-Tools MergeReturnPass behind CMake option (#11237)\n\nhttps://github.com/shader-slang/slang/commit/adc996670ec281aa8a4ee131f30b324648cbbe60",
+          "timestamp": "2026-06-02T21:15:32-07:00",
+          "tree_id": "55559766f0a92f2ab072623bd8fa701c7e67b2ee",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/3d2c4da3e04ff4abe1621e12c1f6e38a35df73fb"
+        },
+        "date": 1780460145344,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4846.834999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1856.393125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1856.538125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 5002.51875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1836.779375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1860.044375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 2731.1543750000005,
             "unit": "milliseconds"
           }
         ]
