@@ -1,2 +1,2 @@
-Fix descriptor heap acceleration structure loads (#11209)
-726e0973b3f547c7729b86f122ff7aef8322bace
+Fix unaligned byte-address descriptor loads (#11430)
+85c65f862c045c929814e1abe6b31828d78030ed
