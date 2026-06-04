@@ -1,2 +1,2 @@
-Fix unaligned byte-address descriptor loads (#11430)
-85c65f862c045c929814e1abe6b31828d78030ed
+Metal: lower pointer-to-pointer in buffer types via buffer-element-type framework (#11331)
+564ac9f050d6569efd773e2f74e7d067a4e54baa
