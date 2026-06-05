@@ -1,2 +1,2 @@
-Build slang as static lib for emscripten/wasm (#11481)
-52339028a2aa703271533454c6b9528a534bac31
+Fix compiler hang with recursive function (#11112)
+5230a81f2fe68afe5cb8d04a1b09d56476f6b960
