@@ -1,2 +1,2 @@
-Metal: lower pointer-to-pointer in buffer types via buffer-element-type framework (#11331)
-564ac9f050d6569efd773e2f74e7d067a4e54baa
+Build slang as static lib for emscripten/wasm (#11481)
+52339028a2aa703271533454c6b9528a534bac31
