@@ -1,2 +1,2 @@
-Include identifier name in 'expected a type' diagnostic (#9200) (#11419)
-71e78588f73609a1d8d472629b3f3542a74e9199
+Diagnose assignment to indexed property instead of ICE (#7160) (#11418)
+e2bb86bad99385790cb7d24655fc9d090346a4ca
