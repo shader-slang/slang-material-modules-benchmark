@@ -1,2 +1,2 @@
-Add regression test for autodiff recursive function hang (#10066) (#11417)
-1fc15d23f67005325103a888a175a96ba1782ac2
+Guard serialized IR flat table reads (#11514)
+142e00d9342eccf0613ed1b18d81cb003c5d6f09
