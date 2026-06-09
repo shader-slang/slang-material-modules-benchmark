@@ -1,2 +1,2 @@
-Document principled problem-solving methodology and required PR description format (#11369)
-a005a9d15b71e5fd037e5c6636624e7249c1bfd1
+Fix NonUniform decoration propagation to resource operands in SPIR-V (#10656)
+0658ed79219d6e4ee526182104ce71d476f787be
