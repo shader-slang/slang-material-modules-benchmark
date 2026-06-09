@@ -1,2 +1,2 @@
-Diagnose assignment to indexed property instead of ICE (#7160) (#11418)
-e2bb86bad99385790cb7d24655fc9d090346a4ca
+Fix compiler performance regressions from auto-diff refactor (#11491)
+70dda10296b42d5e08250270e9d88a5680af00b0
