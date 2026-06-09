@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1781003137460,
+  "lastUpdate": 1781014371693,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -105447,6 +105447,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2662.086875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "feaaf7914c741109fa2b24fa31c23e1af69c3d35",
+          "message": "Guard serialized IR flat table reads (#11514)\n\nhttps://github.com/shader-slang/slang/commit/142e00d9342eccf0613ed1b18d81cb003c5d6f09",
+          "timestamp": "2026-06-09T07:12:26-07:00",
+          "tree_id": "02099979284b785fac649bfaaf0321f4fa8aacd6",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/feaaf7914c741109fa2b24fa31c23e1af69c3d35"
+        },
+        "date": 1781014362072,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4443.213125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1707.3912500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1679.5643750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4438.550625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1676.8281249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1704.27,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 2658.9218749999995,
             "unit": "milliseconds"
           }
         ]
