@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1781047571169,
+  "lastUpdate": 1781064601284,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -105618,6 +105618,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2655.47875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "d5ba4ca19f657d1c0db0ff17a080c1a1cd49a13f",
+          "message": "docs: add Code Style and Review Conventions to instruction files (#11530)\n\nhttps://github.com/shader-slang/slang/commit/29e69b0bf626f87500be73a7fb3764db25658c66",
+          "timestamp": "2026-06-09T21:09:40-07:00",
+          "tree_id": "ad4f324899a04445f27b93c901c4802f6914f16d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/d5ba4ca19f657d1c0db0ff17a080c1a1cd49a13f"
+        },
+        "date": 1781064591115,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4433.4574999999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1666.788125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1675.4775000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4441.017499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1689.425625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1722.3849999999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 2715.64625,
             "unit": "milliseconds"
           }
         ]
