@@ -1,2 +1,2 @@
-Fix NonUniform decoration propagation to resource operands in SPIR-V (#10656)
-0658ed79219d6e4ee526182104ce71d476f787be
+docs: add Code Style and Review Conventions to instruction files (#11530)
+29e69b0bf626f87500be73a7fb3764db25658c66
