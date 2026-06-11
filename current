@@ -1,2 +1,2 @@
-Fix #11543: emit HLSL mesh-shader output qualifiers exactly once (#11544)
-b2ec9a4f764b08839fc73350b953eeb2a3d2107c
+[Metal] Fix `xcrun` overriding `-metal-path` (#11459)
+d92b15e023a550f9c076380ed42b066ddf821f1d
