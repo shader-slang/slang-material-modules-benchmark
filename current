@@ -1,2 +1,2 @@
-Disable coderabbit auto-assign-reviewer (#11529)
-9db5ea038d9a7a7620e531bce8181c6977acec51
+Fix #11518: declare VariablePointers capability for Workgroup pointer function signatures (#11521)
+05308fe91e5d77a68797c4bef5c629a22cc1c7b5
