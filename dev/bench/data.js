@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1781155579985,
+  "lastUpdate": 1781187501605,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -105846,6 +105846,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2618.94,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "7c6dfef008a3d9e032353fb21b134bd112e09f1c",
+          "message": "[Metal] Fix `xcrun` overriding `-metal-path` (#11459)\n\nhttps://github.com/shader-slang/slang/commit/d92b15e023a550f9c076380ed42b066ddf821f1d",
+          "timestamp": "2026-06-11T07:17:58-07:00",
+          "tree_id": "a172f1f70f06bc9da3f6378b8de377c21e2a2401",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/7c6dfef008a3d9e032353fb21b134bd112e09f1c"
+        },
+        "date": 1781187491734,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4474.20875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1685.843125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1699.729375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4413.314375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1668.5043750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1670.30625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 2657.9874999999997,
             "unit": "milliseconds"
           }
         ]
