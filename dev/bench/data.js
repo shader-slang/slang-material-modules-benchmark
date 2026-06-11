@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1781137376826,
+  "lastUpdate": 1781142547141,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -105732,6 +105732,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 2634.0512500000004,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "2f50f99005caded1a9e12accc008304f649db7db",
+          "message": "Fix #11518: declare VariablePointers capability for Workgroup pointer function signatures (#11521)\n\nhttps://github.com/shader-slang/slang/commit/05308fe91e5d77a68797c4bef5c629a22cc1c7b5",
+          "timestamp": "2026-06-10T18:48:48-07:00",
+          "tree_id": "050187eb73d177705117057754716934bf271a6b",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/2f50f99005caded1a9e12accc008304f649db7db"
+        },
+        "date": 1781142537785,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 4464.462500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1691.0681249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1651.9200000000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 4458.6225,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 1652.3700000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1658.8850000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 2631.3306249999996,
             "unit": "milliseconds"
           }
         ]
