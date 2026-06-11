@@ -1,2 +1,2 @@
-Fix #11518: declare VariablePointers capability for Workgroup pointer function signatures (#11521)
-05308fe91e5d77a68797c4bef5c629a22cc1c7b5
+Fix #11543: emit HLSL mesh-shader output qualifiers exactly once (#11544)
+b2ec9a4f764b08839fc73350b953eeb2a3d2107c
