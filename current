@@ -1,2 +1,2 @@
-[Metal] Fix `xcrun` overriding `-metal-path` (#11459)
-d92b15e023a550f9c076380ed42b066ddf821f1d
+ci: migrate GitHub Actions off deprecated Node 20 runtime (#11557)
+45c04170f21cd797f1b01b010c2f44a2b91896b4
