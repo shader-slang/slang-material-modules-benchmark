@@ -1,2 +1,2 @@
-Wire all module namespaces before extension header resolution (#11531, #11532) (#11577)
-b33ad4692ea72d388ea46dc68d0d5b1710d3ea44
+Implement scalar layout for Metal device buffers (#11578)
+530eeb7075a26db5b5a5d5c4ac013ed23887ae34
