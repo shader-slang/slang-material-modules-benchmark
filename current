@@ -1,2 +1,2 @@
-Fix #11567: parse C-style trailing-array typedef (#11569)
-ac577c6bcdaa3e7c25ec08b1feaf66dc13db07ed
+Wire all module namespaces before extension header resolution (#11531, #11532) (#11577)
+b33ad4692ea72d388ea46dc68d0d5b1710d3ea44
