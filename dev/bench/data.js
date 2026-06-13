@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1781320982985,
+  "lastUpdate": 1781329328094,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -106131,6 +106131,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 668.2493750000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ae118fe0a9886291b10df5b7e8f9df3e9de90b8f",
+          "message": "Fix #11567: parse C-style trailing-array typedef (#11569)\n\nhttps://github.com/shader-slang/slang/commit/ac577c6bcdaa3e7c25ec08b1feaf66dc13db07ed",
+          "timestamp": "2026-06-12T22:41:51-07:00",
+          "tree_id": "e97b18716bae6b7fe22ebf3aab8ab4e783fb53de",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ae118fe0a9886291b10df5b7e8f9df3e9de90b8f"
+        },
+        "date": 1781329318780,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2112.97375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 563.1175000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 562.0899999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2099.8999999999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 560.6468750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 562.6643750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 659.6406250000001,
             "unit": "milliseconds"
           }
         ]
