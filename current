@@ -1,2 +1,2 @@
-Implement scalar layout for Metal device buffers (#11578)
-530eeb7075a26db5b5a5d5c4ac013ed23887ae34
+Gate check-ci on build job results so broken builds cannot merge (#11585)
+a68b606fbe4d0d46daa789497e3664f58ac873b9
