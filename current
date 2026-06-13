@@ -1,2 +1,2 @@
-Split Falcor workflows: build on build pool, test on internal hosts (#11562)
-eb9403ef595a99c2ff6def1d538dbd7a792d9371
+Fix missing default constructor in shader-coverage examples (#11584)
+88064dfde0f7982f375806e24bde369d745a8ab7
