@@ -1,2 +1,2 @@
-Add must-init (definite assignment) warning for conditionally initialized variables (#11293)
-7432ffa4ea189571a498d481e82f9d8ce337e20b
+test: use line-only manifest check for MetalLib coverage tests (#11610)
+03e1cb7a6ce1627df20d14ebcb865b45e51ea1af
