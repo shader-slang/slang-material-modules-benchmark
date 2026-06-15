@@ -1,2 +1,2 @@
-Gate check-ci on build job results so broken builds cannot merge (#11585)
-a68b606fbe4d0d46daa789497e3664f58ac873b9
+ci: yield bot-authored CI to human PRs (#11549)
+8b86ed2ab515d172ec509e7a6b3d9166ad0a6b35
