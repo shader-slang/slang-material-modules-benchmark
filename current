@@ -1,2 +1,2 @@
-[codex] Remove operator overload type-checking cache (#11614)
-12f67798625ac5df0d6cacf38bdd654f830150bb
+Revert "ci: yield bot-authored CI to human PRs" (#11618)
+5280f1ab4156742b9fd7578e538e3a45ec02ca29
