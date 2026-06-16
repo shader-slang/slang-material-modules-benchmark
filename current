@@ -1,2 +1,2 @@
-Add [NoDiscard] attribute (#11520)
-4ed4aeffb1903b5c654befdf11c72c40196d3881
+Add descriptor-heap ConstantBuffer array-of-matrix regression test (#11483) (#11484)
+3393f1dbaf5352b3553c776e3ba927b488ac4cf7
