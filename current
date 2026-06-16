@@ -1,2 +1,2 @@
-Require all CI needs to succeed (#11619)
-a214f7d1891ec2d0d16df9dfedb23c93b37934fa
+Check [require] capabilities on user-defined derivative functions (#11524)
+d620d71388e2aa4520aa825b76f5dd9326520f1b
