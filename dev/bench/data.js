@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1781569902810,
+  "lastUpdate": 1781575116769,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -106701,6 +106701,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 665.3224999999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "a7a1c2f3596ec391ed0231b0a617d813dbe04be9",
+          "message": "Add abort intrinsic for VK_KHR_shader_abort support (#11542)\n\nhttps://github.com/shader-slang/slang/commit/2f7d61decc70ad2c908f2e83a7de0b1698a76c57",
+          "timestamp": "2026-06-15T18:58:16-07:00",
+          "tree_id": "540d7e6846efb63716786a21f31fd900a2efc642",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/a7a1c2f3596ec391ed0231b0a617d813dbe04be9"
+        },
+        "date": 1781575106474,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2129.810625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 562.296875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 562.7824999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2112.81875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 559.240625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 559.7425000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 655.7093749999999,
             "unit": "milliseconds"
           }
         ]
