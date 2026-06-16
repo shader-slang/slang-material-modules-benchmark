@@ -1,2 +1,2 @@
-Revert "ci: yield bot-authored CI to human PRs" (#11618)
-5280f1ab4156742b9fd7578e538e3a45ec02ca29
+Add abort intrinsic for VK_KHR_shader_abort support (#11542)
+2f7d61decc70ad2c908f2e83a7de0b1698a76c57
