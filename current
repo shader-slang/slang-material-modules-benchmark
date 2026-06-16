@@ -1,2 +1,2 @@
-Check [require] capabilities on user-defined derivative functions (#11524)
-d620d71388e2aa4520aa825b76f5dd9326520f1b
+Integrate check-cmdline-ref into ci.yml, reusing the Linux release artifact (#11589)
+744898760306ea99d94f7ea28865ce7299f93968
