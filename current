@@ -1,2 +1,2 @@
-Integrate check-cmdline-ref into ci.yml, reusing the Linux release artifact (#11589)
-744898760306ea99d94f7ea28865ce7299f93968
+Add bindless resource metadata usage query (#11436)
+5353bc5c3a85e525aa144d8384c398bda8924c92
