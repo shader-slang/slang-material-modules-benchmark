@@ -1,2 +1,2 @@
-examples: fix shader-coverage demo portability (#11623)
-89841d2d51f2c3f43e1f13b516df377cd5ba7aef
+Add [NoDiscard] attribute (#11520)
+4ed4aeffb1903b5c654befdf11c72c40196d3881
