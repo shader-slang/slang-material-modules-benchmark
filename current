@@ -1,2 +1,2 @@
-Fix shader-coverage demo launch on Windows (#11625)
-890f8bef5776975ee34531cbf3504669101f6ec8
+examples: fix shader-coverage demo portability (#11623)
+89841d2d51f2c3f43e1f13b516df377cd5ba7aef
