@@ -1,2 +1,2 @@
-Show argument type mismatch per candidate in overload errors (#7857) (#11576)
-47436ebf69f3e21692df066ce645b1c2f86f0f0f
+Require all CI needs to succeed (#11619)
+a214f7d1891ec2d0d16df9dfedb23c93b37934fa
