@@ -1,2 +1,2 @@
-Include <climits> in slang-parser.cpp for INT_MIN (#11646)
-79f9900969e59c66023ddeab2869318c56ea7402
+Fix #11503: align format-operand encoding with schema (#11504)
+a84f48e6240e66891aece3e43d5e8aa09f9f0d3a
