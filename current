@@ -1,2 +1,2 @@
-Reuse ci.yml artifact for compile regression test; remove standalone workflow (#11635)
-a75dcbf6059cb686dc047fd84d1ef5e3b55ff94c
+Add extras/falcor.sh to test Slang against the public Falcor locally (#11602)
+6805dceb3b37609be41c749757f6eb959673dabe
