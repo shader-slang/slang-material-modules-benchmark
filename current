@@ -1,2 +1,2 @@
-Add benchmark runner label to ci-benchmark-test.yml (#11650)
-55a99446096a797474040b723e596224b413e094
+Fix #11506: accept heap texel pointer as atomic destination (#11507)
+96a24608bef7cf0c780c06393ad9ec124af17756
