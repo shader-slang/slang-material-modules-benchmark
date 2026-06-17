@@ -1,2 +1,2 @@
-Fix #11506: accept heap texel pointer as atomic destination (#11507)
-96a24608bef7cf0c780c06393ad9ec124af17756
+Include <climits> in slang-parser.cpp for INT_MIN (#11646)
+79f9900969e59c66023ddeab2869318c56ea7402
