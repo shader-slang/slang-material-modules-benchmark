@@ -1,2 +1,2 @@
-Split build from test in MDL benchmark CI; drop benchmark runner label (#11640)
-818bbe90d777c4cf230cdd41f9360ab973ea05b4
+Bump slang-rhi to #775 to fix intermittent cmd-query timestamp flake (#11642)
+6713602790bc393438cba64ae2cbc9f11e9f2183
