@@ -1,2 +1,2 @@
-Add extras/falcor.sh to test Slang against the public Falcor locally (#11602)
-6805dceb3b37609be41c749757f6eb959673dabe
+Make native CoopVec differentiable (#11480)
+da319e61ae9246bb5e0025ebfa65ac1de4fb0f29
