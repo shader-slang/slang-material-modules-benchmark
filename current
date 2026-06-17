@@ -1,2 +1,2 @@
-Reuse ci.yml artifact for Falcor tests; remove standalone Falcor build+test workflows (#11605)
-6fac3e6d009e89145a0dbb6a3f93eba33ef8be61
+Reuse ci.yml artifact for compile regression test; remove standalone workflow (#11635)
+a75dcbf6059cb686dc047fd84d1ef5e3b55ff94c
