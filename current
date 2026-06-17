@@ -1,2 +1,2 @@
-Bump slang-rhi to #775 to fix intermittent cmd-query timestamp flake (#11642)
-6713602790bc393438cba64ae2cbc9f11e9f2183
+Add benchmark runner label to ci-benchmark-test.yml (#11650)
+55a99446096a797474040b723e596224b413e094
