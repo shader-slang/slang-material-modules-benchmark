@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1781712441766,
+  "lastUpdate": 1781717708913,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -107670,6 +107670,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 681.914375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ce40cc154c9b43c6df84f96f2b0b469f27dd1a08",
+          "message": "Fix #11506: accept heap texel pointer as atomic destination (#11507)\n\nhttps://github.com/shader-slang/slang/commit/96a24608bef7cf0c780c06393ad9ec124af17756",
+          "timestamp": "2026-06-17T10:32:33-07:00",
+          "tree_id": "5eec0c432d2ed1e9a9f5e4464824e99301433e66",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ce40cc154c9b43c6df84f96f2b0b469f27dd1a08"
+        },
+        "date": 1781717698808,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3682.4312500000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 910.2068750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 911.0887500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3797.1762500000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 956.255,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 953.3299999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1052.6781250000001,
             "unit": "milliseconds"
           }
         ]
