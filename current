@@ -1,2 +1,2 @@
-Fix #11503: align format-operand encoding with schema (#11504)
-a84f48e6240e66891aece3e43d5e8aa09f9f0d3a
+Focused diagnostics for failed generic specialization (#11656)
+146e61da58c6a99ba54df12807d4350c032a7f75
