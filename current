@@ -1,2 +1,2 @@
-CI analytics: surface API failures instead of masking them as healthy data (#11679)
-fd83f62814c69f798dfb8cf9e6b3f3db7818858e
+Add SLANG_ENABLE_SLANG_PROXY CMake option to gate slang proxy outputs (#11689)
+e7e482ba476639016d61167820d6129bfc563f0f
