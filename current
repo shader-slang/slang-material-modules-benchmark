@@ -1,2 +1,2 @@
-Diagnose unsupported target intrinsics instead of emitting invalid code (#7873) (#11570)
-2b14ffd06be1b6a53823db8b7fe5a442dba76eb2
+Add compile-time performance test suite (#11485)
+d39460f25e0eba7594c8e23729abae15d12976e6
