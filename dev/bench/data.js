@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1782118940269,
+  "lastUpdate": 1782127212375,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -107955,6 +107955,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 676.715625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "926568ae41d35e3cdafff8f817fc2d42bc137a22",
+          "message": "Add regression test for spurious 'cannot insert #pragma warning here' across __include (#8166) (#11611)\n\nhttps://github.com/shader-slang/slang/commit/e75132268ecfd524d5a317668e67117d5afff7be",
+          "timestamp": "2026-06-22T04:18:57-07:00",
+          "tree_id": "3981f0e71a0e8aee599272304b9ea628c4e86d8b",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/926568ae41d35e3cdafff8f817fc2d42bc137a22"
+        },
+        "date": 1782127202586,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2112.2568749999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 560.2093749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 560.1368749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2095.516875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 558.570625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 557.995625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 672.9556249999998,
             "unit": "milliseconds"
           }
         ]
