@@ -1,2 +1,2 @@
-Drop CI host-disk cleanup and run container as non-root (#11355)
-131609a3ae00a911b3fd0d5179918c126d9cce57
+Add regression test for spurious 'cannot insert #pragma warning here' across __include (#8166) (#11611)
+e75132268ecfd524d5a317668e67117d5afff7be
