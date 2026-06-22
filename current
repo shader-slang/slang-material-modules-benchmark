@@ -1,2 +1,2 @@
-Add regression test for spurious 'cannot insert #pragma warning here' across __include (#8166) (#11611)
-e75132268ecfd524d5a317668e67117d5afff7be
+Diagnose unsupported target intrinsics instead of emitting invalid code (#7873) (#11570)
+2b14ffd06be1b6a53823db8b7fe5a442dba76eb2
