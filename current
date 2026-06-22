@@ -1,2 +1,2 @@
-Add compile-time performance test suite (#11485)
-d39460f25e0eba7594c8e23729abae15d12976e6
+CI analytics: surface API failures instead of masking them as healthy data (#11679)
+fd83f62814c69f798dfb8cf9e6b3f3db7818858e
