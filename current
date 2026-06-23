@@ -1,2 +1,2 @@
-Fix #7412: error when extension or member declares incompatible capabilities (#11117)
-5ec5d554061c6cd5dec8230525c5fac257631297
+Add regression test for private cross-module constructor (#7152) (#11622)
+a39e49c286e11f4ee91c56c802bd97feb96bb5cb
