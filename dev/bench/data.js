@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1782177119101,
+  "lastUpdate": 1782182276539,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -108297,6 +108297,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 684.2118750000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "66f61bc0dc10090a267f0cb39ff97c912d037677",
+          "message": "Fix #11648: diagnose bitwise operators on float operands (#11654)\n\nhttps://github.com/shader-slang/slang/commit/52ab3a1e78b5ef19d363eabc6336325c110897d6",
+          "timestamp": "2026-06-22T19:36:59-07:00",
+          "tree_id": "506767e8036e65272979e8ea83858460ccfb7956",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/66f61bc0dc10090a267f0cb39ff97c912d037677"
+        },
+        "date": 1782182267242,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2123.535625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 565.1743749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 564.3331249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2095.17125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 561.109375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 562.1381250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 691.755625,
             "unit": "milliseconds"
           }
         ]
