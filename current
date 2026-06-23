@@ -1,2 +1,2 @@
-Add SLANG_ENABLE_SLANG_PROXY CMake option to gate slang proxy outputs (#11689)
-e7e482ba476639016d61167820d6129bfc563f0f
+Fix #11686: canonical slang-rhi.h include in mlp-training examples (#11688)
+beb7453c510b17511fd05ab02febc387a3ed00ba
