@@ -1,2 +1,2 @@
-Fix #11648: diagnose bitwise operators on float operands (#11654)
-52ab3a1e78b5ef19d363eabc6336325c110897d6
+Fix #7412: error when extension or member declares incompatible capabilities (#11117)
+5ec5d554061c6cd5dec8230525c5fac257631297
