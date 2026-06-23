@@ -1,2 +1,2 @@
-Fix #11686: canonical slang-rhi.h include in mlp-training examples (#11688)
-beb7453c510b17511fd05ab02febc387a3ed00ba
+Fix #11648: diagnose bitwise operators on float operands (#11654)
+52ab3a1e78b5ef19d363eabc6336325c110897d6
