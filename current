@@ -1,2 +1,2 @@
-Fix abort extension name (#11716)
-b25e06aeb8862d207541c3d812c57cb9e381b802
+Pin Linux GPU CI tests to the GCP scaler pool via a "GCP" label (#11724)
+e21cdfafaf1abf8fbeba267c47e4a5ce200adbe4
