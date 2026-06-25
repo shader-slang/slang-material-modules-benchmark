@@ -1,2 +1,2 @@
-Pin Linux GPU CI tests to the GCP scaler pool via a "GCP" label (#11724)
-e21cdfafaf1abf8fbeba267c47e4a5ce200adbe4
+ci: route Linux x86_64 builds and analytics jobs to GCP scaler pools (#11738)
+1161c3520ba46ed49c233cf6cdb18ef7cb8c8cb3
