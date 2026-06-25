@@ -1,2 +1,2 @@
-ci: route Linux x86_64 builds and analytics jobs to GCP scaler pools (#11738)
-1161c3520ba46ed49c233cf6cdb18ef7cb8c8cb3
+Update SPIRV-Tools and SPIRV-Headers to latest versions (#11710)
+a7fbf1ab0e9ddd18b0a9eaa675ddc95f63532fee
