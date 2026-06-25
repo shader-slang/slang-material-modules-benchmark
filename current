@@ -1,2 +1,2 @@
-Centralize docs-only CI skip filter (#11757)
-1961b88b9a99427d4cc0a18fe4e5d6392970e3c9
+Use value checks for value-style SLANG_* macros (#11737)
+b4f11aef63a20accf6a235ed554f5acf50659371
