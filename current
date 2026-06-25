@@ -1,2 +1,2 @@
-Update SPIRV-Tools and SPIRV-Headers to latest versions (#11710)
-a7fbf1ab0e9ddd18b0a9eaa675ddc95f63532fee
+Centralize docs-only CI skip filter (#11757)
+1961b88b9a99427d4cc0a18fe4e5d6392970e3c9
