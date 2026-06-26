@@ -1,2 +1,2 @@
-Emit conservative-depth layout qualifier for SV_DepthGreaterEqual/LessEqual on GLSL targets (#11693)
-c76b2c7c3f5b2b945456419bbbbf453398c5e944
+Fix #10988: array-delete the new char[] buffer in glslang_disassembleSPIRV (#11739)
+5affe90f888fb8c9cf3de0583abb7d50505ef776
