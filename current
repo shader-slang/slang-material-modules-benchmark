@@ -1,2 +1,2 @@
-Use value checks for value-style SLANG_* macros (#11737)
-b4f11aef63a20accf6a235ed554f5acf50659371
+coverage: store only summary JSONs in history and report history (#11726)
+10f7d90317c8385f723cdbff6abdff943f936510
