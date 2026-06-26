@@ -1,2 +1,2 @@
-Fix #10988: array-delete the new char[] buffer in glslang_disassembleSPIRV (#11739)
-5affe90f888fb8c9cf3de0583abb7d50505ef776
+scaler: create VMs concurrently when scaling up (#11748)
+2294f4862cd7d35f32a1dad8e98519fef907bb55
