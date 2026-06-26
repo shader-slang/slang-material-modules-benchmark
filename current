@@ -1,2 +1,2 @@
-Restrict WaveGetWaveIndex / WaveGetNumWaves to compute-class stages via capability (#11769)
-1a0c2a6d1110969d2d0fc4d24971fb5d69811327
+Fix replay/repro test DLL ownership (#11765)
+8d5aa670cd897a24c71206d4eb08adeff144cd7d
