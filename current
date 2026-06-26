@@ -1,2 +1,2 @@
-Fix #11550: suppress debug info for synthesized struct initializers (#11555)
-b9fd870d447a30f4b6688ac2576566d920f53679
+ci: move the sanitizer build to the GCP build pool (#11749)
+0d1d75f9b6bd2cd50bdb7735f149fec6f2e62cc7
