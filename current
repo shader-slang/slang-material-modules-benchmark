@@ -1,2 +1,2 @@
-coverage: store only summary JSONs in history and report history (#11726)
-10f7d90317c8385f723cdbff6abdff943f936510
+Emit conservative-depth layout qualifier for SV_DepthGreaterEqual/LessEqual on GLSL targets (#11693)
+c76b2c7c3f5b2b945456419bbbbf453398c5e944
