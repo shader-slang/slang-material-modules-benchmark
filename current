@@ -1,2 +1,2 @@
-Fix replay/repro test DLL ownership (#11765)
-8d5aa670cd897a24c71206d4eb08adeff144cd7d
+Fix #11550: suppress debug info for synthesized struct initializers (#11555)
+b9fd870d447a30f4b6688ac2576566d920f53679
