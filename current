@@ -1,2 +1,2 @@
-Mark scalar-fp8 (vk) as an expected failure on no-GPU runners (#11744)
-0583a0e33edaa296f392d6d9a444bdd4c273f11d
+compile-perf: enable nightly schedule at 05:00 UTC (#11702)
+b1bdd88d40157bef11da1846cb5a2c22f40bfaf9
