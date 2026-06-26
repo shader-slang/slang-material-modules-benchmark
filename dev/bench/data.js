@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1782480967170,
+  "lastUpdate": 1782482410454,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -109209,6 +109209,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 672.48125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "5fa4d70fd6ed067a6cf5c1c1818ece170900d530",
+          "message": "Restrict WaveGetWaveIndex / WaveGetNumWaves to compute-class stages via capability (#11769)\n\nhttps://github.com/shader-slang/slang/commit/1a0c2a6d1110969d2d0fc4d24971fb5d69811327",
+          "timestamp": "2026-06-26T06:55:46-07:00",
+          "tree_id": "49c15f8d50b234ca0eb468be34d715579345728b",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/5fa4d70fd6ed067a6cf5c1c1818ece170900d530"
+        },
+        "date": 1782482400496,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2119.9231250000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 566.02125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 562.0849999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2116.59875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 561.6743749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 560.9549999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 680.1218749999999,
             "unit": "milliseconds"
           }
         ]
