@@ -1,2 +1,2 @@
-Verify slangc in CMake option builds (#11795)
-6c68a8c683fbd1406cccb6b9080393ffbd18db2f
+Keep serialization test outputs ignored (#11796)
+6dd0c852633467546a4bc7dd43dcba5a87507650
