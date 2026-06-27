@@ -1,2 +1,2 @@
-Fix float-matrix comparison legalization crash + regression test (#11673) (#11675)
-c09414343bc2021f60c58ebe43813e602cf6e7b5
+Add opt-in unified ArrayStride for SPIR-V resource descriptor heaps (#11723)
+4832b0f7531fd93cc6691fc84eb72558d69bbf47
