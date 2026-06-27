@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1782535538135,
+  "lastUpdate": 1782540099741,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -109722,6 +109722,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 685.140625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "8cf583247ec6e85bf9a2257133e076c1a51f4f1b",
+          "message": "Update imgui submodule to v1.92.8 and migrate gui.cpp (#11713)\n\nhttps://github.com/shader-slang/slang/commit/182af7f7748b410fbaea24ea052a964a068a5c42",
+          "timestamp": "2026-06-26T23:01:21-07:00",
+          "tree_id": "b91590a91e25951c89dadb8989d1c76345cf3297",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/8cf583247ec6e85bf9a2257133e076c1a51f4f1b"
+        },
+        "date": 1782540089407,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2145.944375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 567.661875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 569.6712500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2141.205,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 567.3175,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 567.7075,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 684.935625,
             "unit": "milliseconds"
           }
         ]
