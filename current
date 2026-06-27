@@ -1,2 +1,2 @@
-Update imgui submodule to v1.92.8 and migrate gui.cpp (#11713)
-182af7f7748b410fbaea24ea052a964a068a5c42
+Fix float-matrix comparison legalization crash + regression test (#11673) (#11675)
+c09414343bc2021f60c58ebe43813e602cf6e7b5
