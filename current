@@ -1,2 +1,2 @@
-Keep serialization test outputs ignored (#11796)
-6dd0c852633467546a4bc7dd43dcba5a87507650
+Print skip-list info in slang-test (#11800)
+e9344b08bbdac210cabfb716ac792ab38ba77449
