@@ -1,2 +1,2 @@
-compile-perf: disable LLVM in nightly build (CRT mismatch on runner) (#11727)
-4cfe19f1c09c599b55756314c8e0c415f045ae5b
+Fix CMake Options workflow permissions (#11794)
+1708afc8db87ae0adc5c3f20c357ab92acf6094e
