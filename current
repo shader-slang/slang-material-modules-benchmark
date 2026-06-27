@@ -1,2 +1,2 @@
-Fix CMake Options workflow permissions (#11794)
-1708afc8db87ae0adc5c3f20c357ab92acf6094e
+Verify slangc in CMake option builds (#11795)
+6c68a8c683fbd1406cccb6b9080393ffbd18db2f
