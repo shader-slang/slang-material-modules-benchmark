@@ -1,2 +1,2 @@
-Add opt-in unified ArrayStride for SPIR-V resource descriptor heaps (#11723)
-4832b0f7531fd93cc6691fc84eb72558d69bbf47
+compile-perf: disable LLVM in nightly build (CRT mismatch on runner) (#11727)
+4cfe19f1c09c599b55756314c8e0c415f045ae5b
