@@ -1,2 +1,2 @@
-Check [require] capabilities on inverse-placed user-defined derivatives (#11558)
-e248123ba920c6bdd5efc7de98c397b996cc4c56
+Validate generic struct capability requirements on entry-point params (#9489) (#11770)
+6b473bdfbe302a5febca4ece5ac04bc41fd804a8
