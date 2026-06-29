@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1782750160762,
+  "lastUpdate": 1782757941584,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -110634,6 +110634,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1188.415,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "9ee239ca0323795f734b037a73f799b106d58737",
+          "message": "Add reusable PR board-sync workflow (status + assignment) for org-wide reuse (#11740)\n\nhttps://github.com/shader-slang/slang/commit/d01f9a41a14d507c9c49c0bfec6f2740931c1821",
+          "timestamp": "2026-06-29T11:32:02-07:00",
+          "tree_id": "251ab5eee563773a31ffcc039b8f14a8c09b216e",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/9ee239ca0323795f734b037a73f799b106d58737"
+        },
+        "date": 1782757931296,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3819.7075,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 972.916875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 974.3131249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3773.9537500000006,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 985.4174999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1030.27125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1204.2225,
             "unit": "milliseconds"
           }
         ]
