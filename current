@@ -1,2 +1,2 @@
-Fix #11763: warn on direct copy of uninitialized value (#11764)
-51959e21ff12fd10ad4924bc96c6d9fea7bcb2f9
+Check [require] capabilities on inverse-placed user-defined derivatives (#11558)
+e248123ba920c6bdd5efc7de98c397b996cc4c56
