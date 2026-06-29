@@ -1,2 +1,2 @@
-Fix #11664: diagnose operator name used as a variable name (#11775)
-3a84a12b8e2f55f4ae23989254d61fdeeca44e8d
+Fix #11763: warn on direct copy of uninitialized value (#11764)
+51959e21ff12fd10ad4924bc96c6d9fea7bcb2f9
