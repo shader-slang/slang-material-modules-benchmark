@@ -1,2 +1,2 @@
-Add a CMake override path for fast_float (#11758)
-777a78adbfe82001399d77c20889a510c543a17b
+Fix #11297: diagnose String used on kernel C++/CUDA targets (#11777)
+0edad2e96a281f2d257937e6cb0a52e5bbcabb88
