@@ -1,2 +1,2 @@
-slangd: add slang.predefinedLanguageVersion setting for directive-less files (#11692)
-0f9332463baea21faad4fa2be0d22685cba5f8aa
+Rename CI and nightly workflow files (#11828)
+cf5d225f8cdfcc1f7b27d801b0a66772c1ef1a67
