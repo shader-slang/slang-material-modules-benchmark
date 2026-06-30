@@ -1,2 +1,2 @@
-Fix #11565: emit `this` debug variable for user-defined initializers (#11815)
-94d4e47362a82a047d10958eafc38043df679ec1
+Fix #11563: qualify extension-method name hints (#11581)
+80bf926b57901ff9fd8430b6dd144ba119caf28a
