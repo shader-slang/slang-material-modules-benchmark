@@ -1,2 +1,2 @@
-compile-perf: fix Windows runner — add bash to PATH, use python3 (#11698)
-3c4dadfa1f67aa036377793212809e9e3576eb9f
+Fix #11230: fill partial ray-payload access qualifiers for hit-only shaders (#11811)
+90b8e77eafdfa0aabbbc48f0e86f6cfbde4cb8f8
