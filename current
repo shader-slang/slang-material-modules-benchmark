@@ -1,2 +1,2 @@
-CI analytics: classify June 2026 runner labels (#11671)
-38c6eac50e7d6a0f6f8b4ca6b66510abd6ca9bdf
+compile-perf: fix Windows runner — add bash to PATH, use python3 (#11698)
+3c4dadfa1f67aa036377793212809e9e3576eb9f
