@@ -1,2 +1,2 @@
-ci: move the wasm build to the GCP build pool (#11773)
-2834e9757cecafd1bb597c70a4d428e02f7f7514
+Add GitHub Actions workflow lint (#11793)
+bb3fae60f1186c2b16562ec0ee6154990850e514
