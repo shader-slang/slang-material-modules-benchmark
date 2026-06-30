@@ -1,2 +1,2 @@
-Fix #11778: diagnose loop-carried uninitialized variable reads (#11810)
-da73e0182e4dafac506cfba672cb6ce0c37dafe6
+Honor vk::binding on entry point parameters (#11712)
+c3037d2200bed22920d5e183e9253478ab67c4c4
