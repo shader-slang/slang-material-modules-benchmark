@@ -1,2 +1,2 @@
-Fix #11230: fill partial ray-payload access qualifiers for hit-only shaders (#11811)
-90b8e77eafdfa0aabbbc48f0e86f6cfbde4cb8f8
+Update generated design docs (#11842)
+6d355565ce879d38fc12a8614ff4358ba1c1b4dd
