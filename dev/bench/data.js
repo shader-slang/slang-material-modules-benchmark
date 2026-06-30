@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1782816238120,
+  "lastUpdate": 1782821569750,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -111318,6 +111318,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 691.3106250000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ae111700245e5966199fe11ffc16d4587acdf702",
+          "message": "Fix #11230: fill partial ray-payload access qualifiers for hit-only shaders (#11811)\n\nhttps://github.com/shader-slang/slang/commit/90b8e77eafdfa0aabbbc48f0e86f6cfbde4cb8f8",
+          "timestamp": "2026-06-30T05:12:27-07:00",
+          "tree_id": "b19f736e54038d529b21477f0f29eadfce054bdc",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ae111700245e5966199fe11ffc16d4587acdf702"
+        },
+        "date": 1782821558643,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3830.5706250000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 968.5981250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 966.2693750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3793.7306249999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 960.5962499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 966.5118750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1159.975,
             "unit": "milliseconds"
           }
         ]
