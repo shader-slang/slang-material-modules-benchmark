@@ -1,2 +1,2 @@
-Fix #11563: qualify extension-method name hints (#11581)
-80bf926b57901ff9fd8430b6dd144ba119caf28a
+ci: move the wasm build to the GCP build pool (#11773)
+2834e9757cecafd1bb597c70a4d428e02f7f7514
