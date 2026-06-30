@@ -1,2 +1,2 @@
-Avoid shell execution in benchmark compile script (#11822)
-b90cbcac006aead7bf3e29658325be2468db7324
+slangd: add slang.predefinedLanguageVersion setting for directive-less files (#11692)
+0f9332463baea21faad4fa2be0d22685cba5f8aa
