@@ -1,2 +1,2 @@
-Update generated design docs (#11842)
-6d355565ce879d38fc12a8614ff4358ba1c1b4dd
+Fix #11852: make CompilerOptionName::CountOf one past the last option (#11854)
+48939cc821bbe15ab918355e4451623e9057e9a6
