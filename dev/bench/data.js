@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1782926399733,
+  "lastUpdate": 1782931960627,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -111774,6 +111774,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 695.85,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "bc6f47d7949e3dadd61848bd93d1df0bf39fc1b3",
+          "message": "CI: make GCP-vs-GitHub-hosted runner selection switchable via repo variables (#11875)\n\nhttps://github.com/shader-slang/slang/commit/7de3f388e0a2bd10d7829962b905777df401af7e",
+          "timestamp": "2026-07-01T11:52:18-07:00",
+          "tree_id": "88e51658e2d8a29bd6cafab21b0b8737a5b70b6b",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/bc6f47d7949e3dadd61848bd93d1df0bf39fc1b3"
+        },
+        "date": 1782931949397,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2139.183125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 572.1175,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 573.211875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2132.8956250000006,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 571.6275,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 572.603125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 699.2725,
             "unit": "milliseconds"
           }
         ]
