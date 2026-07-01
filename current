@@ -1,2 +1,2 @@
-Fix release failure due to container (#11868)
-6a66d6d56fe48a52c45e8d6706f35771f6f5b4de
+Add regression test for #8148 (generic interface static const) (#11653)
+d01053d7c6f203f9034891f99358c720e72dc948
