@@ -1,2 +1,2 @@
-Fix #11852: make CompilerOptionName::CountOf one past the last option (#11854)
-48939cc821bbe15ab918355e4451623e9057e9a6
+Fix #11851: honor SLANG_OVERRIDE_IMGUI_PATH for platform consumers (#11853)
+a589503007a2640659bcc386a0e94a80a434f932
