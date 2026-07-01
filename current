@@ -1,2 +1,2 @@
-Support SM 6.10 in gfx D3D12 shader model table; prefer NVAPI HitObject over DXR 1.3 native (#11889)
-14a09de5c01c3b186aafc0de110e0cb87c56cf5f
+Reject multiple depth output semantics on fragment entry points (#11863)
+e838e0c99cf482d7a89ec7497146aa6b22b46151
