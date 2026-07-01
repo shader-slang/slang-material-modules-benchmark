@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1782935865637,
+  "lastUpdate": 1782936296177,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -111888,6 +111888,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 693.946875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e0cf7f18ac9ab003ad989783a7c8652744101826",
+          "message": "Fix #11856: rebind cached RHI device's debug bridge in render-test (#11866)\n\nhttps://github.com/shader-slang/slang/commit/340f8a66728a5333bde20bdef28b47fc6c92d872",
+          "timestamp": "2026-07-01T13:04:34-07:00",
+          "tree_id": "6ce5ccc2225aefc7d84e573620a6ebe9aaa3bb60",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e0cf7f18ac9ab003ad989783a7c8652744101826"
+        },
+        "date": 1782936284447,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2149.3175,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 574.785,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 573.3206250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2137.1524999999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 568.27,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 570.728125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 690.6956250000001,
             "unit": "milliseconds"
           }
         ]
