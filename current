@@ -1,2 +1,2 @@
-CI: make GCP-vs-GitHub-hosted runner selection switchable via repo variables (#11875)
-7de3f388e0a2bd10d7829962b905777df401af7e
+Fix #11860: vk::input_attachment_index no longer reserves descriptor set 0 (#11871)
+6a222eaf19d9fe18683eec739408b1ad345ee07b
