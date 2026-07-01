@@ -1,2 +1,2 @@
-Fix #11860: vk::input_attachment_index no longer reserves descriptor set 0 (#11871)
-6a222eaf19d9fe18683eec739408b1ad345ee07b
+Fix #11856: rebind cached RHI device's debug bridge in render-test (#11866)
+340f8a66728a5333bde20bdef28b47fc6c92d872
