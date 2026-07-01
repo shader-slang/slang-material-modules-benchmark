@@ -1,2 +1,2 @@
-Move workgraph APIs to experimental module (#11437)
-7f79b923fed50a25d9b8fd549babe6108e15eac0
+Fix #11864: avoid pointer overflow in JSON \u escape decoding (#11867)
+f490a52aacc32ecf6d6ee15a771fd1c98824bfad
