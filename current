@@ -1,2 +1,2 @@
-Fix #11851: honor SLANG_OVERRIDE_IMGUI_PATH for platform consumers (#11853)
-a589503007a2640659bcc386a0e94a80a434f932
+Fix release failure due to container (#11868)
+6a66d6d56fe48a52c45e8d6706f35771f6f5b4de
