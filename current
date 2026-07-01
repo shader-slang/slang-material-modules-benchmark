@@ -1,2 +1,2 @@
-Reject multiple depth output semantics on fragment entry points (#11863)
-e838e0c99cf482d7a89ec7497146aa6b22b46151
+Don't process string escapes in include/import file paths (#11846)
+1d2a51b0d6a4e6dc82c4a7e0efce6473a1a4971b
