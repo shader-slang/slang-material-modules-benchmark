@@ -1,2 +1,2 @@
-ci-analytics: fix stale hosted-runner chart caption (#11908)
-16872b4c12955ed807b91d11070110cb3e14aedc
+Fix latent stack-use-after-scope in USE_RIFF IR serialization path (#11916)
+973274da9a4b404c61ec89a07af783355c242d93
