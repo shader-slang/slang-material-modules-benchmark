@@ -1,2 +1,2 @@
-docs/generated/tests: regenerate 8 stale bundles + reconcile freshness (#11905)
-803dff9153af01953dd892cacf0ea0fb0825bb78
+ci-analytics: fix stale hosted-runner chart caption (#11908)
+16872b4c12955ed807b91d11070110cb3e14aedc
