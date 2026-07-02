@@ -1,2 +1,2 @@
-[codex] Add container pool hysteresis (#11850)
-e0e029d94584b405b317653406c9c0f0ed95368c
+Fix #11861: honor vk::binding on resource-containing struct params (#11873)
+86609ec5c43a5bb315b0ca5016280f35f8b7dbd5
