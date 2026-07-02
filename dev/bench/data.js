@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1782955043926,
+  "lastUpdate": 1782958416479,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -112173,6 +112173,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 696.775625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "1c7819ede8feb94e72ea8ec93f1e95db6a809bae",
+          "message": "[codex] Add container pool hysteresis (#11850)\n\nhttps://github.com/shader-slang/slang/commit/e0e029d94584b405b317653406c9c0f0ed95368c",
+          "timestamp": "2026-07-01T19:13:13-07:00",
+          "tree_id": "1fee5c055bb6499ddfd28b323fdcd7e51bb1db63",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/1c7819ede8feb94e72ea8ec93f1e95db6a809bae"
+        },
+        "date": 1782958406191,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3699.4543750000007,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 965.8981249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 966.7199999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3680.5756249999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 968.0781250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 968.67625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1196.1368750000001,
             "unit": "milliseconds"
           }
         ]
