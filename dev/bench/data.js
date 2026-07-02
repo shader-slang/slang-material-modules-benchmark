@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783030241078,
+  "lastUpdate": 1783034168067,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -112572,6 +112572,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1187.219375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "3bbcc6b1450833add1632c3d4c547f9f969c11fa",
+          "message": "Fix #11313: lower dynamic-dispatch handle types to ulong on Metal (#11787)\n\nhttps://github.com/shader-slang/slang/commit/0065572bf2471c1f590175a8687eafe938807ffa",
+          "timestamp": "2026-07-02T16:15:44-07:00",
+          "tree_id": "1b822c3dc4b8901039faadd5f594313fecaa5954",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/3bbcc6b1450833add1632c3d4c547f9f969c11fa"
+        },
+        "date": 1783034157577,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3683.1425000000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 958.44125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 963.5731250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3646.0356249999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 955.07375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 956.5943749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1207.8306249999998,
             "unit": "milliseconds"
           }
         ]
