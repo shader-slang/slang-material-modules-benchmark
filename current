@@ -1,2 +1,2 @@
-Fix latent stack-use-after-scope in USE_RIFF IR serialization path (#11916)
-973274da9a4b404c61ec89a07af783355c242d93
+Fix #11313: lower dynamic-dispatch handle types to ulong on Metal (#11787)
+0065572bf2471c1f590175a8687eafe938807ffa
