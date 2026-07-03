@@ -1,2 +1,2 @@
-Drop unsupported glsl_110/120/130/140 from advertised -profile list (#11902)
-99c3b77bd0e2e356803ed6f6955bc33131c51f09
+Gate lowerAppendConsumeStructuredBuffers when no Append/Consume buffer is present (#11920)
+96003b0d85ae88b14def51b4b74735c6fcc2abb4
