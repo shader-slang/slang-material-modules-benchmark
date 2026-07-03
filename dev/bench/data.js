@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783094726060,
+  "lastUpdate": 1783095985436,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -113085,6 +113085,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1241.51125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "5c954b66eed36b535eb28c3effcbce58bd5f153f",
+          "message": "coverage: cap Metal counter width to 32-bit to fix metallib-asm manifest (#11699)\n\nhttps://github.com/shader-slang/slang/commit/d6c2fea16b9ae22b362b2fe2b9e44b96c2174a4f",
+          "timestamp": "2026-07-03T09:26:02-07:00",
+          "tree_id": "f0c67af5cbe094c87e416688deacb6113b6d71a9",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/5c954b66eed36b535eb28c3effcbce58bd5f153f"
+        },
+        "date": 1783095973748,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3699.46125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 975.1518749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 982.823125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3734.4874999999993,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 986.9668750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 983.1800000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1205.565,
             "unit": "milliseconds"
           }
         ]
