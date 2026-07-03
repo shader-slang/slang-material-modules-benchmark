@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783105306350,
+  "lastUpdate": 1783107640597,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -113313,6 +113313,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1208.68125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "fb5fe7a396b20767210e9f06b6ade1e3324e17c0",
+          "message": "Make vertex-shader-missing-sv-position pedantic and off by default (#11893)\n\nhttps://github.com/shader-slang/slang/commit/8ac9e49a5b7020af6a8040544b9f76f0fbf40898",
+          "timestamp": "2026-07-03T12:40:23-07:00",
+          "tree_id": "0c497e106525067005381d38fab34269bdbcf919",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/fb5fe7a396b20767210e9f06b6ade1e3324e17c0"
+        },
+        "date": 1783107630355,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2138.4675,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 570.595,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 571.95125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2107.26375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 567.74125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 567.0137500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 693.6499999999999,
             "unit": "milliseconds"
           }
         ]
