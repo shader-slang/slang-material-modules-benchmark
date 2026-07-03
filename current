@@ -1,2 +1,2 @@
-Expect replay-stream exception tests to fail on macOS coverage CI (#11909)
-c5768a6957879d601080eb1a905d4350cc4aae8f
+Default slang-test compiler invocations to -O0 (#11805)
+36874356bdf7191ff05bf0a3f96a517720b37787
