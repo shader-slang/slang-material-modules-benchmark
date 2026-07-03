@@ -1,2 +1,2 @@
-Fix #11890: honor API DiagnosticColor for target-stage diagnostics (#11891)
-d09e6efd8b9a61d0c93f4478b212db49cad70226
+Fix #11874: drop samplerless requirement from combined-sampler texelFetch (#11876)
+85502042fa38583ee04a70a4734529f17de03d70
