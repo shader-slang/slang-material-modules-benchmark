@@ -1,2 +1,2 @@
-Refactor SLANG_UNUSED to C++17 if-init pattern (#11832)
-cb6573041ee1977af3949adcd71fd8d0af9a58f7
+shader-coverage: validate Metal runtime path end-to-end on GPU + document direct-host binding recipe (#11929)
+d4c464248a69486ef01ef7cb3e5c687e33e4033f
