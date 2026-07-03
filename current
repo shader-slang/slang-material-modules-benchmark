@@ -1,2 +1,2 @@
-Allow standalone precompiled modules with `UseUpToDateBinaryModule` (#11125)
-de342c6b899de5c2979914616ae349ff4747463a
+Drop unsupported glsl_110/120/130/140 from advertised -profile list (#11902)
+99c3b77bd0e2e356803ed6f6955bc33131c51f09
