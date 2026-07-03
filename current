@@ -1,2 +1,2 @@
-Fix #11918: don't serialize an empty module dependency path across drives (#11921)
-f4975a7f82d6222348bc51e373421b697730f0af
+Fix #11890: honor API DiagnosticColor for target-stage diagnostics (#11891)
+d09e6efd8b9a61d0c93f4478b212db49cad70226
