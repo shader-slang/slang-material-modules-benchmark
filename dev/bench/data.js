@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783089602816,
+  "lastUpdate": 1783094726060,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -113028,6 +113028,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 681.411875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "f80d63c5139bd760c4ea0f3d2acb29549a86a560",
+          "message": "Fix #11874: drop samplerless requirement from combined-sampler texelFetch (#11876)\n\nhttps://github.com/shader-slang/slang/commit/85502042fa38583ee04a70a4734529f17de03d70",
+          "timestamp": "2026-07-03T09:05:07-07:00",
+          "tree_id": "6c341a8b262e5504433e54c4396b11f220f7c912",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/f80d63c5139bd760c4ea0f3d2acb29549a86a560"
+        },
+        "date": 1783094715744,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3720.1156250000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 1022.896875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 1027.90625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3672.34875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 983.70125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 972.0843750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1241.51125,
             "unit": "milliseconds"
           }
         ]
