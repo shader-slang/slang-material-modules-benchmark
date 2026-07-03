@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783051288089,
+  "lastUpdate": 1783089602816,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -112971,6 +112971,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 679.795625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "5f95061fd7076e9cb49aed5e2c810ebab97cdbf5",
+          "message": "Fix #11890: honor API DiagnosticColor for target-stage diagnostics (#11891)\n\nhttps://github.com/shader-slang/slang/commit/d09e6efd8b9a61d0c93f4478b212db49cad70226",
+          "timestamp": "2026-07-03T07:39:44-07:00",
+          "tree_id": "044d4928080fe8c39adb66240bc0ce3cedb3c4f4",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/5f95061fd7076e9cb49aed5e2c810ebab97cdbf5"
+        },
+        "date": 1783089592515,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2111.5137499999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 567.0868750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 562.5068749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2097.94375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 559.71125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 559.3931250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 681.411875,
             "unit": "milliseconds"
           }
         ]
