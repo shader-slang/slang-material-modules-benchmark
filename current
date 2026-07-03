@@ -1,2 +1,2 @@
-Re-enable scalar-fp8.slang (vk) test on no-GPU CI (#11922)
-7caafba75bef0cb2d0cf138c0f279048af3aa9cb
+Make vertex-shader-missing-sv-position pedantic and off by default (#11893)
+8ac9e49a5b7020af6a8040544b9f76f0fbf40898
