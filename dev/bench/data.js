@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783034168067,
+  "lastUpdate": 1783037381434,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -112629,6 +112629,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1207.8306249999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "2046f374d60539510de7cdd42ab5b0bd33e7fd68",
+          "message": "Expect replay-stream exception tests to fail on macOS coverage CI (#11909)\n\nhttps://github.com/shader-slang/slang/commit/c5768a6957879d601080eb1a905d4350cc4aae8f",
+          "timestamp": "2026-07-02T17:09:22-07:00",
+          "tree_id": "85cf0bf8c68c5aad48f29b6c4fd231daeeb28e11",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/2046f374d60539510de7cdd42ab5b0bd33e7fd68"
+        },
+        "date": 1783037370647,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2128.48625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 562.9243749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 563.4887499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2104.066875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 561.39875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 562.4581249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 684.44375,
             "unit": "milliseconds"
           }
         ]
