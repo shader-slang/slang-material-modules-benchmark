@@ -1,2 +1,2 @@
-Default slang-test compiler invocations to -O0 (#11805)
-36874356bdf7191ff05bf0a3f96a517720b37787
+Allow standalone precompiled modules with `UseUpToDateBinaryModule` (#11125)
+de342c6b899de5c2979914616ae349ff4747463a
