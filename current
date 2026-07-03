@@ -1,2 +1,2 @@
-Fix #11313: lower dynamic-dispatch handle types to ulong on Metal (#11787)
-0065572bf2471c1f590175a8687eafe938807ffa
+Expect replay-stream exception tests to fail on macOS coverage CI (#11909)
+c5768a6957879d601080eb1a905d4350cc4aae8f
