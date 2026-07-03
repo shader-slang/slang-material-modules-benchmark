@@ -1,2 +1,2 @@
-Gate lowerAppendConsumeStructuredBuffers when no Append/Consume buffer is present (#11920)
-96003b0d85ae88b14def51b4b74735c6fcc2abb4
+Fix #11918: don't serialize an empty module dependency path across drives (#11921)
+f4975a7f82d6222348bc51e373421b697730f0af
