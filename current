@@ -1,2 +1,2 @@
-Make vertex-shader-missing-sv-position pedantic and off by default (#11893)
-8ac9e49a5b7020af6a8040544b9f76f0fbf40898
+shader-coverage: validate CPU runtime path end-to-end + document direct-host binding recipe (#11914)
+b1ab2c585b08529efe9f0f36a4e62ca4956eab24
