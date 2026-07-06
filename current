@@ -1,2 +1,2 @@
-shader-coverage: validate CPU runtime path end-to-end + document direct-host binding recipe (#11914)
-b1ab2c585b08529efe9f0f36a4e62ca4956eab24
+shader-coverage docs: refresh Current limitations, link example demos from quick start (#11949)
+526e688138bac89cd54f56206bc9ad3aa62d073b
