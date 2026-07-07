@@ -1,2 +1,2 @@
-Fix #10639: propagate optional constraints through generic typealias (#11226)
-55b2530c6eefdbb4e14abf4fc76f25f19e36f3a9
+Fix #10745: diagnose nested bwd_diff instead of crashing (#11901)
+6c9bfc2f777396847cf2d3af68faf609db1ebcc1
