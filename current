@@ -1,2 +1,2 @@
-Fix sema_generics compile-time regression: skip doomed conversion search for generic-param -> scalar (#11896)
-5c40deb176c19ca6e4f641ea04bd1ec717e67323
+Restore auto-diff link gating to the final codegen link (#11779)
+22d276460e42af5b5891e2e3f54e432c67c69428
