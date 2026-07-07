@@ -1,2 +1,2 @@
-Revert the workaround #11237 because slang-test doesn't use SpvOpt anymore (#11959)
-1a2b9a5e1fc6dc95a629bee04a39242a92ae69b8
+Release blobs orphaned on the record-replay replay path (#11942)
+90c2c8dbddf261286e07950fa9f39e87ed188eb8
