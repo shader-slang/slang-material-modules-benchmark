@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783395908672,
+  "lastUpdate": 1783406673951,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -113598,6 +113598,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 691.80125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "80c536b87f9c68d2e9640c483d9525512fc8c19b",
+          "message": "Fix #10639: propagate optional constraints through generic typealias (#11226)\n\nhttps://github.com/shader-slang/slang/commit/55b2530c6eefdbb4e14abf4fc76f25f19e36f3a9",
+          "timestamp": "2026-07-06T23:44:12-07:00",
+          "tree_id": "3c0c19cbb37a770ce7eab7203542e18c81aaf257",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/80c536b87f9c68d2e9640c483d9525512fc8c19b"
+        },
+        "date": 1783406661747,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3754.4775,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 973.2249999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 983.1149999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3686.450625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 979.40625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 974.170625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1214.915,
             "unit": "milliseconds"
           }
         ]
