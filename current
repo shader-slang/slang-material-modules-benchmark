@@ -1,2 +1,2 @@
-Warn on constexpr variable declarations and treat as const (#10940) (#11522)
-e39e3ce034e2750c6b18846bd322c3dd7690a466
+Fix sema_generics compile-time regression: skip doomed conversion search for generic-param -> scalar (#11896)
+5c40deb176c19ca6e4f641ea04bd1ec717e67323
