@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783435144797,
+  "lastUpdate": 1783439496125,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -113940,6 +113940,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 698.951875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e3901803cce6c0927f0bd5f66f3aa7050964ecfe",
+          "message": "Fix weekly CMake Options CI: GCC maybe-uninitialized in overload inference failure record, missing ASAN link flags in shader-coverage example (#11962)\n\nhttps://github.com/shader-slang/slang/commit/6902e80a4101ec2c752fd04bdbae65a278654ed1",
+          "timestamp": "2026-07-07T08:51:16-07:00",
+          "tree_id": "67e00de6b8a4c57948b164c5ec90599933ca7678",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e3901803cce6c0927f0bd5f66f3aa7050964ecfe"
+        },
+        "date": 1783439485089,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2099.6275,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 557.62375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 557.6699999999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2086.426875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 555.35375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 556.2262499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 679.634375,
             "unit": "milliseconds"
           }
         ]
