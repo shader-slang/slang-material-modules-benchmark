@@ -1,2 +1,2 @@
-Release blobs orphaned on the record-replay replay path (#11942)
-90c2c8dbddf261286e07950fa9f39e87ed188eb8
+Fix #10639: propagate optional constraints through generic typealias (#11226)
+55b2530c6eefdbb4e14abf4fc76f25f19e36f3a9
