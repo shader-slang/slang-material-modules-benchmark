@@ -1,2 +1,2 @@
-Fix #10745: diagnose nested bwd_diff instead of crashing (#11901)
-6c9bfc2f777396847cf2d3af68faf609db1ebcc1
+Warn on constexpr variable declarations and treat as const (#10940) (#11522)
+e39e3ce034e2750c6b18846bd322c3dd7690a466
