@@ -1,2 +1,2 @@
-Restore auto-diff link gating to the final codegen link (#11779)
-22d276460e42af5b5891e2e3f54e432c67c69428
+Zero-initialize bitfield backing storage in synthesized constructor (#11968)
+2eaa906035f87c93b3482a44884589600d853e10
