@@ -1,2 +1,2 @@
-Zero-initialize bitfield backing storage in synthesized constructor (#11968)
-2eaa906035f87c93b3482a44884589600d853e10
+Fix weekly CMake Options CI: GCC maybe-uninitialized in overload inference failure record, missing ASAN link flags in shader-coverage example (#11962)
+6902e80a4101ec2c752fd04bdbae65a278654ed1
