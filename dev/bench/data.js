@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783406673951,
+  "lastUpdate": 1783410552039,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -113655,6 +113655,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1214.915,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "0a7a6569a318ef42597d02ed5030dfa0ea6dfd42",
+          "message": "Fix #10745: diagnose nested bwd_diff instead of crashing (#11901)\n\nhttps://github.com/shader-slang/slang/commit/6c9bfc2f777396847cf2d3af68faf609db1ebcc1",
+          "timestamp": "2026-07-07T00:48:51-07:00",
+          "tree_id": "8a5fb842e401b281c0e8ecdd2439502ccc87a8cb",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/0a7a6569a318ef42597d02ed5030dfa0ea6dfd42"
+        },
+        "date": 1783410541182,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3728.6218750000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 965.358125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 980.1581249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3731.815,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 978.160625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 980.843125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1218.5975,
             "unit": "milliseconds"
           }
         ]
