@@ -1,2 +1,2 @@
-Fix weekly CMake Options CI: GCC maybe-uninitialized in overload inference failure record, missing ASAN link flags in shader-coverage example (#11962)
-6902e80a4101ec2c752fd04bdbae65a278654ed1
+Disable AVX-512 for sanitizer tests (#11974)
+1bd105ceedc5d84ad21c84292116e37ee4cae95c
