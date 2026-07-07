@@ -1,2 +1,2 @@
-Disable AVX-512 for sanitizer tests (#11974)
-1bd105ceedc5d84ad21c84292116e37ee4cae95c
+Emit NoContraction under -fp-mode precise on direct SPIR-V (#11935)
+33f9ed0ceae11c75047fec7a5ac66009d88469fc
