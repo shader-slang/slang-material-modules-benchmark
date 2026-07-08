@@ -1,2 +1,2 @@
-Emit NoContraction under -fp-mode precise on direct SPIR-V (#11935)
-33f9ed0ceae11c75047fec7a5ac66009d88469fc
+Fix #11924: use miniz allocation wrappers for miniz-owned buffers (#11934)
+bfe6a7f14d52b8191e6f76923fd7de9d5f461e9e
