@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783460295736,
+  "lastUpdate": 1783524756763,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -114111,6 +114111,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1214.36375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "8d4acdf0bb69e75cc5caff4d5345eb998069fb7a",
+          "message": "Fix #11924: use miniz allocation wrappers for miniz-owned buffers (#11934)\n\nhttps://github.com/shader-slang/slang/commit/bfe6a7f14d52b8191e6f76923fd7de9d5f461e9e",
+          "timestamp": "2026-07-08T08:32:12-07:00",
+          "tree_id": "d3158c1de3fb74f8c2fab929386134f5587993d7",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/8d4acdf0bb69e75cc5caff4d5345eb998069fb7a"
+        },
+        "date": 1783524745200,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3738.681875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 972.99,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 972.1981250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3705.0637499999993,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 984.3668750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 1020.484375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1203.23125,
             "unit": "milliseconds"
           }
         ]
