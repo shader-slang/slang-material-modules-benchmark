@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783589850459,
+  "lastUpdate": 1783597128377,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -114567,6 +114567,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1210.11125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "646cf9b539a442ffdfac729819992829620df5e7",
+          "message": "Fix #12016: replace em-dashes with ASCII hyphens in slang.h (#12018)\n\nhttps://github.com/shader-slang/slang/commit/135c935183fcbe5f98b52e7c20499d08a220370f",
+          "timestamp": "2026-07-09T04:38:22-07:00",
+          "tree_id": "dd428e27b09af7791a22c54758e110783a9b9208",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/646cf9b539a442ffdfac729819992829620df5e7"
+        },
+        "date": 1783597117443,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2112.895625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 563.2875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 564.7425000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2093.2075000000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 562.7581250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 561.194375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 688.691875,
             "unit": "milliseconds"
           }
         ]
