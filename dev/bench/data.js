@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783635999865,
+  "lastUpdate": 1783641063300,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -114852,6 +114852,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1220.7875000000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "10b545d23b90ba24b22dc3995f91c64656112803",
+          "message": "Fixes GitHub issue #7894 (makes reflection and SPIR-V agree on `layout(local_size) in`) (#11715)\n\nhttps://github.com/shader-slang/slang/commit/288fecef9350f06387a0dba5194620d33e8e410c",
+          "timestamp": "2026-07-09T16:50:42-07:00",
+          "tree_id": "05f785b087b13f6d8aae0e4349e0d4a98eedbbf1",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/10b545d23b90ba24b22dc3995f91c64656112803"
+        },
+        "date": 1783641052676,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2110.7018749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 559.3175,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 560.1474999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2089.1050000000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 559.151875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 557.2581249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 683.0512500000001,
             "unit": "milliseconds"
           }
         ]
