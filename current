@@ -1,2 +1,2 @@
-Use native CoopVec in MLP training sample (#12010)
-0a02eae1bee42589c9f45026f22c9258409ad7f3
+Fix #12007: scope reflection-api example [require] to hlsl_spirv (#12008)
+5d51836173c12f44cf2e2e263c3f24299053178d
