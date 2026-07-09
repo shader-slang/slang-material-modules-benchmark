@@ -1,2 +1,2 @@
-Fix #12007: scope reflection-api example [require] to hlsl_spirv (#12008)
-5d51836173c12f44cf2e2e263c3f24299053178d
+Harden Claude review workflows and align REVIEW.md with the pre-staged diff protocol (#11993)
+468adc556968f894dbb699fee80b62d5e197004b
