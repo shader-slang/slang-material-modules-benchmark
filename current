@@ -1,2 +1,2 @@
-Fix invalid SPIR-V for float-to-bool cast in direct SPIR-V emit (#12019) (#12021)
-a47c1b885fded6c8448cae2a5ff410a153562702
+compile-perf: add API-path workloads (session create, many kernels, module graph) (#11976)
+a97110a435c2947f2e9c3e22a769b776ccf3fc89
