@@ -1,2 +1,2 @@
-Implement rounding for decimal float literals (#11783)
-3695329b93520f002b9ad60a11474863ed0d9558
+coverage: fix agentic pass in-process crashes and FileCheck-pattern test bugs (#12024)
+58d4338091d227a10119fbb51a6f7cad4745c688
