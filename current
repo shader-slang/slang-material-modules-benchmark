@@ -1,2 +1,2 @@
-Fix #12016: replace em-dashes with ASCII hyphens in slang.h (#12018)
-135c935183fcbe5f98b52e7c20499d08a220370f
+Fix invalid SPIR-V for float-to-bool cast in direct SPIR-V emit (#12019) (#12021)
+a47c1b885fded6c8448cae2a5ff410a153562702
