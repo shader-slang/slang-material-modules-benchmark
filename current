@@ -1,2 +1,2 @@
-Harden Claude review workflows and align REVIEW.md with the pre-staged diff protocol (#11993)
-468adc556968f894dbb699fee80b62d5e197004b
+tests-agentic: update round for docs/generated/tests against the regenerated design docs (#12017)
+08af86542f9da562e1407a4583a601a1c87a4608
