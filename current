@@ -1,2 +1,2 @@
-Remove redundant explicit -O0 opt-ins from slang-test test directives (#11923)
-d8e8e1a9e7bf3f766958760e646cdd366bbd917e
+Use native CoopVec in MLP training sample (#12010)
+0a02eae1bee42589c9f45026f22c9258409ad7f3
