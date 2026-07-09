@@ -1,2 +1,2 @@
-coverage: fix agentic pass in-process crashes and FileCheck-pattern test bugs (#12024)
-58d4338091d227a10119fbb51a6f7cad4745c688
+Fixes GitHub issue #7894 (makes reflection and SPIR-V agree on `layout(local_size) in`) (#11715)
+288fecef9350f06387a0dba5194620d33e8e410c
