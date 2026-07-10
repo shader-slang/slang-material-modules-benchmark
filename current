@@ -1,2 +1,2 @@
-Gate lowerTaggedUnionTypes (#11917) (#11961)
-cffff65f97a9880c52dc28fc8faaaca727f810a5
+Fix quadratic callee side-effect queries in the simplifyIR fixpoint (#11954)
+caa2ff4561baa6ee560141f5f9e3b04fb7d94fb8
