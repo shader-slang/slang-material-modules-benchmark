@@ -1,2 +1,2 @@
-Fix quadratic callee side-effect queries in the simplifyIR fixpoint (#11954)
-caa2ff4561baa6ee560141f5f9e3b04fb7d94fb8
+Fix shader-slang/slang#11859: move user-defined derivative [require] to the differentiation use-site (#11872)
+413398f9939a20dadd06d47d01084cc9fd3514fd
