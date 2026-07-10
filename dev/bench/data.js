@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783645348078,
+  "lastUpdate": 1783648436738,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -114966,6 +114966,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 688.4375000000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "f6d611e0dd4fdfb5f4d736ec316fe63879d64b77",
+          "message": "Fix quadratic callee side-effect queries in the simplifyIR fixpoint (#11954)\n\nhttps://github.com/shader-slang/slang/commit/caa2ff4561baa6ee560141f5f9e3b04fb7d94fb8",
+          "timestamp": "2026-07-09T18:53:36-07:00",
+          "tree_id": "f9eb8c21024e92479a7198e49cbef5cd05c6e699",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/f6d611e0dd4fdfb5f4d736ec316fe63879d64b77"
+        },
+        "date": 1783648424999,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2064.030625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 556.2375000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 555.9306250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2043.998125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 554.2425,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 554.4981250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 679.174375,
             "unit": "milliseconds"
           }
         ]
