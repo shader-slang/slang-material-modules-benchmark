@@ -1,2 +1,2 @@
-Allow arithmetic in lifted differentiable constraints (#12029)
-824e24f2676d6595c93c3ffbef461aaef7f40364
+compile-perf: HLSL/GLSL/CUDA emit workloads + DXIL/PTX downstream workloads (#12000)
+06d69d1d14ac663e6c253732650fd33189425424
