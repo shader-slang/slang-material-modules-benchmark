@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783676871424,
+  "lastUpdate": 1783693349609,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -115422,6 +115422,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 695.4962499999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "dfd28e048c7d1b5f89c9af0733945519b4c02a36",
+          "message": "Fix quadratic IR type legalization on straight-line functions (#12041)\n\nhttps://github.com/shader-slang/slang/commit/85d79c67642efe8cceb411c78dc545b292e84c0c",
+          "timestamp": "2026-07-10T07:22:08-07:00",
+          "tree_id": "88ea8872278c96741dfbfeb3decd1b8452f19f99",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/dfd28e048c7d1b5f89c9af0733945519b4c02a36"
+        },
+        "date": 1783693338257,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3497.8199999999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 954.3500000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 946.023125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3479.8531249999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 958.3100000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 953.54,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1200.1849999999997,
             "unit": "milliseconds"
           }
         ]
