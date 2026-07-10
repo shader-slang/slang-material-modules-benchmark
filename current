@@ -1,2 +1,2 @@
-Fix quadratic IR type legalization on straight-line functions (#12041)
-85d79c67642efe8cceb411c78dc545b292e84c0c
+Reuse bundled Vulkan headers for slang-rhi (#12033)
+4676e878e54a5aa9364ae25b9ec63dc7f34a39a9
