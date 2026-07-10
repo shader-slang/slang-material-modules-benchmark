@@ -1,2 +1,2 @@
-Apply AVX-512 JIT workaround to all CI tests (#12056)
-01adc68f3db5aae35d28b49b4518da5d4574d6be
+Update SPIRV for VulkanSDK July 2026 (#12057)
+c0952c29d3664b60ada5e5edb3fff9ffd6f98d2d
