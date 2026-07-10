@@ -1,2 +1,2 @@
-Don't warn E31106/E31107 on compiler-synthesized parameter groups (#11986)
-258a984c111b8c2fff04b1e9ac435d96bcf5c8f6
+Add conversion tests between all fundamental scalar types (#12020)
+fe284bf9f14a5e7a29f7360121748abc18d75c5c
