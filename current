@@ -1,2 +1,2 @@
-Reuse bundled Vulkan headers for slang-rhi (#12033)
-4676e878e54a5aa9364ae25b9ec63dc7f34a39a9
+Apply AVX-512 JIT workaround to all CI tests (#12056)
+01adc68f3db5aae35d28b49b4518da5d4574d6be
