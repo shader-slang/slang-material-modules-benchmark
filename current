@@ -1,2 +1,2 @@
-Language reference: operator expressions and value categories (#11953)
-29767f3362535f3c4633eed228025959775742b5
+Fix quadratic IR type legalization on straight-line functions (#12041)
+85d79c67642efe8cceb411c78dc545b292e84c0c
