@@ -1,2 +1,2 @@
-Unwrap no_diff element types for autodiff updates (#12030)
-1a2e4c5e98622ee6fe2a44be8becfa9f2cae9591
+Fix #12002: rename internal spirv_asm sample register so its OpName reads as compiler-internal (#12053)
+4d91d47bf34793533c9b9f9ab9937413d2fb5b3c
