@@ -1,2 +1,2 @@
-Add ResourceDescriptorHeap/SamplerDescriptorHeap direct-index input syntax (#11798)
-84792eb15f9d9284ca451e435fdb3ca1d66393c2
+Avoid redundant core module recompilation (#12047)
+5951e13e8363a404b0fc0af3ee38ee1fbbd87f37
