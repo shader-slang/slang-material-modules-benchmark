@@ -1,2 +1,2 @@
-Update SPIRV for VulkanSDK July 2026 (#12057)
-c0952c29d3664b60ada5e5edb3fff9ffd6f98d2d
+Add ResourceDescriptorHeap/SamplerDescriptorHeap direct-index input syntax (#11798)
+84792eb15f9d9284ca451e435fdb3ca1d66393c2
