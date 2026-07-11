@@ -1,2 +1,2 @@
-Avoid redundant core module recompilation (#12047)
-5951e13e8363a404b0fc0af3ee38ee1fbbd87f37
+Unwrap no_diff element types for autodiff updates (#12030)
+1a2e4c5e98622ee6fe2a44be8becfa9f2cae9591
