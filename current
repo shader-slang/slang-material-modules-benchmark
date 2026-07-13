@@ -1,2 +1,2 @@
-Fix #12048: run lowerEnumType when only an enum cast survives (#12050)
-340a191c5d4686b10b54434a329760abf97a3ed5
+Fix #12059: assign HLSL CoopMat.fill Splat return value (#12065)
+b2fc4c63c5d14d2a01d363248168bd9ca08ef8a3
