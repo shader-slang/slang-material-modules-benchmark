@@ -1,2 +1,2 @@
-Fix generic interface witness lowering (#11615)
-8f0c3515d8c3f272ad6301291aa5a076d3cd4f3e
+Pin nightly coverage macOS job to macos-15 (#12075)
+7cc70648a9164d9f29d26c02322ebd34aa125439
