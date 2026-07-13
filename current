@@ -1,2 +1,2 @@
-Include license texts in release packages (#12085)
-c744924e088956b9da953edf239f543b3ff8b713
+Add end-to-end SPIR-V test for 64-bit indexing (spvShader64BitIndexingEXT) (#12081)
+fd4bd2531406232683e1be8214ffd0d2d94ceffe
