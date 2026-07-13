@@ -1,2 +1,2 @@
-compile-perf: nightly operability for the daily-history re-run (UTF-8, suite-ref backfill, run-date labels) (#12074)
-f961ddbea09fde9f3877bc51306789322feb7259
+Fix #12048: run lowerEnumType when only an enum cast survives (#12050)
+340a191c5d4686b10b54434a329760abf97a3ed5
