@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783975152076,
+  "lastUpdate": 1783982246651,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -116334,6 +116334,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 716.2925000000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "16f54759c9571ad96ba7b64fc584f290595e5aaa",
+          "message": "Restore MSVC Release /OPT flags when shipping PDBs (#12061)\n\nhttps://github.com/shader-slang/slang/commit/a9c6ff78e47e7271707f595d4f787ced23c5a239",
+          "timestamp": "2026-07-13T15:37:09-07:00",
+          "tree_id": "9cffadcd03ba95291bb4101f8fe6384e476e0b52",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/16f54759c9571ad96ba7b64fc584f290595e5aaa"
+        },
+        "date": 1783982237933,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2012.3306249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 559.130625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 559.010625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2023.1668750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 558.638125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 558.3849999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 710.131875,
             "unit": "milliseconds"
           }
         ]
