@@ -1,2 +1,2 @@
-Fix shader-slang/slang#11996: add half->scalar conversion operators for CPU target (#12043)
-1a9cec331f22f67c4308ce0d93cfed5bbacf0aa9
+Restore MSVC Release /OPT flags when shipping PDBs (#12061)
+a9c6ff78e47e7271707f595d4f787ced23c5a239
