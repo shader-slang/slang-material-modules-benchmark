@@ -1,2 +1,2 @@
-Add end-to-end SPIR-V test for 64-bit indexing (spvShader64BitIndexingEXT) (#12081)
-fd4bd2531406232683e1be8214ffd0d2d94ceffe
+Fix shader-slang/slang#11996: add half->scalar conversion operators for CPU target (#12043)
+1a9cec331f22f67c4308ce0d93cfed5bbacf0aa9
