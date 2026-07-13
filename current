@@ -1,2 +1,2 @@
-Fix #12059: assign HLSL CoopMat.fill Splat return value (#12065)
-b2fc4c63c5d14d2a01d363248168bd9ca08ef8a3
+Include license texts in release packages (#12085)
+c744924e088956b9da953edf239f543b3ff8b713
