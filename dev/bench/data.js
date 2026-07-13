@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1783958758421,
+  "lastUpdate": 1783961816752,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -116106,6 +116106,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 713.109375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "9b53808e26af34426a4ec371574c9307dcfe17f2",
+          "message": "Fix #12059: assign HLSL CoopMat.fill Splat return value (#12065)\n\nhttps://github.com/shader-slang/slang/commit/b2fc4c63c5d14d2a01d363248168bd9ca08ef8a3",
+          "timestamp": "2026-07-13T09:56:35-07:00",
+          "tree_id": "ed5ee4f6b78d9472413ce4af5d9c57063302f15f",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/9b53808e26af34426a4ec371574c9307dcfe17f2"
+        },
+        "date": 1783961807282,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3540.060625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 985.9124999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 975.9487499999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3523.79125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 968.8262500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 971.2237500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1247.883125,
             "unit": "milliseconds"
           }
         ]
