@@ -1,2 +1,2 @@
-Pin nightly coverage macOS job to macos-15 (#12075)
-7cc70648a9164d9f29d26c02322ebd34aa125439
+compile-perf: nightly operability for the daily-history re-run (UTF-8, suite-ref backfill, run-date labels) (#12074)
+f961ddbea09fde9f3877bc51306789322feb7259
