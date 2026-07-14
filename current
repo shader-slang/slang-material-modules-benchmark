@@ -1,2 +1,2 @@
-Restore MSVC Release /OPT flags when shipping PDBs (#12061)
-a9c6ff78e47e7271707f595d4f787ced23c5a239
+docs: add Shader Execution Coverage tutorial to the user guide (#11977)
+65a98e3338bd1e71bdda78cdfa4361f64f23dbd2
