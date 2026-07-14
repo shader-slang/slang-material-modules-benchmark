@@ -1,2 +1,2 @@
-Fix #11730: brace initializer rejected as a function-call argument (#11818)
-3eeda847cea55498a5530bc41cfff302d1713eac
+Make CoopVec subscripts differentiable (#12031)
+77f5ca0918bd0c0fa463f106567e0dd5448dc15f
