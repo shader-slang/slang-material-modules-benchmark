@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1784014916734,
+  "lastUpdate": 1784026403856,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -116448,6 +116448,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 707.2287499999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "69eeaddb47ed4ba8339924e4e8f3febeaf6f0414",
+          "message": "Materialize multi-element swizzle base as a temp in C++/CUDA emit (#12073) (#12078)\n\nhttps://github.com/shader-slang/slang/commit/d6c7720112add3b58d538ffb3c529fb03a7327df",
+          "timestamp": "2026-07-14T03:53:04-07:00",
+          "tree_id": "3c9a1d9ba5f8183fb2b4a81d960f41a0ab12f5af",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/69eeaddb47ed4ba8339924e4e8f3febeaf6f0414"
+        },
+        "date": 1784026392649,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2013.4743749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 560.78375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 559.173125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1989.5174999999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 559.5212500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 558.9193750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 708.4731249999999,
             "unit": "milliseconds"
           }
         ]
