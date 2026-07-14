@@ -1,2 +1,2 @@
-Make CoopVec subscripts differentiable (#12031)
-77f5ca0918bd0c0fa463f106567e0dd5448dc15f
+Skip legalizeMatrixTypes when no matrix needs legalizing (#11917) (#11987)
+6d299e4e117d5af2e776e2f618a9fc9790944845
