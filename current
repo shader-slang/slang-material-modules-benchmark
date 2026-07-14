@@ -1,2 +1,2 @@
-Fix zeroed primal in synthesized trivial forward derivative (#11670)
-e28b5e9c8c9ba9c4e905ab5e2a488cd0817af9c2
+Use mimalloc for global C++ new/delete on Windows (#12036)
+ad69c2e9f89a1021eaea4e3a6591075865dde590
