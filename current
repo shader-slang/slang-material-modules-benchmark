@@ -1,2 +1,2 @@
-Fix #6557: exclude UseUpToDateBinaryModule from module content digest (#12068)
-67de3f517d20afb700b63413db960d75cec3eb65
+Fix #11730: brace initializer rejected as a function-call argument (#11818)
+3eeda847cea55498a5530bc41cfff302d1713eac
