@@ -1,2 +1,2 @@
-Materialize multi-element swizzle base as a temp in C++/CUDA emit (#12073) (#12078)
-d6c7720112add3b58d538ffb3c529fb03a7327df
+Fix #6557: exclude UseUpToDateBinaryModule from module content digest (#12068)
+67de3f517d20afb700b63413db960d75cec3eb65
