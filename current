@@ -1,2 +1,2 @@
-docs: add Shader Execution Coverage tutorial to the user guide (#11977)
-65a98e3338bd1e71bdda78cdfa4361f64f23dbd2
+Materialize multi-element swizzle base as a temp in C++/CUDA emit (#12073) (#12078)
+d6c7720112add3b58d538ffb3c529fb03a7327df
