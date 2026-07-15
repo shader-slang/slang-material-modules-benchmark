@@ -1,2 +1,2 @@
-Default the shader-coverage demos to batched dispatch in full mode (#12090)
-694022a11ac4d1c6a22af0236721035a18cafbca
+examples: add shader-coverage-backends with selectable CPU/CUDA/Vulkan/Metal dispatch (#11979)
+336dd0f495745f97390bddf3cd1b3ef1fc6670d0
