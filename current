@@ -1,2 +1,2 @@
-examples: add shader-coverage-backends with selectable CPU/CUDA/Vulkan/Metal dispatch (#11979)
-336dd0f495745f97390bddf3cd1b3ef1fc6670d0
+Allow shader invocation reorder extensions with SPIR-V 1.4 (#12115)
+8e3f9163df63045a29e4faf91b23fb9ea04520de
