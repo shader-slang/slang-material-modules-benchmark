@@ -1,2 +1,2 @@
-Allow shader invocation reorder extensions with SPIR-V 1.4 (#12115)
-8e3f9163df63045a29e4faf91b23fb9ea04520de
+Revert "Pin nightly coverage macOS job to macos-15" (#12129)
+623227f86eca6c71851819bf5c7e1848b6272cde
