@@ -1,2 +1,2 @@
-Fix #12102: make missing mimalloc source a configure error (#12107)
-c5d4d76e67d419d45310655aad66017ec8771137
+Default the shader-coverage demos to batched dispatch in full mode (#12090)
+694022a11ac4d1c6a22af0236721035a18cafbca
