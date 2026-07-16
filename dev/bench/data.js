@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1784177658029,
+  "lastUpdate": 1784179259669,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -117474,6 +117474,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 731.5668749999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "1159d46c3d0430cb6307f6400e253a50c472d46d",
+          "message": "fix: restore Fix #10909: Add Flat decoration for SubgroupLocalInvocationId in fragment shaders (#12064)\n\nhttps://github.com/shader-slang/slang/commit/6c837d317907b0a7344b4762f430f4a99ed315f8",
+          "timestamp": "2026-07-15T22:20:38-07:00",
+          "tree_id": "b772131b7a9835b227ee0f30132ff465064e366c",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/1159d46c3d0430cb6307f6400e253a50c472d46d"
+        },
+        "date": 1784179248680,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3499.0706250000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 967.7049999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 972.1293750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3502.02125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 964.0487499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 978.4156249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1262.9875,
             "unit": "milliseconds"
           }
         ]
