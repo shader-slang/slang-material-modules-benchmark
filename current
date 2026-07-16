@@ -1,2 +1,2 @@
-Fix Metal fragment out/inout param crash (Unknown addressspace) (#12015)
-1cfc8ec512f2e701d79e4d19f4b2b7685091dedd
+Memoize shared Val and type DAG traversals (#12106)
+c8d02ae59a6a257b710b617061ff1881f67a2a7a
