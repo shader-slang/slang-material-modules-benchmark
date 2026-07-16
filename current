@@ -1,2 +1,2 @@
-Revert "Pin nightly coverage macOS job to macos-15" (#12129)
-623227f86eca6c71851819bf5c7e1848b6272cde
+Fix #12049: specializing a generic entry point can't see primary-file extension conformances (#12052)
+89443da3660e9b9791a9c2b006840b8f57430489
