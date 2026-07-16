@@ -1,2 +1,2 @@
-Fix #12046: correct GLSL float remainder; emit OpFMod for mod() on SPIR-V (#12130)
-5bd8eb89fb6f9df8adc2f1b6bcceda1fc6d9de0f
+fix: restore Fix #10909: Add Flat decoration for SubgroupLocalInvocationId in fragment shaders (#12064)
+6c837d317907b0a7344b4762f430f4a99ed315f8
