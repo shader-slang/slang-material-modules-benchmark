@@ -1,2 +1,2 @@
-Fix #11315: lower `(void)expr` to the canonical void value (#12117)
-8e8653f8c67609364639f6055a5354084cbef3e8
+compile-perf: allow sweeping patch releases (include-patches dispatch input) (#12126)
+4f4ec505761e2e56a45da873d5c169ff6e512f52
