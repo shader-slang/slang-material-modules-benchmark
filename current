@@ -1,2 +1,2 @@
-fix: restore Fix #10909: Add Flat decoration for SubgroupLocalInvocationId in fragment shaders (#12064)
-6c837d317907b0a7344b4762f430f4a99ed315f8
+Fix #11315: lower `(void)expr` to the canonical void value (#12117)
+8e8653f8c67609364639f6055a5354084cbef3e8
