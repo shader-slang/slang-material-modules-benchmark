@@ -1,2 +1,2 @@
-Fix #12049: specializing a generic entry point can't see primary-file extension conformances (#12052)
-89443da3660e9b9791a9c2b006840b8f57430489
+Fix Metal fragment out/inout param crash (Unknown addressspace) (#12015)
+1cfc8ec512f2e701d79e4d19f4b2b7685091dedd
