@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1784167632628,
+  "lastUpdate": 1784168978004,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -117246,6 +117246,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 687.97,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "880320ed6d5343d4755a6e7c7d566a9c11f3ecbd",
+          "message": "Fix Metal fragment out/inout param crash (Unknown addressspace) (#12015)\n\nhttps://github.com/shader-slang/slang/commit/1cfc8ec512f2e701d79e4d19f4b2b7685091dedd",
+          "timestamp": "2026-07-15T19:29:20-07:00",
+          "tree_id": "4c4e5ba0e17158aa787c1eef648b139701b2523b",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/880320ed6d5343d4755a6e7c7d566a9c11f3ecbd"
+        },
+        "date": 1784168968468,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1976.2712499999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 541.1162499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 540.68625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1960.8387500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 540.121875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 539.869375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 682.8325,
             "unit": "milliseconds"
           }
         ]
