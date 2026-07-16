@@ -1,2 +1,2 @@
-Memoize shared Val and type DAG traversals (#12106)
-c8d02ae59a6a257b710b617061ff1881f67a2a7a
+Fix #12121: accept and forward -X<compiler> options in render-test COMPARE_COMPUTE tests (#12128)
+814ab6dda96643066eac845001df49b68c34067c
