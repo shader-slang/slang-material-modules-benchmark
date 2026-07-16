@@ -1,2 +1,2 @@
-Fix #12121: accept and forward -X<compiler> options in render-test COMPARE_COMPUTE tests (#12128)
-814ab6dda96643066eac845001df49b68c34067c
+Fix #12046: correct GLSL float remainder; emit OpFMod for mod() on SPIR-V (#12130)
+5bd8eb89fb6f9df8adc2f1b6bcceda1fc6d9de0f
