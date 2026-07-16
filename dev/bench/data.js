@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1784173737292,
+  "lastUpdate": 1784177658029,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -117417,6 +117417,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 741.6212499999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "72377c0950f470d72f04aa4ebafef9517118f108",
+          "message": "Fix #12046: correct GLSL float remainder; emit OpFMod for mod() on SPIR-V (#12130)\n\nhttps://github.com/shader-slang/slang/commit/5bd8eb89fb6f9df8adc2f1b6bcceda1fc6d9de0f",
+          "timestamp": "2026-07-15T21:53:56-07:00",
+          "tree_id": "96026582b81f798fd52c611dc6934d724d446b95",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/72377c0950f470d72f04aa4ebafef9517118f108"
+        },
+        "date": 1784177645808,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2000.77,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 562.995625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 562.6756250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1986.6575,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 559.55,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 560.394375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 731.5668749999999,
             "unit": "milliseconds"
           }
         ]
