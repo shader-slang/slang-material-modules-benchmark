@@ -1,2 +1,2 @@
-build(deps): bump golang.org/x/crypto from 0.48.0 to 0.52.0 in /extras/scaler (#11975)
-ec177850a29a3263e7f29fe11e387c311eaa9875
+Fix #11659: null-deref crash legalizing graphics-stage varyings for CPU kernel targets (#11661)
+657b1907d1f48c840447c2557d6ca6a212fb56ee
