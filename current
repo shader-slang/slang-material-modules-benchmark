@@ -1,2 +1,2 @@
-Fix CUDA prelude vec1 make helpers to return the vector struct (#11957)
-b184085c602dc17c94c8fae503b77e4cc73376a1
+Use `-Og` optimization level for GCC/Clang debug builds (#12140)
+d9c9fa413bc8bd3de6d92c7aab9aed370925b79c
