@@ -1,2 +1,2 @@
-Add build command and binary location to the shader-coverage-backends README (#12144)
-5209a49f6a6f00a95c72314b21f5ebb9d20774c6
+Fix shader-slang/slang#11982: dedup SPIR-V DebugSource for imported modules (#12034)
+3649fb98283f95e1302569231b0900f574d425d9
