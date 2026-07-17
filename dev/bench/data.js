@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1784250960608,
+  "lastUpdate": 1784286649084,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -117702,6 +117702,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 732.324375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "53cb54b66e5fc9dd2c9240fa9e6ad910b2895fad",
+          "message": "Fix CUDA prelude vec1 make helpers to return the vector struct (#11957)\n\nhttps://github.com/shader-slang/slang/commit/b184085c602dc17c94c8fae503b77e4cc73376a1",
+          "timestamp": "2026-07-17T04:10:29-07:00",
+          "tree_id": "e6008310e0bf4e557e6d3e958a42281b465c17cd",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/53cb54b66e5fc9dd2c9240fa9e6ad910b2895fad"
+        },
+        "date": 1784286638098,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2005.144375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 561.199375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 563.6449999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1993.9181250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 567.5799999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 563.09,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 729.743125,
             "unit": "milliseconds"
           }
         ]
