@@ -1,2 +1,2 @@
-Use `-Og` optimization level for GCC/Clang debug builds (#12140)
-d9c9fa413bc8bd3de6d92c7aab9aed370925b79c
+Add build command and binary location to the shader-coverage-backends README (#12144)
+5209a49f6a6f00a95c72314b21f5ebb9d20774c6
