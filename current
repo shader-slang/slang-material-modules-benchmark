@@ -1,2 +1,2 @@
-Fix shader-slang/slang#11982: dedup SPIR-V DebugSource for imported modules (#12034)
-3649fb98283f95e1302569231b0900f574d425d9
+build(deps): bump golang.org/x/crypto from 0.48.0 to 0.52.0 in /extras/scaler (#11975)
+ec177850a29a3263e7f29fe11e387c311eaa9875
