@@ -1,2 +1,2 @@
-Fix #11659: null-deref crash legalizing graphics-stage varyings for CPU kernel targets (#11661)
-657b1907d1f48c840447c2557d6ca6a212fb56ee
+build(deps): bump golang.org/x/net from 0.54.0 to 0.55.0 in /extras/scaler (#11892)
+99b8019edc358d42bb3054ba66b2b7d35867eca0
