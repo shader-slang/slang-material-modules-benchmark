@@ -1,2 +1,2 @@
-build(deps): bump golang.org/x/net from 0.54.0 to 0.55.0 in /extras/scaler (#11892)
-99b8019edc358d42bb3054ba66b2b7d35867eca0
+Use mimalloc for Slang-owned malloc/free on Windows (#12105)
+aaa07fe296560ffefeaf2e39d0aed5658b641a21
