@@ -1,2 +1,2 @@
-Use mimalloc for Slang-owned malloc/free on Windows (#12105)
-aaa07fe296560ffefeaf2e39d0aed5658b641a21
+Fix macOS signing version extraction (#12149)
+3292090b36f056c5a82d46f54a2281950be0c291
