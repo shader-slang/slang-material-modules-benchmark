@@ -1,2 +1,2 @@
-Avoid ImageGatherExtended capability for constant-offset Gather (#9382) (#12133)
-340e3445a7a9e8e41dacfa23ccce6e361edbbd5c
+Initialize parsed command-line options (#12153)
+203065d66720b9b457b8ce689dd00d31abde010b
