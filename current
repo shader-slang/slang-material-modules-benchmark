@@ -1,2 +1,2 @@
-Initialize parsed command-line options (#12153)
-203065d66720b9b457b8ce689dd00d31abde010b
+[2/3] ByteAddressBuffer: decide wide-vs-scalarized + validate the alignment contract (#11595)
+c6a261068286d7ad6b34c98f794be803065b45dd
