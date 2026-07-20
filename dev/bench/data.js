@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1784437781148,
+  "lastUpdate": 1784525645245,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -118500,6 +118500,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 671.24625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "f53d6f4fba437b7d3f70cf5650a4b6edf902e989",
+          "message": "Omit redundant terminating break in WGSL switch cases (#11947)\n\nhttps://github.com/shader-slang/slang/commit/6a244fee293f75e37505952225413715ff005e94",
+          "timestamp": "2026-07-19T22:33:45-07:00",
+          "tree_id": "8957dc044011b4296964f2c4fb0f5a72a76b6d65",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/f53d6f4fba437b7d3f70cf5650a4b6edf902e989"
+        },
+        "date": 1784525634110,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1959.4418749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 532.174375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 534.035,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1945.85625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 532.078125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 533.2974999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 677.4912499999999,
             "unit": "milliseconds"
           }
         ]
