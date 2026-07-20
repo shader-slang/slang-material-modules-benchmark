@@ -1,2 +1,2 @@
-Relocate slang-test generated outputs (#12154)
-a916653b7085cf2bc40d02e38f09e6ffb3a46a83
+Omit redundant terminating break in WGSL switch cases (#11947)
+6a244fee293f75e37505952225413715ff005e94
