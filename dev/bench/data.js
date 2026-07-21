@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1784673486058,
+  "lastUpdate": 1784675669740,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -118671,6 +118671,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1190.635,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "0db8e9581ccbbf02b81c501a28c7fbf97d31e5f1",
+          "message": "Coalesce redundant UniformConstant resource-element loads on SPIR-V (#12051) (#12111)\n\nhttps://github.com/shader-slang/slang/commit/958620c1662c189df186478af035a3b47293f843",
+          "timestamp": "2026-07-21T16:14:09-07:00",
+          "tree_id": "7529292ee6d9aec20ecede09e58a3ee0b0aa65dc",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/0db8e9581ccbbf02b81c501a28c7fbf97d31e5f1"
+        },
+        "date": 1784675659952,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1956.8299999999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 533.549375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 533.259375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1956.9075,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 546.095625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 559.245625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 675.319375,
             "unit": "milliseconds"
           }
         ]
