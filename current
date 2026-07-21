@@ -1,2 +1,2 @@
-Omit redundant terminating break in WGSL switch cases (#11947)
-6a244fee293f75e37505952225413715ff005e94
+Avoid conflicting MSVC exception flags (#12166)
+cbabb7bdee118023b50bcd4134035b6076f1b8ff
