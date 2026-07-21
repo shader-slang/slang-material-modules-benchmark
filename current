@@ -1,2 +1,2 @@
-Fix #10188: shape-independent __ldg exclusion for OptiX SBT loads (supersedes #11152) (#12119)
-b593edc384694780fbb47c25ff0ce95c1cf7b6b1
+Coalesce redundant UniformConstant resource-element loads on SPIR-V (#12051) (#12111)
+958620c1662c189df186478af035a3b47293f843
