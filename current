@@ -1,2 +1,2 @@
-Avoid conflicting MSVC exception flags (#12166)
-cbabb7bdee118023b50bcd4134035b6076f1b8ff
+Fix #10188: shape-independent __ldg exclusion for OptiX SBT loads (supersedes #11152) (#12119)
+b593edc384694780fbb47c25ff0ce95c1cf7b6b1
