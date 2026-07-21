@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1784660835042,
+  "lastUpdate": 1784673486058,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -118614,6 +118614,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 676.5443750000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "cc1b8a2eb2351e13564f57543d19a6fd5ebfbe9c",
+          "message": "Fix #10188: shape-independent __ldg exclusion for OptiX SBT loads (supersedes #11152) (#12119)\n\nhttps://github.com/shader-slang/slang/commit/b593edc384694780fbb47c25ff0ce95c1cf7b6b1",
+          "timestamp": "2026-07-21T15:37:45-07:00",
+          "tree_id": "3b81f08ed897687d9666d55271cfc8952c61c95a",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/cc1b8a2eb2351e13564f57543d19a6fd5ebfbe9c"
+        },
+        "date": 1784673477660,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3472.1525,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 920.4312500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 936.7550000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3441.1324999999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 928.0656250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 925.8125000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1190.635,
             "unit": "milliseconds"
           }
         ]
