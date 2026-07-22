@@ -1,2 +1,2 @@
-Fix infinite loop in _unwrapParameterGroups for non-StructuredBuffer resources (#11136)
-601d363f77e3b063b0990c374286d205b3a02253
+Skip CI for nested Markdown changes (#12188)
+4f23e904a35477c4bb30a2a8064902e61dc5099f
