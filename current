@@ -1,2 +1,2 @@
-Fix #12173: bridge module-scope args to WGSL by-ref (out/inout) parameters (#12174)
-d384b77e6669f5778781ca48ad53264764cc148b
+Fix infinite loop in _unwrapParameterGroups for non-StructuredBuffer resources (#11136)
+601d363f77e3b063b0990c374286d205b3a02253
