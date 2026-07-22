@@ -1,2 +1,2 @@
-Coalesce redundant UniformConstant resource-element loads on SPIR-V (#12051) (#12111)
-958620c1662c189df186478af035a3b47293f843
+Fix #12177: honor -v failure in parallel runs and gate capability discovery (#12180)
+7002bbe67780243f8b0ba699004afd099b92c8fe
