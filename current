@@ -1,2 +1,2 @@
-Fix #12177: honor -v failure in parallel runs and gate capability discovery (#12180)
-7002bbe67780243f8b0ba699004afd099b92c8fe
+Update spirv submodule (#12184)
+d148787f233ccc720c1ad09e70d59d392874a8a6
