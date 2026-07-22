@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1784685032192,
+  "lastUpdate": 1784726146585,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -118842,6 +118842,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1164.0768750000002,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "093c231ca6f35f6bbc82c10143f63397da4cd99a",
+          "message": "Fix #12173: bridge module-scope args to WGSL by-ref (out/inout) parameters (#12174)\n\nhttps://github.com/shader-slang/slang/commit/d384b77e6669f5778781ca48ad53264764cc148b",
+          "timestamp": "2026-07-22T06:15:24-07:00",
+          "tree_id": "0c5c1f457e3c6d560cb40de8466dc73bf3817c95",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/093c231ca6f35f6bbc82c10143f63397da4cd99a"
+        },
+        "date": 1784726135269,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3516.4837500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 916.8943749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 910.4100000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3452.7975000000006,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 909.64125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 906.8806250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1149.1356250000001,
             "unit": "milliseconds"
           }
         ]
