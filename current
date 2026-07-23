@@ -1,2 +1,2 @@
-Reject conflicting -profile and -capability command-line arguments (#12122)
-7e65d59665ea1e4961acd280ecb502a0870e5491
+Add regression test for #12104: vec3 self-division ones-vector fold size (#12193)
+56eb1aa08586697fa58a23bf74a7d05e91679ee8
