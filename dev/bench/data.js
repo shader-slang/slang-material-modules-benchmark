@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1784765986738,
+  "lastUpdate": 1784774225160,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -119127,6 +119127,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 680.341875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "a6c668fc0f333400c9d89e798d47ad6fa1a1e47c",
+          "message": "Add regression test for #12104: vec3 self-division ones-vector fold size (#12193)\n\nhttps://github.com/shader-slang/slang/commit/56eb1aa08586697fa58a23bf74a7d05e91679ee8",
+          "timestamp": "2026-07-22T19:36:45-07:00",
+          "tree_id": "92d964c7e1474718efba95b130c7a00d0c517a07",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/a6c668fc0f333400c9d89e798d47ad6fa1a1e47c"
+        },
+        "date": 1784774213764,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1963.0168749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 533.911875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 535.6137500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1938.9862500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 532.600625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 535.245,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 679.2474999999998,
             "unit": "milliseconds"
           }
         ]
