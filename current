@@ -1,2 +1,2 @@
-Clarify short-circuiting behavior related to `&&` and `||` (#12171)
-08024eda7b24f8127b98514b8c0abe047d74c2db
+`vector<T, 4>`: Explicitly disable `(vector<T, 2>, T)` and `(T, vector<T, 2>)` initializers (#12141)
+5374382b302b03c45993b7f50bb77b6c9c1e9b99
