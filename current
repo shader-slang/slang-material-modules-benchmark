@@ -1,2 +1,2 @@
-Add slang-test optimization option (#12187)
-4955b21c3043cb380b12585f006e0131fb320eb4
+Reject conflicting -profile and -capability command-line arguments (#12122)
+7e65d59665ea1e4961acd280ecb502a0870e5491
