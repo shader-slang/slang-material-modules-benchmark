@@ -1,2 +1,2 @@
-Add external/README.md documenting dependencies and CMake options (#12178)
-e438c5aefccbb966a843ac6fb97a44b12fcaf385
+build(deps): bump google.golang.org/grpc from 1.79.3 to 1.82.1 in /extras/scaler (#12199)
+5e5f2a06b5dfabcccce833b00da02b77036e1674
