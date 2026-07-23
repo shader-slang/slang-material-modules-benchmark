@@ -1,2 +1,2 @@
-Add regression test for #12104: vec3 self-division ones-vector fold size (#12193)
-56eb1aa08586697fa58a23bf74a7d05e91679ee8
+Add external/README.md documenting dependencies and CMake options (#12178)
+e438c5aefccbb966a843ac6fb97a44b12fcaf385
