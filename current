@@ -1,2 +1,2 @@
-Fix #12169: legalize global-scope array-of-struct varying input (#12170)
-4265906358862245cb25f091cb47dc426c15267b
+Fix #12108: prefix internal spirv_asm registers with __ and assert (#12190)
+72985f8711ff4ce337747bda9b0ae9eb450c5d3c
