@@ -1,2 +1,2 @@
-Fix #12108: prefix internal spirv_asm registers with __ and assert (#12190)
-72985f8711ff4ce337747bda9b0ae9eb450c5d3c
+Don't re-export primary-file `using namespace` through import (#11450)
+15ada68aa2751ed079547de2da1a2e890e885720
