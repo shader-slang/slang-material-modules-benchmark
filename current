@@ -1,2 +1,2 @@
-Don't re-export primary-file `using namespace` through import (#11450)
-15ada68aa2751ed079547de2da1a2e890e885720
+Add public latest capability aliases (#12213)
+5281ccc66016919d07749d540b4608c09b4562b9
