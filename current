@@ -1,2 +1,2 @@
-Fix #12212: fail slang-capability-generator on capdef errors (#12217)
-f282bdf9c0fffb83de8ff6aac29cd15a057ee1dc
+reflection-json: emit resultType for typed buffers (#12228)
+15863db482b26ddd709ff736cf66e9d9a4e0d59c
