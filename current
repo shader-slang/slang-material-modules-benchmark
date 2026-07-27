@@ -1,2 +1,2 @@
-Add `-debug-info-include-source` to embed source in SPIR-V independently of `-g` level (#12202)
-70462843c0215d6a1796b96ad5b367b284368f4f
+Fix #12212: fail slang-capability-generator on capdef errors (#12217)
+f282bdf9c0fffb83de8ff6aac29cd15a057ee1dc
