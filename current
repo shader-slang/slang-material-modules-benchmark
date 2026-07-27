@@ -1,2 +1,2 @@
-Initialize denormal mode option values (#12229)
-a4168d47c6bf30f2d00e52a4097e294c78536cc8
+Add `-debug-info-include-source` to embed source in SPIR-V independently of `-g` level (#12202)
+70462843c0215d6a1796b96ad5b367b284368f4f
