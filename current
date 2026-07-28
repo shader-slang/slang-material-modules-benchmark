@@ -1,2 +1,2 @@
-Add size/alignment info to JSON reflection for every type layout (#12225)
-dd6e011e56d5ff1add1b30a893c64fc51df8ecd7
+Fix #12240: emit 64-bit OpSwitch case literals at the selector width (#12251)
+ae363b7545c61c37b0e15da4c6eaa69f6605d3f6
