@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1785196085134,
+  "lastUpdate": 1785211431124,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -120039,6 +120039,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1157.055,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "7b42a5b9e5be1de0b8a25bdba347e248498e1f08",
+          "message": "Add size/alignment info to JSON reflection for every type layout (#12225)\n\nhttps://github.com/shader-slang/slang/commit/dd6e011e56d5ff1add1b30a893c64fc51df8ecd7",
+          "timestamp": "2026-07-27T21:03:30-07:00",
+          "tree_id": "de29dd6814133bd2b98f6fe8b710983285def4d8",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/7b42a5b9e5be1de0b8a25bdba347e248498e1f08"
+        },
+        "date": 1785211419105,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1964.2968749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 533.7899999999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 535.9424999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1938.48875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 533.411875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 537.86125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 681.930625,
             "unit": "milliseconds"
           }
         ]
