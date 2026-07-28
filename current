@@ -1,2 +1,2 @@
-reflection-json: emit resultType for typed buffers (#12228)
-15863db482b26ddd709ff736cf66e9d9a4e0d59c
+Add size/alignment info to JSON reflection for every type layout (#12225)
+dd6e011e56d5ff1add1b30a893c64fc51df8ecd7
