@@ -1,2 +1,2 @@
-Fix #12240: emit 64-bit OpSwitch case literals at the selector width (#12251)
-ae363b7545c61c37b0e15da4c6eaa69f6605d3f6
+Improve test cases to pass for different optimization levels (#12253)
+ea711ddcbc5aaca4b87adf556059b69f045e4ed9
