@@ -1,2 +1,2 @@
-Fix #12237: legalize bool switch condition for SPIR-V (#12254)
-1eeb3b29d8fa9b496c375cea8574d9523becbfbd
+Fix #9403: emit compute entry-point wrappers as prototypes in -target hpp (#12152)
+71a3f7e71abea0a84db90a9542fb93fd89b23dff
