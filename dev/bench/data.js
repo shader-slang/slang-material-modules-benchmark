@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1785321597530,
+  "lastUpdate": 1785340822272,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -120324,6 +120324,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 686.355625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "97e822b5f4936483241bc652d991e1d311801df0",
+          "message": "Fix #9403: emit compute entry-point wrappers as prototypes in -target hpp (#12152)\n\nhttps://github.com/shader-slang/slang/commit/71a3f7e71abea0a84db90a9542fb93fd89b23dff",
+          "timestamp": "2026-07-29T08:59:46-07:00",
+          "tree_id": "879b8d6bd70b2224041f9c933dd51528f18d40fa",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/97e822b5f4936483241bc652d991e1d311801df0"
+        },
+        "date": 1785340802921,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3255.7987500000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 868.1725,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 870.358125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3224.1037499999993,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 858.2137499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 858.2043750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1122.086875,
             "unit": "milliseconds"
           }
         ]
