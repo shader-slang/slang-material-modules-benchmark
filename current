@@ -1,2 +1,2 @@
-Fix #12226: emit descriptor-heap ConstantBuffer as a uniform-buffer descriptor (#12256)
-6dba5d21203e4c8e8e3dca7fd0e57a421aaf08c3
+Fix #12237: legalize bool switch condition for SPIR-V (#12254)
+1eeb3b29d8fa9b496c375cea8574d9523becbfbd
