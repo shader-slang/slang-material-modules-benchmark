@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1785340822272,
+  "lastUpdate": 1785353885195,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -120381,6 +120381,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1122.086875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "906a41cfd620d68e4ca21fcccb42959afa5a4810",
+          "message": "fix: Allow specialization-constant [numthreads] with compute derivative groups (take 2) (#12207)\n\nhttps://github.com/shader-slang/slang/commit/eaab736fd1413fad833f9c4b290bc0bdfc15adc7",
+          "timestamp": "2026-07-29T12:37:36-07:00",
+          "tree_id": "dc5feeb38822f2be45259bb0e711f4063c9b5208",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/906a41cfd620d68e4ca21fcccb42959afa5a4810"
+        },
+        "date": 1785353872863,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3264.458125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 874.4212500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 876.6018750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3247.90875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 859.613125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 869.9256249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1135.6137499999998,
             "unit": "milliseconds"
           }
         ]
