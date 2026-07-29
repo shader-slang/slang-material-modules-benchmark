@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1785353885195,
+  "lastUpdate": 1785359176153,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -120438,6 +120438,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1135.6137499999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "aa8dbce6082ec8090f5e77df94582dc3ffe273dc",
+          "message": "[Metal] Fix RayQuery TriangleFrontFace emission (#12142)\n\nhttps://github.com/shader-slang/slang/commit/3fdebf511d54e5fc079563b6427a6694b8d9f832",
+          "timestamp": "2026-07-29T14:05:42-07:00",
+          "tree_id": "a009dfdee2e424bec15bd7fc93874f9e8458a9a2",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/aa8dbce6082ec8090f5e77df94582dc3ffe273dc"
+        },
+        "date": 1785359163451,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3461.75625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 898.085,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 865.2812500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3234.928125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 868.2837499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 868.3406249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1126.739375,
             "unit": "milliseconds"
           }
         ]
