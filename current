@@ -1,2 +1,2 @@
-Improve test cases to pass for different optimization levels (#12253)
-ea711ddcbc5aaca4b87adf556059b69f045e4ed9
+Fix #12226: emit descriptor-heap ConstantBuffer as a uniform-buffer descriptor (#12256)
+6dba5d21203e4c8e8e3dca7fd0e57a421aaf08c3
