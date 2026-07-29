@@ -1,2 +1,2 @@
-fix: Allow specialization-constant [numthreads] with compute derivative groups (take 2) (#12207)
-eaab736fd1413fad833f9c4b290bc0bdfc15adc7
+[Metal] Fix RayQuery TriangleFrontFace emission (#12142)
+3fdebf511d54e5fc079563b6427a6694b8d9f832
