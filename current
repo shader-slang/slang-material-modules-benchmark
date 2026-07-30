@@ -1,2 +1,2 @@
-Clarify how to set capabilities in the user guide (#12295)
-350f83ed63e641785702509937fdde75aa1243fb
+Keep LLVM JIT COFF sections ordered (#12293)
+730ab4fcac00f765f173392637bd174daae23872
