@@ -1,2 +1,2 @@
-Clean up shadow-comparison texture capability-atom naming (#12248)
-be27d078706867288523b4c98faca89aadfd9702
+Fix #12260: switch on enum with bool tag type (#12275)
+111f1ff71549944399e359754cefdff247e8681f
