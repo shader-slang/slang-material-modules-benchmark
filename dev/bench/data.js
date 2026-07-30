@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1785368110894,
+  "lastUpdate": 1785373631630,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -120552,6 +120552,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 683.6350000000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "2f9dd2dd6db096d796eb6a379f93da71dd0c55ab",
+          "message": "Add Metal support for printf (#12250)\n\nhttps://github.com/shader-slang/slang/commit/7c58a326b1f3812411a204b19cb01e323d8f6010",
+          "timestamp": "2026-07-29T18:06:50-07:00",
+          "tree_id": "19757a0b99c4500e4f0fe6fd5dc5be1940be4a7f",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/2f9dd2dd6db096d796eb6a379f93da71dd0c55ab"
+        },
+        "date": 1785373619877,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3280.63125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 867.3600000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 867.71875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3236.2193749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 866.4506250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 863.9675,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1116.50875,
             "unit": "milliseconds"
           }
         ]
