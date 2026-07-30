@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1785429335685,
+  "lastUpdate": 1785435084344,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -120666,6 +120666,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 679.9143750000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "9971f5643244d2a0aba38d7743690db5c97a5d94",
+          "message": "Fix #12260: switch on enum with bool tag type (#12275)\n\nhttps://github.com/shader-slang/slang/commit/111f1ff71549944399e359754cefdff247e8681f",
+          "timestamp": "2026-07-30T11:11:05-07:00",
+          "tree_id": "2f06f0db6ac6e6e6758a0dd8c7d70f078d304870",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/9971f5643244d2a0aba38d7743690db5c97a5d94"
+        },
+        "date": 1785435074607,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1962.3075,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 534.715625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 536.3506249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1968.1612500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 540.141875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 535.9925000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 683.7037499999999,
             "unit": "milliseconds"
           }
         ]
