@@ -1,2 +1,2 @@
-Keep LLVM JIT COFF sections ordered (#12293)
-730ab4fcac00f765f173392637bd174daae23872
+Fix #12279: gate 'precise' qualifier emission to HLSL/GLSL C-like targets (#12290)
+dc9558d57c7c245afed536096f881089118db568
