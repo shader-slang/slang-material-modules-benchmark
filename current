@@ -1,2 +1,2 @@
-Fix #12260: switch on enum with bool tag type (#12275)
-111f1ff71549944399e359754cefdff247e8681f
+Clarify how to set capabilities in the user guide (#12295)
+350f83ed63e641785702509937fdde75aa1243fb
