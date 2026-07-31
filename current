@@ -1,2 +1,2 @@
-Root `public __extern_cpp` functions as host-callable exports at CPU-target link (#9401) (#12242)
-e84ea3e96c3c4230cce049428d66b7f93a0da8d9
+Fix #12273: diagnose unsupported ray tracing entry point parameters instead of crashing (#12280)
+c3791ed4eeb795ffbad62d331d6f0e75fd73d13d
