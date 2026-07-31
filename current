@@ -1,2 +1,2 @@
-Fix #12279: gate 'precise' qualifier emission to HLSL/GLSL C-like targets (#12290)
-dc9558d57c7c245afed536096f881089118db568
+Root `public __extern_cpp` functions as host-callable exports at CPU-target link (#9401) (#12242)
+e84ea3e96c3c4230cce049428d66b7f93a0da8d9
