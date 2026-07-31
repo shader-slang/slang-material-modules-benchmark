@@ -1,2 +1,2 @@
-Fix #12273: diagnose unsupported ray tracing entry point parameters instead of crashing (#12280)
-c3791ed4eeb795ffbad62d331d6f0e75fd73d13d
+Fix #12236: diagnose unreachable statements before first switch case (#12245)
+744eb9ed48de9d5ed5bd822edba9d815bc5ec395
