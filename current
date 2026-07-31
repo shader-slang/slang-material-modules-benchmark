@@ -1,2 +1,2 @@
-Fix #12236: diagnose unreachable statements before first switch case (#12245)
-744eb9ed48de9d5ed5bd822edba9d815bc5ec395
+Fix #12278: define SamplerComparisonState in CUDA prelude (#12300)
+5d1077c03dd520df9a5e73696a70debce6b7c840
