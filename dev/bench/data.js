@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1785539160643,
+  "lastUpdate": 1785545348924,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -121122,6 +121122,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 678.30125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "979d2f98c4e1d9f7d011ab5759893325a80ae31d",
+          "message": "Fix #12274: diagnose typed Buffer<T> access on CUDA/PTX instead of silent empty kernel (#12289)\n\nhttps://github.com/shader-slang/slang/commit/0af96e444bc8c8ebd1a3b0651a9ddb4604be9a9e",
+          "timestamp": "2026-07-31T17:48:41-07:00",
+          "tree_id": "773a02e8a82ef7d7f551ffa0ae2060aa00b8b949",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/979d2f98c4e1d9f7d011ab5759893325a80ae31d"
+        },
+        "date": 1785545336360,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1948.0525,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 532.5875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 533.008125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1927.163125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 535.301875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 531.48375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 674.603125,
             "unit": "milliseconds"
           }
         ]
