@@ -1,2 +1,2 @@
-Fix #12278: define SamplerComparisonState in CUDA prelude (#12300)
-5d1077c03dd520df9a5e73696a70debce6b7c840
+Fix #12274: diagnose typed Buffer<T> access on CUDA/PTX instead of silent empty kernel (#12289)
+0af96e444bc8c8ebd1a3b0651a9ddb4604be9a9e
