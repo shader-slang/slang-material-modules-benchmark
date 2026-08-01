@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1785545348924,
+  "lastUpdate": 1785551940598,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -121179,6 +121179,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 674.603125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "55c8ea5fb7e2288b5ec68e6cc65d4448957fcca2",
+          "message": "Fix #12069: derive pointer size and byte order from compiler macros (#12305)\n\nhttps://github.com/shader-slang/slang/commit/d3ec9cc49da4c09a3833c904310e1a07f5742036",
+          "timestamp": "2026-07-31T19:38:38-07:00",
+          "tree_id": "66247b82e5636e04f8dba1e02a1182197dd08967",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/55c8ea5fb7e2288b5ec68e6cc65d4448957fcca2"
+        },
+        "date": 1785551927613,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1971.515,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 535.916875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 537.22625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1948.0487500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 534.745625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 533.734375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 680.44375,
             "unit": "milliseconds"
           }
         ]
