@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1785551940598,
+  "lastUpdate": 1785569172509,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -121236,6 +121236,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 680.44375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "6e59d3e32323479a463b8b61392dcb890d109ebd",
+          "message": "Fix #12219: fold DescriptorHandle representation round-trip in peephole (#12263)\n\nhttps://github.com/shader-slang/slang/commit/4d8fa2e9d10d0079f7830f00d01adc4bf41719f3",
+          "timestamp": "2026-08-01T00:25:54-07:00",
+          "tree_id": "e5f6b4303f50f6576d45d71707932eb9c8d9f7cd",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/6e59d3e32323479a463b8b61392dcb890d109ebd"
+        },
+        "date": 1785569163698,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3229.491875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 869.316875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 864.6712499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3251.721249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 869.42,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 868.7643750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1123.103125,
             "unit": "milliseconds"
           }
         ]
