@@ -1,2 +1,2 @@
-Fix #12219: fold DescriptorHandle representation round-trip in peephole (#12263)
-4d8fa2e9d10d0079f7830f00d01adc4bf41719f3
+Bump k_maxSupportedModuleVersion for the IRTypeAlignmentAttr instruction (#12315)
+53b76e6d3009b8e6434d41573524c7ce5c499d23
