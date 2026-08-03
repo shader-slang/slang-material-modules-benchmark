@@ -1,2 +1,2 @@
-Replace native assert with SLANG_ASSERT and drop <assert.h> from source/ and tools/ (#12332)
-5b3f7a24303d04657a824e676d32d7f644dc12f3
+Preserve runtime induction values in reverse differentiation (#12299)
+546ad18f7053abd5c415a575b99d60355657c30b
