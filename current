@@ -1,2 +1,2 @@
-Fix dynamic-dispatch specialization for non-concrete optionals/existentials (#11667)
-74c724aeccc5e35dfdc669f6234117486e540551
+Replace native assert with SLANG_ASSERT and drop <assert.h> from source/ and tools/ (#12332)
+5b3f7a24303d04657a824e676d32d7f644dc12f3
