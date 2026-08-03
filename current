@@ -1,2 +1,2 @@
-Fix #12292: never unmap slang-llvm once it has been loaded (#12308)
-0e7a383cac6264c20b62760f62821e0dbe29e694
+Fetch git tags in the CMake Options workflows (#12329)
+d9353c09006cb95a30a2bedd00a48372096cb760
