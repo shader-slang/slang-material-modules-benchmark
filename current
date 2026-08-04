@@ -1,2 +1,2 @@
-Update generated design docs (#12345)
-5fc126c8fceb1f7486914f972f912f01226851f1
+Harden SLANG_ASSERT environment variable read against unbounded strcpy pattern (#12346)
+91c454cc850c4a200f59b4f5a5f08dcc0ba2bb4e
