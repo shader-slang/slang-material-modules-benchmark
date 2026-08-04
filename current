@@ -1,2 +1,2 @@
-Preserve runtime induction values in reverse differentiation (#12299)
-546ad18f7053abd5c415a575b99d60355657c30b
+Fix #11983: scope SPIR-V DebugFunction to its own module's compilation unit (#12148)
+0864e60e635ef39d4c25e5e57747d909f1c05edd
