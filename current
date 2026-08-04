@@ -1,2 +1,2 @@
-Fix #11983: scope SPIR-V DebugFunction to its own module's compilation unit (#12148)
-0864e60e635ef39d4c25e5e57747d909f1c05edd
+Reject non-integer switch condition (#12238) (#12246)
+645ac5eef2b118454ac761b87546d78423ec6250
