@@ -1,2 +1,2 @@
-Reject non-integer switch condition (#12238) (#12246)
-645ac5eef2b118454ac761b87546d78423ec6250
+Make the Debug `-Og` default user-overridable (#12324)
+ca76f8781acded0f6c9c24ae0ccf6caf0d044210
