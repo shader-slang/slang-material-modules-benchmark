@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1785792955230,
+  "lastUpdate": 1785822535203,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -121635,6 +121635,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 696.06625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "2b69c6397b2ac2de0f1f77bae77a6ff50b69bf32",
+          "message": "Fix #11983: scope SPIR-V DebugFunction to its own module's compilation unit (#12148)\n\nhttps://github.com/shader-slang/slang/commit/0864e60e635ef39d4c25e5e57747d909f1c05edd",
+          "timestamp": "2026-08-03T22:48:29-07:00",
+          "tree_id": "d4fc1c8bc6f893f8745ba29fca5e2edb810ffcbc",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/2b69c6397b2ac2de0f1f77bae77a6ff50b69bf32"
+        },
+        "date": 1785822523467,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2001.6600000000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 539.279375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 539.6812500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1983.1206250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 541.9724999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 539.130625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 681.9418750000001,
             "unit": "milliseconds"
           }
         ]
