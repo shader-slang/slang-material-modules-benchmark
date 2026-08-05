@@ -1,2 +1,2 @@
-ci: update CTS nightly to VK-GL-CTS 0.0.9 (#12365)
-20592cc5f260cbcc50121cecf7a5ad471e5dba53
+ci: upload TestResults.qpa as an artifact on CTS nightly failure (#12369)
+b0e43d657dc6a4d0544a5d831522932276f983f7
