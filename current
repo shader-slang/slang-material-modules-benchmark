@@ -1,2 +1,2 @@
-Allow case/default statements only in the switch body (#12252)
-d2b405d313e7f5aa07727a6c972c19a06c9a3291
+docs: Fix generated links in generated docs (#12344)
+7175a561bddeff55b6ee7ff4f11be28cadc8d89d
