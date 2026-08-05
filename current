@@ -1,2 +1,2 @@
-ci: upload TestResults.qpa as an artifact on CTS nightly failure (#12369)
-b0e43d657dc6a4d0544a5d831522932276f983f7
+docs: add guide for running VK-GL-CTS with Slang locally (#12374)
+fe64ccc609bba90ce9f3324e87c1a1e8974c2805
