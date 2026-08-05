@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1785878813572,
+  "lastUpdate": 1785894640028,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -121920,6 +121920,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 682.5056250000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "317b3922d65e5af8e96a9fb525c346c92eea5425",
+          "message": "Speed up the shared type legalizer and add an entry-time early-out to legalizeEmptyTypes (#11917) (#12281)\n\nhttps://github.com/shader-slang/slang/commit/ff45b15ed3f002f541b93ec2bc3f70a681385bb1",
+          "timestamp": "2026-08-04T18:50:16-07:00",
+          "tree_id": "da3be4c2c8fa123ba43a6ed9a48eb816a11c93df",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/317b3922d65e5af8e96a9fb525c346c92eea5425"
+        },
+        "date": 1785894626682,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1985.390625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 532.8256250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 533.16375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1955.4231249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 537.9562500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 535.104375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 680.3924999999999,
             "unit": "milliseconds"
           }
         ]
