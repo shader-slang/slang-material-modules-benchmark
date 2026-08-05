@@ -1,2 +1,2 @@
-Harden SLANG_ASSERT environment variable read against unbounded strcpy pattern (#12346)
-91c454cc850c4a200f59b4f5a5f08dcc0ba2bb4e
+Speed up the shared type legalizer and add an entry-time early-out to legalizeEmptyTypes (#11917) (#12281)
+ff45b15ed3f002f541b93ec2bc3f70a681385bb1
