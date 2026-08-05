@@ -1,2 +1,2 @@
-docs: Fix generated links in generated docs (#12344)
-7175a561bddeff55b6ee7ff4f11be28cadc8d89d
+ci: update CTS nightly to VK-GL-CTS 0.0.9 (#12365)
+20592cc5f260cbcc50121cecf7a5ad471e5dba53
