@@ -1,2 +1,2 @@
-Require terminating semicolon in throw statements (#12328)
-19d1d4065bcdbe2c1e0817f9ead7c4d245758e5d
+Allow case/default statements only in the switch body (#12252)
+d2b405d313e7f5aa07727a6c972c19a06c9a3291
