@@ -1,2 +1,2 @@
-Stop auto-requesting reviewers outside the owners allowlist (#12352)
-49584a0890d33251f3fb81dfce408f41b753edd8
+Remove unreferenced .claude/hooks/pre_tool_use.py (#12377)
+0ce673de311b8dd2259f2ac7620530679b331e32
