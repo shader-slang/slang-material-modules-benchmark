@@ -1,2 +1,2 @@
-Fix segfault on empty capability switch case (#12357)
-9eb90c50a0335b58ea2f338d0897194604839075
+Fix #12298: canonicalize enum:bool switch case labels (#12301)
+bbaef7d62e58633c418a57f3f61993f8402bb522
