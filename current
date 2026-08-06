@@ -1,2 +1,2 @@
-Fix #12298: canonicalize enum:bool switch case labels (#12301)
-bbaef7d62e58633c418a57f3f61993f8402bb522
+.gitmodules: add branch = v2.1.7 for external/mimalloc (#12381)
+d7d59f374eef8d6ee919a9123ce3ea50fdba499e
