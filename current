@@ -1,2 +1,2 @@
-Remove unreferenced .claude/hooks/pre_tool_use.py (#12377)
-0ce673de311b8dd2259f2ac7620530679b331e32
+Distinguish an unavailable SPIR-V validator from invalid SPIR-V (#12353)
+9cd92bb3a1c6be15b013958a141240580222de0e
