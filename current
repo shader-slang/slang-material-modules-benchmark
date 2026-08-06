@@ -1,2 +1,2 @@
-docs: add guide for running VK-GL-CTS with Slang locally (#12374)
-fe64ccc609bba90ce9f3324e87c1a1e8974c2805
+Stop auto-requesting reviewers outside the owners allowlist (#12352)
+49584a0890d33251f3fb81dfce408f41b753edd8
