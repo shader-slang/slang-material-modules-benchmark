@@ -1,2 +1,2 @@
-Distinguish an unavailable SPIR-V validator from invalid SPIR-V (#12353)
-9cd92bb3a1c6be15b013958a141240580222de0e
+Fix segfault on empty capability switch case (#12357)
+9eb90c50a0335b58ea2f338d0897194604839075
