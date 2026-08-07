@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1786095608629,
+  "lastUpdate": 1786104681828,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -122832,6 +122832,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1110.4650000000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "6ec5d4b8b9b111b639a673f4136c316aa9024af9",
+          "message": "ci: gate Falcor bridge test-falcor behind falcor-ci approval environment (#11915)\n\nhttps://github.com/shader-slang/slang/commit/eea5b2753a19d4432985631a29b3cbedcafa8a39",
+          "timestamp": "2026-08-07T05:10:58-07:00",
+          "tree_id": "86acef8d83278e2887827c970a2c72eafaf57a6a",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/6ec5d4b8b9b111b639a673f4136c316aa9024af9"
+        },
+        "date": 1786104669435,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1945.0275,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 533.50125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 527.318125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1945.053125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 547.129375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 530.685,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 679.976875,
             "unit": "milliseconds"
           }
         ]
