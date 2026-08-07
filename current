@@ -1,2 +1,2 @@
-Guard GlslangDownstreamCompiler::link against a null glslang_linkSPIRV (#12359)
-88fa1206d3141e9b922b6e7fbf2f78fb9640427d
+Fix VM autodiff NativeString capture (#12127)
+5990e40bf0769344c97da79b63858b6f1f618835
