@@ -1,2 +1,2 @@
-Clarify PR board sync assignment comments as automated (#12416)
-7dc8091a6d7666ceeff0a9cb39b823119ddca113
+ci: increase slang-test parallelism on Linux GPU and CPU tiers (#12422)
+b36345efe89262debf41001286d4f42fe4fa7176
