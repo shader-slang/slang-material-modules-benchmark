@@ -1,2 +1,2 @@
-compile-perf: show workload source in full, add a repro command and copy buttons (#12407)
-289552a97a4d3ec06020991735ddca3c8b83f181
+Restore and deepen the generated test corpus after the design-doc regeneration (#12409)
+3241dfa86184d97f38c0cc0bbdc8332288896370
