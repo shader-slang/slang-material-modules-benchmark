@@ -1,2 +1,2 @@
-Fix VM autodiff NativeString capture (#12127)
-5990e40bf0769344c97da79b63858b6f1f618835
+Fix #12343: don't walk a block's instruction list across a re-parenting during CFG merge (#12348)
+6330a67867dae2dd6aa867f0180f5a0e9af80c83
