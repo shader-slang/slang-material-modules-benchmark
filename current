@@ -1,2 +1,2 @@
-compile-perf: Slack notification on scheduled runs + 10% regression threshold (#11745)
-7a9328f8910bc4631d39c6e66dbd6fc47e6a9910
+compile-perf: show workload source in full, add a repro command and copy buttons (#12407)
+289552a97a4d3ec06020991735ddca3c8b83f181
