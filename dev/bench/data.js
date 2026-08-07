@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1786091185508,
+  "lastUpdate": 1786095608629,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -122775,6 +122775,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1115.76625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "caf24f894efd27ce034fcfc7d7d5ac5cf8ad72a2",
+          "message": "Fix #12343: don't walk a block's instruction list across a re-parenting during CFG merge (#12348)\n\nhttps://github.com/shader-slang/slang/commit/6330a67867dae2dd6aa867f0180f5a0e9af80c83",
+          "timestamp": "2026-08-07T02:39:44-07:00",
+          "tree_id": "3cfb4dccb25ef84fd037dc1e0f5457fc9f0a5e64",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/caf24f894efd27ce034fcfc7d7d5ac5cf8ad72a2"
+        },
+        "date": 1786095595938,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3202.6281249999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 847.3537500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 852.3449999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3157.2287500000007,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 849.615,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 862.1875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1110.4650000000001,
             "unit": "milliseconds"
           }
         ]
