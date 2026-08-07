@@ -1,2 +1,2 @@
-.gitmodules: add branch = v2.1.7 for external/mimalloc (#12381)
-d7d59f374eef8d6ee919a9123ce3ea50fdba499e
+Guard GlslangDownstreamCompiler::link against a null glslang_linkSPIRV (#12359)
+88fa1206d3141e9b922b6e7fbf2f78fb9640427d
