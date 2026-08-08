@@ -1,2 +1,2 @@
-ci: increase slang-test parallelism on Linux GPU and CPU tiers (#12422)
-b36345efe89262debf41001286d4f42fe4fa7176
+Fix autodiff for property accessors (#12373)
+716ec597fc9c85111cd2fa06ba4e89bc4469b6b2
