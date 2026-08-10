@@ -1,2 +1,2 @@
-Fix autodiff for property accessors (#12373)
-716ec597fc9c85111cd2fa06ba4e89bc4469b6b2
+Fix the wrong agentic tests, skip the ones exposing compiler bugs (#12444)
+d7f3c47fcc85996ccf4fe3cf86f4d848a1687f85
