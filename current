@@ -1,2 +1,2 @@
-tests _meta: lint doc_section_digest against the section it names (#12445)
-569520560939c7afcd87293fb0c23c02d9365159
+agentic-tests: prune stale-pass suppressions and notify the nightly on Slack (#12451)
+1ca1aa50e5dbbd12ad65b64a60b3428f23c32d45
