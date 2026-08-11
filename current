@@ -1,2 +1,2 @@
-agentic-tests: prune stale-pass suppressions and notify the nightly on Slack (#12451)
-1ca1aa50e5dbbd12ad65b64a60b3428f23c32d45
+tests _meta: recompute diagnostics-catalog digests instead of skipping them (#12455)
+ec47ea72b6aa5fefc3b36f8a780dbd3ecf5b1f6e
