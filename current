@@ -1,2 +1,2 @@
-ci-analytics: show runs waiting for a deployment approval (#12427)
-cad86b5d32997605c32f435883eb59d7246f1c90
+Declare OpCapability SampleRateShading for `sample` interpolation (#12467)
+af1c5a7388af3cc7ad503b1799981b4701664d0b
