@@ -1,2 +1,2 @@
-Declare OpCapability SampleRateShading for `sample` interpolation (#12467)
-af1c5a7388af3cc7ad503b1799981b4701664d0b
+docs/generated: consume test-suite doc gaps in the design-doc workflow (#12476)
+5e846cbe3f9be42b08c515fb0e80aaf2e9864ecc
