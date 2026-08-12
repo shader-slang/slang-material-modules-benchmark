@@ -1,2 +1,2 @@
-docs/generated: consume test-suite doc gaps in the design-doc workflow (#12476)
-5e846cbe3f9be42b08c515fb0e80aaf2e9864ecc
+Fix #11911: count unit-test failures that a retry never resolves (#12453)
+07cb4ab86a3c6d24dcad6cb6c1aa73e646ce40f7
