@@ -1,2 +1,2 @@
-Fix #12440: report E41023 for getStringHash on a non-literal operand (#12464)
-1354e6c66d86a77cd525e0c536af0d9c4890244b
+slang-test: stop blaming tests for test-server deaths, and stop exiting 0 on abort (#12471)
+d4c72aab0b809918c64e1a0fc2c33ffc6855426f
