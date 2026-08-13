@@ -1,2 +1,2 @@
-docs/generated/design: guard the tree against Liquid openers that break the Pages build (#12521)
-ac3617f8cb60bacee694c029a29f2cc2b273a97b
+Fix #12440: report E41023 for getStringHash on a non-literal operand (#12464)
+1354e6c66d86a77cd525e0c536af0d9c4890244b
