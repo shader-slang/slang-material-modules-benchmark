@@ -1,2 +1,2 @@
-Fix #12475: don't redirect the test server's stdin in SlangcReadFromStdin (#12491)
-ccfc3bafcbc23e4952f8ba559cccdde42243a74c
+docs/generated: stop generated test READMEs from breaking the Pages build (#12511)
+f361510a426c4f06f08d57947851bc57ce511bbf
