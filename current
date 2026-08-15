@@ -1,2 +1,2 @@
-Lower singleton optional payloads directly (#12459)
-b4853080d174f36bc9e7b2d8d8e9fb71d6fc38db
+Fix #12497: error (not warning) on zero-operand spirv_asm opcode given operands (#12506)
+b571488e9d0670e45ceb48f6422f90cd5c43eabd
