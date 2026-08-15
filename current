@@ -1,2 +1,2 @@
-Fix #12497: error (not warning) on zero-operand spirv_asm opcode given operands (#12506)
-b571488e9d0670e45ceb48f6422f90cd5c43eabd
+Fix #12496: clamp VM Call argument copy to the operand's own size (#12509)
+37f3a4f47ef3de2d06a711d5624a59f65587e9fd
