@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1786805253606,
+  "lastUpdate": 1786809540122,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -124371,6 +124371,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 663.348125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "0e168eb7e5e9afa0f725932242c426f9d038dce2",
+          "message": "Fix #12496: clamp VM Call argument copy to the operand's own size (#12509)\n\nhttps://github.com/shader-slang/slang/commit/37f3a4f47ef3de2d06a711d5624a59f65587e9fd",
+          "timestamp": "2026-08-15T08:58:37-07:00",
+          "tree_id": "44a3faa8144069d3f19012d237691479dd97edad",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/0e168eb7e5e9afa0f725932242c426f9d038dce2"
+        },
+        "date": 1786809527523,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2017.6593749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 538.215,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 540.0374999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2012.6393749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 542.5525,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 543.555625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 689.3568750000001,
             "unit": "milliseconds"
           }
         ]
