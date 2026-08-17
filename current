@@ -1,2 +1,2 @@
-slang-test: retry a malformed reply on a fresh server instead of failing the test (#12573)
-a0690fa7d279484dab0bca3e3b9422ef73aea7c5
+Record the nvapi front-matter test as a victim of the HLSL prelude leak (#12571)
+d70456f3be904f430a0880929caf7233d9ddb839
