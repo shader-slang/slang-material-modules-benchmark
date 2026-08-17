@@ -1,2 +1,2 @@
-compile-perf: fix the Windows self-check failure, and stop reporting trend aborts as regressions (#12560)
-d7f2f0cb0db73722cbc6c5be0fc2fad8000b277b
+slang-test: retry a malformed reply on a fresh server instead of failing the test (#12573)
+a0690fa7d279484dab0bca3e3b9422ef73aea7c5
