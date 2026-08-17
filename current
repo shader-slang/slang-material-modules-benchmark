@@ -1,2 +1,2 @@
-Record the nvapi front-matter test as a victim of the HLSL prelude leak (#12571)
-d70456f3be904f430a0880929caf7233d9ddb839
+Fix #12578: correct DescriptorAccess Write/ReadWrite doc values (#12580)
+0519d9b1cbb969729f7bbabaa9bbe5c2f3009c67
