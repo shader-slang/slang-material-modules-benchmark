@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1786979346999,
+  "lastUpdate": 1786996059937,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -124542,6 +124542,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1097.961875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "f8553f2b145682f9475c685d5fdad6d5117f06fa",
+          "message": "Record the nvapi front-matter test as a victim of the HLSL prelude leak (#12571)\n\nhttps://github.com/shader-slang/slang/commit/d70456f3be904f430a0880929caf7233d9ddb839",
+          "timestamp": "2026-08-17T12:47:16-07:00",
+          "tree_id": "672ed012a810d7f30e17a4661ae73f7b6de749d5",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/f8553f2b145682f9475c685d5fdad6d5117f06fa"
+        },
+        "date": 1786996045511,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2015.381875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 536.436875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 536.9843750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1998.236875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 533.056875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 543.7318750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 672.1993750000001,
             "unit": "milliseconds"
           }
         ]
