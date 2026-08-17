@@ -1,2 +1,2 @@
-Fix #12496: clamp VM Call argument copy to the operand's own size (#12509)
-37f3a4f47ef3de2d06a711d5624a59f65587e9fd
+compile-perf: fix the Windows self-check failure, and stop reporting trend aborts as regressions (#12560)
+d7f2f0cb0db73722cbc6c5be0fc2fad8000b277b
