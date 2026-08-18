@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1787075085936,
+  "lastUpdate": 1787077122602,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -124770,6 +124770,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 665.136875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "c3efc9b9258e19c69c8bac7c5ba42b3d6a0c58d4",
+          "message": "Fix #11669: skip injected sampler operand in texture-only GetDimensions (#11816)\n\nhttps://github.com/shader-slang/slang/commit/0b78add933f65481ec1b05d2c549194e4dfc9364",
+          "timestamp": "2026-08-18T11:18:18-07:00",
+          "tree_id": "960c0a7ecdc7e44e9549f5724f118cf8b1d9423a",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/c3efc9b9258e19c69c8bac7c5ba42b3d6a0c58d4"
+        },
+        "date": 1787077108972,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1969.995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 529.7225,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 532.581875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1951.463125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 527.513125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 526.584375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 671.06375,
             "unit": "milliseconds"
           }
         ]
