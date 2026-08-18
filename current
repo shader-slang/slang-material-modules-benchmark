@@ -1,2 +1,2 @@
-Fix #12578: correct DescriptorAccess Write/ReadWrite doc values (#12580)
-0519d9b1cbb969729f7bbabaa9bbe5c2f3009c67
+ci-analytics: link pending-approval PRs to Files changed tab (#12572)
+9a948c67ad625375cab2b4de3743c3d05efa6a79
