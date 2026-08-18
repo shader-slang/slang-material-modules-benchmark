@@ -1,2 +1,2 @@
-test-server: put Windows stdout in binary mode for the JSON-RPC transport (#12598)
-1cf61a04f81223d364f994000b6f9eb097c0618d
+Fix #11669: skip injected sampler operand in texture-only GetDimensions (#11816)
+0b78add933f65481ec1b05d2c549194e4dfc9364
