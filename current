@@ -1,2 +1,2 @@
-Fix #12535: lay out unorm/snorm modifier as its base type (#12539)
-2f7689e4ff3e0e5a5f990694ae45a59ce56e3da5
+Pin the dxvk-remix clone in the nightly Remix test (#12618)
+d525db373f1ce7f42a7d696115b887210b6420bc
