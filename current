@@ -1,2 +1,2 @@
-Add scope representation and version field to JSON reflection output (#12310)
-56f423ff1a151a04bed4384c845fa651c1c30762
+Inherit PR assignees from linked issues via source-internal membership (#12579)
+58df544ab256ba954b830a2a7a234aade3f2bac2
