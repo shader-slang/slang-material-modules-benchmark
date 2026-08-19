@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1787150039043,
+  "lastUpdate": 1787157090625,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -125169,6 +125169,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 668.01625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "35e47ede98d4735d5fdc8e5a593c51520ac06ad7",
+          "message": "Fix #12540: don't graft entries onto a dedup-hit witness table in cloneInst (#12569)\n\nhttps://github.com/shader-slang/slang/commit/8dcc35a4639dbf374a75da194bc93584b00a0d18",
+          "timestamp": "2026-08-19T09:31:05-07:00",
+          "tree_id": "46eb2255414ba31ec2383a3d7455ec7d9226562d",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/35e47ede98d4735d5fdc8e5a593c51520ac06ad7"
+        },
+        "date": 1787157076660,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1957.5518749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 533.11625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 527.193125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1941.2762500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 524.328125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 525.261875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 666.050625,
             "unit": "milliseconds"
           }
         ]
