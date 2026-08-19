@@ -1,2 +1,2 @@
-Fix #11669: skip injected sampler operand in texture-only GetDimensions (#11816)
-0b78add933f65481ec1b05d2c549194e4dfc9364
+Add scope representation and version field to JSON reflection output (#12310)
+56f423ff1a151a04bed4384c845fa651c1c30762
