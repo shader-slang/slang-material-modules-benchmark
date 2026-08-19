@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1787113595153,
+  "lastUpdate": 1787138968869,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -124998,6 +124998,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1116.664375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "9348dc6e90fc4a02fd00961c25fb99f87e9c89cb",
+          "message": "Fix #12535: lay out unorm/snorm modifier as its base type (#12539)\n\nhttps://github.com/shader-slang/slang/commit/2f7689e4ff3e0e5a5f990694ae45a59ce56e3da5",
+          "timestamp": "2026-08-19T04:29:05-07:00",
+          "tree_id": "e36fd862dd7c35d2ecc73a509553f87473015aa2",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/9348dc6e90fc4a02fd00961c25fb99f87e9c89cb"
+        },
+        "date": 1787138955024,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2085.94375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 551.136875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 553.2100000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2080.3637500000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 552.64625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 544.189375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 685.5868750000001,
             "unit": "milliseconds"
           }
         ]
