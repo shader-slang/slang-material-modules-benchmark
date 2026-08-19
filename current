@@ -1,2 +1,2 @@
-Fix #12387: contain exceptions escaping Module::precompileForTarget (#12552)
-f787da4fc60be5c869aab6007a505b9c8d5d5f03
+Fix #12535: lay out unorm/snorm modifier as its base type (#12539)
+2f7689e4ff3e0e5a5f990694ae45a59ce56e3da5
