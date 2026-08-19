@@ -1,2 +1,2 @@
-Fetch the latest GitHub Actions runner version at boot instead of a pinned constant (#12599)
-3e85d4c2ea1b366e30b5ac0e7eabcb692b799144
+Fix #12540: don't graft entries onto a dedup-hit witness table in cloneInst (#12569)
+8dcc35a4639dbf374a75da194bc93584b00a0d18
