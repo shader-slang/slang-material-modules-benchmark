@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1787254038421,
+  "lastUpdate": 1787268372484,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -125340,6 +125340,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1117.4349999999997,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "84d59fb121ebc934a1ace86a9b844d528178579b",
+          "message": "Fix #8125: don't retain public empty structs in CPU/CUDA emit (#12304)\n\nhttps://github.com/shader-slang/slang/commit/de679fdc3857974c8cc817ba0735142e2434a001",
+          "timestamp": "2026-08-20T16:25:51-07:00",
+          "tree_id": "6a4f97425fd711dc8c575154de9010eda094dae5",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/84d59fb121ebc934a1ace86a9b844d528178579b"
+        },
+        "date": 1787268359654,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1955.3781250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 527.8431249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 530.12125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1945.281875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 525.824375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 526.064375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 669.14625,
             "unit": "milliseconds"
           }
         ]
