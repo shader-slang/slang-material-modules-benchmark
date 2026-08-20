@@ -1,2 +1,2 @@
-Document native host tool names (#12631)
-bcbb82dd7f9d0c04a43fdc8d658f5b3eb1200f10
+Fix #8125: don't retain public empty structs in CPU/CUDA emit (#12304)
+de679fdc3857974c8cc817ba0735142e2434a001
