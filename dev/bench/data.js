@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1787314077620,
+  "lastUpdate": 1787352776196,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -125511,6 +125511,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 668.4918749999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "0f37c6f4bf642b4b140591f321fb15a39673fe70",
+          "message": "Notify cmake-options weekly results on Slack (#12695)\n\nhttps://github.com/shader-slang/slang/commit/bc0c70f085251cce91f4c16f839dfa4a263647cf",
+          "timestamp": "2026-08-21T15:52:33-07:00",
+          "tree_id": "b4067514ab8d2c4e8e4961739bd28321fa085682",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/0f37c6f4bf642b4b140591f321fb15a39673fe70"
+        },
+        "date": 1787352763302,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1935.2318750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 522.84625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 522.0162499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1926.7268749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 522.593125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 523.9462500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 665.3643750000001,
             "unit": "milliseconds"
           }
         ]
