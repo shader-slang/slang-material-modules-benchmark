@@ -1,2 +1,2 @@
-Fix #8125: don't retain public empty structs in CPU/CUDA emit (#12304)
-de679fdc3857974c8cc817ba0735142e2434a001
+Spell CUDA vector components directly in fixed-width binary and comparison operators (#12410)
+e109eddc145a3c8669f23f76d77a5e1457ce9c29
