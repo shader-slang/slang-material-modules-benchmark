@@ -1,2 +1,2 @@
-agentic tests: drop the [public] CHECK from the module round-trip test (#12679)
-6a009a7f97dd8cac800ac3e372a2ac0cdb58191e
+Notify cmake-options weekly results on Slack (#12695)
+bc0c70f085251cce91f4c16f839dfa4a263647cf
