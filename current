@@ -1,2 +1,2 @@
-Spell CUDA vector components directly in fixed-width binary and comparison operators (#12410)
-e109eddc145a3c8669f23f76d77a5e1457ce9c29
+agentic tests: drop the [public] CHECK from the module round-trip test (#12679)
+6a009a7f97dd8cac800ac3e372a2ac0cdb58191e
