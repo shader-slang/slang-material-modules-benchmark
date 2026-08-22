@@ -1,2 +1,2 @@
-Warn on `constexpr` on a function/callable declaration (#4236) (#12557)
-d0694e539745ac4cde9a20fdc7e969596471b6ca
+Document version-tolerant -warnings-disable numeric-id behavior (#12661) (#12673)
+bec577b36efa6b3c6b9d3b26aa91c3e9717ee918
