@@ -1,2 +1,2 @@
-Notify cmake-options weekly results on Slack (#12695)
-bc0c70f085251cce91f4c16f839dfa4a263647cf
+Unroll the generic floating-point `dot` fallback (#12417)
+70228af62f256af52a33d025f0ed51ede79f8638
