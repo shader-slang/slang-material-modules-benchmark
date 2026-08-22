@@ -1,2 +1,2 @@
-Unroll the generic floating-point `dot` fallback (#12417)
-70228af62f256af52a33d025f0ed51ede79f8638
+Warn on `constexpr` on a function/callable declaration (#4236) (#12557)
+d0694e539745ac4cde9a20fdc7e969596471b6ca
