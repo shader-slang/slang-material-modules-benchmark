@@ -1,2 +1,2 @@
-agentic tests: pin only what the anchored claim depends on (#12705)
-ba1f1aecb5632ef7aad7399947f09c2b0255e9bb
+Fix #12638: define CUDA RayDesc outside the OptiX guard (#12670)
+2ec76d46eceff850bd14dc124c4cb4f750812772
