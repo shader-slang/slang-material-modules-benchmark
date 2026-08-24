@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1787571512883,
+  "lastUpdate": 1787606164401,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -125796,6 +125796,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 667.6274999999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e1affe1eb42ffc1eb9468b58bc52a7faebe32b1f",
+          "message": "Fix #12638: define CUDA RayDesc outside the OptiX guard (#12670)\n\nhttps://github.com/shader-slang/slang/commit/2ec76d46eceff850bd14dc124c4cb4f750812772",
+          "timestamp": "2026-08-24T14:15:46-07:00",
+          "tree_id": "4cab54b0e9154da40a065bda84736778ecd8a715",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e1affe1eb42ffc1eb9468b58bc52a7faebe32b1f"
+        },
+        "date": 1787606155973,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1969.40375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 547.16625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 540.955,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1949.8843749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 525.049375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 522.6512499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 672.60375,
             "unit": "milliseconds"
           }
         ]
