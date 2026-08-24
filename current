@@ -1,2 +1,2 @@
-Document version-tolerant -warnings-disable numeric-id behavior (#12661) (#12673)
-bec577b36efa6b3c6b9d3b26aa91c3e9717ee918
+agentic tests: pin only what the anchored claim depends on (#12705)
+ba1f1aecb5632ef7aad7399947f09c2b0255e9bb
