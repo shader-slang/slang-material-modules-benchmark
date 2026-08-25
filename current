@@ -1,2 +1,2 @@
-Fix #12632: diagnose half-typed texture SampleLevel for the CUDA target (#12643)
-4be7850811c5ac9bb95c8b413d6cff07ea61876b
+Fix pending-approvals title fallback and drop the STALLED indicator (#12727)
+eb20c14b1b2436cbc773c656d3a9021f9c77cfc3
