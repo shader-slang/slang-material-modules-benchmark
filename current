@@ -1,2 +1,2 @@
-Fix #12638: define CUDA RayDesc outside the OptiX guard (#12670)
-2ec76d46eceff850bd14dc124c4cb4f750812772
+Fix #12462: stop render-test blanking the HLSL prelude on non-NVAPI runs (#12593)
+73deb0f99597bb342f4f57bbdb949fe2118f39c2
