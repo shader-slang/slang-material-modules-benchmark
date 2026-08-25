@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1787661409970,
+  "lastUpdate": 1787667403543,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -126024,6 +126024,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 688.685625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "281acf98feaa8e25691421e8c70e75bbdc1ae6fa",
+          "message": "Test: integer `dot` fallback emits no loop on GLSL/Metal/CUDA (complements #12417) (#12548)\n\nhttps://github.com/shader-slang/slang/commit/5faf399a7d00fee41b6ff3545ba9987546b0a30a",
+          "timestamp": "2026-08-25T07:16:27-07:00",
+          "tree_id": "6dc67efd6b5de9acd1610512c559ca79c228b873",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/281acf98feaa8e25691421e8c70e75bbdc1ae6fa"
+        },
+        "date": 1787667397015,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1930.2206250000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 531.4649999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 530.71,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1935.9393750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 530.5525,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 531.900625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 675.7700000000001,
             "unit": "milliseconds"
           }
         ]
