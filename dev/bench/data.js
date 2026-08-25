@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1787677933660,
+  "lastUpdate": 1787695982824,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -126138,6 +126138,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 703.835,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "69f03998501d029278c19447adcba33f0ed84cc7",
+          "message": "Fix #10746: correct CUDA half2/half3 documentation (#12652)\n\nhttps://github.com/shader-slang/slang/commit/8fe3df827cf5348c5999d73dbb92621c9c4fd589",
+          "timestamp": "2026-08-25T15:12:45-07:00",
+          "tree_id": "d16bf9f388fc02867458db04044c7fc2661e53ca",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/69f03998501d029278c19447adcba33f0ed84cc7"
+        },
+        "date": 1787695975273,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2052.28,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 553.891875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 564.4718750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2104.01375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 564.289375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 557.57625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 696.898125,
             "unit": "milliseconds"
           }
         ]
