@@ -1,2 +1,2 @@
-Fix #12462: stop render-test blanking the HLSL prelude on non-NVAPI runs (#12593)
-73deb0f99597bb342f4f57bbdb949fe2118f39c2
+Fix #12632: diagnose half-typed texture SampleLevel for the CUDA target (#12643)
+4be7850811c5ac9bb95c8b413d6cff07ea61876b
