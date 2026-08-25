@@ -1,2 +1,2 @@
-Add .github/workflows/README.md, normalize workflow file names, and trim two advisory merge-queue triggers (#12693)
-30d3e0f3e8c1fae72826988aa8576db344683834
+Fix #10746: correct CUDA half2/half3 documentation (#12652)
+8fe3df827cf5348c5999d73dbb92621c9c4fd589
