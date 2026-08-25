@@ -1,2 +1,2 @@
-Fix pending-approvals title fallback and drop the STALLED indicator (#12727)
-eb20c14b1b2436cbc773c656d3a9021f9c77cfc3
+Test: integer `dot` fallback emits no loop on GLSL/Metal/CUDA (complements #12417) (#12548)
+5faf399a7d00fee41b6ff3545ba9987546b0a30a
