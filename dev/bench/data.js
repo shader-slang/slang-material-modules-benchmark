@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1787623388193,
+  "lastUpdate": 1787661409970,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -125967,6 +125967,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 675.5812500000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "127dcdc41544151a084f4a5d1c463b273de01215",
+          "message": "Fix pending-approvals title fallback and drop the STALLED indicator (#12727)\n\nhttps://github.com/shader-slang/slang/commit/eb20c14b1b2436cbc773c656d3a9021f9c77cfc3",
+          "timestamp": "2026-08-25T05:36:35-07:00",
+          "tree_id": "6b7185e689351dd9c960c0ec7d034647d8abadbb",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/127dcdc41544151a084f4a5d1c463b273de01215"
+        },
+        "date": 1787661403064,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2018.5056249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 545.7375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 552.4375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2008.03375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 542.25875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 542.805,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 688.685625,
             "unit": "milliseconds"
           }
         ]
