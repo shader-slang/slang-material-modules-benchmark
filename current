@@ -1,2 +1,2 @@
-ci: give test-falcor-perf its own build dependency (#12767)
-f719567e53a263933ec80cba00e20e0d0eae3cc0
+List imported .slang-module dependencies in -depfile output (#12666)
+c1cffad25e3985ce7ae0c2ef2bff6186e8397b6a
