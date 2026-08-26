@@ -1,2 +1,2 @@
-Fix #12635: nested static const arrays become dynamic __device__ init on CUDA/PTX (#12688)
-1e74b400fc9cd3312290706670f7806548f4f411
+ci: give test-falcor room for the approval gate, and fix its comment (#12684)
+4e07e8469c64b2a7885ab4da01b2044c36867ad4
