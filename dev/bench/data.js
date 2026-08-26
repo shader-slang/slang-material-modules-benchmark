@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1787695982824,
+  "lastUpdate": 1787708185434,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -126195,6 +126195,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 696.898125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "fb8d3bd951d572d034b19161f673ad1912b085ca",
+          "message": "Fix #12635: nested static const arrays become dynamic __device__ init on CUDA/PTX (#12688)\n\nhttps://github.com/shader-slang/slang/commit/1e74b400fc9cd3312290706670f7806548f4f411",
+          "timestamp": "2026-08-25T18:36:08-07:00",
+          "tree_id": "193956aceee6bafef15ba524041a77c3f3c9ec38",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/fb8d3bd951d572d034b19161f673ad1912b085ca"
+        },
+        "date": 1787708178495,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1956.31875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 522.801875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 523.51375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1924.8862500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 523.546875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 521.55125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 666.55125,
             "unit": "milliseconds"
           }
         ]
