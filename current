@@ -1,2 +1,2 @@
-Changed CMake configuration for compiling Slang as a submodule (#12570)
-cc5f4d7f5c6ff3f4d1849d49294b2608368a72a0
+Fix DepfileOutput.internal test to not assert platform-dependent folded source (#12794)
+47e42616779cc4a864ba1f6178611344ff321c9e
