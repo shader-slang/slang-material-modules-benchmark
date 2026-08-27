@@ -1,2 +1,2 @@
-Harden ci-slang-build.yml against workflow template injection (#12804)
-481881ff8be1adc7fb1cd7ea7f06b62b7796b460
+Handle empty fields in OptiX payload registers (#12805)
+39e5513a766bc142ea5834dce920f25edadf9807
