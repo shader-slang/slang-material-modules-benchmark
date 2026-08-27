@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1787858740390,
+  "lastUpdate": 1787865840504,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -126651,6 +126651,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 682.9225,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "f8e9f381dc2dcfdc2f404c74608d4c2e0b49e64e",
+          "message": "Handle empty fields in OptiX payload registers (#12805)\n\nhttps://github.com/shader-slang/slang/commit/39e5513a766bc142ea5834dce920f25edadf9807",
+          "timestamp": "2026-08-27T14:23:44-07:00",
+          "tree_id": "2c04bbf2b6f9cf29550081b31783ea3c0feac749",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/f8e9f381dc2dcfdc2f404c74608d4c2e0b49e64e"
+        },
+        "date": 1787865833279,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1951.091875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 523.848125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 524.5699999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1929.6581250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 525.0374999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 523.9406250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 665.1218749999998,
             "unit": "milliseconds"
           }
         ]
