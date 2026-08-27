@@ -1,2 +1,2 @@
-Fix DepfileOutput.internal test to not assert platform-dependent folded source (#12794)
-47e42616779cc4a864ba1f6178611344ff321c9e
+Harden ci-slang-build.yml against workflow template injection (#12804)
+481881ff8be1adc7fb1cd7ea7f06b62b7796b460
