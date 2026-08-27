@@ -1,2 +1,2 @@
-List imported .slang-module dependencies in -depfile output (#12666)
-c1cffad25e3985ce7ae0c2ef2bff6186e8397b6a
+ci: make test-falcor non-required in check-ci (#12775)
+4129ffbbea23218d2beb9c10f8ce4b980d38e01f
