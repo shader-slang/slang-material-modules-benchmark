@@ -1,2 +1,2 @@
-Fix #12680: support ResourceDescriptorHeap indexing for SubpassInput (SPIR-V) [DRAFT — design unconfirmed] (#12681)
-7bb69cfc94e27d50ef43bc6dd2c2835c538ccc8f
+ci: add nightly Falcor CI run against master, no approval gate (#12812)
+84d92fa2ac3eb14805d7933dd2e3b1f534aa003b
