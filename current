@@ -1,2 +1,2 @@
-Add missing capability check for SV_Barycentrics (#12194)
-8875c75baac7793f5d3181ae4098c20ac27e8236
+slang-test: reject absolute -o / -separate-debug-info-output paths in test directives (#12717)
+28c755b09d3e1e619d6a9d806de3d41d3d69f06e
