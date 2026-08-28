@@ -1,2 +1,2 @@
-ci: add nightly Falcor CI run against master, no approval gate (#12812)
-84d92fa2ac3eb14805d7933dd2e3b1f534aa003b
+Select initial MSVC tools from the runner architecture (#12816)
+ab5db6cf5c645a816894db670dacd322ec59d3ac
