@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1787947241011,
+  "lastUpdate": 1787953625798,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -126936,6 +126936,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1176.21875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "899ba2a28e53cc9987cbcfc149edecb8fc807634",
+          "message": "Add missing capability check for SV_Barycentrics (#12194)\n\nhttps://github.com/shader-slang/slang/commit/8875c75baac7793f5d3181ae4098c20ac27e8236",
+          "timestamp": "2026-08-28T14:46:41-07:00",
+          "tree_id": "48cb48683b9ed00f7e4a771015ece902a5080acc",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/899ba2a28e53cc9987cbcfc149edecb8fc807634"
+        },
+        "date": 1787953612454,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3347.8018749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 889.57125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 892.8562499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3344.037500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 894.31875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 908.368125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1141.058125,
             "unit": "milliseconds"
           }
         ]
