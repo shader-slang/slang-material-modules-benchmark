@@ -1,2 +1,2 @@
-Gate four backend passes on RequiredLoweringPassSet flags (#11917) (#12336)
-227c519312835f300b8da91e73954ff31ab4c74b
+Fix #12680: support ResourceDescriptorHeap indexing for SubpassInput (SPIR-V) [DRAFT — design unconfirmed] (#12681)
+7bb69cfc94e27d50ef43bc6dd2c2835c538ccc8f
