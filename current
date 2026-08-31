@@ -1,2 +1,2 @@
-slang-test: reject absolute -o / -separate-debug-info-output paths in test directives (#12717)
-28c755b09d3e1e619d6a9d806de3d41d3d69f06e
+agentic tests: migrate the -dump-ir discard idiom off absolute /dev/null paths (#12846)
+9d670c88220be94fba07569a9c57ea4de0d50c67
