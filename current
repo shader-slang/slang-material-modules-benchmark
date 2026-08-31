@@ -1,2 +1,2 @@
-agentic tests: migrate the -dump-ir discard idiom off absolute /dev/null paths (#12846)
-9d670c88220be94fba07569a9c57ea4de0d50c67
+agentic tests: anchor 04c-layout-ir on the first post-link dump block, not a pass name (#12809)
+1f664c20762419d0d03d41b04649869fa758cbb4
