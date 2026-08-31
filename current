@@ -1,2 +1,2 @@
-agentic tests: anchor 04c-layout-ir on the first post-link dump block, not a pass name (#12809)
-1f664c20762419d0d03d41b04649869fa758cbb4
+Fix #12810: set SLANG_DISABLE_AVX512 in nightly agentic tests (#12811)
+13d2041a69c61c729668e72cb97186ce552828e1
