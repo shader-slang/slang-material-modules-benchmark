@@ -1,2 +1,2 @@
-Fix #12532: stop double-reading OptiX payload registers on inout legalization (#12537)
-7ef94aeabbe3874b5c8f8386efe03ce53c0bac63
+Fix #12582: update stale DescriptorKind enum in convenience-features doc (#12584)
+0a740e4df9edbe6b8845d9d9d8acb17d1ea3afb2
