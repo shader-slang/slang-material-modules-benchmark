@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1788202396153,
+  "lastUpdate": 1788205060019,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -127278,6 +127278,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 659.465625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "5e66d90537e77e0900881c0569964a964dc29a50",
+          "message": "Fix #12582: update stale DescriptorKind enum in convenience-features doc (#12584)\n\nhttps://github.com/shader-slang/slang/commit/0a740e4df9edbe6b8845d9d9d8acb17d1ea3afb2",
+          "timestamp": "2026-08-31T12:37:18-07:00",
+          "tree_id": "8839fa4982d2a2057f729c1c74967a59b6d33fb2",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/5e66d90537e77e0900881c0569964a964dc29a50"
+        },
+        "date": 1788205048637,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1924.463125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 516.81625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 517.56625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1896.8362499999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 516.360625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 517.8425,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 663.3474999999999,
             "unit": "milliseconds"
           }
         ]
