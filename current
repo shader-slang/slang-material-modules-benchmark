@@ -1,2 +1,2 @@
-Fix #12810: set SLANG_DISABLE_AVX512 in nightly agentic tests (#12811)
-13d2041a69c61c729668e72cb97186ce552828e1
+Fix #12532: stop double-reading OptiX payload registers on inout legalization (#12537)
+7ef94aeabbe3874b5c8f8386efe03ce53c0bac63
