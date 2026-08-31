@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1788170986654,
+  "lastUpdate": 1788202396153,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -127221,6 +127221,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 660.095,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "60f0229991abbb27dfa021959b8580cc84e4b8e7",
+          "message": "Fix #12532: stop double-reading OptiX payload registers on inout legalization (#12537)\n\nhttps://github.com/shader-slang/slang/commit/7ef94aeabbe3874b5c8f8386efe03ce53c0bac63",
+          "timestamp": "2026-08-31T11:52:55-07:00",
+          "tree_id": "b6d2a9d47ea3c1a6bc730b9144fa9c79f5211cb3",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/60f0229991abbb27dfa021959b8580cc84e4b8e7"
+        },
+        "date": 1788202383441,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1933.641875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 518.973125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 519.031875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1921.2487499999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 525.475,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 527.1468749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 659.465625,
             "unit": "milliseconds"
           }
         ]
