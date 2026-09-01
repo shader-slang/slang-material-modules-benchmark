@@ -1,2 +1,2 @@
-Let prelink supply imported interfaces instead of re-deriving them (#12574)
-4cf253d0c0ea90fac4d042bf5004b68776a2965b
+Fix #12732: parenthesize Metal C-style casts used as a member-access base (#12741)
+221ed8018f75900db0b0a3b379f616ef9ee55dac
