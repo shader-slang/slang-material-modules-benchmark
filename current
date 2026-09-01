@@ -1,2 +1,2 @@
-Fix #12488: RasterizerOrdered buffers report DescriptorAccess.RasterizerOrdered (#12576)
-3512f29295eb2ac43ba1acaee0c16a6183962ab5
+Correct clang-format/gersemi version ranges in docs (#12601)
+eb8fd290beaaf9da93a12cbd03d8406d2282951f
