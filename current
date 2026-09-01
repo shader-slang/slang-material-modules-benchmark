@@ -1,2 +1,2 @@
-Fix shader-slang/slang#12605: mark DCE liveness with a per-iteration epoch (#12607)
-ef04b3942898ffb5af7e9c7a6c11ba1741a08031
+Fix: wrong SPIR-V ArrayStride on pointers to sized arrays (#12698)
+1c2e5d2a9762164ff89eaafc4296f61ba71c6143
