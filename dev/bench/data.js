@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1788267956293,
+  "lastUpdate": 1788271697402,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -127791,6 +127791,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 680.2531250000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "d9f6249296a537f105ff251a80f5c2c634384769",
+          "message": "Add callable shader support to CUDA/OptiX backend (#12182)\n\nhttps://github.com/shader-slang/slang/commit/5ed83a468c4bba1dce9aaac6d419f58183f29738",
+          "timestamp": "2026-09-01T07:07:53-07:00",
+          "tree_id": "26e1b4bc873d64d9f5fa3f5963f7e632a2c973b3",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/d9f6249296a537f105ff251a80f5c2c634384769"
+        },
+        "date": 1788271684945,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1937.93,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 522.0406250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 522.3443749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1932.3799999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 524.7481250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 523.2299999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 664.505625,
             "unit": "milliseconds"
           }
         ]
