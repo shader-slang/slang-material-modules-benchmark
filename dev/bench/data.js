@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1788264527785,
+  "lastUpdate": 1788266384259,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -127677,6 +127677,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 659.1881250000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "4e5dba1d6128a3e493509e4603379fefa3ace4bb",
+          "message": "Fix #12495: materialize Optional payload from base-subobject upcast (#12517)\n\nhttps://github.com/shader-slang/slang/commit/55acf4bd86780f064e9854845d0028a5c59add87",
+          "timestamp": "2026-09-01T05:39:15-07:00",
+          "tree_id": "6541a865b3509e74fd68eb1fefbc69bee8bb1532",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/4e5dba1d6128a3e493509e4603379fefa3ace4bb"
+        },
+        "date": 1788266370836,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1927.4831250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 524.26125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 526.1731250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1924.8700000000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 523.795,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 524.518125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 677.631875,
             "unit": "milliseconds"
           }
         ]
