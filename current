@@ -1,2 +1,2 @@
-Fix #9011: crash on array of ConstantBuffer with resource element (#12719)
-0b48c5eba195010e896fecd769bff8ac65a1bf9b
+Preserve linkage on equality requirement keys (#12819)
+e4ac8291126baa66355c2c533e4ba06e87141cc2
