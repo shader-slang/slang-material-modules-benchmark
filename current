@@ -1,2 +1,2 @@
-Preserve linkage on equality requirement keys (#12819)
-e4ac8291126baa66355c2c533e4ba06e87141cc2
+Fix lowering of swizzled lvalues (#12769)
+bf1af36020cca90348d5018f5ed4e530cc72fe39
