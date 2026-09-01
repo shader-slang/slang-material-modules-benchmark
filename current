@@ -1,2 +1,2 @@
-Fix #12582: update stale DescriptorKind enum in convenience-features doc (#12584)
-0a740e4df9edbe6b8845d9d9d8acb17d1ea3afb2
+Fix #12484: reject builtin-only modifiers on non-core-module declarations (#12538)
+8e57f1ea9d461ea2b754c5591844fd4ca0b53072
