@@ -1,2 +1,2 @@
-Fix #12732: parenthesize Metal C-style casts used as a member-access base (#12741)
-221ed8018f75900db0b0a3b379f616ef9ee55dac
+Fix shader-slang/slang#12605: mark DCE liveness with a per-iteration epoch (#12607)
+ef04b3942898ffb5af7e9c7a6c11ba1741a08031
