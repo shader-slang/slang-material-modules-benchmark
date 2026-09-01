@@ -1,2 +1,2 @@
-Update SPIR-V dependencies (#12824)
-96f2d572856e016cc1d2a791fda6fb830b699236
+Fix #9011: crash on array of ConstantBuffer with resource element (#12719)
+0b48c5eba195010e896fecd769bff8ac65a1bf9b
