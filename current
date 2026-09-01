@@ -1,2 +1,2 @@
-Fix #12852: load a module from a file path when the source blob is null (#12853)
-e81aa6becf73984d7d0a8fb742637c12b667c23a
+Add callable shader support to CUDA/OptiX backend (#12182)
+5ed83a468c4bba1dce9aaac6d419f58183f29738
