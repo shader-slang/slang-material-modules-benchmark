@@ -1,2 +1,2 @@
-Fix #12484: reject builtin-only modifiers on non-core-module declarations (#12538)
-8e57f1ea9d461ea2b754c5591844fd4ca0b53072
+Diagnose function-typed values on targets that cannot represent them (#12378)
+f86f310b7cc26abfc13b5ffb2b3c3a95a40341e9
