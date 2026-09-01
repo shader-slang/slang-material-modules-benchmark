@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1788282301743,
+  "lastUpdate": 1788298518922,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -128076,6 +128076,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 653.689375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "0d1524d34b8087159012e5bc8d27165ee8d5af37",
+          "message": "Fix #12732: parenthesize Metal C-style casts used as a member-access base (#12741)\n\nhttps://github.com/shader-slang/slang/commit/221ed8018f75900db0b0a3b379f616ef9ee55dac",
+          "timestamp": "2026-09-01T14:34:55-07:00",
+          "tree_id": "e2b7934c9d357b495c2ce1474248e7fb982d4ddd",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/0d1524d34b8087159012e5bc8d27165ee8d5af37"
+        },
+        "date": 1788298505097,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1921.9306250000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 510.495625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 508.97,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1903.304375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 509.67687499999994,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 509.0874999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 646.59625,
             "unit": "milliseconds"
           }
         ]
