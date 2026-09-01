@@ -1,2 +1,2 @@
-Merge type-flow sets directly instead of through an intermediate hash set (#12616)
-6d01f9f152ad31eed62eb5bf993b8c22027d9b86
+Let prelink supply imported interfaces instead of re-deriving them (#12574)
+4cf253d0c0ea90fac4d042bf5004b68776a2965b
