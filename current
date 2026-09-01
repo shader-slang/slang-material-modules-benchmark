@@ -1,2 +1,2 @@
-Fix lowering of swizzled lvalues (#12769)
-bf1af36020cca90348d5018f5ed4e530cc72fe39
+Fix #12495: materialize Optional payload from base-subobject upcast (#12517)
+55acf4bd86780f064e9854845d0028a5c59add87
