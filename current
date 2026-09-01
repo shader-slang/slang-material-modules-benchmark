@@ -1,2 +1,2 @@
-Add callable shader support to CUDA/OptiX backend (#12182)
-5ed83a468c4bba1dce9aaac6d419f58183f29738
+Fix #12488: RasterizerOrdered buffers report DescriptorAccess.RasterizerOrdered (#12576)
+3512f29295eb2ac43ba1acaee0c16a6183962ab5
