@@ -1,2 +1,2 @@
-Serialize empty language-server results as JSON null instead of {} (#12870)
-6d6d2d0863ec72e212726e319308741b7ed47be7
+Fix #12185: make the DescriptorHandle SPIR-V representation kind-dependent under spvBindlessTextureNV (#12186)
+8d5db2471355b048b99e2929c8f3578ad8d8af89
