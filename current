@@ -1,2 +1,2 @@
-Fix: wrong SPIR-V ArrayStride on pointers to sized arrays (#12698)
-1c2e5d2a9762164ff89eaafc4296f61ba71c6143
+Add Falcor 2 perf bridge smoke workflow (#12868)
+acb608e0dcc82ac313c95c40cd2fde43b4769ce5
