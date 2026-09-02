@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1788359328383,
+  "lastUpdate": 1788368283890,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -128361,6 +128361,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 674.8300000000002,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "d68437842cecf4adb4b63018773c16e84540ed09",
+          "message": "Fix #12185: make the DescriptorHandle SPIR-V representation kind-dependent under spvBindlessTextureNV (#12186)\n\nhttps://github.com/shader-slang/slang/commit/8d5db2471355b048b99e2929c8f3578ad8d8af89",
+          "timestamp": "2026-09-02T09:57:42-07:00",
+          "tree_id": "2756239d2a86a2d927b3f98f3d2b8999d51d51ca",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/d68437842cecf4adb4b63018773c16e84540ed09"
+        },
+        "date": 1788368270425,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2007.12,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 534.170625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 534.6881250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2000.7724999999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 537.1068750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 535.9687500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 674.110625,
             "unit": "milliseconds"
           }
         ]
