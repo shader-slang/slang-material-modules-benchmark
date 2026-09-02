@@ -1,2 +1,2 @@
-Add Falcor 2 perf bridge smoke workflow (#12868)
-acb608e0dcc82ac313c95c40cd2fde43b4769ce5
+Serialize empty language-server results as JSON null instead of {} (#12870)
+6d6d2d0863ec72e212726e319308741b7ed47be7
