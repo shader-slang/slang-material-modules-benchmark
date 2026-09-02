@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1788306187079,
+  "lastUpdate": 1788350770943,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -128247,6 +128247,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1101.0625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "cdb50bcb5337174df45c4f48d432b74f856c46dd",
+          "message": "Add Falcor 2 perf bridge smoke workflow (#12868)\n\nhttps://github.com/shader-slang/slang/commit/acb608e0dcc82ac313c95c40cd2fde43b4769ce5",
+          "timestamp": "2026-09-02T05:05:51-07:00",
+          "tree_id": "a188bf7a21d608dbc698b1d8cbefdf768b34c9ba",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/cdb50bcb5337174df45c4f48d432b74f856c46dd"
+        },
+        "date": 1788350762435,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3513.149375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 887.2518749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 875.626875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3288.14875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 867.175,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 859.30625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1088.6587500000003,
             "unit": "milliseconds"
           }
         ]
