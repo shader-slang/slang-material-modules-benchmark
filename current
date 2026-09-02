@@ -1,2 +1,2 @@
-Support CUDA mip-level texture dimension queries (#12685)
-53e0e2b58656aa492ef6feaff2083ba3230a962f
+Replace IGlobalSession::getDownstreamCompilerVersion with getDownstreamCompilerPath (#12838) (#12841)
+b9a17f86b1f860bbdd3e0bc94c75a6c8e0681455
