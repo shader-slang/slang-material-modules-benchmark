@@ -1,2 +1,2 @@
-Fix #12185: make the DescriptorHandle SPIR-V representation kind-dependent under spvBindlessTextureNV (#12186)
-8d5db2471355b048b99e2929c8f3578ad8d8af89
+Support CUDA mip-level texture dimension queries (#12685)
+53e0e2b58656aa492ef6feaff2083ba3230a962f
