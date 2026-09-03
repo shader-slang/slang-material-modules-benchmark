@@ -1,2 +1,2 @@
-Deprecate generic parameter count overload ranking (#12830)
-6ca28af6ae73bb52e81b5c90aceeaeab06478ef9
+Fix #12902: annotate/suppress E40021 in autodiff generic-overload tests (#12903)
+e3ec0e16b75afef7d75e9596c23eebd07b405d86
