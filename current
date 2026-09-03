@@ -1,2 +1,2 @@
-Fix #12139: eliminate #12106's compile-time regression on shallow generics and interface_depth (#12877)
-5b777c2b6d092d8cf59f16610b84430f1455c3c3
+Add diagnostic tests pinning type-system error codes (#12595)
+d7236adb63cab6929e596cf1c5ceb8330bf1dc31
