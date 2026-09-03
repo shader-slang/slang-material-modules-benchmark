@@ -1,2 +1,2 @@
-Fix #12902: annotate/suppress E40021 in autodiff generic-overload tests (#12903)
-e3ec0e16b75afef7d75e9596c23eebd07b405d86
+Fix #12799: disable FMA contraction under -fp-mode precise on CUDA/NVRTC (#12801)
+daf69bd90a08620718639e92bb4f28f421e994bc
