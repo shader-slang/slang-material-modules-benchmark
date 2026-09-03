@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1788385268312,
+  "lastUpdate": 1788433399656,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -128532,6 +128532,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 651.7125000000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "913e55c6d15b992da0b2376f7a0ffcc5621448f5",
+          "message": "Fix custom-file-system createSession reference leak and add replay coverage (#12863)\n\nhttps://github.com/shader-slang/slang/commit/9aa7023c72575fc25595161fb775ab4348f55527",
+          "timestamp": "2026-09-03T04:02:55-07:00",
+          "tree_id": "c666c1f970ae0e939fcd7d2be67dd8619f91c283",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/913e55c6d15b992da0b2376f7a0ffcc5621448f5"
+        },
+        "date": 1788433385272,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3292.916875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 843.0643749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 838.4887500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3459.6818749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 876.0424999999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 869.8449999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1082.41625,
             "unit": "milliseconds"
           }
         ]
