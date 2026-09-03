@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1788475299443,
+  "lastUpdate": 1788477351016,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -128817,6 +128817,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 606.03875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ef4aa287a806545d129565e186ae57a242b41f1d",
+          "message": "Fix #12799: disable FMA contraction under -fp-mode precise on CUDA/NVRTC (#12801)\n\nhttps://github.com/shader-slang/slang/commit/daf69bd90a08620718639e92bb4f28f421e994bc",
+          "timestamp": "2026-09-03T16:15:30-07:00",
+          "tree_id": "4d8d15c729aa082afd0954404eb13d720709cd72",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ef4aa287a806545d129565e186ae57a242b41f1d"
+        },
+        "date": 1788477337584,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1890.34375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 491.82187500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 490.78812500000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1875.2937499999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 489.24125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 489.1056249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 608.1812499999999,
             "unit": "milliseconds"
           }
         ]
