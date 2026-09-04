@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1788485809714,
+  "lastUpdate": 1788502488504,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -128931,6 +128931,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 611.973125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "26ce9df6e703d3a7786978d6ccb65cf41962cf3e",
+          "message": "Fix cuda_sm_8_9 → sm_80 arch gap by centralizing the CUDA SM capability→version mapping (#12842)\n\nhttps://github.com/shader-slang/slang/commit/5bcb1c031b7873444f745b757a35e25567bbe043",
+          "timestamp": "2026-09-03T23:14:25-07:00",
+          "tree_id": "1c266c1a1e6ceba167e3e7be49cdd0614fb46b74",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/26ce9df6e703d3a7786978d6ccb65cf41962cf3e"
+        },
+        "date": 1788502474867,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1961.1525000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 502.61125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 507.048125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2020.4593750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 511.940625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 507.68125000000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 623.186875,
             "unit": "milliseconds"
           }
         ]
