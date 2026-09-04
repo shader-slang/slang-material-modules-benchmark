@@ -1,2 +1,2 @@
-Fix cuda_sm_8_9 → sm_80 arch gap by centralizing the CUDA SM capability→version mapping (#12842)
-5bcb1c031b7873444f745b757a35e25567bbe043
+Use shared Falcor bridge runner label (#12906)
+961e4e59ee0181ad645825c5db3a677d5a829a9f
