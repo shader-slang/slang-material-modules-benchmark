@@ -1,2 +1,2 @@
-Fix #12799: disable FMA contraction under -fp-mode precise on CUDA/NVRTC (#12801)
-daf69bd90a08620718639e92bb4f28f421e994bc
+Fix SPIR-V debug info for opaque types (#12858)
+892cfd35dd2272fdf1962b05e0b94d0379175f61
