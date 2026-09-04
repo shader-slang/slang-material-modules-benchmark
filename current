@@ -1,2 +1,2 @@
-Fix SPIR-V debug info for opaque types (#12858)
-892cfd35dd2272fdf1962b05e0b94d0379175f61
+Fix cuda_sm_8_9 → sm_80 arch gap by centralizing the CUDA SM capability→version mapping (#12842)
+5bcb1c031b7873444f745b757a35e25567bbe043
