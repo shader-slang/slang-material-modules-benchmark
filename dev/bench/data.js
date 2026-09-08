@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1788881369769,
+  "lastUpdate": 1788890644773,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -129159,6 +129159,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 608.779375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ee60cb2fd947fcd63351824b22ef55fdaa623147",
+          "message": "Add cooperative-vector and autodiff support for exp10 (#12913)\n\nhttps://github.com/shader-slang/slang/commit/42c22679e6ee8a75514d5d50e656b642c100df06",
+          "timestamp": "2026-09-08T11:03:06-07:00",
+          "tree_id": "a67c2acbf3ff5f158f3c7f41085f02a467ae2e91",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ee60cb2fd947fcd63351824b22ef55fdaa623147"
+        },
+        "date": 1788890631856,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3290.1006249999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 833.4574999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 833.11,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3490.09125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 874.423125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 871.220625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1072.10875,
             "unit": "milliseconds"
           }
         ]
