@@ -1,2 +1,2 @@
-Post skipped SlangPy status for docs-only PRs (#12939)
-f05d7b348410202bdf8bb46d79d0399bccffe1ce
+Add cooperative-vector and autodiff support for exp10 (#12913)
+42c22679e6ee8a75514d5d50e656b642c100df06
