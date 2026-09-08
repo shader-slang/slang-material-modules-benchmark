@@ -1,2 +1,2 @@
-Add cooperative-vector and autodiff support for exp10 (#12913)
-42c22679e6ee8a75514d5d50e656b642c100df06
+Fix uninitialized PathInfo::type read in host-VM module serialization (#12871) (#12879)
+342191c317fa667dfd5f275e81e6ddbee71b3814
