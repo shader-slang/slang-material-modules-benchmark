@@ -1,2 +1,2 @@
-Fix uninitialized PathInfo::type read in host-VM module serialization (#12871) (#12879)
-342191c317fa667dfd5f275e81e6ddbee71b3814
+Retry transient CMake options checkouts (#12974)
+ff22f4b108f60236107932cd1366ca976759f274
