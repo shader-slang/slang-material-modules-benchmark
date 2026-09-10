@@ -1,2 +1,2 @@
-Revert "tests/spvdb/lib: Clean up warnings"
-e144dbfd41b252a458a4069f329ed8266bcc1d46
+tests/spvdb/lib: Clean up warnings (#12993)
+928f4010f696e5575aa05ab4e7da9283589d6193
