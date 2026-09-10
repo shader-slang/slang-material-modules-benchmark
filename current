@@ -1,2 +1,2 @@
-Let Slang CI cherry-pick a SlangPy PR into SlangPy CI runs (#12975)
-ad2442f7a3e18b84e25c5c6a6039f0a8cbedad54
+Revert "tests/spvdb/lib: Clean up warnings"
+e144dbfd41b252a458a4069f329ed8266bcc1d46
