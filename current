@@ -1,2 +1,2 @@
-tests/spvdb/lib: Clean up warnings (#12993)
-928f4010f696e5575aa05ab4e7da9283589d6193
+Fix matrix layout specialization by giving the layout its own type (#12986)
+578d571f9eeb9f8df463dfbbd35706457c7c1058
