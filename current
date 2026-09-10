@@ -1,2 +1,2 @@
-slangc: add support for reflecting through pointers when writing json (#12850)
-a57047545cd073e51c2b261e0739259cc4623849
+Fix SV_InstanceID on Metal to exclude the base instance (#12884)
+64109864bb408ce40f3c7e9828814e9449f377d6
