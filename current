@@ -1,2 +1,2 @@
-Fix matrix layout specialization by giving the layout its own type (#12986)
-578d571f9eeb9f8df463dfbbd35706457c7c1058
+slangc: add support for reflecting through pointers when writing json (#12850)
+a57047545cd073e51c2b261e0739259cc4623849
