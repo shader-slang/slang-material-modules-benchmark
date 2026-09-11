@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1789082669565,
+  "lastUpdate": 1789085956705,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -129900,6 +129900,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1056.8662499999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "1a8d3729809fa77a805564ff9d800ac21c2e2a7c",
+          "message": "Fix Metal mesh index emission for compound indices and point topology (#12886)\n\nhttps://github.com/shader-slang/slang/commit/b92d8bcf338a865ce559b03028ed67abef68420f",
+          "timestamp": "2026-09-10T17:18:49-07:00",
+          "tree_id": "578858b38965fe2a99fd5b23d44030cb8f23dffe",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/1a8d3729809fa77a805564ff9d800ac21c2e2a7c"
+        },
+        "date": 1789085939692,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3304.5856249999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 846.9350000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 849.4825000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3290.994375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 851.1993750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 855.74,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1070.52125,
             "unit": "milliseconds"
           }
         ]
