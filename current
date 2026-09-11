@@ -1,2 +1,2 @@
-Mark stale agentic tests as expected failures (#13004)
-41272f842e9a37c572ceb2b39734e7dd30bf5fe4
+Remove cherry-pick for SlangPy test (#13006)
+e72081868add1d1d50f8fa66d91a99e110479daf
