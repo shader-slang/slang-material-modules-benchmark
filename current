@@ -1,2 +1,2 @@
-Update SPIRV-{Headers,Tools} for VulkanSDK Sep 2026 (#12996)
-c7954ebd1f1984ad2bfde15f76248db41dc34aa3
+Fix Metal DispatchMesh when called from a helper or more than once (#12887)
+ca6e0a657c52881166295f11c14d57afdf0de481
