@@ -1,2 +1,2 @@
-Fix Metal mesh index emission for compound indices and point topology (#12886)
-b92d8bcf338a865ce559b03028ed67abef68420f
+Update SPIRV-{Headers,Tools} for VulkanSDK Sep 2026 (#12996)
+c7954ebd1f1984ad2bfde15f76248db41dc34aa3
