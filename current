@@ -1,2 +1,2 @@
-Fix Metal DispatchMesh when called from a helper or more than once (#12887)
-ca6e0a657c52881166295f11c14d57afdf0de481
+Fix Metal user semantic naming for mesh shader outputs (#12885)
+6d081e6cd20755a142b79eee61611e79a9a7b304
