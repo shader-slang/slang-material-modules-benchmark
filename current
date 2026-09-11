@@ -1,2 +1,2 @@
-Add note on struct-struct inheritance in user guide / language versions (#13003)
-a18abd0ed6bb244a0bb37acfb89c8c710f8e594a
+Mark stale agentic tests as expected failures (#13004)
+41272f842e9a37c572ceb2b39734e7dd30bf5fe4
