@@ -1,2 +1,2 @@
-Fix Metal user semantic naming for mesh shader outputs (#12885)
-6d081e6cd20755a142b79eee61611e79a9a7b304
+Support UpperCamelCase [OutputTopology] attribute (#12907)
+778e5d9af820c8afc75266affaa60b9c975e0613
