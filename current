@@ -1,2 +1,2 @@
-Fix SV_InstanceID on Metal to exclude the base instance (#12884)
-64109864bb408ce40f3c7e9828814e9449f377d6
+Fix Metal mesh index emission for compound indices and point topology (#12886)
+b92d8bcf338a865ce559b03028ed67abef68420f
