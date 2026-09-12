@@ -1,2 +1,2 @@
-Language reference: conversion expressions (#12039)
-69fcc643bee2a344d1fc7a07e7869724b0f02031
+Avoid checking unrelated subtype constraints during inheritance (#12690)
+7576abff26fbae3a3bf21fec3f726f2090169916
