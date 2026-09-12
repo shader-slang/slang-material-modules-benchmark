@@ -1,2 +1,2 @@
-Fix #12814: thread correct witness into inherited default-method impl (#12818)
-43e48db1d7b2db98d974ac79ee4f97d44bac4d1d
+Fix #12911: located diagnostic for ConstantBuffer<A>/<B> argument mismatch (#12912)
+4d7939e598c1cb46afa074e9921b8da62eb71b56
