@@ -1,2 +1,2 @@
-Fix #12911: located diagnostic for ConstantBuffer<A>/<B> argument mismatch (#12912)
-4d7939e598c1cb46afa074e9921b8da62eb71b56
+Fix #12302: ship third-party BSD-family license notices with the package (#13021)
+a90dfa31129508f1beefe956c3b1933fa67cf21e
