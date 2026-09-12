@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1789181142766,
+  "lastUpdate": 1789186910247,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -130527,6 +130527,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 614.525,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "bd02d211a96387bb3c9c20378faa4ec968c2cf5f",
+          "message": "Fix #12814: thread correct witness into inherited default-method impl (#12818)\n\nhttps://github.com/shader-slang/slang/commit/43e48db1d7b2db98d974ac79ee4f97d44bac4d1d",
+          "timestamp": "2026-09-11T21:21:23-07:00",
+          "tree_id": "cdce23b019a9b1de9ed8c8d16270f933be6c9cd8",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/bd02d211a96387bb3c9c20378faa4ec968c2cf5f"
+        },
+        "date": 1789186893415,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3324.5581249999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 844.7249999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 842.2512500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3316.1281249999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 852.9481250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 831.6775000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1045.3275,
             "unit": "milliseconds"
           }
         ]
