@@ -1,2 +1,2 @@
-Bounds-check fossil deserialization behind a build option (#13025)
-dab880803ace690dcad7fd7c401970e9827062e4
+Fix #12814: thread correct witness into inherited default-method impl (#12818)
+43e48db1d7b2db98d974ac79ee4f97d44bac4d1d
