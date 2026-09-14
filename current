@@ -1,2 +1,2 @@
-Regenerate design docs against HEAD and work the doc-gap queue (#13052)
-d3a113484c9980970d76633e6a57cfd1a7631a3e
+Fix Metal emitter dropping parentheses around matrix negation operand (#12910)
+f2bbb095bae60cebdefca7527612e6c1ec2549be
