@@ -1,2 +1,2 @@
-Fix Metal emitter dropping parentheses around matrix negation operand (#12910)
-f2bbb095bae60cebdefca7527612e6c1ec2549be
+Resolve concrete conformance requirements on demand (#12835)
+86f21cf78eb5c9bbc99e4d1c58963c8e2ee7cde4
