@@ -1,2 +1,2 @@
-Fix #12302: ship third-party BSD-family license notices with the package (#13021)
-a90dfa31129508f1beefe956c3b1933fa67cf21e
+Regenerate design docs against HEAD and work the doc-gap queue (#13052)
+d3a113484c9980970d76633e6a57cfd1a7631a3e
