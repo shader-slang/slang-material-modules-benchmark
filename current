@@ -1,2 +1,2 @@
-Resolve concrete conformance requirements on demand (#12835)
-86f21cf78eb5c9bbc99e4d1c58963c8e2ee7cde4
+Fix #13023: ship third-party MIT/Apache license notices with the package (#13044)
+42c2b11d23324572edd47f43ad490376040a35ed
