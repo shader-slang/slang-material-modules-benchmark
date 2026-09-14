@@ -1,2 +1,2 @@
-Fix #13023: ship third-party MIT/Apache license notices with the package (#13044)
-42c2b11d23324572edd47f43ad490376040a35ed
+Fix CMake Options CI for SLANG_LIB_TYPE=STATIC and SLANG_ENABLE_ASAN (#13069)
+b6e7d3b9c148ef84b37b463a2149f401b192fb77
