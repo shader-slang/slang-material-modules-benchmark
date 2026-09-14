@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1789377792327,
+  "lastUpdate": 1789406374025,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -130755,6 +130755,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 639.48,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ff5b4f2e609ec182ce0b0e6a5ae71e020115566c",
+          "message": "Fix Metal emitter dropping parentheses around matrix negation operand (#12910)\n\nhttps://github.com/shader-slang/slang/commit/f2bbb095bae60cebdefca7527612e6c1ec2549be",
+          "timestamp": "2026-09-14T10:19:11-07:00",
+          "tree_id": "ced2211db478f68d85611a59010e3ac98cc14132",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ff5b4f2e609ec182ce0b0e6a5ae71e020115566c"
+        },
+        "date": 1789406360657,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1906.515625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 499.5918750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 500.689375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1888.7843749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 496.76625000000007,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 498.36437499999994,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 619.9331249999999,
             "unit": "milliseconds"
           }
         ]
