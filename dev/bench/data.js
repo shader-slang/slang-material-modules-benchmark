@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1789500936090,
+  "lastUpdate": 1789502101636,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -131268,6 +131268,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 618.794375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "f61361517b7e519da4e59bfb202761d0dfc27ee3",
+          "message": "Fix user guide docs for generated struct constructors and struct initializer lists (#13014)\n\nhttps://github.com/shader-slang/slang/commit/c0e27bc0e7d27831f2be2ac41b8ac47e552debcb",
+          "timestamp": "2026-09-15T12:54:36-07:00",
+          "tree_id": "f5eeb6414d26ae2a95208583f2796a8bb73d2c7b",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/f61361517b7e519da4e59bfb202761d0dfc27ee3"
+        },
+        "date": 1789502087466,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1914.18875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 501.7881249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 498.5125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1901.0281250000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 498.31812499999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 498.99875000000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 616.253125,
             "unit": "milliseconds"
           }
         ]
