@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1789436464907,
+  "lastUpdate": 1789454979832,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -131040,6 +131040,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 635.536875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "43a3d32f1acb29032b992243aa70781266acabdf",
+          "message": "Fix #12553: lower 2-arg HitObject::Invoke on SPIR-V/GLSL/CUDA (#12559)\n\nhttps://github.com/shader-slang/slang/commit/52e982b83e5c0c2d0e6d78c71568bfbb6a1fffd6",
+          "timestamp": "2026-09-14T23:49:20-07:00",
+          "tree_id": "644cc7a6f194a4d82180b078179d2320219da788",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/43a3d32f1acb29032b992243aa70781266acabdf"
+        },
+        "date": 1789454968761,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2059.0525000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 538.7850000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 538.560625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2024.8975,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 536.355,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 533.7774999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 647.0993749999999,
             "unit": "milliseconds"
           }
         ]
