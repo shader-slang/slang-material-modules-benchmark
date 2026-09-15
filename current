@@ -1,2 +1,2 @@
-Pass docs filter file lists by path (#13062)
-6421ad574de3326c199d8ee088b4541946f300c7
+Fix #13088: CUDA immutable-load pass emits __ldg for __constant__ global params (#13090)
+c8ba6929456b8e9c1a097970d929f5bc003250f8
