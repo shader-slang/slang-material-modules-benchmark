@@ -1,2 +1,2 @@
-Fix #13088: CUDA immutable-load pass emits __ldg for __constant__ global params (#13090)
-c8ba6929456b8e9c1a097970d929f5bc003250f8
+Reconcile agentic test suite with the regenerated design docs (#13060)
+dee8b6a6f2c0305d9327f89375c731caddff9a87
