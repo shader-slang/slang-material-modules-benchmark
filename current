@@ -1,2 +1,2 @@
-Quarantine debug-do-while-locals SPVDB test to unblock merge queue (mitigates #13024) (#13026)
-3633095f5a0a799f6e04713acbbc47707d3f3913
+Fix #12553: lower 2-arg HitObject::Invoke on SPIR-V/GLSL/CUDA (#12559)
+52e982b83e5c0c2d0e6d78c71568bfbb6a1fffd6
