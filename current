@@ -1,2 +1,2 @@
-Reconcile agentic test suite with the regenerated design docs (#13060)
-dee8b6a6f2c0305d9327f89375c731caddff9a87
+Fix user guide docs for generated struct constructors and struct initializer lists (#13014)
+c0e27bc0e7d27831f2be2ac41b8ac47e552debcb
