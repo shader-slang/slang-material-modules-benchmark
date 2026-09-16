@@ -1,2 +1,2 @@
-Fix #12637: lower portable HLSL ReportHit to OptiX/CUDA (#12783)
-906d73f9f554580d9c3cb5c2bab29eb30a7727ad
+Fix #12473: two-pass unroll of nested [ForceUnroll] loops with enclosing-dependent bounds (#12522)
+fd8b862f773924b79af3b5eb86d3e80fc0a7dee4
