@@ -1,2 +1,2 @@
-build(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.1 in /extras/scaler (#12878)
-0d1dd44757a58f879dc36037ce695ab2f7a9d48c
+Normalize GLSL source language selection (#12836)
+830707cefdcbd07c86bb1b76eafc0ecf4781eeae
