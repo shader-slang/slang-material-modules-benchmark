@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1789535620255,
+  "lastUpdate": 1789545273080,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -131553,6 +131553,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 628.970625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "3175aac834fe287b1fc2d116459f9a851929741a",
+          "message": "Fix #12926: force enums to ReadyForLookup before linearizing their inheritance (#12927)\n\nhttps://github.com/shader-slang/slang/commit/da8e4f22da77bcd692e35972441137259e008ff7",
+          "timestamp": "2026-09-16T00:54:09-07:00",
+          "tree_id": "7a086798f91cbf7417797f0083aa80a5ee161ea2",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/3175aac834fe287b1fc2d116459f9a851929741a"
+        },
+        "date": 1789545258824,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1932.9137500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 517.078125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 501.12562499999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1949.34375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 502.01812500000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 499.274375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 624.6993749999999,
             "unit": "milliseconds"
           }
         ]
