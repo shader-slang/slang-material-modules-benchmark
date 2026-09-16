@@ -1,2 +1,2 @@
-Review the 11 compiler-drift-stale test bundles (#13104)
-142d19fddba729b0b867dac3aff9e62a86b1a30e
+build(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.1 in /extras/scaler (#12878)
+0d1dd44757a58f879dc36037ce695ab2f7a9d48c
