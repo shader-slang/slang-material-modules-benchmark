@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1789502101636,
+  "lastUpdate": 1789520828738,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -131325,6 +131325,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 616.253125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "8a8b792a558506007d27045f3c7e1042469d6444",
+          "message": "Fix #12637: lower portable HLSL ReportHit to OptiX/CUDA (#12783)\n\nhttps://github.com/shader-slang/slang/commit/906d73f9f554580d9c3cb5c2bab29eb30a7727ad",
+          "timestamp": "2026-09-15T18:06:45-07:00",
+          "tree_id": "2cea7348aed09f4ae1390da5c83ae0fce4283154",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/8a8b792a558506007d27045f3c7e1042469d6444"
+        },
+        "date": 1789520815426,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1933.8518749999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 500.186875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 499.3175,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1914.3481250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 496.36812499999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 497.855,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 619.83875,
             "unit": "milliseconds"
           }
         ]
