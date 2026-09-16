@@ -1,2 +1,2 @@
-Accept unsigned int in HLSL input (#13080)
-d3b56927b854c14fa1ac169b72da6e080ea80833
+Fix #12926: force enums to ReadyForLookup before linearizing their inheritance (#12927)
+da8e4f22da77bcd692e35972441137259e008ff7
