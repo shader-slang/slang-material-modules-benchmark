@@ -1,2 +1,2 @@
-Fix user guide docs for generated struct constructors and struct initializer lists (#13014)
-c0e27bc0e7d27831f2be2ac41b8ac47e552debcb
+Fix #12637: lower portable HLSL ReportHit to OptiX/CUDA (#12783)
+906d73f9f554580d9c3cb5c2bab29eb30a7727ad
