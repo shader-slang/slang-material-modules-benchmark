@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1789589522418,
+  "lastUpdate": 1789599812191,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -132066,6 +132066,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1060.4800000000002,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "fdb0ee48f7371e335fb80bc41b3cbf7cab681898",
+          "message": "Fix #12718, #12731: pad empty callable-data (entry point + CallShader) for HLSL, SPIR-V, and GLSL (#12723)\n\nhttps://github.com/shader-slang/slang/commit/9e4788bf7c201aeadac347e43563082d2fca9581",
+          "timestamp": "2026-09-16T16:03:06-07:00",
+          "tree_id": "e6612aa0d6007c39117507983ba5dca8cca89c3e",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/fdb0ee48f7371e335fb80bc41b3cbf7cab681898"
+        },
+        "date": 1789599797205,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3365.596875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 863.7406249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 848.2243749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3472.025,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 881.5787499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 880.195625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1083.1675,
             "unit": "milliseconds"
           }
         ]
