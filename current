@@ -1,2 +1,2 @@
-Fix #11317: fold countof of fixed-size array to its element count (#12507)
-9863c26c8329f10ec10a23d6f421c56c9b2aad39
+Fix stale CUDA immutable-load agentic tests (#13119)
+4b0a39610c9075da409f57e00e8a3b25e5ef64bc
