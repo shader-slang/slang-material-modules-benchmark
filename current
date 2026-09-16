@@ -1,2 +1,2 @@
-Honor slang-test optimization default for SPVDB tests (#13102)
-c0e2c9e41fe96cdd215e37839a668f705cecc066
+Honor -fp-mode fast for CUDA transcendental emission (#12619) (#12872)
+ce197e9460b5bc83e238cd3dd0c73e060cebd750
