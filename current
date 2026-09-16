@@ -1,2 +1,2 @@
-Enable DXC source builds in macOS CI (#13103)
-bf6a485a99ec09522557053d0d83bb2fdc0e0be0
+Accept unsigned int in HLSL input (#13080)
+d3b56927b854c14fa1ac169b72da6e080ea80833
