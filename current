@@ -1,2 +1,2 @@
-Normalize GLSL source language selection (#12836)
-830707cefdcbd07c86bb1b76eafc0ecf4781eeae
+Fix #12718, #12731: pad empty callable-data (entry point + CallShader) for HLSL, SPIR-V, and GLSL (#12723)
+9e4788bf7c201aeadac347e43563082d2fca9581
