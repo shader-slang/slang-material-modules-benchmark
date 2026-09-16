@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1789520828738,
+  "lastUpdate": 1789523783092,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -131382,6 +131382,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 619.83875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "3beb3144fd6ae70a56234be0986eb0bdccf1f9a3",
+          "message": "Fix #12473: two-pass unroll of nested [ForceUnroll] loops with enclosing-dependent bounds (#12522)\n\nhttps://github.com/shader-slang/slang/commit/fd8b862f773924b79af3b5eb86d3e80fc0a7dee4",
+          "timestamp": "2026-09-15T18:55:59-07:00",
+          "tree_id": "beb68b0248aa15298f6555e63b03635b9508f55b",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/3beb3144fd6ae70a56234be0986eb0bdccf1f9a3"
+        },
+        "date": 1789523769385,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1902.928125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 496.15812500000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 496.6025,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1893.1512499999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 495.4325,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 494.215625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 611.958125,
             "unit": "milliseconds"
           }
         ]
