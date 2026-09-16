@@ -1,2 +1,2 @@
-Fix #12494: handle __first/__last witnesses in cast-to-supertype lowering (#12501)
-a0c99e4e6d684d5c69b1821d6ae883becd76361e
+Fix #11317: fold countof of fixed-size array to its element count (#12507)
+9863c26c8329f10ec10a23d6f421c56c9b2aad39
