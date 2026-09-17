@@ -1,2 +1,2 @@
-Test branch protection
-b5360089503a8c3b4c1b178a315bc765741efbf7
+autodiff: extend readNone Call-rule gate to associated derivatives (#11377)
+d1a192a7aa380356587e14bbba946fb1fc29b468
