@@ -1,2 +1,2 @@
-Reject single-index ResourceDescriptorHeap conversion to combined texture-sampler (#13087)
-c0cf818748b062f50903cae7446f20516db1cc56
+Fix #13072: preserve NonUniformResourceIndex through integer index arithmetic (SPIR-V) (#13089)
+328f43cce06eee863871a653b64306d5be9c4a76
