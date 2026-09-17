@@ -1,2 +1,2 @@
-Name opaque builtin types in SPIR-V debug info instead of 'unnamed' (#12922)
-35bd7686d1175c36589751b0f13f0c84b7bd6c77
+Add [postdepthcoverage] fragment attribute for post-depth SV_Coverage (#13001)
+9f55ec61a25834c304d71fd1e9a58bf72b3864b3
