@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1789612048894,
+  "lastUpdate": 1789615932773,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -132351,6 +132351,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 634.5581249999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "bfc530c6b7c1a545a3dcbe3daab21ad1ca443b7b",
+          "message": "Add [postdepthcoverage] fragment attribute for post-depth SV_Coverage (#13001)\n\nhttps://github.com/shader-slang/slang/commit/9f55ec61a25834c304d71fd1e9a58bf72b3864b3",
+          "timestamp": "2026-09-16T20:31:56-07:00",
+          "tree_id": "d93274bf6ae0d8a75a2fe0b8be40b57174936517",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/bfc530c6b7c1a545a3dcbe3daab21ad1ca443b7b"
+        },
+        "date": 1789615924446,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1917.1450000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 506.9856250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 505.15,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1938.6687499999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 506.25124999999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 506.16187499999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 625.21,
             "unit": "milliseconds"
           }
         ]
