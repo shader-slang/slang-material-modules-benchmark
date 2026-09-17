@@ -1,2 +1,2 @@
-Fix shader-coverage demo summarize() to iterate entries, not counters (#12849)
-cdff9afb31dea050372beffcb66b54f69f327c15
+Widen builtin-operator fast path to sealed-interface-constrained generics (#13008)
+b298b71fcc3be53b0f5dce8c0f13acb16943c604
