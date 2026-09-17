@@ -1,2 +1,2 @@
-Test coverage counter coalescing directly in slang-static-unit-test (#13036)
-24007cb81ab909c167d9677330207a675cb9e235
+Use unordered FCMP_UNE for float `!=` on the CPU/LLVM target (#13147)
+8d763dd39049aba33c8464eeec44ced031d88c7e
