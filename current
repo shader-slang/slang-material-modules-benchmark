@@ -1,2 +1,2 @@
-Widen builtin-operator fast path to sealed-interface-constrained generics (#13008)
-b298b71fcc3be53b0f5dce8c0f13acb16943c604
+Use NVRTC precompiled headers for the CUDA prelude on repeat compiles (#12880)
+ebf1c81c3c1a01d17ad43d7e9e5e10f488566436
