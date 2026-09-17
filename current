@@ -1,2 +1,2 @@
-Remove ineffective GPU retry workflow (#13133)
-11fcf2162dd39dfdc742c52d42b8f1f754d53b8c
+Reject single-index ResourceDescriptorHeap conversion to combined texture-sampler (#13087)
+c0cf818748b062f50903cae7446f20516db1cc56
