@@ -1,2 +1,2 @@
-autodiff: extend readNone Call-rule gate to associated derivatives (#11377)
-d1a192a7aa380356587e14bbba946fb1fc29b468
+Allow `__getAddress` on a mutable structured-buffer element (#12581) (#12592)
+7f1b073f989bf6d48d8f333bf7c11e7229f70dd0
