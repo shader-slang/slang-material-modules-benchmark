@@ -1,2 +1,2 @@
-Codify declarative, proportionate comment style in agent instructions (#12898)
-835f958dafb0f930f122c1e63692164de88fd000
+Fix #12923: capture `this` in interface default-method lambdas (#12925)
+158dd4dafed857714d4107f970a97456599a3d5f
