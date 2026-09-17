@@ -1,2 +1,2 @@
-Use unordered FCMP_UNE for float `!=` on the CPU/LLVM target (#13147)
-8d763dd39049aba33c8464eeec44ced031d88c7e
+Fix #13041: don't abort verify-documented-compiler-version.sh on non-zero detection (#13042)
+d89866432c40b063d23ba1d491e73ae674f909db
