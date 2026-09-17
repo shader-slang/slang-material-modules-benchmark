@@ -1,2 +1,2 @@
-Allow `__getAddress` on a mutable structured-buffer element (#12581) (#12592)
-7f1b073f989bf6d48d8f333bf7c11e7229f70dd0
+Reflection: add getContentVarLayout() accessor (array-typed content for structured buffers) (#12833)
+bf0f0ffa5edf5cd122add262556c3821c4532202
