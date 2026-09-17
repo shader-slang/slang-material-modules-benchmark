@@ -1,2 +1,2 @@
-Fix #12718, #12731: pad empty callable-data (entry point + CallShader) for HLSL, SPIR-V, and GLSL (#12723)
-9e4788bf7c201aeadac347e43563082d2fca9581
+Remove ineffective GPU retry workflow (#13133)
+11fcf2162dd39dfdc742c52d42b8f1f754d53b8c
