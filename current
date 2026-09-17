@@ -1,2 +1,2 @@
-Fix #13072: preserve NonUniformResourceIndex through integer index arithmetic (SPIR-V) (#13089)
-328f43cce06eee863871a653b64306d5be9c4a76
+Name opaque builtin types in SPIR-V debug info instead of 'unnamed' (#12922)
+35bd7686d1175c36589751b0f13f0c84b7bd6c77
