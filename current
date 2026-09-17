@@ -1,2 +1,2 @@
-Fix #12923: capture `this` in interface default-method lambdas (#12925)
-158dd4dafed857714d4107f970a97456599a3d5f
+Test coverage counter coalescing directly in slang-static-unit-test (#13036)
+24007cb81ab909c167d9677330207a675cb9e235
