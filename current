@@ -1,2 +1,2 @@
-Reflection: add getContentVarLayout() accessor (array-typed content for structured buffers) (#12833)
-bf0f0ffa5edf5cd122add262556c3821c4532202
+Fix shader-coverage demo summarize() to iterate entries, not counters (#12849)
+cdff9afb31dea050372beffcb66b54f69f327c15
