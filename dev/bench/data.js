@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1789690446102,
+  "lastUpdate": 1789693653283,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -133206,6 +133206,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 625.8881250000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ddac9c74ebd1aa5c8fc5545878f02f8774761549",
+          "message": "Cache callee side-effect queries in load/store redundancy removal (fixes CUDA cubic-scaling regression) (#13012)\n\nhttps://github.com/shader-slang/slang/commit/bc2280c7714a55846add801cc3a4af5038f4b00c",
+          "timestamp": "2026-09-17T18:07:10-07:00",
+          "tree_id": "aea33abbe2959c2216b6e22b14c32cd224659a24",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ddac9c74ebd1aa5c8fc5545878f02f8774761549"
+        },
+        "date": 1789693639563,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3352.98875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 850.6312499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 847.8106250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3339.883125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 854.2656249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 839.8425,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1062.3974999999998,
             "unit": "milliseconds"
           }
         ]
