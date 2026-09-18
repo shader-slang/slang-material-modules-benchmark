@@ -1,2 +1,2 @@
-Support generic builtin vector dot products (#13138)
-af130067de8f50edcdcd06e999829926031b5f8d
+Report unsatisfied generic constraints for rejected overload candidates (#12969)
+55e3dbdd739d0fa97570be60754f7c2543321d7c
