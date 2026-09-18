@@ -1,2 +1,2 @@
-Fix stale dynamic-dispatch agentic test (#13172)
-5849197971315277ec1b44b4bdbe7e82ebafcc71
+compile-perf: make the workloads able to detect what they claim to (#13035)
+243e559f166c723dc227219e88e0aeb73a318f80
