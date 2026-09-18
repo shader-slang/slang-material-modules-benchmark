@@ -1,2 +1,2 @@
-Report unsatisfied generic constraints for rejected overload candidates (#12969)
-55e3dbdd739d0fa97570be60754f7c2543321d7c
+Fix stale dynamic-dispatch agentic test (#13172)
+5849197971315277ec1b44b4bdbe7e82ebafcc71
