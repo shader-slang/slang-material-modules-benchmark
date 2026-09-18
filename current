@@ -1,2 +1,2 @@
-Add experimental functional aggregate operations (#12968)
-09d2582241c2cbc417d4e15db53ef8ea2ee53795
+Add explicit builtin scalar conversion helpers (#13135)
+58416d111af06690c99bb75d8665f483f05a1ef9
