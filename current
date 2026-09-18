@@ -1,2 +1,2 @@
-Accept GLSL `layout(early_fragment_tests) in;` under -allow-glsl (#12655) (#13033)
-161b0812faf3b5d6690cd804c1e90fd156eadd1e
+Cache callee side-effect queries in load/store redundancy removal (fixes CUDA cubic-scaling regression) (#13012)
+bc2280c7714a55846add801cc3a4af5038f4b00c
