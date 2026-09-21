@@ -1,2 +1,2 @@
-Fix #12482: bounds-check entryPointIndex in entry-point-result APIs (#12504)
-38b1682f751936aa0ea582e0bd3010c6926b98ff
+compile-perf: make trend comparisons provenance-correct and restore post-release coverage (#13187)
+4233b2c792e131c92ebe8a4a11b3684ab1963803
