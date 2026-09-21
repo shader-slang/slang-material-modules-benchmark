@@ -1,2 +1,2 @@
-Enforce experimental feature gates for cached module imports (#13163)
-282587ac1c04ad8cbd6592e6e12142a35b2687e8
+Fix #12482: bounds-check entryPointIndex in entry-point-result APIs (#12504)
+38b1682f751936aa0ea582e0bd3010c6926b98ff
