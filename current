@@ -1,2 +1,2 @@
-Restore caller debug scopes after inlining (#13175)
-f3a7ce5b06f3a203b993e103783f55865346e59a
+Bound deserialized operand counts before allocating instructions (#13212)
+ac945e536c02c23189fdfbcd6811514bc4be5cee
