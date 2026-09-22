@@ -1,2 +1,2 @@
-Fix #13222: emit debug info for MSVC ASan-instrumented targets (#13224)
-f2d00e552fd9f91fe66eb9341bd8d5ff610484c3
+Fix #13197: include link-time downstream options in getEntryPointHash (#13215)
+afeaf511c23dbcce397d9cd9934e724c2795ad35
