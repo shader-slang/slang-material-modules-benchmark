@@ -1,2 +1,2 @@
-Bound deserialized operand counts before allocating instructions (#13212)
-ac945e536c02c23189fdfbcd6811514bc4be5cee
+Fix #13194: widen sub-32-bit SPIR-V access-chain indices (#13196)
+afb2d0d96475d23d39287bc0aa4469c8b8430c36
