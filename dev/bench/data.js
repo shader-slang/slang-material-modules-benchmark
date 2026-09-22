@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1790101190286,
+  "lastUpdate": 1790107877040,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -134118,6 +134118,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1010.81625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "6cd84b0e08831e943cd1bddd31bf29cbba62084a",
+          "message": "Fix #13222: emit debug info for MSVC ASan-instrumented targets (#13224)\n\nhttps://github.com/shader-slang/slang/commit/f2d00e552fd9f91fe66eb9341bd8d5ff610484c3",
+          "timestamp": "2026-09-22T13:10:52-07:00",
+          "tree_id": "81ecaf46946fb0c5f2d69979e032a60876c5e660",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/6cd84b0e08831e943cd1bddd31bf29cbba62084a"
+        },
+        "date": 1790107862155,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1881.700625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 492.0618750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 491.75125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1889.4999999999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 491.43562499999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 488.630625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 605.3687500000001,
             "unit": "milliseconds"
           }
         ]
