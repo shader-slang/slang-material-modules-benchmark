@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1790107877040,
+  "lastUpdate": 1790111826556,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -134175,6 +134175,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 605.3687500000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "fbab495473526a4be8a1fce0efe4b79fadd26a90",
+          "message": "Fix #13197: include link-time downstream options in getEntryPointHash (#13215)\n\nhttps://github.com/shader-slang/slang/commit/afeaf511c23dbcce397d9cd9934e724c2795ad35",
+          "timestamp": "2026-09-22T14:16:44-07:00",
+          "tree_id": "7fe82526d800dd97f495d0de98aea7a2fc4ba7dd",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/fbab495473526a4be8a1fce0efe4b79fadd26a90"
+        },
+        "date": 1790111812623,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1890.725625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 496.37687500000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 497.4862499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1882.6131249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 494.74999999999994,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 494.49875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 613.2881249999999,
             "unit": "milliseconds"
           }
         ]
