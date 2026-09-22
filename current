@@ -1,2 +1,2 @@
-Fix #13194: widen sub-32-bit SPIR-V access-chain indices (#13196)
-afb2d0d96475d23d39287bc0aa4469c8b8430c36
+Fix #13222: emit debug info for MSVC ASan-instrumented targets (#13224)
+f2d00e552fd9f91fe66eb9341bd8d5ff610484c3
