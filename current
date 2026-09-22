@@ -1,2 +1,2 @@
-Fix #13184: tolerate duplicate directory markers in the user-skills release verifier (#13185)
-98bed99788c968ce46324965217af9ec88c92fc7
+Restore caller debug scopes after inlining (#13175)
+f3a7ce5b06f3a203b993e103783f55865346e59a
