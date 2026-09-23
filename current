@@ -1,2 +1,2 @@
-Fix #13092: check conformance of local generic types in visitBlockStmt (#13095)
-b4a57b15cc47d936403cc989a628bfd25d5af5d3
+Fix language server workspace and completion handling (#13192)
+94d6c57e33daf8307e2dbf91f8888cb397fcd033
