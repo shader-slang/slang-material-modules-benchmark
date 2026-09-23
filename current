@@ -1,2 +1,2 @@
-Fix #13197: include link-time downstream options in getEntryPointHash (#13215)
-afeaf511c23dbcce397d9cd9934e724c2795ad35
+Fix intToAscii() and parseInt() functions (#13217)
+9902f7b11aa22ba9b9d724eb92c083f3da1f1144
