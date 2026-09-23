@@ -1,2 +1,2 @@
-Emit noinline on Metal functions (#13183)
-f86567cc833d301e13b77a0b711bf56b651131f5
+Note that the compiled Slang module format is not finalized (#12966) (#12970)
+63ef11ca635ff48f1e003c3e17cc20a996e406f3
