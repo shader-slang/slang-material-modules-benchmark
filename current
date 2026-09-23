@@ -1,2 +1,2 @@
-Fix compiler hang on reverse-mode autodiff through interface parameters (#13234)
-5df49668af200a1f0317eed9d2de691841595032
+Emit noinline on Metal functions (#13183)
+f86567cc833d301e13b77a0b711bf56b651131f5
