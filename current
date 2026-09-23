@@ -1,2 +1,2 @@
-Honor per-variable `precise` on the direct SPIR-V backend (#12198) (#12208)
-b1f63b24899dd4002e04f89f4750d9c80e2c09e6
+Fix #13092: check conformance of local generic types in visitBlockStmt (#13095)
+b4a57b15cc47d936403cc989a628bfd25d5af5d3
