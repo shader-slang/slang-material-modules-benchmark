@@ -1,2 +1,2 @@
-Fix intToAscii() and parseInt() functions (#13217)
-9902f7b11aa22ba9b9d724eb92c083f3da1f1144
+Honor per-variable `precise` on the direct SPIR-V backend (#12198) (#12208)
+b1f63b24899dd4002e04f89f4750d9c80e2c09e6
