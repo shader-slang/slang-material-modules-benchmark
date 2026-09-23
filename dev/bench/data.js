@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1790183523159,
+  "lastUpdate": 1790186868495,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -134346,6 +134346,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 608.6506250000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "cfd1c1d72f3187bbe98e74eaee1294dce6b8a6cd",
+          "message": "Fix #13092: check conformance of local generic types in visitBlockStmt (#13095)\n\nhttps://github.com/shader-slang/slang/commit/b4a57b15cc47d936403cc989a628bfd25d5af5d3",
+          "timestamp": "2026-09-23T11:07:21-07:00",
+          "tree_id": "a202c9aa6ff4d89ccec6e183294e709afd0159f2",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/cfd1c1d72f3187bbe98e74eaee1294dce6b8a6cd"
+        },
+        "date": 1790186851108,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1904.621875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 492.93687500000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 493.4025,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1881.3125000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 493.30812499999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 492.5924999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 611.4918749999999,
             "unit": "milliseconds"
           }
         ]
