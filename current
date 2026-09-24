@@ -1,2 +1,2 @@
-Note that the compiled Slang module format is not finalized (#12966) (#12970)
-63ef11ca635ff48f1e003c3e17cc20a996e406f3
+Fix #13070: keep native bindless texture/sampler conversion when spvDescriptorHeapEXT is also enabled (#13086)
+6eb89786ca882d71049c8568638e247f60864b6f
