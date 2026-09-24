@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1790207654731,
+  "lastUpdate": 1790219905941,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -134631,6 +134631,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1023.279375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "e43acfacb63357fd4f7bf6751e801b044783c86f",
+          "message": "Fix #13070: keep native bindless texture/sampler conversion when spvDescriptorHeapEXT is also enabled (#13086)\n\nhttps://github.com/shader-slang/slang/commit/6eb89786ca882d71049c8568638e247f60864b6f",
+          "timestamp": "2026-09-23T20:18:04-07:00",
+          "tree_id": "658f0e290aad113a126fa0bcf4bb1e0f8bd68b3a",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/e43acfacb63357fd4f7bf6751e801b044783c86f"
+        },
+        "date": 1790219891767,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1899.8062499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 494.455,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 496.79,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1880.61875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 492.17187499999994,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 495.3131249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 612.075,
             "unit": "milliseconds"
           }
         ]
