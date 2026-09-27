@@ -1,2 +1,2 @@
-Fix #13070: keep native bindless texture/sampler conversion when spvDescriptorHeapEXT is also enabled (#13086)
-6eb89786ca882d71049c8568638e247f60864b6f
+Implement HitObject.GetTriangleVertexPositions (#10920)
+fd923329eec78ccede67837f7dbeaac582f61f8a
