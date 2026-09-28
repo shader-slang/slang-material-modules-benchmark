@@ -1,2 +1,2 @@
-Fix pair-valued gradients in higher-order autodiff (#13242)
-2b73d69dd93ac9f887a8c546aa21e48b20896a08
+Guard against integer overflow in MemoryArena::allocateArray (#13289)
+d78c8ace9bc2cc49844224e5864dd3c6114ed526
