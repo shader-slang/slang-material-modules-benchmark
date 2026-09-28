@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1790629902035,
+  "lastUpdate": 1790634514548,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -134973,6 +134973,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1031.8999999999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "93f98226cddf520a14ce4968bfe9317a1fbe3565",
+          "message": "Fix Metal nested-existential layout: restore target-uniform uint2 handles, legalize vector<->pointer bit-casts (#12844)\n\nhttps://github.com/shader-slang/slang/commit/68563d2f33818480f4c67c8a1f183c68cf38e51c",
+          "timestamp": "2026-09-28T15:28:10-07:00",
+          "tree_id": "2a6f5f572a97b27544c4e90c6df894ec9d89cc2c",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/93f98226cddf520a14ce4968bfe9317a1fbe3565"
+        },
+        "date": 1790634499581,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1912.1024999999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 503.495,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 505.97187499999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1893.6018750000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 504.65875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 505.46187499999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 628.055,
             "unit": "milliseconds"
           }
         ]
