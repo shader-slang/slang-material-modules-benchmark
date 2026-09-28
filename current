@@ -1,2 +1,2 @@
-Enable Slack failure notification for weekly CMake Options workflow (#13291)
-532553d1ccd55a5972109d97118be42f300bd3bb
+Fix pair-valued gradients in higher-order autodiff (#13242)
+2b73d69dd93ac9f887a8c546aa21e48b20896a08
