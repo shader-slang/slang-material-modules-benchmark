@@ -1,2 +1,2 @@
-Guard against integer overflow in MemoryArena::allocateArray (#13289)
-d78c8ace9bc2cc49844224e5864dd3c6114ed526
+Fix Metal nested-existential layout: restore target-uniform uint2 handles, legalize vector<->pointer bit-casts (#12844)
+68563d2f33818480f4c67c8a1f183c68cf38e51c
