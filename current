@@ -1,2 +1,2 @@
-Track synthesized declarations through semantic phases (#13302)
-96b421e69441aae2cb5e5392285d84e0f69b1d5d
+Bind Metal uniform arrays of textures/samplers (part of #12291) (#12294)
+89adf2ec033017066485a4e9074be807c2f6cc6f
