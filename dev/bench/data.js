@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1790698205547,
+  "lastUpdate": 1790699227771,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -135543,6 +135543,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 614.4425000000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "963c793171e328edd66f0e278d29e67de5a53c26",
+          "message": "Fix #13193: preserve geometry input primitive topology for empty input struct (#13195)\n\nhttps://github.com/shader-slang/slang/commit/92ef2caae435a257f821149626d231ed20e43478",
+          "timestamp": "2026-09-29T09:26:42-07:00",
+          "tree_id": "302bd906a5ff74471d02ec958a39b6ea2ce43136",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/963c793171e328edd66f0e278d29e67de5a53c26"
+        },
+        "date": 1790699213593,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3168.2662500000006,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 828.0062499999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 813.9793749999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3151.2437499999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 818.8331250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 812.3699999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1017.000625,
             "unit": "milliseconds"
           }
         ]
