@@ -1,2 +1,2 @@
-Make Buffer conform to IArray (#13132)
-7751c53e18bfd9b5eb64512f182ea17bc280c64d
+Add explicit bitfield packing rules for MSVC compatibility (#13297)
+3bb522221d5db85fbdf8dcf441c05ffc3b801358
