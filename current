@@ -1,2 +1,2 @@
-Treat atomic operations as non-differentiable in autodiff (#13281)
-b9199bdaa48162d97fa8f9d3293e6edaf037ffb3
+Retarget stale DebugNoScope agentic test after #13175 (#13282)
+4fe660083435ea020c4df7d846b48a637a5e323b
