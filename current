@@ -1,2 +1,2 @@
-Add explicit bitfield packing rules for MSVC compatibility (#13297)
-3bb522221d5db85fbdf8dcf441c05ffc3b801358
+Treat atomic operations as non-differentiable in autodiff (#13281)
+b9199bdaa48162d97fa8f9d3293e6edaf037ffb3
