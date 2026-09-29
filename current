@@ -1,2 +1,2 @@
-Compile core and compiler-core with exceptions disabled (part of #12779) (#12782)
-d50eeb55e52bf496a0a0e6422b953d00c6da96ee
+Fix #13193: preserve geometry input primitive topology for empty input struct (#13195)
+92ef2caae435a257f821149626d231ed20e43478
