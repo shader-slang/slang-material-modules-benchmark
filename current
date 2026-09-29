@@ -1,2 +1,2 @@
-Fix Metal nested-existential layout: restore target-uniform uint2 handles, legalize vector<->pointer bit-casts (#12844)
-68563d2f33818480f4c67c8a1f183c68cf38e51c
+Preserve precise qualifiers on SPIR-V outputs (#13290)
+3d41127e657e75554b991e3f97868c560cbebe99
