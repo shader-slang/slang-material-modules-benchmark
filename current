@@ -1,2 +1,2 @@
-Retarget stale DebugNoScope agentic test after #13175 (#13282)
-4fe660083435ea020c4df7d846b48a637a5e323b
+Refresh agentic WGSL loop and empty-payload expectations (#13317)
+0fb6b7587a94fa33d88141ec9930766eedc6f59a
