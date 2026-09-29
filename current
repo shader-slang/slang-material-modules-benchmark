@@ -1,2 +1,2 @@
-Refresh agentic WGSL loop and empty-payload expectations (#13317)
-0fb6b7587a94fa33d88141ec9930766eedc6f59a
+Compile core and compiler-core with exceptions disabled (part of #12779) (#12782)
+d50eeb55e52bf496a0a0e6422b953d00c6da96ee
