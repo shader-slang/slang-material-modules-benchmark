@@ -1,2 +1,2 @@
-Guard non-static-satisfies-static witness adaptation by receiver type (#13260) (#13269)
-214064dd1570fe8436821fa08b043f88a73febc7
+Track synthesized declarations through semantic phases (#13302)
+96b421e69441aae2cb5e5392285d84e0f69b1d5d
