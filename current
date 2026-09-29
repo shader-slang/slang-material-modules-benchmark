@@ -1,2 +1,2 @@
-Fix #13193: preserve geometry input primitive topology for empty input struct (#13195)
-92ef2caae435a257f821149626d231ed20e43478
+Guard non-static-satisfies-static witness adaptation by receiver type (#13260) (#13269)
+214064dd1570fe8436821fa08b043f88a73febc7
