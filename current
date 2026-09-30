@@ -1,2 +1,2 @@
-Fix #13000: correct nested-loop autodiff checkpoint array sizing (#13002)
-64199c79a418ccb4bf56c0980ca10434c0a404b6
+Add configurable note suppression (#13325)
+9c36eddc4edb83dbc690a2f16e85d832114b4bbb
