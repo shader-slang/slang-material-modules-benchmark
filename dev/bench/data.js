@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1790796044337,
+  "lastUpdate": 1790796048279,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -136021,6 +136021,63 @@ window.BENCHMARK_DATA = {
           "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/11c5fdd57850acd265b49b373cd9c7875ebd59af"
         },
         "date": 1790796031778,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3154.3518750000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 811.2381250000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 816.41875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3121.164375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 810.9656249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 808.055,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1019.6643750000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "11c5fdd57850acd265b49b373cd9c7875ebd59af",
+          "message": "Fix #13000: correct nested-loop autodiff checkpoint array sizing (#13002)\n\nhttps://github.com/shader-slang/slang/commit/64199c79a418ccb4bf56c0980ca10434c0a404b6",
+          "timestamp": "2026-09-30T12:20:20-07:00",
+          "tree_id": "77191026ed74057ba631e837dc292328dc78b277",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/11c5fdd57850acd265b49b373cd9c7875ebd59af"
+        },
+        "date": 1790796032113,
         "tool": "customSmallerIsBetter",
         "benches": [
           {
