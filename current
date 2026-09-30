@@ -1,2 +1,2 @@
-Add GLSL support for SampleCmpBias and SampleCmpGrad (#9085)
-a05023cd30e5f621d857e56bdb156f4ea4506ff9
+slang-test: initialize per-thread test-requirement slots (#13334)
+16c3d3f6863f5f30024119aa972cac073f8c26cc
