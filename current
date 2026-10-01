@@ -1,2 +1,2 @@
-Honor matrix layout modifiers on arrays and function return types (#12992)
-a459ba415b5c7692a9e20ca2fec71ddc7dea9f5d
+Expand captured autodiff parameters for CUDA, OptiX, and Metal (#13358)
+c43281adccb020c09a5ae4d2001c146e85278c65
