@@ -1,2 +1,2 @@
-Expand captured autodiff parameters for CUDA, OptiX, and Metal (#13358)
-c43281adccb020c09a5ae4d2001c146e85278c65
+Diagnose invalid modifiers on type expressions (#13366)
+bd090b0996492d7db0b6b21263530083046fc3da
