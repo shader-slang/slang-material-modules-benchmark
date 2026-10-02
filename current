@@ -1,2 +1,2 @@
-Add Visual Studio diagnostic formatting (#13372)
-cc07289599dd2de93965b3b9ddffa65c7d93c144
+Recover texture [format] across function parameters on CUDA (#12737) (#12766)
+feb2452bfade10f24b323cac6400a9d960f76366
