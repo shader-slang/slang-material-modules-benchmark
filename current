@@ -1,2 +1,2 @@
-Suggest a missing interface constraint when member lookup fails on a generic type parameter (#13225)
-92258f61b74d3edf6a342eb2f308c9d07ffb154c
+Ignore empty declarations in interface conformance (#13367)
+00febe288c967342221acfb47846a04267885a72
