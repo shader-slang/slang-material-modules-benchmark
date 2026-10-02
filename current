@@ -1,2 +1,2 @@
-Ignore empty declarations in interface conformance (#13367)
-00febe288c967342221acfb47846a04267885a72
+Fold __isVector<T>() on the operand type, not the element type (#13357)
+6ba151dcfc06db9ebe29bcb4159c0099a8ba1ab0
