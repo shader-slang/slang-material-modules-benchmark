@@ -1,2 +1,2 @@
-Parse `<` after a swizzle or other value-typed expression as less-than (#13429)
-7bb2fca5970b2bf50ef74127029e7bce041f852f
+Stop re-wrapping refined type-flow info in makeInfoForConcreteType (#12934, #13259) (#12935)
+e6be8dcdd764da1c490b87c705502b5ff65e021d
