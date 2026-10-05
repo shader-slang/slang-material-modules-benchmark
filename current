@@ -1,2 +1,2 @@
-Fold __isVector<T>() on the operand type, not the element type (#13357)
-6ba151dcfc06db9ebe29bcb4159c0099a8ba1ab0
+Parse `<` after a swizzle or other value-typed expression as less-than (#13429)
+7bb2fca5970b2bf50ef74127029e7bce041f852f
