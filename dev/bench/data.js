@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1791207967257,
+  "lastUpdate": 1791211326912,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -136911,6 +136911,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 618.961875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "bda0b28cdc84a710ecd0e0fc4d48e0c6e40fd4a1",
+          "message": "Stop re-wrapping refined type-flow info in makeInfoForConcreteType (#12934, #13259) (#12935)\n\nhttps://github.com/shader-slang/slang/commit/e6be8dcdd764da1c490b87c705502b5ff65e021d",
+          "timestamp": "2026-10-05T07:41:44-07:00",
+          "tree_id": "77cfadc68055fd19f059563ccb4a22ae0519ee97",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/bda0b28cdc84a710ecd0e0fc4d48e0c6e40fd4a1"
+        },
+        "date": 1791211315983,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3148.2625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 806.1575,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 804.018125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3140.65375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 813.260625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 806.3143750000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1010.3675000000001,
             "unit": "milliseconds"
           }
         ]
