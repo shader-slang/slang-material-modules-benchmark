@@ -1,2 +1,2 @@
-Stop re-wrapping refined type-flow info in makeInfoForConcreteType (#12934, #13259) (#12935)
-e6be8dcdd764da1c490b87c705502b5ff65e021d
+Update SPIRV-Headers/Tools and add volatile semantics for ray-tracing builtins (#13373)
+d307206deb9d1510396ef27909725632f59ed0b4
