@@ -1,2 +1,2 @@
-Update SPIRV-Headers/Tools and add volatile semantics for ray-tracing builtins (#13373)
-d307206deb9d1510396ef27909725632f59ed0b4
+Fix #11075: generic IFloat/IInteger min/max on builtin vectors and float matrices (#12249)
+5cb03fa5f71f5b9c368df82ac17b616763912251
