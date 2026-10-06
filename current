@@ -1,2 +1,2 @@
-Fix #11075: generic IFloat/IInteger min/max on builtin vectors and float matrices (#12249)
-5cb03fa5f71f5b9c368df82ac17b616763912251
+Fix HLSL differentiation of CoopVec arithmetic operators (#13456)
+c8e02397a7f7556c3ea42c4333750bf8a3ddee33
