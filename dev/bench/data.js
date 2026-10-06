@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1791330003731,
+  "lastUpdate": 1791330932775,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -137310,6 +137310,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 632.900625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "651d90d7db34129f6ed31882f8c785cec36dbf43",
+          "message": "Support GeometryIndex() on CUDA/OptiX via the SBT GAS index (#13437)\n\nhttps://github.com/shader-slang/slang/commit/bce8cbefab76858362c2458902d78cf976f407d4",
+          "timestamp": "2026-10-06T16:55:08-07:00",
+          "tree_id": "43aec19515211a3db72f849968896729fca5ce99",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/651d90d7db34129f6ed31882f8c785cec36dbf43"
+        },
+        "date": 1791330918110,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1895.930625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 502.505625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 501.85187499999995,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1880.5325,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 502.52687499999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 501.7025,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 631.90875,
             "unit": "milliseconds"
           }
         ]
