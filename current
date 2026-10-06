@@ -1,2 +1,2 @@
-Fix differential pair handling in higher-order autodiff (#13360)
-ef7e6dcf1deab0cc76e6b2cdf1fb4580eb17e5b0
+Support GeometryIndex() on CUDA/OptiX via the SBT GAS index (#13437)
+bce8cbefab76858362c2458902d78cf976f407d4
