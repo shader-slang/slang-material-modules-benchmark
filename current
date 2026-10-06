@@ -1,2 +1,2 @@
-Bump google.golang.org/grpc from 1.83.1 to 1.83.2 in /extras/scaler (#13129)
-20092570c97d82b0bd86244d4d7fc13524d4e89a
+Add clustered wave ops (#13270)
+98c4f258c6a147bfc420c71b2d8b0a45cdd5619f
