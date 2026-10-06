@@ -1,2 +1,2 @@
-Add clustered wave ops (#13270)
-98c4f258c6a147bfc420c71b2d8b0a45cdd5619f
+Fix differential pair handling in higher-order autodiff (#13360)
+ef7e6dcf1deab0cc76e6b2cdf1fb4580eb17e5b0
