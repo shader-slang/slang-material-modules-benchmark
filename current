@@ -1,2 +1,2 @@
-Fix #13233: carry auto-diff annotations across cross-module link (#13236)
-4d69638f26f16ca32d28a73bca7d110dd9401895
+Refresh agentic tests stale after #13219 and #13358 (#13454)
+9516b48bc54f74a891defff120fc4e1c0abac994
