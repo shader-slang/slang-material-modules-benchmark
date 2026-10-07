@@ -1,2 +1,2 @@
-Use slang-rhi for coverage workflow examples (#13459)
-3c9112588c1ed4842460239212d5c82299ed428a
+Make missing return in non-void function an error in Slang 202c (#13460)
+2aa4915c321bbf61d9acd77010b6ec2e59a1188b
