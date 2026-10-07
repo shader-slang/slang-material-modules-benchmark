@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1791330932775,
+  "lastUpdate": 1791355283650,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -137367,6 +137367,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 631.90875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "cd3fcaeb31e0d16b197ddd5722c4d57d8436db5d",
+          "message": "Fix #13233: carry auto-diff annotations across cross-module link (#13236)\n\nhttps://github.com/shader-slang/slang/commit/4d69638f26f16ca32d28a73bca7d110dd9401895",
+          "timestamp": "2026-10-06T23:40:56-07:00",
+          "tree_id": "82271b25cf196add3c4f98ba663cd15b459e4143",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/cd3fcaeb31e0d16b197ddd5722c4d57d8436db5d"
+        },
+        "date": 1791355268506,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3188.3625000000006,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 832.3256249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 828.944375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3247.2750000000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 834.3187500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 834.176875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1080.2437499999999,
             "unit": "milliseconds"
           }
         ]
