@@ -1,2 +1,2 @@
-Fix #13428: earlier declarators of a group are visible to later initializers (#13432)
-eaf758404f3af65acf6a27e7b51b3a2a1942654e
+Wrap non-struct D3D ray-tracing payloads and hit attributes (#13315)
+93a54974c17fc24f6d9b539ec8daa2cf734bce4a
