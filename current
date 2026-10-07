@@ -1,2 +1,2 @@
-Wrap non-struct D3D ray-tracing payloads and hit attributes (#13315)
-93a54974c17fc24f6d9b539ec8daa2cf734bce4a
+Record effective this parameter information (#13232)
+649a6f83bd368e0f38c0b276311b47073f62dd4c
