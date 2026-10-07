@@ -1,2 +1,2 @@
-Make missing return in non-void function an error in Slang 202c (#13460)
-2aa4915c321bbf61d9acd77010b6ec2e59a1188b
+Fix #13428: earlier declarators of a group are visible to later initializers (#13432)
+eaf758404f3af65acf6a27e7b51b3a2a1942654e
