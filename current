@@ -1,2 +1,2 @@
-Remove unused dev issue labeling workflow (#13500)
-311a3d631294ff419a9f40d7de12b6afe159d690
+Parse HLSL classes as value types (#13497)
+d074e7779efc2bef78384d1c8ffe8d13773f2d4c
