@@ -1,2 +1,2 @@
-Guard slang-glslang and SPIR-V snippet parsing for -fno-exceptions (#13751)
-aeca046bfa96ca942c4bcc021aa58e5c88d9e609
+Attach imported namespaces to every scope of a reopened namespace (#11449)
+3f3e99de6a41908ecc780fcc0de392a8ab97f944
