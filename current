@@ -1,2 +1,2 @@
-Align fossilized simple values to their size (fix 32-bit module loading) (#13575)
-33d9c50032d3a9cf27271587527486fa6ed06e95
+Make extern vs. non-extern overload comparison symmetric (#13516)
+37f98b88cb8d64a0065af236371c76f6ee630709
