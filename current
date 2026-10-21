@@ -1,2 +1,2 @@
-Run the MDL benchmark push workflow in Git Bash (#13797)
-25fc39660181700e2aa7a06c24ad4b5e6b324553
+Resolve completion items only against their own completion request (replaces #13521) (#13787)
+1d24bd08afd33d4f652ddfb28c2e03a1aa5c499e
