@@ -1,2 +1,2 @@
-Fix UsedRanges::findRangeContaining(UInt) returning slot instead of range index (#13512)
-23f8fbe9b352b141e33dc26ea76fd92657ca94d0
+Align fossilized simple values to their size (fix 32-bit module loading) (#13575)
+33d9c50032d3a9cf27271587527486fa6ed06e95
