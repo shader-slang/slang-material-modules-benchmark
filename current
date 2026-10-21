@@ -1,2 +1,2 @@
-Verify nightly coverage Pages publication
-965284957ceca284df45aa9e6a75a5487b639fe1
+CI: merge the Windows GPU -dx/-vk/-cuda test jobs back into one job per config (#13813)
+045300d41e0227738c79b3d0d737f2fb27b1dccc
