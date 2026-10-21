@@ -1,2 +1,2 @@
-Fix replay teardown double-releasing a proxy the replayed stream already released (#13522)
-440f9c316eabba37a0b4960b3482b716db8645c5
+Guard slang-glslang and SPIR-V snippet parsing for -fno-exceptions (#13751)
+aeca046bfa96ca942c4bcc021aa58e5c88d9e609
