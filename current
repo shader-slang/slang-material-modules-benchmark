@@ -1,2 +1,2 @@
-WGSL: emit vector rsqrt, fmod, f32tof16, f16tof32, isnan, isinf and isfinite without a loop (#13781)
-7036ae6dfd257d55c3541a709ab1d3d24e0352be
+WGSL: emit arrays of textures and samplers as binding_array (#13708)
+6f18dc658132c346fca472f5c269148e6e1cad44
