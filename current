@@ -1,2 +1,2 @@
-Make out-of-order designated initializers an error on Clang (#13839)
-331374388d33d8fbcfd4c98e86c8e7b63496abef
+WGSL: clamp negative lanes to 0 in packUint4x8Clamp(int32_t4) (#13775)
+00849649c54ad79830f159138ce70aec705302a8
