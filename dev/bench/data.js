@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1792637753759,
+  "lastUpdate": 1792638684534,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -138678,6 +138678,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 671.57625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "9ed48e3d0587313759c7a45b9361699d8d4b2fd8",
+          "message": "WGSL: clamp negative lanes to 0 in packUint4x8Clamp(int32_t4) (#13775)\n\nhttps://github.com/shader-slang/slang/commit/00849649c54ad79830f159138ce70aec705302a8",
+          "timestamp": "2026-10-21T20:11:00-07:00",
+          "tree_id": "631107b20a359f0428006d3985f86d781dee7957",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/9ed48e3d0587313759c7a45b9361699d8d4b2fd8"
+        },
+        "date": 1792638668994,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1955.308125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 527.133125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 527.38125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1996.4818749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 537.084375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 535.98125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 658.0006249999999,
             "unit": "milliseconds"
           }
         ]
