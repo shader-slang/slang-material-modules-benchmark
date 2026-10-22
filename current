@@ -1,2 +1,2 @@
-WGSL: clamp negative lanes to 0 in packUint4x8Clamp(int32_t4) (#13775)
-00849649c54ad79830f159138ce70aec705302a8
+Honor a conformer's custom derivative through interface requirements (#13742)
+653bfdeef4092dd0c1554a4ea6146ffd072122d2
