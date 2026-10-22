@@ -1,2 +1,2 @@
-WGSL: emit arrays of textures and samplers as binding_array (#13708)
-6f18dc658132c346fca472f5c269148e6e1cad44
+render-test: build the acceleration structure for ray queries on Metal (#13862)
+ce64bb091f5be65eabaf49c95897db7142ffd51d
