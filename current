@@ -1,2 +1,2 @@
-WGSL: keep std140 for entry-point uniforms under forced scalar layout (#13706)
-340047a3cec2ef5cb0a56fb0949236782fe32a55
+WGSL: report byte-address stores of 8- and 16-bit values at the store (#13735)
+1c2c96701e37fe5b58a45688d6cd85cf166b5892
