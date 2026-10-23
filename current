@@ -1,2 +1,2 @@
-render-test: build the acceleration structure for ray queries on Metal (#13862)
-ce64bb091f5be65eabaf49c95897db7142ffd51d
+WGSL: keep std140 for entry-point uniforms under forced scalar layout (#13706)
+340047a3cec2ef5cb0a56fb0949236782fe32a55
