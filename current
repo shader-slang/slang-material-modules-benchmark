@@ -1,2 +1,2 @@
-IR: let store-to-load forwarding cross RequireTargetExtension (WGSL subgroup uniformity) (#13883)
-135570a76a87814de9314d957dd433bb2dfab980
+Metal: make f16tof32 return float (#13655)
+e423b87bdc394af89955d075485be38a2def9173
