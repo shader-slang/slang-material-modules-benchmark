@@ -1,2 +1,2 @@
-WGSL: report byte-address stores of 8- and 16-bit values at the store (#13735)
-1c2c96701e37fe5b58a45688d6cd85cf166b5892
+Replace SLANGBOT_PAT in slash commands with a GitHub App token (#13881)
+7be48fdef5999df5dd76f4883840ac0f86d2c4cd
