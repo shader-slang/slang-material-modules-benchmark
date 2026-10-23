@@ -1,2 +1,2 @@
-Replace SLANGBOT_PAT in slash commands with a GitHub App token (#13881)
-7be48fdef5999df5dd76f4883840ac0f86d2c4cd
+Preserve SSA values in autodiff parameter captures (#13854)
+83bf12639e3c853f2302de44a420a116fba0844b
