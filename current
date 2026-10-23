@@ -1,2 +1,2 @@
-Preserve SSA values in autodiff parameter captures (#13854)
-83bf12639e3c853f2302de44a420a116fba0844b
+Use GITHUB_TOKEN instead of a GitHub App token in slash commands (#13886)
+d29325a7fe7e4035faa7d2d5ff596cc2daf2f0b2
