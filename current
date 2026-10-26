@@ -1,2 +1,2 @@
-Support autodiff for Conditional values (#13884)
-52e29ab43bf46f70f043297ea2aff02d1ace1988
+Return an empty builtin module source when the source is not embedded (#13665)
+bba63c2376a559afbdfa6c420d0139cd1edc01a2
