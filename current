@@ -1,2 +1,2 @@
-Return an empty builtin module source when the source is not embedded (#13665)
-bba63c2376a559afbdfa6c420d0139cd1edc01a2
+Update mimalloc to v2.5.2 (#13879)
+f80573815912947e3ced5a7314cec07db00fade2
