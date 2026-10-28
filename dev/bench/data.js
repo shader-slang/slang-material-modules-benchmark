@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1793202563049,
+  "lastUpdate": 1793212369394,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -140103,6 +140103,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 645.153125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "2847118b1afa6ca964ea1407b63eea5b8f728784",
+          "message": "WGSL: emit a GLSL readonly buffer as read storage (#13908)\n\nhttps://github.com/shader-slang/slang/commit/be736304886ce61aa2844b02bc0f558aee953b94",
+          "timestamp": "2026-10-28T11:32:21-07:00",
+          "tree_id": "11a992ff2acf7eabbae466df88e32724377f424e",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/2847118b1afa6ca964ea1407b63eea5b8f728784"
+        },
+        "date": 1793212351348,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3196.93875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 848.351875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 855.3212500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3231.775625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 899.30625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 872.5974999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1098.5831249999999,
             "unit": "milliseconds"
           }
         ]
