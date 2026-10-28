@@ -1,2 +1,2 @@
-Update CONTRIBUTING.md to remove Actions instruction
-9a4817c8815ac620c43cfb6315b88bf473e53be6
+WGSL: support the fine and coarse derivatives and clip() (#13905)
+98ea350615d7f10fcc5537c15d35db79008e11e9
