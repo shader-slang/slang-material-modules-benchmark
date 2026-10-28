@@ -1,2 +1,2 @@
-WGSL: emit a GLSL readonly buffer as read storage (#13908)
-be736304886ce61aa2844b02bc0f558aee953b94
+Metal: pass -fno-fast-math to the metal compiler for -fp-mode precise (#13943)
+dd307e436b1f0ccc47ab0d11936c01a9dbe1cc41
