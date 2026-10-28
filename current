@@ -1,2 +1,2 @@
-WGSL: support the fine and coarse derivatives and clip() (#13905)
-98ea350615d7f10fcc5537c15d35db79008e11e9
+Check capability requirements of generic entry-point arguments (#13898)
+a30c9d4917ef82825d690a956bfc7f14c89354fc
