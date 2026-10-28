@@ -1,2 +1,2 @@
-Metal: pass -fno-fast-math to the metal compiler for -fp-mode precise (#13943)
-dd307e436b1f0ccc47ab0d11936c01a9dbe1cc41
+Peephole: ignore a block param's own value among its incoming arguments (#13950)
+c2e4351dde1c3904c1658d289e3c219e33d81fb9
