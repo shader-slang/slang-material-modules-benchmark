@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1793063936337,
+  "lastUpdate": 1793163095985,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -139932,6 +139932,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 658.033125,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "ea0913af5a2bef593a14b49d9f92577584bd96ba",
+          "message": "WGSL: support the fine and coarse derivatives and clip() (#13905)\n\nhttps://github.com/shader-slang/slang/commit/98ea350615d7f10fcc5537c15d35db79008e11e9",
+          "timestamp": "2026-10-27T21:51:09-07:00",
+          "tree_id": "05c3e689a4d3a76b5483f82aa29f3bf16aaa36f9",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/ea0913af5a2bef593a14b49d9f92577584bd96ba"
+        },
+        "date": 1793163079700,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1935.1462500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 522.035,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 523.001875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1925.4125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 521.1425,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 520.494375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 653.1662500000001,
             "unit": "milliseconds"
           }
         ]
