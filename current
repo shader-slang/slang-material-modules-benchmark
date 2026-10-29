@@ -1,2 +1,2 @@
-WGSL: report comparison sampling of a non-depth texture at compile time (#13907)
-7469a2e412a0e6335b30955e47560bd7ed2156ca
+Fold __floatAsInt through a call only for a conversion to float (#13869)
+977df1246b4e21e49aeb3579e021c48fe59a7f58
