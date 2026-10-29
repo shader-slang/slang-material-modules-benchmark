@@ -1,2 +1,2 @@
-WGSL: map WorkgroupCount() to the num_workgroups built-in (#13920)
-fc02240aac716427390526e007746cf66c4ce4d3
+Treat ByteAddressBufferLoad as side-effect free, so unused word loads are removed (#13764)
+3d8e53556938da60abf38ba912e7d996fba72d19
