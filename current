@@ -1,2 +1,2 @@
-Peephole: ignore a block param's own value among its incoming arguments (#13950)
-c2e4351dde1c3904c1658d289e3c219e33d81fb9
+WGSL: map WorkgroupCount() to the num_workgroups built-in (#13920)
+fc02240aac716427390526e007746cf66c4ce4d3
