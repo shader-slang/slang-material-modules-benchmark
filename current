@@ -1,2 +1,2 @@
-Restrict the zero-argument abort() to HLSL and C++ (#13912)
-0cd957ba91d59a0000c3ef9b426879be1b60b1ee
+WGSL: add a workgroupUniformLoad overload for groupshared Atomic<T> (#13919)
+1183bbe1ee28726443a9b2216c51e0370339bd85
