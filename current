@@ -1,2 +1,2 @@
-Release mimalloc memory when slang-compiler.dll / slang-glslang.dll are unloaded (#13867)
-01dcd35682caba01e49f0627e216ace32842954d
+Diagnose conflicts with inferred-type declarations and cbuffer/tbuffer members (#13880)
+9b3ac252d085af3a7c64886e0a89ba6879e1e93b
