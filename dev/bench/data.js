@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1793299364023,
+  "lastUpdate": 1793300566063,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -140730,6 +140730,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 650.0031250000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "dfcc4d35370d95a666efa60c82ca59ce20eb6649",
+          "message": "WGSL: add a workgroupUniformLoad overload for groupshared Atomic<T> (#13919)\n\nhttps://github.com/shader-slang/slang/commit/1183bbe1ee28726443a9b2216c51e0370339bd85",
+          "timestamp": "2026-10-29T12:02:18-07:00",
+          "tree_id": "a2bab7d0ca0921b780b85e1b8ffbbc015e21f81a",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/dfcc4d35370d95a666efa60c82ca59ce20eb6649"
+        },
+        "date": 1793300551073,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3223.2131249999998,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 863.975625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 860.9031249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3244.318125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 896.4775,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 898.895,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1099.8725,
             "unit": "milliseconds"
           }
         ]
