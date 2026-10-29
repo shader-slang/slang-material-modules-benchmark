@@ -1,2 +1,2 @@
-Accept an interpolation mode together with centroid or sample (#13923)
-390874bbcd8ce3d2d42f268448b92bf54ebda583
+Release mimalloc memory when slang-compiler.dll / slang-glslang.dll are unloaded (#13867)
+01dcd35682caba01e49f0627e216ace32842954d
