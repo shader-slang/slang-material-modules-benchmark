@@ -1,2 +1,2 @@
-Treat ByteAddressBufferLoad as side-effect free, so unused word loads are removed (#13764)
-3d8e53556938da60abf38ba912e7d996fba72d19
+Accept an interpolation mode together with centroid or sample (#13923)
+390874bbcd8ce3d2d42f268448b92bf54ebda583
