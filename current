@@ -1,2 +1,2 @@
-Fold __floatAsInt through a call only for a conversion to float (#13869)
-977df1246b4e21e49aeb3579e021c48fe59a7f58
+Lower integer matrices of every width to arrays of vectors (SPIR-V, GLSL, Metal, WGSL) (#14022)
+1f0b33b8687431ff727dd754b4ad251f8eaa5db4
