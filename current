@@ -1,2 +1,2 @@
-WGSL: add a workgroupUniformLoad overload for groupshared Atomic<T> (#13919)
-1183bbe1ee28726443a9b2216c51e0370339bd85
+WGSL: report comparison sampling of a non-depth texture at compile time (#13907)
+7469a2e412a0e6335b30955e47560bd7ed2156ca
