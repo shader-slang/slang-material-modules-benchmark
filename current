@@ -1,2 +1,2 @@
-Extract packed errors from void result types (#14068)
-d34a5eb54d2df8cdbc4402df60ce4ad6da2e9769
+WGSL: emit [WaveSize(N)] as @subgroup_size(N); warn on Metal and on CUDA for N != 32 (#14065)
+e638298fe52b448e3a17a3d4966769247517264b
