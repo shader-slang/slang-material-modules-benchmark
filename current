@@ -1,2 +1,2 @@
-WGSL: make compareExchange strong on top of atomicCompareExchangeWeak (#13918)
-b2dabac6d5949a88e6708e2d8ef5020ef21856b3
+Honour a target's IgnoreCapabilities in the profile stage check (#13855)
+0cea40935a895f354a2e164da240c972af632be9
