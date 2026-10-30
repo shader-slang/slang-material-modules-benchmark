@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1793396524275,
+  "lastUpdate": 1793398357090,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -141300,6 +141300,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 662.005625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "a20b3e7e0ec1b9a4a6ddc36ed65be212a9f42a45",
+          "message": "WGSL: map an SV_ClipDistance array to the clip_distances built-in (#14097)\n\nhttps://github.com/shader-slang/slang/commit/e8adec8951b257e3eb203d3acd476d9c5c285525",
+          "timestamp": "2026-10-30T15:12:21-07:00",
+          "tree_id": "c4d1ceb897a7d13e6262749f657a00f3847f0343",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/a20b3e7e0ec1b9a4a6ddc36ed65be212a9f42a45"
+        },
+        "date": 1793398350011,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1969.1993750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 525.28875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 525.695,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1968.33125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 525.6656250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 524.9050000000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 663.76625,
             "unit": "milliseconds"
           }
         ]
