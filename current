@@ -1,2 +1,2 @@
-Lower integer matrices of every width to arrays of vectors (SPIR-V, GLSL, Metal, WGSL) (#14022)
-1f0b33b8687431ff727dd754b4ad251f8eaa5db4
+WGSL: fix interpolation attributes of user varyings (#14052)
+de97ec0c84202ae88da2015bf307b3fa4f0f95b9
