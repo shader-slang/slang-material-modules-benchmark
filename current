@@ -1,2 +1,2 @@
-WGSL: fix interpolation attributes of user varyings (#14052)
-de97ec0c84202ae88da2015bf307b3fa4f0f95b9
+WGSL: make compareExchange strong on top of atomicCompareExchangeWeak (#13918)
+b2dabac6d5949a88e6708e2d8ef5020ef21856b3
