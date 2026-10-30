@@ -1,2 +1,2 @@
-WGSL: emit [WaveSize(N)] as @subgroup_size(N); warn on Metal and on CUDA for N != 32 (#14065)
-e638298fe52b448e3a17a3d4966769247517264b
+CUDA: fetch three-component texels in Texture.Load (#13999)
+e789b40f0708250b34e7e1994ae8f30ec4a6c44c
