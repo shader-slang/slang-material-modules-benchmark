@@ -1,2 +1,2 @@
-WGSL: map an SV_ClipDistance array to the clip_distances built-in (#14097)
-e8adec8951b257e3eb203d3acd476d9c5c285525
+Compare a matrix with a scalar on SPIR-V, GLSL and CUDA (#14098)
+5a2dc5f21183d71a7890f98729373f2468ca9860
