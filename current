@@ -1,2 +1,2 @@
-NonUniformResourceIndex: accept it on CPU, CUDA, Metal and WGSL (#14104)
-7d679e6570851fb9a57fcc2ce20c5b87df274bde
+slang-wasm: load precompiled modules (loadModuleFromIRBlob, Module.serialize) (#13663)
+c959b561da12d4f3cbb9c240485a6bd5955a0483
