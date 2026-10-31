@@ -1,2 +1,2 @@
-slang-wasm: load precompiled modules (loadModuleFromIRBlob, Module.serialize) (#13663)
-c959b561da12d4f3cbb9c240485a6bd5955a0483
+WGSL, Metal: keep the system-value semantic of a fragment shader's return value (#13925)
+d7bc9fb0c5ed980c18939192050dbc09cda1b940
