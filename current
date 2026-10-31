@@ -1,2 +1,2 @@
-WGSL, Metal: keep the system-value semantic of a fragment shader's return value (#13925)
-d7bc9fb0c5ed980c18939192050dbc09cda1b940
+WGSL: emit static const arrays as module-scope const, without a var<private> fallback (#14132)
+6815ed82d5e8c95b0e1258ca2eba0ca9c7825d86
