@@ -1,2 +1,2 @@
-Make abs of an unsigned integer the identity on SPIR-V, LLVM and GLSL (#13988)
-e6718350fb5b15482ac9ee5bb3cb66b5b759963b
+Fix CUDA Gather on combined samplers and reject GatherCmp on CUDA (#14079)
+9b46bca6440178d7c6b39f9e4daa6c30ba726abc
