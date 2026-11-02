@@ -1,2 +1,2 @@
-SPIR-V: emit pointer-to-signed-int casts through an unsigned integer (#14090)
-dd93102a42c970ff34eea2230f2287836f2592ee
+Fix MSVC 2019 internal compiler error in unit-test-string.cpp (#14072)
+8e0a5457e00dd8aca471eeabc2cf2f77a0101876
