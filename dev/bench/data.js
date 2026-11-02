@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1793654453063,
+  "lastUpdate": 1793655487601,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -141984,6 +141984,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1098.45,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "9e144d7d01b4830e029f5daeff24b27b0b1f71f8",
+          "message": "Fix CUDA Gather on combined samplers and reject GatherCmp on CUDA (#14079)\n\nhttps://github.com/shader-slang/slang/commit/9b46bca6440178d7c6b39f9e4daa6c30ba726abc",
+          "timestamp": "2026-11-02T13:37:47-08:00",
+          "tree_id": "508c123738981acee87e5fe4ad5244b4edc475e8",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/9e144d7d01b4830e029f5daeff24b27b0b1f71f8"
+        },
+        "date": 1793655477547,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3345.8043749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 859.546875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 853.9562500000002,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3174.1900000000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 858.8368750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 855.35375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1095.6100000000004,
             "unit": "milliseconds"
           }
         ]
