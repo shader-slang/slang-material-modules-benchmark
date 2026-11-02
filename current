@@ -1,2 +1,2 @@
-Reconcile agentic tests with compiler drift from the 2026-11-02 nightly (#14172)
-e56906334a77a54f3f8d2aee538e71b2f26957f1
+render-test: fix NaN in gradient texture on one-texel mip levels (#14163)
+8229f274231f449f720f276b74f1ddfeda3b5743
