@@ -1,2 +1,2 @@
-render-test: fix NaN in gradient texture on one-texel mip levels (#14163)
-8229f274231f449f720f276b74f1ddfeda3b5743
+C-like emitters: write INT64_MIN as (-9223372036854775807LL - 1LL) (#14168)
+8b351e2613a08b3ebd8e56f26425e021c1c79707
