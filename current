@@ -1,2 +1,2 @@
-Fix CUDA Gather on combined samplers and reject GatherCmp on CUDA (#14079)
-9b46bca6440178d7c6b39f9e4daa6c30ba726abc
+SPIR-V: emit pointer-to-signed-int casts through an unsigned integer (#14090)
+dd93102a42c970ff34eea2230f2287836f2592ee
