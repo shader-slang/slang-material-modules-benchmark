@@ -1,2 +1,2 @@
-WGSL: emit static const arrays as module-scope const, without a var<private> fallback (#14132)
-6815ed82d5e8c95b0e1258ca2eba0ca9c7825d86
+Reconcile agentic tests with compiler drift from the 2026-11-02 nightly (#14172)
+e56906334a77a54f3f8d2aee538e71b2f26957f1
