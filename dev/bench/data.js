@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1793740400502,
+  "lastUpdate": 1793748309720,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -142440,6 +142440,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 673.6712500000001,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "5dbbdac2f6c39b6cb7a96c8956f29d6ae8dfeb74",
+          "message": "Document how to install Metal Developer Tools (#14274)\n\nhttps://github.com/shader-slang/slang/commit/e73d268973dae1a2af701277b27c2fddef98a274",
+          "timestamp": "2026-11-03T15:24:51-08:00",
+          "tree_id": "f9bab17e15f5457c48d7c9668d52306901166957",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/5dbbdac2f6c39b6cb7a96c8956f29d6ae8dfeb74"
+        },
+        "date": 1793748299658,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2019.2918750000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 553.0187500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 553.794375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2000.631875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 552.534375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 552.7124999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 678.943125,
             "unit": "milliseconds"
           }
         ]
