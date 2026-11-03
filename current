@@ -1,2 +1,2 @@
-Allow global constant inlining with shader debug information (#14236)
-7f4efc7ce946c239b9ad46b0130798fd365c298e
+Return the parse result from IGlobalSession::parseCommandLineArguments (#14111)
+f1cd35ff851b1e752b3381b96f4c2eda2585a5fa
