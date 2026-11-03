@@ -1,2 +1,2 @@
-Add optional slang-standard-modules embedding library (#14001)
-7f506f4c9ea8b6d37f43e8d3e3eadf074d61aed8
+Keep a global-scope call whose callee needs a local variable out of force inlining (#14150)
+76a45e10c12ba03856ea3fbbbe35e90603298b86
