@@ -1,2 +1,2 @@
-Keep a global-scope call whose callee needs a local variable out of force inlining (#14150)
-76a45e10c12ba03856ea3fbbbe35e90603298b86
+Allow global constant inlining with shader debug information (#14236)
+7f4efc7ce946c239b9ad46b0130798fd365c298e
