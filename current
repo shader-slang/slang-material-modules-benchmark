@@ -1,2 +1,2 @@
-Return a dedicated exit code for internal compiler errors (#14303)
-3da6f63c0ef3d97c81259c123e118772d80ddaa5
+Enable glsl module matrix operator* and operator*= on WGSL and Metal (#13356)
+f0660607f1d33f1f49263625b5ff002d5337b8c7
