@@ -1,2 +1,2 @@
-Document how to install Metal Developer Tools (#14274)
-e73d268973dae1a2af701277b27c2fddef98a274
+Split global-inlining debug marker check into two conditions (#14243)
+3cd844e2e60637ab343187fc6d24853ac6269db5
