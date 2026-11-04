@@ -1,2 +1,2 @@
-Enable glsl module matrix operator* and operator*= on WGSL and Metal (#13356)
-f0660607f1d33f1f49263625b5ff002d5337b8c7
+slang-test: fail SIMPLE tests on an unexpected exit code (#14269)
+d6ad99cb3a44a4514de93e5470e8cdcc20ae84dd
