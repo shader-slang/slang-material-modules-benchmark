@@ -1,2 +1,2 @@
-Emit static const struct arrays as global constants (#13107) (#14204)
-139f09f5974d3af566847df2536215480cf60ec8
+Find the Metal compiler through PATH on Windows (#14287)
+4fb416a72a51dcebfd1a71748a6e5cc788435294
