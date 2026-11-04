@@ -1,2 +1,2 @@
-slang-test: fail SIMPLE tests on an unexpected exit code (#14269)
-d6ad99cb3a44a4514de93e5470e8cdcc20ae84dd
+Fix #12897: request GL_EXT_nonuniform_qualifier for bindless GLSL buffer heaps (#12899)
+662e552ee0095e6956054f447eca27e860d1287d
