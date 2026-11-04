@@ -1,2 +1,2 @@
-Find the Metal compiler through PATH on Windows (#14287)
-4fb416a72a51dcebfd1a71748a6e5cc788435294
+Return a dedicated exit code for internal compiler errors (#14303)
+3da6f63c0ef3d97c81259c123e118772d80ddaa5
