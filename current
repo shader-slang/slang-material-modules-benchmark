@@ -1,2 +1,2 @@
-Split global-inlining debug marker check into two conditions (#14243)
-3cd844e2e60637ab343187fc6d24853ac6269db5
+Emit static const struct arrays as global constants (#13107) (#14204)
+139f09f5974d3af566847df2536215480cf60ec8
