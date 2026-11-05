@@ -1,2 +1,2 @@
-WGSL: emit `!=` for bool `^`, and test bool bitwise ops at run time on every target (#14324)
-12e7c0bc62911850583e0b964ba3ee9fe74c37db
+Memoise callee side-effect queries in the C-like emitter (#14227)
+d461cb74b9691d8095eb2c01c7aab41310c9edf0
