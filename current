@@ -1,2 +1,2 @@
-Metal: allow device float atomic load, exchange and compare-exchange (#14210)
-37fc7aa7d2066d19292bb017e74b78e2de90d3c2
+Add a script that generates capability atom dependency diagrams (#14363)
+9bbefe0eed1814a40e4b19ef374089d14aa25c02
