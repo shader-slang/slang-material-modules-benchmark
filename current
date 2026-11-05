@@ -1,2 +1,2 @@
-WGSL: give the swizzle from a scalar vectorReshape its result type (#14308)
-d6e99062933e8d2b7f185c177f98546a282b809d
+WGSL: emit `!=` for bool `^`, and test bool bitwise ops at run time on every target (#14324)
+12e7c0bc62911850583e0b964ba3ee9fe74c37db
