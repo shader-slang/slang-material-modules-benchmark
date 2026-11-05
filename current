@@ -1,2 +1,2 @@
-Fix #12897: request GL_EXT_nonuniform_qualifier for bindless GLSL buffer heaps (#12899)
-662e552ee0095e6956054f447eca27e860d1287d
+WGSL: give the swizzle from a scalar vectorReshape its result type (#14308)
+d6e99062933e8d2b7f185c177f98546a282b809d
