@@ -1,2 +1,2 @@
-Limit the core scalar-to-vector splat to builtin scalar and enum sources (#14110)
-7cda6d3436897366484092343f56d10bc1e95039
+Metal: allow device float atomic load, exchange and compare-exchange (#14210)
+37fc7aa7d2066d19292bb017e74b78e2de90d3c2
