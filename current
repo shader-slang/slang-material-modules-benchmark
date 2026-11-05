@@ -1,2 +1,2 @@
-render-test: bind a read-only Texture2D.Handle input as a sampled image (#13829)
-04d2726db00d06c42444f565a2d620b6070be0e9
+HLSL: write double literals with the L suffix (#14322)
+4a6758601954f5bd7c0c598ca47d14c73177cd47
