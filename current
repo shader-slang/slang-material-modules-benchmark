@@ -1,2 +1,2 @@
-HLSL: write double literals with the L suffix (#14322)
-4a6758601954f5bd7c0c598ca47d14c73177cd47
+Limit the core scalar-to-vector splat to builtin scalar and enum sources (#14110)
+7cda6d3436897366484092343f56d10bc1e95039
