@@ -1,2 +1,2 @@
-WGSL, Metal: split aligned ByteAddressBuffer array loads and stores per element (#13815)
-b3d4e7ad41cf9901fb6b177414747d517de5c61f
+render-test: bind a read-only Texture2D.Handle input as a sampled image (#13829)
+04d2726db00d06c42444f565a2d620b6070be0e9
