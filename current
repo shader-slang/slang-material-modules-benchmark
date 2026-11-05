@@ -1,2 +1,2 @@
-Metal: legalize SV_GroupIndex after the other system values (#14326)
-6b0467fb2ef086194ccf394fb0c41f2c2ab666cc
+slang-test: check the exit code of REFLECTION and INTERPRET tests (#14299)
+c63b326b1fbc83491a5fe5b9cb48266ae8e4dc06
