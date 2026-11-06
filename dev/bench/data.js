@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1793991001080,
+  "lastUpdate": 1794000929012,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -143865,6 +143865,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 666.1099999999999,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "89b5889b6169bda8512f1b0137dc179fce8e49c4",
+          "message": "Make the CUDA Gather offset overloads a capability error (#14388)\n\nhttps://github.com/shader-slang/slang/commit/b85caf9285ffa00d9fcf77560259186adca4c208",
+          "timestamp": "2026-11-06T13:35:01-08:00",
+          "tree_id": "9925334a579e349766dec22e94f18daa510b9d7e",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/89b5889b6169bda8512f1b0137dc179fce8e49c4"
+        },
+        "date": 1794000912227,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3323.8125000000005,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 891.8856250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 902.0731249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3400.048125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 899.3156250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 880.0143750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1134.425625,
             "unit": "milliseconds"
           }
         ]
