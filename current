@@ -1,2 +1,2 @@
-Support integer-output modf in core and numerics (#14353)
-8fc11533b9dca143799ebac5ebcc4e9aca753572
+Add an opt-in mutating default for HLSL methods (#14361)
+64963aa16ba98ff256151312be9abbcec3b14f3f
