@@ -1,2 +1,2 @@
-Select the SV_Barycentrics builtin independent of interpolation modifier order (#14365)
-df8b1d354adc341c008983ec1b77de41d867f0e2
+Make the CUDA Gather offset overloads a capability error (#14388)
+b85caf9285ffa00d9fcf77560259186adca4c208
