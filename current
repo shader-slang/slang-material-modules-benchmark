@@ -1,2 +1,2 @@
-Refresh the stale agentic design docs and record their review loop (#14241)
-fef74e3c67e4f21ad02870322a8d6bfcc9e55a3a
+Select the SV_Barycentrics builtin independent of interpolation modifier order (#14365)
+df8b1d354adc341c008983ec1b77de41d867f0e2
