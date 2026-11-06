@@ -1,2 +1,2 @@
-Add an opt-in mutating default for HLSL methods (#14361)
-64963aa16ba98ff256151312be9abbcec3b14f3f
+Metal: fence after every write to a read_write texture (#13792)
+286cdeee49e5b8db94b9b836cb7257522a70e2c1
