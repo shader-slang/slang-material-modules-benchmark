@@ -1,2 +1,2 @@
-Metal: fence after every write to a read_write texture (#13792)
-286cdeee49e5b8db94b9b836cb7257522a70e2c1
+Hide SPV_ capability names from -h and add missing spv counterparts (#14372)
+6d43c8d88ffbc0afc0ef31e383724514b3e2f989
