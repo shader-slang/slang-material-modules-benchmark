@@ -1,2 +1,2 @@
-Make the CUDA Gather offset overloads a capability error (#14388)
-b85caf9285ffa00d9fcf77560259186adca4c208
+Note that `op=` is not derived from `op` when only the binary operator applies (#14246)
+442487688a907bde979245d1f4583a207942b41e
