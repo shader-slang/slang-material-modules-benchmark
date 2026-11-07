@@ -1,2 +1,2 @@
-Note that `op=` is not derived from `op` when only the binary operator applies (#14246)
-442487688a907bde979245d1f4583a207942b41e
+Fix HLSL loop variable declaration order (#14360)
+ae4e57957a0adad3061b069b0e0eec8217779338
