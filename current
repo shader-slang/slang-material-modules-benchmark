@@ -1,2 +1,2 @@
-Fix HLSL loop variable declaration order (#14360)
-ae4e57957a0adad3061b069b0e0eec8217779338
+CI: rename the static unit test jobs and run them in release (#14418)
+d2df70c8f1c1291fc6c061508f1332959b6c9a2d
