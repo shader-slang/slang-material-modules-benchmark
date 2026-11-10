@@ -1,2 +1,2 @@
-Remove ForceUnroll from the vector and matrix map macros (#14425)
-72170828a77c40b00036648b5d30a817334e68a5
+Mark synthesized constructors and witness wrappers artificial (#14344)
+30f8633ac48242970ffef4ca79e3a077c4a65243
