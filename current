@@ -1,2 +1,2 @@
-slang-test: check the exit code of diag= and .expected tests (#14422)
-500e75be8fc6c2ea17d6fc4447f1f9bafd83b50c
+Refresh agentic tests against current compiler and docs (#14436)
+4f66408b3dee5a1d7e6200326b48eb4603b306e7
