@@ -1,2 +1,2 @@
-Refresh agentic tests against current compiler and docs (#14436)
-4f66408b3dee5a1d7e6200326b48eb4603b306e7
+Add -validate-with-downstream-compiler to slangc and slang-test (#14419)
+56ff2a8338267fe1521625700724f3c5f7d9c865
