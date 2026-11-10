@@ -1,2 +1,2 @@
-Fix uniformity pass non-uniform parameter detection (#13977)
-5e1e2abd14e58da06be90aab2f5b47c2d7f4fbb9
+Legalize resource selections across independent bindings (#14358)
+0fc069e9422f34184e323ab8b3e0824c2e466555
