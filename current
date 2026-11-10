@@ -1,2 +1,2 @@
-Skip loose portable ray-tracing module install in monolithic builds (#14417)
-af583c022d784d80e52710c186e817617fc49922
+slang-test: check the exit code of diag= and .expected tests (#14422)
+500e75be8fc6c2ea17d6fc4447f1f9bafd83b50c
