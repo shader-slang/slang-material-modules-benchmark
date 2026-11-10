@@ -1,2 +1,2 @@
-Mark synthesized constructors and witness wrappers artificial (#14344)
-30f8633ac48242970ffef4ca79e3a077c4a65243
+Skip loose portable ray-tracing module install in monolithic builds (#14417)
+af583c022d784d80e52710c186e817617fc49922
