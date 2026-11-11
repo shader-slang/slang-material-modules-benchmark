@@ -1,2 +1,2 @@
-Make groupshared parameters references, and reject reference parameters on differentiated functions (#11709)
-6862c98eccec51c01f19d5fdc5a162b1b2481649
+HLSL: write int, half and NaN/Inf literals with their type (#14416)
+c66100b1e7612b375d6ac42d39cea85841d65d8c
