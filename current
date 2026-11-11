@@ -1,2 +1,2 @@
-Fail slangc -E when preprocessing reports an error (#14438)
-9efe5f8ad8a00f0b19dbfd98b1daaec7637be8d2
+Load nvrtc-builtins DLL from the NVRTC directory on Windows (#14449)
+b0dd9a4321d5ebb47e297f28b0fe744f3af92ea0
