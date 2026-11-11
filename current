@@ -1,2 +1,2 @@
-Add -validate-with-downstream-compiler to slangc and slang-test (#14419)
-56ff2a8338267fe1521625700724f3c5f7d9c865
+Fail slangc -E when preprocessing reports an error (#14438)
+9efe5f8ad8a00f0b19dbfd98b1daaec7637be8d2
