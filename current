@@ -1,2 +1,2 @@
-Load nvrtc-builtins DLL from the NVRTC directory on Windows (#14449)
-b0dd9a4321d5ebb47e297f28b0fe744f3af92ea0
+Make groupshared parameters references, and reject reference parameters on differentiated functions (#11709)
+6862c98eccec51c01f19d5fdc5a162b1b2481649
