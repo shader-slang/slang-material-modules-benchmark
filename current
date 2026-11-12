@@ -1,2 +1,2 @@
-Keep loads through pointers ordered before calls with side effects (#14346)
-cbb8582e5300cc9e249df529ed9d4c6d89643b2c
+CUDA: read pointer values through ImmutablePtr with __ldg (#14406)
+31bf435068e88b1ea9f9445caaecc34c7e7b202f
