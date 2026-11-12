@@ -1,2 +1,2 @@
-HLSL: write int, half and NaN/Inf literals with their type (#14416)
-c66100b1e7612b375d6ac42d39cea85841d65d8c
+Remove the warning for thread-group-shared memory passed to out or inout parameters (#14460)
+49a671783ab9fd7c7769f892a91e772387b65dd3
