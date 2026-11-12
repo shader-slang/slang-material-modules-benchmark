@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1794498960399,
+  "lastUpdate": 1794514025903,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -144948,6 +144948,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1119.51375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "477a470a205868af9450c1e98616811689220dcd",
+          "message": "Revert \"Remove ForceUnroll from the vector and matrix map macros\" (#14463)\n\nhttps://github.com/shader-slang/slang/commit/d9a1cc10ec3b46e8312647d40b8cc425c2dc2d04",
+          "timestamp": "2026-11-12T12:06:48-08:00",
+          "tree_id": "09285237647cc0904b9776c06882c003442996bc",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/477a470a205868af9450c1e98616811689220dcd"
+        },
+        "date": 1794514018638,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1907.534375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 527.6274999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 527.4037500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1899.1162500000003,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 524.769375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 524.736875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 666.0118749999999,
             "unit": "milliseconds"
           }
         ]
