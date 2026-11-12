@@ -1,2 +1,2 @@
-Revert "Remove ForceUnroll from the vector and matrix map macros" (#14463)
-d9a1cc10ec3b46e8312647d40b8cc425c2dc2d04
+Keep loads through pointers ordered before calls with side effects (#14346)
+cbb8582e5300cc9e249df529ed9d4c6d89643b2c
