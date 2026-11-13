@@ -1,2 +1,2 @@
-Do not report E31226 for specialization constants in static const initializers (#14300)
-c7231c49af7fb58260c097576721d46366e2e25c
+Evaluate static const initializers with calls per thread without leaving the calls at module scope (#14267)
+6d8bd0f471c33303c971051401bfa9fdde894548
