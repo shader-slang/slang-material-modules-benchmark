@@ -1,2 +1,2 @@
-CUDA: read pointer values through ImmutablePtr with __ldg (#14406)
-31bf435068e88b1ea9f9445caaecc34c7e7b202f
+Allow static const globals initialized from resource shader parameters (#14464)
+d8cbf502eea03aa5d7e6c87cd60144ace0ca382a
