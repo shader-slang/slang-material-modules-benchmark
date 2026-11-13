@@ -1,2 +1,2 @@
-Evaluate static const initializers with calls per thread without leaving the calls at module scope (#14267)
-6d8bd0f471c33303c971051401bfa9fdde894548
+Add eliminateUndefinedOpaqueHandles pass for SPIR-V (#14342)
+42a3ad75002593cfd9e726f9740b32551ead30f2
