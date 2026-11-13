@@ -1,2 +1,2 @@
-Inline CUDA global vector and matrix operations into functions (#14467)
-694d9696cb4bb8fc6c596a2f07cc8c4f4778d3c9
+WGSL: negate signed vectors with unary minus (#14403)
+8d46e920c14d7ce91611cb58927ad70151ae402d
