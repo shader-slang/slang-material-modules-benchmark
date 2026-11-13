@@ -1,2 +1,2 @@
-Add eliminateUndefinedOpaqueHandles pass for SPIR-V (#14342)
-42a3ad75002593cfd9e726f9740b32551ead30f2
+Inline CUDA global vector and matrix operations into functions (#14467)
+694d9696cb4bb8fc6c596a2f07cc8c4f4778d3c9
