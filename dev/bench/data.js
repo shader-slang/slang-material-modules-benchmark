@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1794553325749,
+  "lastUpdate": 1794598786869,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -145290,6 +145290,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1182.690625,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "3220aab8f9d3a439d01efd62aa2756da391f1a87",
+          "message": "Add eliminateUndefinedOpaqueHandles pass for SPIR-V (#14342)\n\nhttps://github.com/shader-slang/slang/commit/42a3ad75002593cfd9e726f9740b32551ead30f2",
+          "timestamp": "2026-11-13T11:39:26-08:00",
+          "tree_id": "dc88369501ed470a036a2ac31604c6fcd023ae02",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/3220aab8f9d3a439d01efd62aa2756da391f1a87"
+        },
+        "date": 1794598780256,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1914.666875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 525.255625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 524.98,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1902.79,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 523.280625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 522.745,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 663.740625,
             "unit": "milliseconds"
           }
         ]
