@@ -1,2 +1,2 @@
-Set AST builder in spReflectionType_GetFullName (#14487)
-3b2dde6b8f7fdc3e97b9b75e1e72c148da5792d8
+Widen scalar operands of module-scope static const on CPU and CUDA (#14484)
+badd4593540c0bc8fd7f8096a5beb5c81b782525
