@@ -1,2 +1,2 @@
-WGSL: negate signed vectors with unary minus (#14403)
-8d46e920c14d7ce91611cb58927ad70151ae402d
+Metal: emit read-only buffers as pointers to const (#14392)
+b50ad097795a82e9ffa90e9cb015ee8d534ea219
