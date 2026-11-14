@@ -1,2 +1,2 @@
-Widen scalar operands of module-scope static const on CPU and CUDA (#14484)
-badd4593540c0bc8fd7f8096a5beb5c81b782525
+Pin MSVC 14.44 on Windows ARM64 in CI (#14491)
+cdca151fb8578eb5a7c0c1c16bb1f595bc26c6d9
