@@ -1,2 +1,2 @@
-Fold casts of constant vectors and matrices (#14511)
-87ef77b64bfaf45cb10cfbbe6c847a48d2df9bec
+Prefer SPV_EXT_shader_subgroup_partitioned over the NV extension (#14483)
+818012112fa1c45926c16324f67949b337775062
