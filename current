@@ -1,2 +1,2 @@
-Do not clone debug information outside of a function when inlining (#14325)
-9c105e5c5753543edb35a0ddbc531d1c18435cbe
+Bump go.opentelemetry.io/otel/trace from 1.44.0 to 1.47.0 in /extras/scaler (#14488)
+e06dc840a95eb90daf2988a75a967953c347664f
