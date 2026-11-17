@@ -1,2 +1,2 @@
-Move spvdb from tests/spvdb to tools/spvdb (#14515)
-8115e2d3178a507e5aece7fd8681623a7de0f6bd
+Fold casts of constant vectors and matrices (#14511)
+87ef77b64bfaf45cb10cfbbe6c847a48d2df9bec
