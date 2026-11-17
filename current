@@ -1,2 +1,2 @@
-Install public headers in the default component (#14505)
-2a91af5b79214248eb27c5a3e922c89db1c41a01
+Diagnose struct-inheriting structs as entry-point varyings (#14490)
+a1f4a539e3608d0ff020aa3fde13d9b4301a1286
