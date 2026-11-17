@@ -1,2 +1,2 @@
-Diagnose struct-inheriting structs as entry-point varyings (#14490)
-a1f4a539e3608d0ff020aa3fde13d9b4301a1286
+Do not clone debug information outside of a function when inlining (#14325)
+9c105e5c5753543edb35a0ddbc531d1c18435cbe
