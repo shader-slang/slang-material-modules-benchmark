@@ -1,2 +1,2 @@
-Enable OptiX in NVRTC for optix_coopvec compute shaders (#14560)
-8ed6534cc2f2f9306d98f98118c36d1d5bfcfa30
+Return positive exit codes from slangc (#14573)
+8df5bc214646b3203d1ae1188c38692f3121aa4c
