@@ -1,2 +1,2 @@
-Clarify descriptor reflection indices and Vulkan offsets (#13974)
-589492157125e1c54e0febb44e3e1ad7e25c5538
+slangd: Remove redundant terminator character when formatting (#14492)
+a7ea5f853775554a6902b8f3e1d480d7b6f05767
