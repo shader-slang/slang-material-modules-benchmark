@@ -1,2 +1,2 @@
-Fix silent test failure when the output file is blocked (#14572)
-540efb73fad5507e9cace573d4266174e958c7f5
+Enable OptiX in NVRTC for optix_coopvec compute shaders (#14560)
+8ed6534cc2f2f9306d98f98118c36d1d5bfcfa30
