@@ -1,2 +1,2 @@
-slangd: Remove redundant terminator character when formatting (#14492)
-a7ea5f853775554a6902b8f3e1d480d7b6f05767
+Fix silent test failure when the output file is blocked (#14572)
+540efb73fad5507e9cace573d4266174e958c7f5
