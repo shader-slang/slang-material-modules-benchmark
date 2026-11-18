@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1794961467018,
+  "lastUpdate": 1794968320778,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -146259,6 +146259,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 689.4725,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "cef17d4377f4806a16ae2e27179c771135285dad",
+          "message": "slangd: Remove redundant terminator character when formatting (#14492)\n\nhttps://github.com/shader-slang/slang/commit/a7ea5f853775554a6902b8f3e1d480d7b6f05767",
+          "timestamp": "2026-11-17T18:18:14-08:00",
+          "tree_id": "be26c077e3fbfc77f3833c8e58a98dafdb44b5fe",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/cef17d4377f4806a16ae2e27179c771135285dad"
+        },
+        "date": 1794968303211,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2032.728125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 559.556875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 557.68,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2016.98125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 558.3025,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 560.0043750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 706.62,
             "unit": "milliseconds"
           }
         ]
