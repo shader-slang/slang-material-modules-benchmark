@@ -1,2 +1,2 @@
-Fix lowering crash for constraints that depend on a conjunction constraint (#14638)
-5718928db0414a0b7b105d375b47c79cb64a41b8
+Add shaped select support to slang.numerics (#14513)
+2aeded1fdb352dbdc085fb8298a860bf18a0aa3f
