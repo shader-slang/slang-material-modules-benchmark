@@ -1,2 +1,2 @@
-Check generated tests against their generators in CI (#14602)
-d9a12fa175ddb642c0c7bf826f15a25eb02dd205
+Preserve source locations on calls rebuilt by type legalization (#14522)
+a22c14207d52406edeaa82199df26db209625705
