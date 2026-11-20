@@ -1,2 +1,2 @@
-Run COMPARE_COMPUTE lines once for each target (targets=) (#14561)
-ef93f4b7da9cb0a4b3cbbc793d558f7f30a8b94f
+Lower integer mad to integer multiply-add instead of float Fma (#14452)
+f4fc211c7fb197ccd6a416597541ea682055c8c9
