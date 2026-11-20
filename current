@@ -1,2 +1,2 @@
-Fix SPIR-V crash when a function uses a texture chosen at run time (#14649)
-183eb93d14c849318ae15766821e5c92a9f346de
+CUDA: forward entry-point uniform aggregates by address (#11774) (#13401)
+dbdcb1e6b84284ff30d5575d6d8363542dc7385b
