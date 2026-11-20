@@ -1,2 +1,2 @@
-Support [RootSignature] as a user-defined attribute (#14623)
-d6bbb48aa16e57100ff767be2228116134006893
+Fix ordering comparisons on bool generating invalid SPIR-V (#14628)
+85bde8dc0638b0b3484e5c915685f572f16e709a
