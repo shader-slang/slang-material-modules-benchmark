@@ -1,2 +1,2 @@
-Add shaped select support to slang.numerics (#14513)
-2aeded1fdb352dbdc085fb8298a860bf18a0aa3f
+Simplify combined paths and scrub fixed path buffers (fixes #14612) (#14621)
+692a53379836582bd7401e3bf3f776227216c730
