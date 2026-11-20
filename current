@@ -1,2 +1,2 @@
-Enforce [require] on static members reached through generic types (#14540)
-b7a2ce2a344908660394b5a3aea010717d8d2534
+Suppress debug CRT dialogs with SLANG_IGNORE_ABORT_MSG (#14656)
+c2de615914fe562a3e9d246f32718dad9ffe3987
