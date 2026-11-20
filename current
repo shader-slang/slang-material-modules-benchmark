@@ -1,2 +1,2 @@
-CUDA: forward entry-point uniform aggregates by address (#11774) (#13401)
-dbdcb1e6b84284ff30d5575d6d8363542dc7385b
+Overhaul integer constant folding in the front-end (#14509)
+6492e91c4065656bfe9bccd2532bc3b6b867a6fe
