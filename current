@@ -1,2 +1,2 @@
-Add provisional sized and unsized buffer types (#14630)
-e3e5e4a15e03ea1b0205b0392d49872f4ba46be0
+Fix E99997 when storing one component of a texel at a runtime index (#14650)
+fdc2bbb3750eeeedb8e4d8ee107b31f9116aa671
