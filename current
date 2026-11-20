@@ -1,2 +1,2 @@
-Fix E99997 when storing one component of a texel at a runtime index (#14650)
-fdc2bbb3750eeeedb8e4d8ee107b31f9116aa671
+Enforce [require] on static members reached through generic types (#14540)
+b7a2ce2a344908660394b5a3aea010717d8d2534
