@@ -1,2 +1,2 @@
-Call suppressDebugDialogs in render-test-tool innerMain (#14660)
-410071448f9c9b16830739bfa233b399ca9218d1
+Support HLSL declarations as if and while conditions (#14648)
+f47933b1e8b02237650f0b59aa569bdff67ae819
