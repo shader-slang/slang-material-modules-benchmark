@@ -1,2 +1,2 @@
-Simplify combined paths and scrub fixed path buffers (fixes #14612) (#14621)
-692a53379836582bd7401e3bf3f776227216c730
+Support [RootSignature] as a user-defined attribute (#14623)
+d6bbb48aa16e57100ff767be2228116134006893
