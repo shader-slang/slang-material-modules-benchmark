@@ -1,2 +1,2 @@
-Suppress debug CRT dialogs with SLANG_IGNORE_ABORT_MSG (#14656)
-c2de615914fe562a3e9d246f32718dad9ffe3987
+Fix SPIR-V crash when a function uses a texture chosen at run time (#14649)
+183eb93d14c849318ae15766821e5c92a9f346de
