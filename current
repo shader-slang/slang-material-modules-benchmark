@@ -1,2 +1,2 @@
-Fix ordering comparisons on bool generating invalid SPIR-V (#14628)
-85bde8dc0638b0b3484e5c915685f572f16e709a
+Run COMPARE_COMPUTE lines once for each target (targets=) (#14561)
+ef93f4b7da9cb0a4b3cbbc793d558f7f30a8b94f
