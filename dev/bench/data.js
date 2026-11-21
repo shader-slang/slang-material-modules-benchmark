@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1795224768690,
+  "lastUpdate": 1795272788827,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -148026,6 +148026,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 721.3056249999998,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "c36c4a23ce4401fd6e3bac6783e580fbceb3ba30",
+          "message": "Split slang-test coverage between the nogpu, T4 and SM80 CI tiers (#14674)\n\nhttps://github.com/shader-slang/slang/commit/411af9b951dda5d2b84217d1959f9467259321de",
+          "timestamp": "2026-11-21T06:52:43-08:00",
+          "tree_id": "81667766bf982ff28a9d0006b3f54eddc5b65425",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/c36c4a23ce4401fd6e3bac6783e580fbceb3ba30"
+        },
+        "date": 1795272776548,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 2133.2643749999997,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 582.180625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 592.8787500000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 2245.3212500000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 594.581875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 593.97375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 729.2075000000001,
             "unit": "milliseconds"
           }
         ]
