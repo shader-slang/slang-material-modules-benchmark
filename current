@@ -1,2 +1,2 @@
-Support HLSL declarations as if and while conditions (#14648)
-f47933b1e8b02237650f0b59aa569bdff67ae819
+Specialize descriptor-heap fetch arguments into callees (#14654)
+41541c017ad7cdacd3339b7be17b92fc325fae73
