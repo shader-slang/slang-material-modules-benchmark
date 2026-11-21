@@ -1,2 +1,2 @@
-Fail basic-type joins when neither type is better (#14636)
-0a87e89637fe02e7cef8bef3b11f65468d02d055
+Split slang-test coverage between the nogpu, T4 and SM80 CI tiers (#14674)
+411af9b951dda5d2b84217d1959f9467259321de
