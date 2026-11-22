@@ -1,2 +1,2 @@
-Split slang-test coverage between the nogpu, T4 and SM80 CI tiers (#14674)
-411af9b951dda5d2b84217d1959f9467259321de
+CI: do not require the SM80 jobs in check-ci (#14692)
+40223537f64ae17591c4366977d1c08aeee29563
