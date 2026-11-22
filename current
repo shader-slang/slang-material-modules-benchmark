@@ -1,2 +1,2 @@
-CI: do not require the SM80 jobs in check-ci (#14692)
-40223537f64ae17591c4366977d1c08aeee29563
+Keep existential bindings when the parser checks a generic base (#14639)
+ced08cd4efba0c0111f65eae2ae2d6dfabccf6ba
