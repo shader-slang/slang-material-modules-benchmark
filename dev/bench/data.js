@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1795378841306,
+  "lastUpdate": 1795422685533,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -148197,6 +148197,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 1110.7325,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN4$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "b9626d419b531a4391a8afdbb8434ae2def54e05",
+          "message": "Build Windows aarch64 CMake option jobs on native ARM64 (#14694)\n\nhttps://github.com/shader-slang/slang/commit/f0b143178a9ac60dd17218d23188550a9a0c04d8",
+          "timestamp": "2026-11-23T00:30:58-08:00",
+          "tree_id": "9a5c7dd52fe6ad27980fa67787f0a54885220ba6",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/b9626d419b531a4391a8afdbb8434ae2def54e05"
+        },
+        "date": 1795422672711,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1947.27875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 529.675625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 531.436875,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1926.3249999999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 527.4224999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 528.9599999999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 668.81375,
             "unit": "milliseconds"
           }
         ]
