@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1795422685533,
+  "lastUpdate": 1795543592341,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -148254,6 +148254,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 668.81375,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN5$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "fd4bb911c0f857f7a401dc7838fefb6eab96ca0b",
+          "message": "Fix hang in reverse-mode CFG normalization of existential temporaries (#14705)\n\nhttps://github.com/shader-slang/slang/commit/b9aa9c8d4668041ae2ae2a40a43efe5dfd53fb4c",
+          "timestamp": "2026-11-24T10:06:06-08:00",
+          "tree_id": "e063bd05a3e976bc020284e830788eaeafa821c3",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/fd4bb911c0f857f7a401dc7838fefb6eab96ca0b"
+        },
+        "date": 1795543576076,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 1950.0787500000004,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 529.2743750000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 532.3731250000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 1935.678125,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 530.620625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 528.1531249999999,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 680.0137500000001,
             "unit": "milliseconds"
           }
         ]
