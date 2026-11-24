@@ -1,2 +1,2 @@
-Fix hang in reverse-mode CFG normalization of existential temporaries (#14705)
-b9aa9c8d4668041ae2ae2a40a43efe5dfd53fb4c
+Diagnose generic entry points specialized with an interface type (#14706)
+f666576d6ebdd9fe5d9476d96c3b3549f4cb6076
