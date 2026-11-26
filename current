@@ -1,2 +1,2 @@
-Type unsuffixed GLSL integer literals as int per the GLSL bit-pattern rule (#14710)
-0e393b37c4eefe49d1bd919d66b836fa4d81312f
+Size nested untagged unions independently of lowering order (#14716)
+77e59ba7c578a4f94cdf65eb8d9dbd87c6f12c01
