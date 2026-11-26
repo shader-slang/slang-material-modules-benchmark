@@ -1,2 +1,2 @@
-Establish AST builder scope in Linkage::specializeType (#14723)
-4ba9ae2e3fe057d7b6094f5cdd21f6bb6063b0e9
+Type unsuffixed GLSL integer literals as int per the GLSL bit-pattern rule (#14710)
+0e393b37c4eefe49d1bd919d66b836fa4d81312f
