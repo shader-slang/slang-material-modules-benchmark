@@ -1,2 +1,2 @@
-Diagnose generic entry points specialized with an interface type (#14706)
-f666576d6ebdd9fe5d9476d96c3b3549f4cb6076
+Establish AST builder scope in Linkage::specializeType (#14723)
+4ba9ae2e3fe057d7b6094f5cdd21f6bb6063b0e9

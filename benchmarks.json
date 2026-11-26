@@ -1,37 +1,37 @@
 [
     {
         "name": "closesthit : mono : dxil",
-        "value": 1927.120625,
+        "value": 1960.481875,
         "unit": "milliseconds"
     },
     {
         "name": "anyhit : mono : dxil",
-        "value": 528.1800000000001,
+        "value": 534.9181249999999,
         "unit": "milliseconds"
     },
     {
         "name": "shadow : mono : dxil",
-        "value": 530.5024999999999,
+        "value": 535.719375,
         "unit": "milliseconds"
     },
     {
         "name": "closesthit : module : dxil",
-        "value": 1909.7368749999998,
+        "value": 1957.851875,
         "unit": "milliseconds"
     },
     {
         "name": "anyhit : module : dxil",
-        "value": 527.72,
+        "value": 533.6393750000001,
         "unit": "milliseconds"
     },
     {
         "name": "shadow : module : dxil",
-        "value": 534.809375,
+        "value": 533.1625,
         "unit": "milliseconds"
     },
     {
         "name": "precompilation : dxil",
-        "value": 672.564375,
+        "value": 677.303125,
         "unit": "milliseconds"
     }
 ]
