@@ -1,2 +1,2 @@
-Size nested untagged unions independently of lowering order (#14716)
-77e59ba7c578a4f94cdf65eb8d9dbd87c6f12c01
+Fix for-loop trip-count inference for unsigned and mixed-type loops (#14724)
+247ed12a05ac61ed1ca8e8406abb452a73f3fd4b
