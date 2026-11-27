@@ -1,5 +1,5 @@
 window.BENCHMARK_DATA = {
-  "lastUpdate": 1795735503691,
+  "lastUpdate": 1795807366660,
   "repoUrl": "https://github.com/shader-slang/slang-material-modules-benchmark",
   "entries": {
     "Benchmark": [
@@ -148539,6 +148539,63 @@ window.BENCHMARK_DATA = {
           {
             "name": "precompilation : dxil",
             "value": 677.12875,
+            "unit": "milliseconds"
+          }
+        ]
+      },
+      {
+        "commit": {
+          "author": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "committer": {
+            "email": "SLANGWIN10X64-1$@nvidia.com",
+            "name": "unknown"
+          },
+          "distinct": true,
+          "id": "0bb362a2e8859633f3678f017bcb7b9209bdea64",
+          "message": "Fix for-loop trip-count inference for unsigned and mixed-type loops (#14724)\n\nhttps://github.com/shader-slang/slang/commit/247ed12a05ac61ed1ca8e8406abb452a73f3fd4b",
+          "timestamp": "2026-11-27T11:22:28-08:00",
+          "tree_id": "36cdcfbe675b8dd9689dcaf6eba7355c4f32fff1",
+          "url": "https://github.com/shader-slang/slang-material-modules-benchmark/commit/0bb362a2e8859633f3678f017bcb7b9209bdea64"
+        },
+        "date": 1795807358856,
+        "tool": "customSmallerIsBetter",
+        "benches": [
+          {
+            "name": "closesthit : mono : dxil",
+            "value": 3241.4868749999996,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : mono : dxil",
+            "value": 871.534375,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : mono : dxil",
+            "value": 866.6700000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "closesthit : module : dxil",
+            "value": 3212.5543750000006,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "anyhit : module : dxil",
+            "value": 872.52625,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "shadow : module : dxil",
+            "value": 872.7425000000001,
+            "unit": "milliseconds"
+          },
+          {
+            "name": "precompilation : dxil",
+            "value": 1110.6262499999998,
             "unit": "milliseconds"
           }
         ]
